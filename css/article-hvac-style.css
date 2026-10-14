@@ -1,0 +1,1241 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+/* ==========================================================================
+   HVAC Page Global Variables & Styles
+   Prefix: `ehs-hvac-*`
+   ========================================================================== */
+
+:root {
+    /* Brand Theme Colors */
+    --ehs-primary-dark: #0e225a;        /* Main Dark Blue */
+    --ehs-primary-green: #04d36f;       /* Main Brand Green */
+    --ehs-primary-green-hover: #03b65f; /* Green Hover */
+    
+    /* Backgrounds & Layout */
+    --ehs-bg-light: #eaf1f8;            /* Soft Ice Blue Background */
+    --ehs-bg-white: #ffffff;            /* White Background */
+    
+    /* Typography */
+    --ehs-font-family: 'Inter', sans-serif;
+    --ehs-text-heading: #0e225a;        /* Headings */
+    --ehs-text-body: #000000;           /* Secondary / Body Text */
+    --ehs-text-muted: #000000;          /* Subtitles / Intro Text */
+    --ehs-text-light: #ffffff;          /* White Text */
+    
+    /* Card & Button Settings */
+    --ehs-card-border: #D9D9D9;
+    --ehs-card-radius: 12px;
+    --ehs-btn-radius: 8px;
+    --ehs-shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.04);
+    --ehs-shadow-md: 0 4px 18px rgba(0, 0, 0, 0.06);
+    --ehs-shadow-lg: 0 10px 28px rgba(0, 0, 0, 0.1);
+}
+
+/* Apply Inter font across all components */
+main,
+main *,
+[class^="ehs-hvac-"],
+[class*=" ehs-hvac-"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* ==========================================================================
+   SINGLE COMMON H2 SECTION TITLE (Used across all sections)
+   ========================================================================== */
+.ehs-hvac-section-title {
+    font-size: 34px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 20px;
+}
+
+/* --------------------------------------------------------------------------
+   1. HERO SECTION
+   -------------------------------------------------------------------------- */
+.ehs-hvac-hero-section {
+    position: relative;
+    width: 100%;
+    min-height: 480px;
+    background-color: #000;
+    background-image: url(../images/ductwork/hero-section-bg.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 20px;
+    height: 85vh;
+}
+
+.ehs-hvac-hero-container {
+    text-align: center;
+    color: var(--ehs-text-light);
+    z-index: 2;
+}
+
+.ehs-hvac-hero-title {
+    font-size: 45px;
+    font-weight: 600;
+    color: var(--ehs-text-light);
+    margin-bottom: 25px;
+}
+
+.ehs-hvac-hero-subtitle {
+    font-size: 17px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 30px;
+}
+
+.ehs-hvac-hero-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 13px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.ehs-hvac-hero-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+/* --------------------------------------------------------------------------
+   2. INTRO SECTION
+   -------------------------------------------------------------------------- */
+.ehs-hvac-intro-section {
+    background-color: var(--ehs-bg-light);
+    padding: 40px 0px;
+    width: 100%;
+}
+
+.ehs-hvac-intro-container {
+    text-align: center;
+}
+
+.ehs-hvac-intro-description {
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 30px;
+}
+
+.ehs-hvac-intro-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-intro-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   3. COMFORT SOLUTIONS (3 CARDS)
+   -------------------------------------------------------------------------- */
+.ehs-hvac-solutions-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+}
+
+.ehs-hvac-solutions-header {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.ehs-hvac-solutions-subtitle {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+}
+
+.ehs-hvac-solutions-card {
+    background: var(--ehs-bg-white);
+    border: 1px solid var(--ehs-card-border);
+    border-radius: var(--ehs-card-radius);
+    padding: 20px 20px;
+    box-shadow: var(--ehs-shadow-lg);
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+}
+
+.ehs-hvac-solutions-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--ehs-shadow-lg);
+    border-color: #dfe7f1;
+}
+
+.ehs-hvac-solutions-icon {
+    font-size: 32px;
+    color: var(--ehs-primary-green);
+    margin-bottom: 22px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.ehs-hvac-solutions-card-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 14px;
+}
+
+.ehs-hvac-solutions-card-text {
+    font-size: 15px;
+    color: var(--ehs-text-body);
+    margin-bottom: 0;
+}
+
+.ehs-hvac-solutions-action {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.ehs-hvac-solutions-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-solutions-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   4. SIGNS YOU NEED AN HVAC PRO
+   -------------------------------------------------------------------------- */
+.ehs-hvac-signs-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+    border-top: 1px solid #ECECEC;
+    text-align:left;
+}
+
+.ehs-hvac-signs-container {
+}
+
+.ehs-hvac-signs-intro {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 30px;
+}
+
+.ehs-hvac-signs-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 36px;
+}
+
+.ehs-hvac-signs-item {
+    position: relative;
+    padding-left: 26px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: var(--ehs-text-body);
+    text-align: left;
+}
+
+.ehs-hvac-signs-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 8px;
+    height: 8px;
+    background-color: var(--ehs-primary-dark);
+    border-radius: 50%;
+}
+
+.ehs-hvac-signs-item strong {
+    color: var(--ehs-text-heading);
+    font-weight: 700;
+}
+
+.ehs-hvac-signs-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-signs-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   5. HVAC CHALLENGES
+   -------------------------------------------------------------------------- */
+.ehs-hvac-challenges-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+    border-top: 1px solid #ECECEC;
+    text-align:left;
+}
+
+.ehs-hvac-challenges-container {
+}
+
+.ehs-hvac-challenges-intro {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 36px;
+}
+
+.ehs-hvac-challenges-block {
+    margin-bottom: 36px;
+    text-align:left;
+}
+
+.ehs-hvac-challenges-subtitle {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 14px;
+}
+
+.ehs-hvac-challenges-text {
+    font-size: 16px;
+    color: var(--ehs-text-body);
+    margin-bottom: 16px;
+}
+
+.ehs-hvac-challenges-list-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 12px;
+}
+
+.ehs-hvac-challenges-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.ehs-hvac-challenges-list-item {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 8px;
+    font-size: 15px;
+    color: var(--ehs-text-body);
+}
+
+.ehs-hvac-challenges-list-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 6px;
+    height: 6px;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.ehs-hvac-challenges-callout {
+    background-color: var(--ehs-bg-light);
+    border-radius: 14px;
+    padding: 38px 34px;
+    margin-top: 48px;
+}
+
+.ehs-hvac-challenges-callout-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 14px;
+}
+
+.ehs-hvac-challenges-callout-text {
+    font-size: 16px;
+    color: var(--ehs-text-muted);
+    margin-bottom: 24px;
+}
+
+.ehs-hvac-challenges-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-challenges-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   6. NEED HELP DECIDING
+   -------------------------------------------------------------------------- */
+.ehs-hvac-deciding-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+    border-top: 1px solid #ECECEC;
+    text-align:left;
+}
+
+.ehs-hvac-deciding-container {
+}
+
+.ehs-hvac-deciding-intro {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 24px;
+}
+
+.ehs-hvac-deciding-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 28px;
+}
+
+.ehs-hvac-deciding-item {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: var(--ehs-text-muted);
+    text-align:left;
+}
+
+.ehs-hvac-deciding-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 6px;
+    height: 6px;
+    background-color: #000000;
+    border-radius: 50%;
+}
+
+.ehs-hvac-deciding-outro {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 34px;
+}
+
+.ehs-hvac-deciding-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-deciding-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   7. DARK CTA SECTION
+   -------------------------------------------------------------------------- */
+.ehs-hvac-cta-dark-section {
+    padding: 60px 0px;
+    width: 100%;
+}
+
+.ehs-hvac-cta-dark-container {
+}
+
+.ehs-hvac-cta-dark-section .ehs-hvac-section-title {
+    color: var(--ehs-text-light);
+}
+
+.ehs-hvac-cta-dark-text {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 32px;
+}
+
+.ehs-hvac-cta-dark-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.ehs-hvac-cta-dark-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+/* --------------------------------------------------------------------------
+   8. 6-CARD SERVICES GRID
+   -------------------------------------------------------------------------- */
+.ehs-hvac-grid-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+    background-image: url(../images/ductwork/line-background.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto;
+    overflow: hidden;
+}
+
+
+.ehs-hvac-grid-header {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.ehs-hvac-grid-card {
+    background: var(--ehs-bg-white);
+    border: 1px solid var(--ehs-card-border);
+    border-radius: var(--ehs-card-radius);
+    padding: 20px 10px;
+    box-shadow: var(--ehs-shadow-md);
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+}
+
+.ehs-hvac-grid-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--ehs-shadow-lg);
+    border-color: #dfe7f1;
+}
+
+.ehs-hvac-grid-icon-wrap {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: var(--ehs-bg-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: var(--ehs-primary-dark);
+    font-size: 30px;
+}
+
+.ehs-hvac-grid-card-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--ehs-text-heading);
+    margin-bottom: 12px;
+}
+
+.ehs-hvac-grid-card-text {
+    font-size: 15px;
+    color: var(--ehs-text-body);
+    margin-bottom: 0;
+}
+
+.ehs-hvac-grid-action {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.ehs-hvac-grid-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 34px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-grid-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   9. HOMEOWNER SITUATIONS
+   -------------------------------------------------------------------------- */
+.ehs-hvac-situations-section {
+    background-color: var(--ehs-bg-white);
+    padding: 40px 0px;
+    width: 100%;
+        border-top: 1px solid #ECECEC;
+        text-align:left;
+}
+
+.ehs-hvac-situations-container {
+}
+
+.ehs-hvac-situations-intro {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--ehs-text-muted);
+    margin-bottom: 30px;
+}
+
+.ehs-hvac-situations-block {
+    margin-bottom: 25px;
+}
+
+.ehs-hvac-situations-subtitle {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 10px;
+}
+
+.ehs-hvac-situations-text {
+    font-size: 15px;
+    color: var(--ehs-text-body);
+    margin-bottom: 10px;
+}
+
+.ehs-hvac-situations-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--ehs-primary-green) !important;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.ehs-hvac-situations-link:hover {
+    color: var(--ehs-primary-green-hover) !important;
+    transform: translateX(3px);
+}
+
+.ehs-hvac-situations-bar {
+    background-color: var(--ehs-bg-light);
+    border-radius: 12px;
+    padding: 24px 40px;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.ehs-hvac-situations-bar-text {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--ehs-text-heading);
+    margin-bottom: 0;
+}
+
+.ehs-hvac-situations-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    white-space: nowrap;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-situations-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   10. FAQ ACCORDION SECTION
+   -------------------------------------------------------------------------- */
+
+.ehs-hvac-faq-section {
+    position: relative;
+    background-color: #ffffff;
+    background-image: url(../images/ductwork/line-background-flipped.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% auto;
+    padding: 50px 0;
+    overflow: hidden;
+}
+
+.ehs-hvac-faq-container {
+}
+
+.ehs-hvac-faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.ehs-hvac-faq-item {
+    background: var(--ehs-bg-white);
+    border: 1px solid #eaf0f6;
+    border-radius: 50px;
+    box-shadow: var(--ehs-shadow-sm);
+    overflow: hidden;
+    transition: background-color 0.35s ease, border-color 0.35s ease, border-radius 0.35s ease, box-shadow 0.35s ease;
+}
+
+.ehs-hvac-faq-header {
+    width: 100%;
+    padding: 10px 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    gap: 16px;
+}
+
+.ehs-hvac-faq-question {
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin: 0;
+    line-height: 1.35;
+    transition: color 0.3s ease;
+}
+
+.ehs-hvac-faq-icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff;
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.ehs-hvac-faq-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.ehs-hvac-faq-content {
+    color: rgba(255, 255, 255, 0.9);
+    border-top: 1px solid #ffffff;
+    margin: 0 35px;
+    padding: 16px 0px 22px 0px;
+    font-size: 15px;
+    line-height: 1.65;
+    opacity: 0;
+    transform: translateY(-4px);
+    transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.ehs-hvac-faq-item.active {
+    background: var(--ehs-primary-dark);
+    border-color: var(--ehs-primary-dark);
+    border-radius: 28px;
+    box-shadow: 0 8px 24px rgba(14, 34, 90, 0.25);
+}
+
+.ehs-hvac-faq-item.active .ehs-hvac-faq-question {
+    color: #ffffff;
+}
+
+.ehs-hvac-faq-item.active .ehs-hvac-faq-icon {
+    background-color: #ffffff;
+    color: var(--ehs-primary-dark);
+    transform: rotate(90deg);
+}
+
+.ehs-hvac-faq-item.active .ehs-hvac-faq-content {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.ehs-hvac-faq-action {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.ehs-hvac-faq-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 13px 36px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-faq-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   RESPONSIVE MEDIA QUERIES (Simple mobile breakpoints)
+   -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+    .ehs-hvac-hero-section {
+        min-height: 380px;
+        padding: 60px 16px;
+        background-position: 70% center;
+    }
+    .ehs-hvac-hero-title { font-size: 28px; }
+    .ehs-hvac-hero-subtitle { font-size: 15px; }
+    .ehs-hvac-hero-btn { width: 100%; max-width: 280px; }
+
+    .ehs-hvac-intro-section,
+    .ehs-hvac-solutions-section,
+    .ehs-hvac-signs-section,
+    .ehs-hvac-challenges-section,
+    .ehs-hvac-deciding-section,
+    .ehs-hvac-cta-dark-section,
+    .ehs-hvac-grid-section,
+    .ehs-hvac-situations-section,
+    .ehs-hvac-faq-section {
+        padding: 50px 16px;
+    }
+
+    /* Common H2 Mobile Sizing */
+    .ehs-hvac-section-title {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+
+    .ehs-hvac-intro-description,
+    .ehs-hvac-solutions-subtitle,
+    .ehs-hvac-signs-intro,
+    .ehs-hvac-challenges-intro,
+    .ehs-hvac-deciding-intro,
+    .ehs-hvac-deciding-outro,
+    .ehs-hvac-situations-intro {
+        font-size: 15px;
+    }
+
+    .ehs-hvac-intro-btn,
+    .ehs-hvac-solutions-btn,
+    .ehs-hvac-signs-btn,
+    .ehs-hvac-challenges-btn,
+    .ehs-hvac-deciding-btn,
+    .ehs-hvac-cta-dark-btn,
+    .ehs-hvac-grid-btn,
+    .ehs-hvac-situations-btn {
+        width: 100%;
+        max-width: 280px;
+        text-align: center;
+    }
+
+    .ehs-hvac-challenges-callout {
+        padding: 24px 18px;
+        margin-top: 30px;
+    }
+    .ehs-hvac-challenges-callout-title {
+        font-size: 20px;
+    }
+
+    .ehs-hvac-situations-bar {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px 18px;
+        gap: 16px;
+    }
+
+    .ehs-hvac-faq-item {
+        border-radius: 30px;
+    }
+    .ehs-hvac-faq-header {
+        padding: 14px 18px;
+    }
+    .ehs-hvac-faq-question {
+        font-size: 15px;
+    }
+    .ehs-hvac-faq-btn {
+        width: 100%;
+        max-width: 320px;
+        padding: 12px 18px;
+        font-size: 15px;
+    }
+}
+/* ==========================================================================
+   NEW - INTRO SECTION UPDATES
+   ========================================================================== */
+
+.ehs-hvac-intro-section {
+    background-image: url('/images/ductwork/line-background.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+}
+
+.ehs-hvac-intro-container {
+    text-align: left;
+}
+
+.ehs-hvac-intro-section .ehs-hvac-section-title {
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.ehs-hvac-intro-action {
+    margin-top: 28px;
+}
+
+
+/* ==========================================================================
+   NEW - HOW IT WORKS (3 SIMPLE STEPS)
+   ========================================================================== */
+
+.ehs-hvac-steps-section {
+    background-color: var(--ehs-bg-white);
+    background-image: url('/images/ductwork/line-background-flipped.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 60px 0px;
+    width: 100%;
+}
+
+.ehs-hvac-steps-header {
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.ehs-hvac-steps-row {
+    row-gap: 30px;
+}
+
+.ehs-hvac-step-col {
+    display: flex;
+}
+
+.ehs-hvac-step-card {
+    background: var(--ehs-bg-white);
+    border: 1px solid var(--ehs-card-border);
+    border-radius: 24px;
+    padding: 14px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease-in-out;
+}
+
+.ehs-hvac-step-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.09);
+    border-color: #dfe7f1;
+}
+
+.ehs-hvac-step-img-wrap {
+    position: relative;
+    width: 100%;
+    height: 195px;
+    border-radius: 18px;
+    overflow: hidden;
+    background-color: #f1f5f9;
+}
+
+.ehs-hvac-step-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.ehs-hvac-step-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 56px;
+    height: 56px;
+    background-color: var(--ehs-primary-dark);
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 100%;
+    border-left: 3.5px solid var(--ehs-primary-green);
+    border-bottom: 3.5px solid var(--ehs-primary-green);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    box-shadow: -2px 2px 6px rgba(0, 0, 0, 0.15);
+    z-index: 2;
+    letter-spacing: -0.2px;
+}
+
+.ehs-hvac-step-body {
+    padding: 20px 8px 10px 8px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.ehs-hvac-step-title {
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    margin-bottom: 12px;
+    line-height: 1.35;
+}
+
+.ehs-hvac-step-text {
+    font-size: 15px;
+    color: #334155;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+.ehs-hvac-step-arrow {
+    color: var(--ehs-primary-green);
+    font-size: 22px;
+    padding: 0 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ehs-hvac-steps-action {
+    text-align: center;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ehs-hvac-steps-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 13px 38px;
+    border-radius: var(--ehs-btn-radius);
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.ehs-hvac-steps-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.ehs-hvac-steps-tagline-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 16px;
+    width: 100%;
+    max-width: 280px;
+}
+
+.ehs-hvac-steps-line {
+    flex: 1;
+    height: 1px;
+    background-color: #cbd5e1;
+}
+
+.ehs-hvac-steps-tagline {
+    font-size: 13px;
+    color: #64748b;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+
+/* ==========================================================================
+   NEW - DARK CTA / FRAMED BANNER
+   ========================================================================== */
+
+.ehs-hvac-cta-outer-box {
+    background-color: #ebf3fb;
+    padding: 32px 36px;
+    border-radius: 0px;
+}
+
+.ehs-hvac-cta-card {
+    background-color: #1a2754;
+    position: relative;
+    border-radius: 0px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+}
+
+.ehs-hvac-cta-content {
+    padding: 35px 25px 35px 35px;
+    text-align:start;
+    
+}
+
+.ehs-hvac-cta-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 14px;
+    line-height: 1.25;
+}
+
+.ehs-hvac-cta-text {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9);
+    line-height: 1.55;
+    margin-bottom: 22px;
+}
+
+.ehs-hvac-cta-action {
+    display: flex;
+}
+
+.ehs-hvac-cta-btn {
+    display: inline-block;
+    background-color: var(--ehs-primary-green);
+    color: #ffffff !important;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
+    transition: all 0.25s ease-in-out;
+    box-shadow: 0 4px 12px rgba(4, 211, 111, 0.3);
+    cursor: pointer;
+}
+
+.ehs-hvac-cta-btn:hover {
+    background-color: var(--ehs-primary-green-hover);
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(4, 211, 111, 0.45);
+}
+
+.ehs-hvac-cta-img-col {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    align-self: stretch;
+}
+
+.ehs-hvac-cta-img-wrap {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+    height: 100%;
+}
+
+.ehs-hvac-cta-img {
+    max-height: 275px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+}

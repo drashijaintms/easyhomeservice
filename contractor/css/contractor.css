@@ -1,0 +1,3184 @@
+/* ==========================================================================
+   CONTRACTOR PAGE - UNIQUE & SCOPED STYLES
+   Prefix: .ehs-contractor-* to avoid any conflicts with global styles
+   ========================================================================== */
+
+:root {
+    --ehs-primary-dark: #162947;
+    --ehs-accent-green: #38b763;
+    --ehs-accent-green-hover: #2e9f54;
+    --ehs-light-bg: #eef6fc;
+    --ehs-text-muted: #000000;
+    --ehs-text-dark: #1e293b;
+    --ehs-card-border: #4ade80;
+    --ehs-pill-bg: #eef9f2;
+}
+.location-icon {
+    color: #00c853;
+    font-size: 20px;
+}
+.ehs-contractor-hero {
+    position: relative;
+    width: 100%;
+    background-color: #f4f8fc;
+    background-image: url(../images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    display: flex;
+    align-items: center;
+    padding: 50px 0 50px;
+    overflow: hidden;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    height: 85vh;
+}
+
+/* Left Content Area */
+.ehs-contractor-hero .ehs-hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: left;
+}
+
+.ehs-contractor-hero .ehs-hero-title {
+    font-size: 3.3rem;
+    font-weight: 700;
+    line-height: 1.15;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 24px;
+}
+
+.ehs-contractor-hero .ehs-hero-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+    display: block;
+}
+
+.ehs-contractor-hero .ehs-hero-desc {
+    font-size: 1rem;
+    color: #000000;
+    margin-bottom: 30px;
+    font-weight: 400;
+    max-width: 70%;
+}
+
+/* CTA Button */
+.ehs-contractor-hero .ehs-hero-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: var(--ehs-accent-green);
+    color: #ffffff;
+    font-size: 1.05rem;
+    font-weight: 600;
+    padding: 14px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    border: none;
+    box-shadow: 0 4px 14px rgba(56, 183, 99, 0.35);
+}
+
+.ehs-contractor-hero .ehs-hero-btn:hover {
+    background-color: var(--ehs-accent-green-hover);
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(56, 183, 99, 0.45);
+}
+
+.ehs-contractor-hero .ehs-hero-btn i {
+    font-size: 1.15rem;
+    transition: transform 0.2s ease;
+}
+
+.ehs-contractor-hero .ehs-hero-btn:hover i {
+    transform: translateX(4px);
+}
+
+/* Features List Below Button */
+.ehs-contractor-hero .ehs-hero-features {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 18px 10px;
+    margin-top: 36px;
+    padding: 0;
+    list-style: none;
+}
+
+.ehs-contractor-hero .ehs-feature-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--ehs-text-dark);
+}
+
+.ehs-contractor-hero .ehs-feature-item i {
+    color: var(--ehs-accent-green);
+    font-size: 1rem;
+}
+
+.ehs-contractor-hero .ehs-feature-item .ehs-hero-check-img {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* Floating Request Card */
+.ehs-contractor-hero .ehs-floating-card-wrapper {
+    position: relative;
+    height: 100%;
+    min-height: 380px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.ehs-contractor-hero .ehs-project-card {
+    position: relative;
+    z-index: 1;
+    border-radius: 20px;
+    background: #fff;
+    padding: 22px 24px;
+    box-shadow: 0 20px 40px rgba(15, 23, 42, 0.12), 0 0 25px rgba(52, 179, 94, 0.18);
+    width: 100%;
+    max-width: 280px;
+    overflow: hidden;
+    animation: ehsFloatSubtle 4s ease-in-out infinite alternate;
+}
+
+/* Animated gradient border */
+.ehs-contractor-hero .ehs-project-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+    background: conic-gradient(
+        from 0deg,
+        transparent 0deg,
+        transparent 240deg,
+        #34b35e 280deg,
+        #4de450 310deg,
+        #34b35e 340deg,
+        transparent 360deg
+    );
+    animation: ehs-border-spin 3s linear infinite;
+}
+
+/* White/card background layer */
+.ehs-contractor-hero .ehs-project-card::after {
+    content: "";
+    position: absolute;
+    inset: 2px;
+    z-index: -1;
+    border-radius: 18px;
+    background: #fff;
+}
+
+@keyframes ehs-border-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes ehsFloatSubtle {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(-6px);
+    }
+}
+
+
+
+
+
+.ehs-contractor-hero .ehs-card-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 12px;
+}
+
+.ehs-contractor-hero .ehs-card-icon {
+    width: 48px;
+    height: 48px;
+    background-color: var(--ehs-primary-dark);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 1.25rem;
+    flex-shrink: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.ehs-contractor-hero .ehs-card-meta {
+    display: flex;
+    flex-direction: column;
+}
+
+.ehs-contractor-hero .ehs-card-tag {
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #1e3a5f;
+    margin-bottom: 2px;
+}
+
+.ehs-contractor-hero .ehs-card-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.2;
+    margin: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.ehs-contractor-hero .ehs-card-location {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: #475569;
+    margin-bottom: 14px;
+}
+
+.ehs-contractor-hero .ehs-card-location span {
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.ehs-project-card.is-updating .ehs-card-icon,
+.ehs-project-card.is-updating .ehs-card-title,
+.ehs-project-card.is-updating .ehs-card-location span {
+    opacity: 0;
+    transform: translateY(-4px);
+}
+
+.ehs-contractor-hero .ehs-card-location i {
+    color: var(--ehs-accent-green);
+    font-size: 1rem;
+}
+
+.ehs-contractor-hero .ehs-card-badge {
+    background-color: var(--ehs-pill-bg);
+    color: #15803d;
+    font-size: 0.86rem;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+}
+
+.ehs-contractor-hero .ehs-card-badge i {
+    color: var(--ehs-accent-green);
+    font-size: 0.95rem;
+}
+
+.ehs-contractor-hero .ehs-card-badge .ehs-card-check-img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* ==========================================================================
+   STATS / KEY METRICS BANNER SECTION
+   ========================================================================== */
+
+.ehs-contractor-stats {
+    background-color: #141f42;
+    padding: 10px 0;
+    position: relative;
+    z-index: 10;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.ehs-stats-grid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.ehs-stat-box {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 8px 16px;
+    position: relative;
+    min-height: 72px;
+}
+
+/* Vertical divider between columns */
+.ehs-stat-box:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 15%;
+    height: 70%;
+    width: 1px;
+    background: rgba(255, 255, 255, 0.22);
+}
+
+.ehs-stat-value {
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 4px;
+    letter-spacing: -0.5px;
+    font-family: 'Inter', 'DM Sans', sans-serif;
+}
+
+.ehs-stat-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    margin-bottom: 4px;
+    color: #ffffff;
+}
+
+.ehs-stat-pulse-icon {
+    animation: ehsIconPulse 2.8s ease-in-out infinite;
+}
+
+.ehs-stat-icon img,
+.ehs-stat-icon svg,
+.ehs-stat-icon i {
+    font-size: 1.95rem;
+    width: auto;
+    height: 32px;
+    fill: currentColor;
+    color: #ffffff;
+    display: block;
+    object-fit: contain;
+}
+
+@keyframes ehsIconPulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.18);
+    }
+}
+
+.ehs-stat-label {
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.3;
+    margin: 0;
+}
+
+/* ==========================================================================
+   SECTION 2: TRUSTED BY SERVICE PROVIDERS ACROSS USA & QUOTE FORM
+   ========================================================================== */
+
+.ehs-contractor-coverage {
+    padding: 50px 0;
+    background-color: #ffffff;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Quote Form Card on Left */
+.ehs-quote-form-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 18px;
+    padding: 28px 24px 26px;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.07);
+    max-width: 520px;
+    margin: 0 auto;
+}
+
+.ehs-form-badge-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.ehs-form-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #edf5fc;
+    padding: 7px 22px;
+    border-radius: 30px;
+}
+
+.ehs-form-badge-icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: #22c55e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.ehs-form-badge-text {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: #141f42;
+    letter-spacing: -0.3px;
+}
+
+.ehs-form-label {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 6px;
+    display: block;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.ehs-form-input,
+.ehs-form-select {
+    height: 44px;
+    border: 1.5px solid #cbd5e1;
+    border-radius: 10px;
+    font-size: 0.92rem;
+    color: #334155;
+    padding: 8px 14px;
+    background-color: #ffffff;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ehs-form-input:focus,
+.ehs-form-select:focus {
+    border-color: #22c55e;
+    box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.15);
+    outline: none;
+}
+
+.ehs-form-input::placeholder {
+    color: #94a3b8;
+    font-size: 0.9rem;
+}
+
+.ehs-tcpa-checkbox {
+    width: 17px;
+    height: 17px;
+    border: 1.5px solid #94a3b8;
+    border-radius: 4px;
+    flex-shrink: 0;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
+.ehs-tcpa-checkbox:checked {
+    background-color: #22c55e;
+    border-color: #22c55e;
+}
+
+.ehs-tcpa-label {
+    font-size: 0.68rem;
+    line-height: 1.45;
+    color: #64748b;
+    margin: 0;
+    cursor: pointer;
+}
+
+.ehs-tcpa-label a {
+    color: #64748b;
+    text-decoration: underline;
+}
+
+.ehs-btn-quote-submit {
+    background: #22c55e;
+    color: #ffffff;
+    font-size: 1.08rem;
+    font-weight: 700;
+    height: 48px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(34, 197, 94, 0.35);
+}
+
+.ehs-btn-quote-submit:hover {
+    background: #16a34a;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(34, 197, 94, 0.45);
+}
+
+.ehs-coverage-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.ehs-coverage-title {
+    font-size: 2.85rem;
+    font-weight: 800;
+    color: #162947;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+    margin-bottom: 20px;
+}
+
+.ehs-coverage-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-coverage-desc {
+    font-size: 1.02rem;
+    color: #334155;
+    line-height: 1.65;
+    margin-bottom: 24px;
+    max-width: 590px;
+}
+
+.ehs-btn-quote {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--ehs-accent-green);
+    color: #ffffff;
+    font-size: 1.05rem;
+    font-weight: 600;
+    padding: 13px 44px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(56, 183, 99, 0.3);
+    margin-bottom: 30px;
+}
+
+.ehs-btn-quote:hover {
+    background-color: var(--ehs-accent-green-hover);
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(56, 183, 99, 0.4);
+}
+
+/* 4 Feature Items Card */
+.ehs-features-card {
+    background: #ffffff;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 24px 14px 22px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 530px;
+}
+
+.ehs-feature-box {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 8px;
+    position: relative;
+}
+
+.ehs-feature-box:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 6%;
+    height: 88%;
+    width: 1px;
+    background-color: #94a3b8;
+    opacity: 0.65;
+}
+
+.ehs-feature-icon-circle {
+    width: 66px;
+    height: 66px;
+    background-color: #e6f7ec;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+    transition: transform 0.25s ease, background-color 0.25s ease;
+}
+
+.ehs-feature-icon-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-feature-box:hover .ehs-feature-icon-circle {
+    transform: scale(1.08);
+    background-color: #d7f4e0;
+}
+
+.ehs-feature-box-title {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #162947;
+    line-height: 1.3;
+    margin: 0;
+}
+
+/* ==========================================================================
+   SECTION 3: QUALITY LEADS BUILT FOR BETTER RESULTS (PINNED STACKING CARDS)
+   ========================================================================== */
+
+.ehs-contractor-quality-banner {
+    position: relative;
+    background-color: #edf5fc;
+    height: 480vh; /* Scroll track for 6 card transitions */
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.ehs-quality-sticky-viewport {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    min-height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 30px 0;
+    box-sizing: border-box;
+}
+
+.ehs-quality-content {
+    width: 100%;
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ehs-quality-header-wrap {
+    margin-bottom: 20px;
+}
+
+.ehs-quality-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    line-height: 1.25;
+    color: #141f42;
+    letter-spacing: -0.5px;
+    margin-bottom: 10px;
+}
+
+.ehs-quality-title .ehs-highlight-green {
+    color: #22c55e;
+}
+
+.ehs-quality-desc {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: #334155;
+    margin: 0 auto;
+    max-width: 720px;
+    font-weight: 400;
+}
+
+/* Stacking Cards Stage: Fixed Stage Area */
+.ehs-quality-cards-stage {
+    position: relative;
+    width: 100%;
+    max-width: 775px;
+    height: 335px;
+    margin: 0 auto 24px;
+}
+
+.ehs-quality-card-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-origin: center top;
+    will-change: transform, opacity, filter;
+    transition: transform 0.08s ease-out, opacity 0.08s ease-out, filter 0.08s ease-out;
+}
+
+.ehs-quality-card {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    padding: 22px 28px;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.22), 0 0 0 1px rgba(255, 255, 255, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+/* Card Individual Backgrounds */
+.ehs-card-bg-1 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/high-intent-homeowners.png') center/cover no-repeat;
+}
+
+.ehs-card-bg-2 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/targeted-campaigns.png') center/cover no-repeat;
+}
+
+.ehs-card-bg-3 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/location-based.png') center/cover no-repeat;
+}
+
+.ehs-card-bg-4 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/quality-filtering.png') center/cover no-repeat;
+}
+
+.ehs-card-bg-5 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/performance-focused.jpg') center/cover no-repeat;
+}
+
+.ehs-card-bg-6 {
+    background: linear-gradient(rgba(20, 31, 66, 0.88), rgba(20, 31, 66, 0.88)), 
+                url('../images/fast-delivery.png') center/cover no-repeat;
+}
+
+.ehs-quality-card-icon {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+    flex-shrink: 0;
+}
+
+.ehs-quality-card-icon img,
+.ehs-quality-card-icon-img {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-quality-card-title {
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+    /* letter-spacing: -0.2px; */
+}
+
+.ehs-quality-card-sub {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+    /* line-height: 1.5; */
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: 300;
+}
+
+.ehs-quality-btn-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.ehs-quality-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: #22c55e;
+    color: #ffffff;
+    font-size: 0.98rem;
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(34, 197, 94, 0.3);
+    border: none;
+}
+
+.ehs-quality-btn:hover {
+    background-color: #16a34a;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+}
+
+/* ==========================================================================
+   SECTION 4: EVERY PROJECT STARTS WITH A HOMEOWNER LOOKING FOR HELP (JOURNEY)
+   ========================================================================== */
+
+.ehs-contractor-journey {
+    padding: 0px 0px 10px;
+    background-color: #ffffff;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Top intro row */
+.ehs-journey-title {
+    font-size: 2.95rem;
+    font-weight: 800;
+    line-height: 1.18;
+    color: #162947;
+    letter-spacing: -0.5px;
+    margin-bottom: 22px;
+}
+
+.ehs-journey-title .ehs-highlight-green {
+    color: #22c55e;
+    display: block;
+    white-space: nowrap;
+}
+
+.ehs-journey-desc {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: #475569;
+    max-width: 520px;
+}
+
+/* Top right image with speech bubble */
+.ehs-journey-visual-wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ehs-journey-person-img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 1;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 68%, rgba(0,0,0,0) 98%);
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 68%, rgba(0,0,0,0) 98%);
+}
+
+/* Floating speech bubble with tail pointing to phone */
+.ehs-speech-bubble {
+    position: absolute;
+    top: 28%;
+    left: 2%;
+    background: #ffffff;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 12px 20px;
+    box-shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    z-index: 3;
+}
+
+.ehs-speech-bubble::after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 45%;
+    width: 16px;
+    height: 16px;
+    background: #ffffff;
+    border-right: 1.5px solid #e2e8f0;
+    border-bottom: 1.5px solid #e2e8f0;
+    transform: rotate(45deg);
+}
+
+.ehs-speech-bubble-icon {
+    width: 44px;
+    height: 44px;
+    border: 2px solid #22c55e;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #22c55e;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+}
+
+.ehs-speech-bubble-text {
+    font-size: 0.98rem;
+    font-weight: 600;
+    color: #1e293b;
+    margin: 0;
+    line-height: 1.35;
+}
+
+.ehs-speech-bubble-text span {
+    color: #22c55e;
+    font-weight: 700;
+    display: block;
+}
+
+/* Decorative background circle ring */
+.ehs-journey-decor-ring {
+    position: absolute;
+    right: -120px;
+    top: 50%;
+    transform: translateY(-40%);
+    width: 620px;
+    height: 620px;
+    background-image: url('../images/step-circle-bg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Connecting Line from Speech Bubble to Step 04 */
+.ehs-contractor-journey .container {
+    position: relative;
+}
+
+.ehs-speech-to-step-connector {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 2;
+    overflow: visible;
+}
+
+#ehsConnectorPathGlow {
+    stroke: rgba(134, 239, 172, 0.14);
+    stroke-width: 4.5;
+    stroke-linecap: round;
+    transition: d 0.2s ease;
+}
+
+#ehsConnectorPath {
+    stroke: #86efac;
+    stroke-width: 1.5;
+    stroke-dasharray: 5 4;
+    stroke-linecap: round;
+    animation: ehsDashFlow 1.4s linear infinite;
+    transition: d 0.2s ease;
+}
+
+@keyframes ehsDashFlow {
+    from {
+        stroke-dashoffset: 18;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+.ehs-pointer-tip-anchor {
+    position: absolute;
+    bottom: -8px;
+    left: calc(45% + 8px);
+    width: 0;
+    height: 0;
+    pointer-events: none;
+}
+
+.ehs-connector-node circle {
+    transition: cx 0.15s ease, cy 0.15s ease;
+}
+
+.ehs-connector-node circle[id^="ehsDot"] {
+    fill: #86efac;
+    stroke: #ffffff;
+    stroke-width: 1;
+    animation: ehsNodePulse 2s ease-in-out infinite alternate;
+}
+
+.ehs-connector-node circle[id^="ehsHalo"] {
+    animation: ehsHaloPulse 2s ease-in-out infinite alternate;
+}
+
+@keyframes ehsNodePulse {
+    0% {
+        opacity: 0.8;
+        filter: drop-shadow(0 0 2px rgba(134, 239, 172, 0.5));
+    }
+    100% {
+        opacity: 1;
+        filter: drop-shadow(0 0 5px rgba(134, 239, 172, 0.85));
+    }
+}
+
+@keyframes ehsHaloPulse {
+    0% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 0.7;
+    }
+}
+
+@media (max-width: 991px) {
+    .ehs-speech-to-step-connector {
+        display: none !important;
+    }
+}
+
+/* Middle Steps Flow */
+.ehs-steps-flow {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 14px;
+    margin: 60px 0 60px;
+    align-items: start;
+    position: relative;
+    z-index: 1;
+}
+
+.ehs-step-card {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ehs-step-img-wrapper {
+    position: relative;
+    width: 136px;
+    height: 136px;
+    margin-bottom: 16px;
+    flex-shrink: 0;
+}
+
+.ehs-step-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2.5px solid #22c55e;
+    box-shadow: 0 0 0 3px #eefaf2, 0 4px 14px rgba(34, 197, 94, 0.12);
+    display: block;
+}
+
+.ehs-step-num {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #22c55e;
+    color: #ffffff;
+    font-size: 0.8rem;
+    font-weight: 800;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    z-index: 2;
+}
+
+.ehs-step-title {
+    font-size: 1.02rem;
+    font-weight: 800;
+    color: #162947;
+    margin-bottom: 6px;
+    line-height: 1.25;
+}
+
+.ehs-step-desc {
+    font-size: 0.82rem;
+    line-height: 1.45;
+    color: #475569;
+    margin: 0 auto;
+    max-width: 155px;
+}
+
+/* Center Hub (Easy Home Service) - Moderately sized center circle */
+.ehs-center-hub-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.ehs-hub-logo-circle {
+    position: relative;
+    width: 154px;
+    height: 154px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+    flex-shrink: 0;
+    background: #ffffff;
+    box-shadow: 0 0 20px 2px rgba(34, 197, 94, 0.22), 0 0 45px 8px rgba(34, 197, 94, 0.14);
+    animation: ehsHubOuterGlow 3s ease-in-out infinite alternate;
+}
+
+/* Base static circular track */
+.ehs-hub-logo-circle::before {
+    content: '';
+    position: absolute;
+    inset: -3.5px;
+    border-radius: 50%;
+    border: 3.5px solid rgba(34, 197, 94, 0.22);
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* Moving circular line beam in continuous circular motion */
+.ehs-hub-logo-circle::after {
+    content: '';
+    position: absolute;
+    inset: -3.5px;
+    border-radius: 50%;
+    background: conic-gradient(from 0deg, transparent 0deg, transparent 210deg, rgba(74, 222, 128, 0.4) 260deg, #22c55e 330deg, #15803d 360deg);
+    animation: ehsSpinBorder 3s linear infinite;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.ehs-hub-inner-circle {
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.02);
+}
+
+@keyframes ehsSpinBorder {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes ehsHubOuterGlow {
+    0% {
+        box-shadow: 0 0 16px 2px rgba(34, 197, 94, 0.18), 0 0 35px 4px rgba(34, 197, 94, 0.1);
+    }
+    100% {
+        box-shadow: 0 0 28px 5px rgba(34, 197, 94, 0.32), 0 0 55px 12px rgba(34, 197, 94, 0.18);
+    }
+}
+
+.ehs-hub-logo-img {
+    max-width: 110px;
+    max-height: 70px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-hub-checklist-box {
+    background: #ffffff;
+    border: 1.5px solid #86efac;
+    border-radius: 10px;
+    padding: 10px 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+    text-align: left;
+    width: 100%;
+    max-width: 165px;
+}
+
+.ehs-hub-checklist-box ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ehs-hub-checklist-box li {
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #162947;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+}
+
+.ehs-hub-checklist-box li:last-child {
+    margin-bottom: 0;
+}
+
+.ehs-hub-checklist-box li i {
+    color: #22c55e;
+    font-size: 0.8rem;
+    flex-shrink: 0;
+}
+
+/* Bottom Highlight Opportunity Banner */
+.ehs-opportunity-box {
+    background-color: #f0f7fd;
+    border: 1px solid #e0effa;
+    border-radius: 16px;
+    padding: 24px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    text-align:start;
+}
+
+.ehs-opportunity-lead {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex: 0 0 32%;
+    padding-right: 20px;
+    border-right: 1px solid #d4e8f7;
+}
+
+.ehs-opportunity-lead-icon {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ehs-opp-icon-img {
+    width: 38px;
+    height: 38px;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-opportunity-lead-text {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--ehs-primary-dark);
+    line-height: 1.3;
+    margin: 0;
+}
+
+.ehs-opportunity-features {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+    gap: 16px;
+}
+
+.ehs-opp-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+}
+
+.ehs-opp-icon-circle {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background-color: transparent;
+}
+
+.ehs-opp-icon-circle .ehs-opp-icon-img {
+    width: 44px;
+    height: 44px;
+}
+
+.ehs-opp-text h5 {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: var(--ehs-primary-dark);
+    margin: 0 0 4px;
+    line-height: 1.2;
+}
+
+.ehs-opp-text p {
+    font-size: 0.78rem;
+    color: var(--ehs-text-muted);
+    margin: 0;
+    line-height: 1.35;
+}
+
+/* ==========================================================================
+   SECTION 5: HOME SERVICES WE GENERATE LEADS FOR
+   ========================================================================== */
+
+.ehs-contractor-services {
+    position: relative;
+    width: 100%;
+    min-height: 640px;
+    background-color: #ffffff;
+    background-image: url(../images/services-home.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 50px 0;
+    overflow: hidden;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.ehs-services-content {
+    max-width: 650px;
+    position: relative;
+    z-index: 2;
+}
+
+.ehs-services-title {
+    font-size: 2.85rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #162947;
+    letter-spacing: -0.5px;
+    margin-bottom: 32px;
+    text-align:left;
+}
+
+.ehs-services-title .ehs-highlight-green {
+    color: #22c55e;
+    display: block;
+}
+
+/* 2-Column Grid for the 12 Services */
+.ehs-services-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px 18px;
+    max-width: 540px;
+}
+
+.ehs-service-pill {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+    transition: all 0.25s ease;
+    text-decoration: none;
+    height: 45px;
+    overflow: hidden;
+}
+
+.ehs-service-pill:hover {
+    transform: translateY(-2px);
+    border-color: #22c55e;
+    box-shadow: 0 6px 18px rgba(34, 197, 94, 0.12);
+}
+
+.ehs-service-pill-more {
+    border: 1.5px solid #22c55e;
+}
+
+.ehs-service-pill-more .ehs-service-icon-box {
+    background-color: #e2f6e9;
+}
+
+.ehs-service-pill-more:hover {
+    transform: translateY(-2px) scale(1.04);
+    border-color: #16a34a;
+    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.22);
+}
+
+.ehs-service-icon-box {
+    width: 45px;
+    height: 100%;
+    background-color: #eef4fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: background-color 0.25s ease;
+    border-radius: 8px;
+}
+
+.ehs-service-icon-img {
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-service-pill:hover .ehs-service-icon-box {
+    background-color: #e2f6e9;
+}
+
+.ehs-service-name {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000000;
+    /* line-height: 1; */
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ==========================================================================
+   SECTION 6: TOP-PERFORMING VERTICALS
+   ========================================================================== */
+
+.ehs-contractor-top-verticals {
+    background-color: #141f42;
+    padding: 50px 0;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.ehs-top-verticals-title {
+    color: #ffffff;
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 24px;
+    /* letter-spacing: -0.2px; */
+}
+
+.ehs-top-verticals-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 0 auto;
+}
+
+.ehs-vertical-card {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 5px 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    text-decoration: none;
+    transition: all 0.25s ease;
+    border: 1px solid transparent;
+}
+
+.ehs-vertical-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--ehs-accent-green);
+    box-shadow: 0 6px 16px rgba(56, 183, 99, 0.3);
+}
+
+.ehs-vertical-icon {
+    color: #1e3a5f;
+    font-size: 1.35rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.ehs-vertical-icon-img {
+    width: 38px;
+    height: 38px;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-vertical-text {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: #1e293b;
+    line-height: 1.2;
+    margin: 0;
+}
+
+/* ==========================================================================
+   SECTION 7: THE U.S. HOME IMPROVEMENT MARKET CONTINUES TO GROW
+   ========================================================================== */
+
+.ehs-contractor-market-growth {
+    position: relative;
+    width: 100%;
+    background: linear-gradient(108deg, #edf5fc 0%, #edf5fc 49%, #141f42 49%, #141f42 100%);
+    padding: 0px 0 50px;
+    overflow: hidden;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Background watermark rings on right */
+.ehs-market-rings {
+    position: absolute;
+    right: -120px;
+    bottom: -120px;
+    width: 520px;
+    height: 520px;
+    border-radius: 50%;
+    border: 35px solid rgba(255, 255, 255, 0.03);
+    box-shadow: 0 0 0 45px rgba(255, 255, 255, 0.02), 0 0 0 90px rgba(255, 255, 255, 0.012), 0 0 0 135px rgba(255, 255, 255, 0.008);
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Left Content */
+.ehs-market-left-content {
+    max-width: 550px;
+    padding-right: 20px;
+    position: relative;
+    z-index: 2;
+    text-align:start;
+}
+
+.ehs-market-title {
+    font-size: 2.3rem;
+    font-weight: 700;
+    /* line-height: 1.2; */
+    color: var(--ehs-primary-dark);
+    /* letter-spacing: -0.5px; */
+    margin-bottom: 22px;
+}
+
+.ehs-market-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-market-desc-list {
+    margin-bottom: 28px;
+}
+
+.ehs-market-desc-list p {
+    font-size: 0.94rem;
+    line-height: 1.6;
+    color: #334155;
+    margin-bottom: 16px;
+}
+
+.ehs-market-desc-list p:last-child {
+    margin-bottom: 0;
+}
+
+.ehs-market-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background-color: var(--ehs-accent-green);
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(34, 197, 94, 0.35);
+}
+
+.ehs-market-btn:hover {
+    background-color: var(--ehs-accent-green-hover);
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(34, 197, 94, 0.45);
+}
+
+.ehs-market-btn i {
+    font-size: 1.1rem;
+    transition: transform 0.2s ease;
+}
+
+.ehs-market-btn:hover i {
+    transform: translateX(4px);
+}
+
+/* Right Content (Map & Metrics) */
+.ehs-market-right-content {
+    padding-left: 20px;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ehs-market-map-graphic {
+    width: 100%;
+    max-width: 580px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ehs-market-map-img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    filter: drop-shadow(0 15px 25px rgba(0, 0, 0, 0.25));
+}
+
+/* 3 Metrics Box at bottom right */
+/* 3 Metrics Box at bottom right */
+.ehs-market-stats-card {
+    background: #141f42;
+    border: 1.5px solid #22c55e;
+    border-radius: 20px;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 580px;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
+    position: relative;
+    z-index: 2;
+}
+
+.ehs-market-stat-item {
+    flex: 1;
+    padding: 0 16px;
+    position: relative;
+    text-align: left;
+}
+
+.ehs-market-stat-item:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 5%;
+    height: 90%;
+    width: 1.5px;
+    background: rgba(255, 255, 255, 0.35);
+}
+
+.ehs-market-stat-item:first-child {
+    padding-left: 0;
+}
+
+.ehs-market-stat-item:last-child {
+    padding-right: 0;
+}
+
+.ehs-market-stat-num {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #22c55e;
+    line-height: 1.1;
+    margin-bottom: 8px;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.ehs-market-stat-label {
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.35;
+    color: #ffffff;
+    margin: 0;
+    letter-spacing: -0.1px;
+}
+
+/* ==========================================================================
+   SECTION 8: WHAT MAKES OUR LEADS BETTER
+   ========================================================================== */
+
+.ehs-contractor-better-leads {
+    padding: 40px 0;
+    background-color: #ffffff;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+.ehs-better-leads-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+.ehs-better-leads-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-better-leads-timeline-wrap {
+    max-width: 1060px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
+
+.ehs-better-leads-timeline {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+/* Central vertical spine with faded top/bottom ends */
+.ehs-timeline-spine {
+    position: absolute;
+    left: 50%;
+    top: -15px;
+    bottom: -15px;
+    width: 2px;
+    background: linear-gradient(180deg, rgba(148, 163, 184, 0) 0%, rgba(100, 116, 139, 0.4) 8%, #64748b 20%, #64748b 80%, rgba(100, 116, 139, 0.4) 92%, rgba(148, 163, 184, 0) 100%);
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+/* Timeline row */
+.ehs-timeline-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    z-index: 2;
+}
+
+.ehs-timeline-col {
+    display: flex;
+    align-items: center;
+    width: calc(50% - 24px);
+    gap: 16px;
+}
+
+.ehs-col-left {
+    justify-content: flex-end;
+}
+
+.ehs-col-right {
+    justify-content: flex-start;
+}
+
+/* Center node dot */
+.ehs-timeline-node {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 19px;
+    height: 19px;
+    background-color: #3cb867;
+    border-radius: 50%;
+    z-index: 3;
+}
+
+/* Light-green text pill */
+.ehs-lead-pill {
+    background-color: #ebf7f0;
+    border-radius: 10px;
+    padding: 13px 22px;
+    flex: 1;
+    min-height: 52px;
+    display: flex;
+    align-items: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ehs-lead-pill:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(34, 197, 94, 0.12);
+}
+
+.ehs-lead-pill span {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #1e293b;
+    line-height: 1.35;
+    text-align: left;
+}
+
+/* White Icon Box with Green Outline */
+.ehs-lead-icon-box {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    background-color: #ffffff;
+    border: 1.5px solid #22c55e;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(34, 197, 94, 0.08);
+    flex-shrink: 0;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.ehs-lead-icon-box:hover {
+    transform: scale(1.06);
+}
+
+.ehs-lead-icon-img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    display: block;
+}
+
+/* ==========================================================================
+   SECTION 9: QUALITY LEADS BUILT FOR BETTER RESULTS (PARTNER FEATURES)
+   ========================================================================== */
+
+.ehs-contractor-partner-features {
+    padding: 50px 0;
+    background-color: #edf5fc;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.ehs-partner-features-content {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.ehs-partner-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 18px;
+}
+
+.ehs-partner-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-partner-desc {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--ehs-text-muted);
+    max-width: 720px;
+    margin: 0 auto 42px;
+    font-weight: 400;
+}
+
+/* 6 Feature Cards Row */
+.ehs-partner-cards-grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 14px;
+    margin-bottom: 38px;
+    overflow-x: auto;
+    padding-bottom: 6px;
+}
+
+.ehs-partner-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 12px 18px;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    text-align: left;
+    flex: 1 1 auto;
+    min-width: 165px;
+    white-space: nowrap;
+}
+
+.ehs-partner-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--ehs-accent-green);
+    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.15);
+}
+
+.ehs-partner-card-icon {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.ehs-partner-card-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+.ehs-partner-card-text {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: #0284c7;
+    line-height: 1.25;
+    margin: 0;
+}
+
+/* Green CTA Button */
+.ehs-btn-start-leads {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background-color: var(--ehs-accent-green);
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 12px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(34, 197, 94, 0.28);
+    transition: all 0.25s ease;
+}
+
+.ehs-btn-start-leads:hover {
+    background-color: var(--ehs-accent-green-hover);
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(34, 197, 94, 0.35);
+}
+
+/* ==========================================================================
+   SECTION 10: OUR LATEST BLOG POSTS
+   ========================================================================== */
+
+.ehs-contractor-blogs {
+    padding: 50px 0;
+    background-color: #ffffff;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+.ehs-contractor-blogs .container {
+    position: relative;
+    z-index: 2;
+}
+
+/* Decorative watermark ring on top-left */
+.ehs-blog-decor-ring {
+    position: absolute;
+    left: -140px;
+    top: -30px;
+    width: 380px;
+    height: 380px;
+    background-image: url('../images/blog-circle-bg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.85;
+}
+
+/* Header row */
+.ehs-blog-header-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 2;
+}
+
+.ehs-blog-header-left {
+    max-width: 600px;
+}
+
+.ehs-blog-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 8px;
+}
+
+.ehs-blog-title .ehs-highlight-green {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-blog-subtitle {
+    font-size: 1.05rem;
+    color: #475569;
+    margin: 0;
+    font-weight: 500;
+}
+
+/* 3 Equal Blog Cards */
+.ehs-blog-card {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    transition: transform 0.25s ease;
+    text-align:start;
+}
+
+.ehs-blog-img-box {
+    width: 100%;
+    height: 235px;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    background-color: #f1f5f9;
+}
+
+.ehs-blog-img-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.ehs-blog-card:hover .ehs-blog-img-box img {
+    transform: scale(1.04);
+}
+
+.ehs-blog-date {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.ehs-blog-card-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--ehs-primary-dark);
+    line-height: 1.35;
+    margin-bottom: 12px;
+    transition: color 0.2s ease;
+}
+
+.ehs-blog-card:hover .ehs-blog-card-title {
+    color: var(--ehs-accent-green);
+}
+
+.ehs-blog-card-excerpt {
+    font-size: 0.94rem;
+    line-height: 1.55;
+    color: #334155;
+    margin: 0;
+}
+
+/* Right Mini Blog Posts List */
+.ehs-mini-blogs-list {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.ehs-mini-blog-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 10px 0;
+    text-decoration: none;
+    border-bottom: 1px solid #f1f5f9;
+    transition: transform 0.2s ease;
+}
+
+.ehs-mini-blog-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.ehs-mini-blog-item:first-child {
+    padding-top: 0;
+}
+
+.ehs-mini-blog-item:hover {
+    transform: translateX(4px);
+}
+
+.ehs-mini-blog-thumb {
+    width: 110px;
+    height: 72px;
+    border-radius: 10px;
+    overflow: hidden;
+    flex-shrink: 0;
+    background-color: #f1f5f9;
+}
+
+.ehs-mini-blog-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.ehs-mini-blog-item:hover .ehs-mini-blog-thumb img {
+    transform: scale(1.08);
+}
+
+.ehs-mini-blog-content {
+    flex: 1;
+}
+
+.ehs-mini-blog-date {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #64748b;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.ehs-mini-blog-title {
+    font-size: 0.92rem;
+    font-weight: 800;
+    color: var(--ehs-primary-dark);
+    line-height: 1.35;
+    margin: 0;
+    transition: color 0.2s ease;
+}
+
+.ehs-mini-blog-item:hover .ehs-mini-blog-title {
+    color: var(--ehs-accent-green);
+}
+
+/* ==========================================================================
+   SECTION 11: TESTIMONIALS & READY TO GROW CTA BANNER
+   ========================================================================== */
+
+.ehs-contractor-testimonials-cta {
+    padding: 50px 0;
+    background-color: #edf5fc;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Testimonial Header */
+.ehs-testimonial-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--ehs-primary-dark);
+    text-align: center;
+    letter-spacing: -0.5px;
+    margin-bottom: 50px;
+}
+
+/* Testimonials Carousel Wrapper */
+.ehs-testimonials-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 75px;
+    width: 100%;
+}
+
+.ehs-testimonials-viewport {
+    overflow: hidden;
+    width: 100%;
+    max-width: 980px;
+    padding: 60px 6px 15px;
+}
+
+.ehs-testimonials-track {
+    display: flex;
+    transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+    gap: 24px;
+    width: 100%;
+    will-change: transform;
+}
+
+.ehs-test-slide {
+    flex: 0 0 calc(50% - 12px);
+    min-width: 0;
+    display: flex;
+}
+
+/* Testimonial Card Container using Image Background */
+.ehs-test-card-container {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    transition: transform 0.25s ease;
+    margin-top: 0;
+    background-image: url('../images/testimonial-card-background.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 235px;
+}
+
+.ehs-test-card-container:hover {
+    transform: translateY(-4px);
+}
+
+/* Top Header Bar inside Notch */
+.ehs-test-header-bar {
+    position: relative;
+    z-index: 3;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 24px;
+    margin-top: -52px;
+}
+
+/* Floating Avatar with Mint Glow Ring centered in the left elevated arch */
+.ehs-test-avatar-outer {
+    position: relative;
+    margin-left: 24px;
+}
+
+.ehs-test-avatar-glow {
+    width: 104px;
+    height: 104px;
+    border-radius: 50%;
+    background: #ffffff;
+    padding: 4px;
+    box-shadow: 0 0 0 5px #bbf7d0, 0 10px 24px rgba(34, 197, 94, 0.22);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ehs-test-avatar-photo {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Stars Rating Pill resting inside the right stepped notch */
+.ehs-test-stars-badge {
+    background: #ffffff;
+    border: 1.5px solid #eef2f6;
+    border-radius: 40px;
+    padding: 8px 18px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+.ehs-test-stars-badge i {
+    color: #ff9800;
+    font-size: 1.15rem;
+}
+
+/* Inner Text Content on Card Body */
+.ehs-test-content-inner {
+    position: relative;
+    z-index: 2;
+    padding: 10px 30px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+    text-align:start;
+}
+
+.ehs-test-quote-text {
+    font-size: 0.98rem;
+    color: #1e293b;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+/* Bottom Row */
+.ehs-test-bottom-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.ehs-test-meta-name {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin: 0 0 2px;
+}
+
+.ehs-test-meta-role {
+    font-size: 0.88rem;
+    color: #475569;
+    margin: 0;
+    font-weight: 500;
+}
+
+.ehs-test-quotes-mark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+/* Carousel Side Navigation Arrows */
+.ehs-test-nav-btn {
+    background: transparent;
+    border: none;
+    color: #94a3b8;
+    font-size: 2.2rem;
+    padding: 10px;
+    cursor: pointer;
+    transition: color 0.2s ease, transform 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ehs-test-nav-btn:hover {
+    color: var(--ehs-primary-dark);
+    transform: scale(1.15);
+}
+
+/* ==========================================================================
+   BOTTOM CTA BANNER: READY TO GROW YOUR CONTRACTING BUSINESS?
+   ========================================================================== */
+
+.ehs-grow-banner-card {
+    background-color: #141f42;
+    border-radius: 20px;
+    padding: 38px 48px 30px;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.28);
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.ehs-grow-banner-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #ffffff;
+    letter-spacing: -0.4px;
+    margin-bottom: 12px;
+}
+
+.ehs-grow-banner-desc {
+    font-size: 1.02rem;
+    line-height: 1.6;
+    color: #cbd5e1;
+    margin: 0;
+    max-width: 480px;
+}
+
+.ehs-grow-banner-desc span {
+    color: #4ade80;
+    font-weight: 700;
+}
+
+/* Right Actions in Grow Banner */
+.ehs-grow-actions-top {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 16px;
+    margin-bottom: 22px;
+}
+
+.ehs-btn-grow-partner {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background-color: var(--ehs-accent-green);
+    color: #ffffff;
+    font-size: 0.98rem;
+    font-weight: 700;
+    padding: 13px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(56, 183, 99, 0.4);
+    white-space: nowrap;
+}
+
+.ehs-btn-grow-partner:hover {
+    background-color: var(--ehs-accent-green-hover);
+    color: #ffffff;
+    transform: translateY(-2px);
+}
+
+.ehs-btn-grow-speak {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #ffffff;
+    color: var(--ehs-primary-dark);
+    font-size: 0.98rem;
+    font-weight: 700;
+    padding: 13px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
+}
+
+.ehs-btn-grow-speak:hover {
+    background-color: #f8fafc;
+    color: var(--ehs-accent-green);
+    transform: translateY(-2px);
+}
+
+.ehs-grow-chart-icon {
+    color: #ffffff;
+    font-size: 2.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    opacity: 0.95;
+}
+
+.ehs-grow-divider {
+    height: 1.5px;
+    background: #34b35e;
+    width: 100%;
+    margin-bottom: 18px;
+    opacity: 0.7;
+}
+
+.ehs-grow-tagline {
+    font-size: 1.28rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+
+/* ==========================================================================
+   SECTION 12: STATES WE SERVE
+   ========================================================================== */
+
+.ehs-contractor-states-served {
+    padding: 35px 0 35px;
+    background-color: #ffffff;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.ehs-states-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 12px;
+}
+
+.ehs-states-desc {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--ehs-text-muted);
+    max-width: 680px;
+    margin: 0 auto 24px;
+    font-weight: 400;
+}
+
+/* States We Serve Map & Grid */
+.ehs-states-wrapper {
+    width: 100%;
+    position: relative;
+    background-image: url('../images/map-background-image.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    padding: 50px 35px 60px;
+    min-height: 540px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ehs-states-col {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    text-align: left;
+}
+
+.ehs-state-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.ehs-state-pin {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    line-height: 1;
+}
+
+.ehs-state-name {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #1e293b;
+    letter-spacing: -0.2px;
+    white-space: nowrap;
+}
+
+.ehs-states-cta {
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    margin-top: 10px;
+}
+
+.ehs-btn-get-quote {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2ebd59;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 12px 38px;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(46, 189, 89, 0.25);
+    transition: all 0.25s ease;
+}
+
+.ehs-btn-get-quote:hover {
+    background-color: #24a14b;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(46, 189, 89, 0.35);
+}
+
+/* ==========================================================================
+   SECTION 13: CITIES WE SERVE IN NEW JERSEY
+   ========================================================================== */
+
+.ehs-contractor-cities-served {
+    padding: 35px 0 35px;
+    background-color: #edf5fc;
+    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.ehs-cities-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    line-height: 1.25;
+    color: var(--ehs-primary-dark);
+    letter-spacing: -0.5px;
+    margin-bottom: 36px;
+    text-align: center;
+}
+
+.ehs-cities-card {
+    background-color: #f7fafc;
+    border: 1.5px solid #86efac;
+    border-radius: 16px;
+    padding: 30px 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+}
+
+.ehs-cities-grid {
+    margin: 0;
+}
+
+.ehs-state-pin i,
+.ehs-state-pin .location-icon {
+    color: #22c55e;
+    font-size: 1.15rem;
+}
+
+/* ==========================================================================
+   RESPONSIVE MEDIA QUERIES
+   ========================================================================== */
+
+@media (max-width: 1199px) {
+    .ehs-contractor-hero .ehs-hero-title {
+        font-size: 2.75rem;
+    }
+    .ehs-stat-value {
+        font-size: 1.75rem;
+    }
+    .ehs-stat-label {
+        font-size: 0.88rem;
+    }
+    .ehs-states-wrapper {
+        min-height: auto;
+        padding: 30px 15px;
+    }
+}
+
+@media (max-width: 991px) {
+    .ehs-contractor-hero {
+        background-image: 
+            linear-gradient(180deg, rgba(237, 245, 252, 0.96) 0%, rgba(237, 245, 252, 0.92) 50%, rgba(237, 245, 252, 0.98) 100%),
+            url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1600&q=80');
+        background-position: center center;
+        padding: 50px 0 60px;
+    }
+
+    .ehs-contractor-hero .ehs-hero-content {
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .ehs-contractor-hero .ehs-hero-title {
+        font-size: 2.4rem;
+    }
+
+    .ehs-contractor-hero .ehs-floating-card-wrapper {
+        min-height: auto;
+        justify-content: flex-start;
+    }
+
+    .ehs-contractor-hero .ehs-project-card {
+        max-width: 320px;
+    }
+
+    .ehs-stats-grid {
+        flex-wrap: wrap;
+    }
+
+    .ehs-stat-box {
+        flex: 0 0 50%;
+        margin-bottom: 16px;
+    }
+
+    .ehs-stat-box:nth-child(2)::after {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .ehs-contractor-hero {
+        padding: 40px 0 50px;
+    }
+
+    .ehs-contractor-hero .ehs-hero-title {
+        font-size: 1.95rem;
+    }
+
+    .ehs-contractor-hero .ehs-hero-desc {
+        font-size: 0.98rem;
+    }
+
+    .ehs-contractor-hero .ehs-hero-features {
+        gap: 12px 16px;
+    }
+
+    .ehs-contractor-hero .ehs-feature-item {
+        font-size: 0.82rem;
+    }
+
+    .ehs-contractor-hero .ehs-hero-btn {
+        width: 100%;
+    }
+
+    .ehs-contractor-hero .ehs-project-card {
+        max-width: 100%;
+    }
+
+    .ehs-contractor-stats {
+        padding: 20px 0 10px;
+    }
+
+    .ehs-stat-box {
+        flex: 0 0 50%;
+        padding: 10px 8px;
+    }
+
+    .ehs-stat-value {
+        font-size: 1.5rem;
+    }
+
+    .ehs-stat-label {
+        font-size: 0.78rem;
+    }
+
+    .ehs-stat-icon svg,
+    .ehs-stat-icon i {
+        height: 26px;
+        font-size: 1.6rem;
+    }
+
+    .ehs-contractor-coverage {
+        padding: 50px 0 60px;
+    }
+
+    .ehs-coverage-map-wrapper {
+        padding-right: 0;
+        margin-bottom: 35px;
+    }
+
+    .ehs-coverage-content {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .ehs-coverage-title {
+        font-size: 2rem;
+    }
+
+    .ehs-coverage-desc {
+        font-size: 0.95rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .ehs-btn-quote {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .ehs-features-card {
+        padding: 16px 8px;
+    }
+
+    .ehs-feature-icon-circle {
+        width: 44px;
+        height: 44px;
+        font-size: 1.2rem;
+    }
+
+    .ehs-feature-box-title {
+        font-size: 0.72rem;
+    }
+
+    .ehs-contractor-quality-banner {
+        padding: 60px 0 65px;
+    }
+
+    .ehs-quality-title {
+        font-size: 1.95rem;
+    }
+
+    .ehs-quality-desc {
+        font-size: 0.98rem;
+    }
+
+    .ehs-quality-btn {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .ehs-contractor-journey {
+        padding: 60px 0 70px;
+    }
+
+    .ehs-journey-title {
+        font-size: 2rem;
+    }
+
+    .ehs-journey-desc {
+        font-size: 0.95rem;
+    }
+
+    .ehs-steps-flow {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px 15px;
+        margin: 40px 0 40px;
+    }
+
+    .ehs-center-hub-card {
+        grid-column: span 2;
+        margin: 10px 0;
+    }
+
+    .ehs-opportunity-box {
+        flex-direction: column;
+        padding: 20px 16px;
+        gap: 20px;
+    }
+
+    .ehs-opportunity-lead {
+        flex: 1 1 100%;
+        width: 100%;
+        padding-right: 0;
+        border-right: none;
+        border-bottom: 1px solid #d4e8f7;
+        padding-bottom: 16px;
+    }
+
+    .ehs-opportunity-features {
+        flex-direction: column;
+        width: 100%;
+        gap: 16px;
+    }
+
+    .ehs-opp-item {
+        width: 100%;
+    }
+
+    .ehs-contractor-services {
+        background-image: 
+            linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(255, 255, 255, 0.94) 100%),
+            url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80');
+        padding: 50px 0 60px;
+    }
+
+    .ehs-services-title {
+        font-size: 2rem;
+        margin-bottom: 25px;
+    }
+
+    .ehs-services-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .ehs-contractor-market-growth {
+        background: #edf5fc;
+        padding: 50px 0 60px;
+    }
+
+    .ehs-market-left-content {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+
+    .ehs-market-title {
+        font-size: 2rem;
+    }
+
+    .ehs-market-right-content {
+        padding-left: 0;
+        background-color: #141f42;
+        padding: 30px 16px;
+        border-radius: 16px;
+    }
+
+    .ehs-market-stats-card {
+        padding: 14px 10px;
+    }
+
+    .ehs-market-stat-num {
+        font-size: 1.35rem;
+    }
+
+    .ehs-market-stat-label {
+        font-size: 0.72rem;
+    }
+
+    .ehs-contractor-better-leads {
+        padding: 40px 0 50px;
+    }
+
+    .ehs-better-leads-title {
+        font-size: 1.85rem;
+        margin-bottom: 30px;
+    }
+
+    .ehs-better-leads-timeline {
+        gap: 16px;
+    }
+
+    .ehs-timeline-spine {
+        left: 26px;
+        top: 20px;
+        bottom: 20px;
+        transform: none;
+    }
+
+    .ehs-timeline-node {
+        display: none;
+    }
+
+    .ehs-timeline-row {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .ehs-timeline-col {
+        width: 100%;
+        padding-left: 56px;
+        position: relative;
+        gap: 12px;
+    }
+
+    .ehs-col-left {
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+    }
+
+    .ehs-col-left .ehs-lead-icon-box,
+    .ehs-col-right .ehs-lead-icon-box {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 3;
+    }
+
+    .ehs-col-left .ehs-lead-pill,
+    .ehs-col-right .ehs-lead-pill {
+        width: 100%;
+    }
+
+    .ehs-lead-pill {
+        padding: 12px 16px;
+        min-height: 48px;
+    }
+
+    .ehs-lead-pill span {
+        font-size: 0.88rem;
+    }
+
+    .ehs-lead-icon-box {
+        width: 46px;
+        height: 46px;
+        min-width: 46px;
+    }
+
+    .ehs-contractor-blogs {
+        padding: 50px 0 60px;
+    }
+
+    .ehs-blog-header-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+        margin-bottom: 30px;
+    }
+
+    .ehs-blog-title {
+        font-size: 2rem;
+    }
+
+    .ehs-blog-card {
+        margin-bottom: 30px;
+    }
+
+    .ehs-mini-blogs-list {
+        margin-top: 10px;
+    }
+
+    .ehs-contractor-testimonials-cta {
+        padding: 50px 0 60px;
+    }
+
+    .ehs-testimonial-title {
+        font-size: 2rem;
+        margin-bottom: 30px;
+    }
+
+    .ehs-test-slide {
+        flex: 0 0 100%;
+    }
+
+    .ehs-test-nav-btn {
+        width: 36px;
+        height: 36px;
+        min-width: 36px;
+        font-size: 0.9rem;
+    }
+
+    .ehs-grow-banner-card {
+        padding: 28px 20px;
+    }
+
+    .ehs-grow-banner-title {
+        font-size: 1.7rem;
+    }
+
+    .ehs-grow-actions-top {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .ehs-btn-grow-partner,
+    .ehs-btn-grow-speak {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .ehs-grow-chart-icon {
+        display: none;
+    }
+
+    .ehs-grow-tagline {
+        font-size: 0.98rem;
+    }
+
+    .ehs-contractor-states-served {
+        padding: 50px 0 60px;
+    }
+
+    .ehs-states-title {
+        font-size: 2rem;
+    }
+
+    .ehs-states-desc {
+        font-size: 0.95rem;
+        margin-bottom: 30px;
+    }
+
+    .ehs-states-wrapper {
+        background-size: cover;
+        padding: 30px 10px 20px;
+        min-height: auto;
+    }
+
+    .ehs-state-name {
+        font-size: 0.85rem;
+    }
+
+    .ehs-contractor-cities-served {
+        padding: 45px 0 55px;
+    }
+
+    .ehs-cities-title {
+        font-size: 1.85rem;
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 991px) {
+    .ehs-steps-flow {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px 15px;
+    }
+    .ehs-opportunity-box {
+        flex-direction: column;
+    }
+    .ehs-opportunity-lead {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #d4e8f7;
+        padding-bottom: 16px;
+    }
+
+    .ehs-contractor-services {
+        background-image: 
+            linear-gradient(180deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.92) 100%),
+            url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80');
+        padding: 60px 0 70px;
+    }
+
+    .ehs-contractor-market-growth {
+        background: #edf5fc;
+        padding: 60px 0 70px;
+    }
+
+    .ehs-market-left-content {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+
+    .ehs-market-right-content {
+        padding-left: 0;
+        background-color: #141f42;
+        padding: 35px 20px;
+        border-radius: 16px;
+    }
+
+
+
+    .ehs-blog-card {
+        margin-bottom: 30px;
+    }
+
+    .ehs-grow-actions-top {
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+
+    .ehs-quality-sticky-viewport {
+        min-height: 520px;
+        padding: 20px 10px;
+    }
+
+    .ehs-quality-cards-stage {
+        max-width: 96%;
+        height: 270px;
+        margin-bottom: 18px;
+    }
+
+    .ehs-quality-title {
+        font-size: 1.65rem;
+        margin-bottom: 8px;
+    }
+
+    .ehs-quality-desc {
+        font-size: 0.84rem;
+        line-height: 1.45;
+    }
+
+    .ehs-quality-card {
+        padding: 22px 15px;
+    }
+
+    .ehs-quality-card-icon {
+        width: 52px;
+        height: 52px;
+        margin-bottom: 10px;
+    }
+
+    .ehs-quality-card-title {
+        font-size: 1.15rem;
+        margin-bottom: 6px;
+    }
+
+    .ehs-quality-card-sub {
+        font-size: 0.8rem;
+    }
+
+    .ehs-contractor-states-served {
+        padding: 60px 0 70px;
+    }
+
+    .ehs-states-wrapper {
+        background-size: contain;
+        padding: 40px 15px 25px;
+        min-height: auto;
+    }
+}

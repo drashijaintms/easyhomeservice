@@ -1,0 +1,121 @@
+/* =========================================================
+   EXTRA LARGE DEVICES (Large Desktop)
+   1400px and above
+========================================================= */
+@media (min-width: 1400px) {
+.inner__banner--roof-1 {
+    padding: 50px 0 50px!important;
+}
+.banner_heading {
+    margin-top: 0px;
+    width:89%;
+}
+}
+
+
+/* =========================================================
+   LARGE DEVICES (Desktop / Laptop)
+   1200px to 1399px
+========================================================= */
+@media (max-width: 1399px) {
+.inner__banner--roof-1 {
+    padding: 50px 0 50px!important;
+}
+.banner_heading {
+    margin-top: 0px;
+    width:90%;
+}
+
+}
+
+
+/* =========================================================
+   MEDIUM DEVICES (Tablet Landscape)
+   992px to 1199px
+========================================================= */
+@media (max-width: 1199px) {
+.inner__banner--roof-1 {
+    padding: 50px 0 50px!important;
+}
+.banner_heading {
+    margin-top: 0px;
+    width:90%;
+}
+}
+
+
+/* =========================================================
+   SMALL DEVICES (Tablet Portrait)
+   768px to 991px
+========================================================= */
+@media (max-width: 991px) {
+
+.inner__banner--roof-1 {
+    padding: 30px 0 30px!important;
+}
+.banner_heading {
+    margin-top: 0px!important;
+}
+ .w-80 {
+    width: 100% !important;
+}   
+.inner__banner__quote-box {
+    margin-top: 25px;
+}
+.common_heading {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    ul.s2_step_list li h3 {
+    font-size: 20px;
+    line-height: 26px;
+    }   
+        ul.s2_step_list li {
+        margin-top: 20px;
+    }
+    ul.s2_step_list li p {
+    margin-top: 15px !important;
+    font-size: 16px !important;
+}
+.benefit-card {
+    padding: 20px 20px;
+}
+.benefit-title {
+    font-weight: 700;
+    font-size: 18px;
+    color: #14147e;
+    width: 68%;
+}    
+.benefit-icon-box {
+    width: 50px;
+    height: 50px;
+}
+.benefit-text {
+    font-size: 15px;
+    color: black;
+    margin-top: 15px;
+}
+}
+
+
+/* =========================================================
+   EXTRA SMALL DEVICES (Mobile)
+   767px and below
+========================================================= */
+@media (max-width: 767px) {
+
+.s3_box {
+    background: linear-gradient(90deg, rgb(0 0 0 / 72%) 30%, rgb(0 0 0 / 72%) 50%), url(/images/home-3.webp);
+}
+
+.common_text {
+    font-size: 15px !important;
+    line-height: 18px !important;
+}
+ .window-name {
+    font-size: 15px;
+ }   
+.banner_heading {
+    width:100%;
+}
+}

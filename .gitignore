@@ -1,0 +1,36 @@
+# Sensitive files & credentials
+*.key
+*.pem
+private.key
+.env
+
+# Backups & archives
+backups/
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.bak
+
+# Logs & error dumps
+*.log
+error_log
+logs/
+log.txt
+update_log.txt
+short-forms-log.txt
+modification_log.txt
+
+# OS & Editor generated files
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.user

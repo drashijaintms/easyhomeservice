@@ -1,0 +1,32 @@
+[
+  {
+    "remotePath": "/public_html/images/WELD CUT METAL STRUCTURE.svg",
+    "saveAs": "WELD CUT METAL STRUCTURE.svg",
+    "expectedSize": 2334,
+    "notes": "Collides with Weld Cut Metal Structure.svg (2555 bytes) on Windows NTFS"
+  },
+  {
+    "remotePath": "/public_html/images/MOLD.svg",
+    "saveAs": "MOLD.svg",
+    "expectedSize": 3408,
+    "notes": "Collides with Mold.svg (4936 bytes) on Windows NTFS"
+  },
+  {
+    "remotePath": "/public_html/images/Insulation.svg",
+    "saveAs": "Insulation.capital.svg",
+    "expectedSize": 2476,
+    "notes": "Collides with insulation.svg (2190 bytes) on Windows NTFS"
+  },
+  {
+    "remotePath": "/public_html/images/wiring low voltage.svg",
+    "saveAs": "wiring low voltage.lowercase.svg",
+    "expectedSize": 4085,
+    "notes": "Collides with WIRING LOW VOLTAGE.svg (3244 bytes) on Windows NTFS"
+  },
+  {
+    "remotePath": "/public_html/images/cleaning.svg",
+    "saveAs": "cleaning.lowercase.svg",
+    "expectedSize": 3503,
+    "notes": "Collides with Cleaning.svg (3175 bytes) on Windows NTFS"
+  }
+]

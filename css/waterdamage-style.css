@@ -1,0 +1,31 @@
+.banner_heading {
+  width: 90%;
+}
+.inner__banner__text {
+  width: 90%;
+}
+@media (max-width: 768px) {
+  .banner_heading {
+    width: 100%;
+  }
+  .inner__banner__text {
+    width: 100%;
+  }
+}
+
+ul.inner_sec1__point li {
+  float: left;
+  width: 100%;
+  margin-top: 12px;
+  padding-left: 25px;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000;
+  background: url(../images/bnr_chk.png) left 4px / 17px no-repeat;
+}
+.banner_waterdamage {
+  background: url(/images/banner-waterdamage.jpg);
+  background-position: right;
+  padding: 40px 0 50px;
+}

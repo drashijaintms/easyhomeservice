@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  .banner_heading {
+    width: 100% !important;
+  }
+  .banner_deck {
+    background: #e8f0fb !important;
+    padding: 20px 0 !important;
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+  .inner__banner__text {
+    font-size: 15px !important;
+    line-height: 21px !important;
+    margin-top: 10px !important;
+    width: 100% !important;
+  }
+}
+.inner__banner__text {
+  font-size: 21px;
+  line-height: 30px;
+  margin-top: 15px;
+  float: left;
+  width: 80%;
+  margin-bottom: 0;
+}
+.banner_deck {
+  background: url(/images/deck-banner-03.jpg) no-repeat #e8f0fb;
+  background-position: right;
+  padding: 35px 0 35px;
+}
+.banner_heading {
+  width: 90%;
+}

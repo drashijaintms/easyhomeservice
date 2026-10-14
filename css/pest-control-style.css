@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+    .banner_heading{
+        text-align:center;
+    }
+  .banner_pestcontrol {
+    background: #e8f0fb !important;
+    padding: 20px 0 !important;
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+  .inner__banner__text {
+    font-size: 15px !important;
+    line-height: 21px !important;
+    margin-top: 10px !important;
+    width: 100% !important;
+        text-align:center;
+  }
+  .inner__banner__left {
+    width: 100% !important;
+    text-align:center;
+  }
+}
+.banner_pestcontrol {
+  background: url(/images/pest-img-03.jpg) no-repeat #e8f0fb;
+  padding: 40px 0 50px;
+  background-position: right;
+}
+.inner__banner__left {
+  width: 59.26%;
+  float: left;
+  text-align: left;
+}
+.inner__banner__text {
+  font-size: 21px;
+  line-height: 30px;
+  margin-top: 15px;
+  float: left;
+  width: 90%;
+}

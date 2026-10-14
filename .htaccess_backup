@@ -1,0 +1,1226 @@
+############################################################
+# BASIC HARDENING
+############################################################
+Options -Indexes
+RewriteEngine On
+############################################################
+# ABSOLUTE POLICY REDIRECT (EXECUTES FIRST)
+############################################################
+Redirect 301 /policy https://easyhomeservice.com/privacy-policy
+Redirect 301 /policy-policy https://easyhomeservice.com/privacy-policy
+
+############################################################
+# ALLOW FAVICON & ICON FILES (NO REDIRECT / NO ROUTING)
+############################################################
+RewriteRule ^images/favicon\.png$ - [L]
+RewriteRule ^favicon\.ico$ - [L]
+RewriteRule ^favicon-.*\.png$ - [L]
+RewriteRule ^apple-touch-icon.*\.png$ - [L]
+
+############################################################
+# ABSOLUTE BYPASS FOR INTERNAL APIs
+############################################################
+RewriteRule ^verify-api\.php$ - [L]
+RewriteRule ^check-email\.php$ - [L]
+
+############################################################
+# FORCE NON-TRAILING SLASH (CANONICAL)
+############################################################
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} .+/$
+RewriteRule ^(.+)/$ https://easyhomeservice.com/$1 [R=301,L]
+
+ServerSignature Off
+
+############################################################
+# HOST HEADER VALIDATION (CLOUD METADATA FIX – HIGH)
+############################################################
+RewriteCond %{HTTP_HOST} ^169\.254\.169\.254$ [OR]
+RewriteCond %{HTTP_HOST} ^metadata\.google\.internal$ [OR]
+RewriteCond %{HTTP_HOST} ^metadata$ [OR]
+RewriteCond %{HTTP_HOST} ^instance-data$
+RewriteRule .* - [F,L]
+
+RewriteCond %{HTTP_HOST} !^(easyhomeservice\.com|www\.easyhomeservice\.com)$ [NC]
+RewriteRule .* - [F,L]
+
+############################################################
+# FORCE HTTPS (CANONICAL)
+############################################################
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+############################################################
+# FORCE NON-WWW
+############################################################
+RewriteCond %{HTTP_HOST} ^www\.easyhomeservice\.com$ [NC]
+RewriteRule ^(.*)$ https://easyhomeservice.com/$1 [R=301,L]
+
+############################################################
+# BLOCK EMPTY & MALICIOUS USER AGENTS
+############################################################
+RewriteCond %{HTTP_USER_AGENT} ^$
+RewriteRule .* - [F,L]
+
+RewriteCond %{HTTP_USER_AGENT} (acunetix|sqlmap|nikto|nessus|nmap|masscan|wpscan|owasp|zap|zaproxy|dirbuster|whatweb|arachni|burp|burpsuite|havij|netsparker) [NC]
+RewriteRule .* - [F,L]
+
+############################################################
+# BLOCK COMMON SCANNER PATHS
+############################################################
+RewriteCond %{REQUEST_URI} (\.\./|\%2e\%2e|/wp-admin|/wp-login|/xmlrpc\.php|/vendor/phpunit|/\.git|/\.env) [NC]
+RewriteRule .* - [F,L]
+
+############################################################
+# SECURITY HEADERS (ALL PAGES)
+############################################################
+<IfModule mod_headers.c>
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Permissions-Policy "geolocation=(), camera=(), microphone=()"
+Header always set Cross-Origin-Opener-Policy "same-origin"
+
+Header always set Content-Security-Policy "
+default-src 'self';
+
+script-src 'self' 'unsafe-inline'
+https://cdn.tiny.cloud
+https://cdn-app.continual.ly
+https://api.mapbox.com
+https://*.mapbox.com
+https://api.trustedform.com
+https://api.nexmo.com
+https://cdn.jsdelivr.net
+https://cdnjs.cloudflare.com
+https://b-js.ringba.com
+https://code.jquery.com
+https://ajax.googleapis.com
+https://www.clickcease.com
+https://cdn.brevo.com
+https://fb.thesolarhelp.com
+https://easyhomeservice.com;
+
+style-src 'self' 'unsafe-inline'
+https://cdn.tiny.cloud
+https://cdn-app.continual.ly
+https://cdn.jsdelivr.net
+https://cdnjs.cloudflare.com
+https://cdn.brevo.com;
+
+img-src 'self' data: blob:
+https://*.mapbox.com
+https://*.ringba.com
+https://www.clickcease.com
+https://cdn.brevo.com
+https://fb.thesolarhelp.com
+https://easyhomeservice.com;
+
+
+font-src 'self' data:
+https://cdn.tiny.cloud
+https://cdn.jsdelivr.net
+https://cdnjs.cloudflare.com
+https://cdn.brevo.com;
+
+connect-src 'self'
+https://api.mapbox.com
+https://events.mapbox.com
+https://api.trustedform.com
+https://api.continual.ly
+https://api.nexmo.com
+https://rest.nexmo.com
+https://*.ringba.com
+https://ipqualityscore.com
+https://api.ipqualityscore.com
+https://www.clickcease.com
+https://cdn.brevo.com
+https://fb.thesolarhelp.com
+https://easyhomeservice.com;
+
+frame-src 'self'
+https://cdn-app.continual.ly
+https://www.clickcease.com
+https://fb.thesolarhelp.com;
+
+object-src 'none';
+base-uri 'self';
+frame-ancestors 'self';
+upgrade-insecure-requests;
+"
+
+
+Header unset Server
+Header unset X-Powered-By
+</IfModule>
+
+############################################################
+# SECURITY HEADERS FOR STATIC FILES
+############################################################
+<FilesMatch "\.(txt|xml)$">
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-Content-Type-Options "nosniff"
+Header always set Permissions-Policy "geolocation=(), camera=(), microphone=()"
+Header always set Content-Security-Policy "default-src 'self'"
+</FilesMatch>
+
+############################################################
+# EXTENSIONLESS PHP ROUTING (ROOT + SUBFOLDERS)
+############################################################
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+############################################################
+# LOAD folder/index.php SAFELY
+############################################################
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}/index.php -f
+RewriteRule ^(.+?)/?$ $1/index.php [L]
+
+############################################################
+# BYPASS UNSUB ROUTE
+############################################################
+RewriteCond %{REQUEST_URI} ^/unsub/
+RewriteRule ^ - [L]
+
+############################################################
+# API PREFLIGHT
+############################################################
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(api|vonage)/ - [R=200,L]
+
+############################################################
+# VONAGE ROUTES
+############################################################
+RewriteRule ^vonage/verify-start$ vonage/verify-start.php [L]
+RewriteRule ^vonage/verify-check$ vonage/verify-check.php [L]
+RewriteRule ^vonage/verify-cancel$ vonage/verify-cancel.php [L]
+
+############################################################
+# REMOVE .PHP FROM URL (CANONICAL)
+############################################################
+RewriteCond %{THE_REQUEST} \s/([^\s\?]+)\.php[?\s] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+############################################################
+# NORMALIZE MULTIPLE DASHES
+############################################################
+RewriteRule ^(.*)--+(.*)$ $1-$2 [N]
+
+############################################################
+# SIMPLE REDIRECTS
+############################################################
+RewriteRule ^privacy$ /privacy-policy [R=301,L]
+RewriteRule ^pestcontrol$ /pest-control [R=301,L]
+
+
+RewriteCond %{REQUEST_URI} !^/blog/$
+RewriteRule ^blog/(.*)$ /$1 [R=301,L]
+
+############################################################
+# LOCATION ROUTES
+############################################################
+# RewriteRule ^([a-z-]+)/([a-z-]+)/roofing/?$ roofing-city.php?state=$1&city=$2 [L,QSA]
+# RewriteRule ^([a-z-]+)/([a-z-]+)/solar/?$ solar-city.php?state=$1&city=$2 [L,QSA]
+# RewriteRule ^([a-z-]+)/([a-z-]+)/window/?$ window-city.php?state=$1&city=$2 [L,QSA]
+
+# RewriteRule ^([a-z-]+)/roofing/?$ roofing-state.php?state=$1 [L,QSA]
+# RewriteRule ^([a-z-]+)/solar/?$ solar-state.php?state=$1 [L,QSA]
+# RewriteRule ^([a-z-]+)/window/?$ window-state.php?state=$1 [L,QSA]
+
+############################################################
+# REDIRECT UNKNOWN URLS TO HOMEPAGE
+############################################################
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}.php !-f
+# RewriteRule ^ https://easyhomeservice.com/ [R=302,L]
+
+############################################################
+# CUSTOM 404
+############################################################
+ErrorDocument 404 /404.php
+Redirect 301 /blog/2025-home-improvement-trends:-upgrades-for-a-stylish-home/ /blog/2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home
+
+
+
+Redirect 301 /pestcontrol /pest-control 
+
+Redirect 410 /2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home
+Redirect 410 /alabama/allservices
+Redirect 410 /alabama/bathroom
+Redirect 410 /alabama/flooring
+Redirect 410 /alabama/gutter
+Redirect 410 /alabama/handyman
+Redirect 410 /alabama/homewarranty
+Redirect 410 /alabama/hvac
+Redirect 410 /alabama/kitchen
+Redirect 410 /alabama/siding
+Redirect 410 /alabama/walktub
+Redirect 410 /alaska/allservices
+Redirect 410 /alaska/bathroom
+Redirect 410 /alaska/flooring
+Redirect 410 /alaska/gutter
+Redirect 410 /alaska/handyman
+Redirect 410 /alaska/homewarranty
+Redirect 410 /alaska/hvac
+Redirect 410 /alaska/kitchen
+Redirect 410 /alaska/siding
+Redirect 410 /alaska/walktub
+Redirect 410 /arizona/allservices
+Redirect 410 /arizona/bathroom
+Redirect 410 /arizona/flooring
+Redirect 410 /arizona/gutter
+Redirect 410 /arizona/handyman
+Redirect 410 /arizona/homewarranty
+Redirect 410 /arizona/hvac
+Redirect 410 /arizona/kitchen
+Redirect 410 /arizona/siding
+Redirect 410 /arizona/walktub
+Redirect 410 /arkansas/allservices
+Redirect 410 /arkansas/bathroom
+Redirect 410 /arkansas/flooring
+Redirect 410 /arkansas/gutter
+Redirect 410 /arkansas/handyman
+Redirect 410 /arkansas/homewarranty
+Redirect 410 /arkansas/hvac
+Redirect 410 /arkansas/kitchen
+Redirect 410 /arkansas/siding
+Redirect 410 /arkansas/walktub
+Redirect 410 /california/allservices
+Redirect 410 /california/bathroom
+Redirect 410 /california/flooring
+Redirect 410 /california/gutter
+Redirect 410 /california/handyman
+Redirect 410 /california/homewarranty
+Redirect 410 /california/hvac
+Redirect 410 /california/kitchen
+Redirect 410 /california/los-angeles/allservices
+Redirect 410 /california/los-angeles/bathroom
+Redirect 410 /california/los-angeles/flooring
+Redirect 410 /california/los-angeles/gutter
+Redirect 410 /california/los-angeles/handyman
+Redirect 410 /california/los-angeles/homewarranty
+Redirect 410 /california/los-angeles/hvac
+Redirect 410 /california/los-angeles/kitchen
+Redirect 410 /california/los-angeles/siding
+Redirect 410 /california/los-angeles/walktub
+Redirect 410 /california/roofin
+Redirect 410 /california/san-diego/allservices
+Redirect 410 /california/san-diego/bathroom
+Redirect 410 /california/san-diego/flooring
+Redirect 410 /california/san-diego/gutter
+Redirect 410 /california/san-diego/handyman
+Redirect 410 /california/san-diego/homewarranty
+Redirect 410 /california/san-diego/hvac
+Redirect 410 /california/san-diego/kitchen
+Redirect 410 /california/san-diego/siding
+Redirect 410 /california/san-diego/walktub
+Redirect 410 /california/san-francisco/allservices
+Redirect 410 /california/san-francisco/bathroom
+Redirect 410 /california/san-francisco/flooring
+Redirect 410 /california/san-francisco/gutter
+Redirect 410 /california/san-francisco/handyman
+Redirect 410 /california/san-francisco/homewarranty
+Redirect 410 /california/san-francisco/hvac
+Redirect 410 /california/san-francisco/kitchen
+Redirect 410 /california/san-francisco/siding
+Redirect 410 /california/san-francisco/walktub
+Redirect 410 /california/san-jose/allservices
+Redirect 410 /california/san-jose/bathroom
+Redirect 410 /california/san-jose/flooring
+Redirect 410 /california/san-jose/gutter
+Redirect 410 /california/san-jose/handyman
+Redirect 410 /california/san-jose/homewarranty
+Redirect 410 /california/san-jose/hvac
+Redirect 410 /california/san-jose/kitchen
+Redirect 410 /california/san-jose/siding
+Redirect 410 /california/san-jose/walktub
+Redirect 410 /california/siding
+Redirect 410 /california/walktub
+Redirect 410 /clickid=&source=
+Redirect 410 /colorado/allservices
+Redirect 410 /colorado/bathroom
+Redirect 410 /colorado/flooring
+Redirect 410 /colorado/gutter
+Redirect 410 /colorado/handyman
+Redirect 410 /colorado/homewarranty
+Redirect 410 /colorado/hvac
+Redirect 410 /colorado/kitchen
+Redirect 410 /colorado/siding
+Redirect 410 /colorado/walktub
+Redirect 410 /connecticut/allservices
+Redirect 410 /connecticut/bathroom
+Redirect 410 /connecticut/flooring
+Redirect 410 /connecticut/gutter
+Redirect 410 /connecticut/handyman
+Redirect 410 /connecticut/homewarranty
+Redirect 410 /connecticut/hvac
+Redirect 410 /connecticut/kitchen
+Redirect 410 /connecticut/siding
+Redirect 410 /connecticut/walktub
+Redirect 410 /delaware/allservices
+Redirect 410 /delaware/bathroom
+Redirect 410 /delaware/flooring
+Redirect 410 /delaware/gutter
+Redirect 410 /delaware/handyman
+Redirect 410 /delaware/homewarranty
+Redirect 410 /delaware/hvac
+Redirect 410 /delaware/kitchen
+Redirect 410 /delaware/siding
+Redirect 410 /delaware/walktub
+Redirect 410 /florida/allservices
+Redirect 410 /florida/bathroom
+Redirect 410 /florida/flooring
+Redirect 410 /florida/gutter
+Redirect 410 /florida/handyman
+Redirect 410 /florida/homewarranty
+Redirect 410 /florida/hvac
+Redirect 410 /florida/kitchen
+Redirect 410 /florida/siding
+Redirect 410 /florida/tampa/allservices
+Redirect 410 /florida/tampa/bathroom
+Redirect 410 /florida/tampa/flooring
+Redirect 410 /florida/tampa/gutter
+Redirect 410 /florida/tampa/handyman
+Redirect 410 /florida/tampa/homewarranty
+Redirect 410 /florida/tampa/hvac
+Redirect 410 /florida/tampa/kitchen
+Redirect 410 /florida/tampa/siding
+Redirect 410 /florida/tampa/walktub
+Redirect 410 /florida/walktub
+Redirect 410 /georgia/allservices
+Redirect 410 /georgia/bathroom
+Redirect 410 /georgia/flooring
+Redirect 410 /georgia/gutter
+Redirect 410 /georgia/handyman
+Redirect 410 /georgia/homewarranty
+Redirect 410 /georgia/hvac
+Redirect 410 /georgia/kitchen
+Redirect 410 /georgia/siding
+Redirect 410 /georgia/walktub
+Redirect 410 /hawaii/allservices
+Redirect 410 /hawaii/bathroom
+Redirect 410 /hawaii/flooring
+Redirect 410 /hawaii/gutter
+Redirect 410 /hawaii/handyman
+Redirect 410 /hawaii/homewarranty
+Redirect 410 /hawaii/hvac
+Redirect 410 /hawaii/kitchen
+Redirect 410 /hawaii/siding
+Redirect 410 /hawaii/walktub
+Redirect 410 /historical-windows-a-look-at-architectural-styles-across-america
+Redirect 410 /idaho/allservices
+Redirect 410 /idaho/bathroom
+Redirect 410 /idaho/flooring
+Redirect 410 /idaho/gutter
+Redirect 410 /idaho/handyman
+Redirect 410 /idaho/homewarranty
+Redirect 410 /idaho/hvac
+Redirect 410 /idaho/kitchen
+Redirect 410 /idaho/siding
+Redirect 410 /idaho/walktub
+Redirect 410 /illinois/allservices
+Redirect 410 /illinois/bathroom
+Redirect 410 /illinois/chicago/allservices
+Redirect 410 /illinois/chicago/bathroom
+Redirect 410 /illinois/chicago/flooring
+Redirect 410 /illinois/chicago/gutter
+Redirect 410 /illinois/chicago/handyman
+Redirect 410 /illinois/chicago/homewarranty
+Redirect 410 /illinois/chicago/hvac
+Redirect 410 /illinois/chicago/kitchen
+Redirect 410 /illinois/chicago/siding
+Redirect 410 /illinois/chicago/walktub
+Redirect 410 /illinois/flooring
+Redirect 410 /illinois/gutter
+Redirect 410 /illinois/handyman
+Redirect 410 /illinois/homewarranty
+Redirect 410 /illinois/hvac
+Redirect 410 /illinois/kitchen
+Redirect 410 /illinois/siding
+Redirect 410 /illinois/walktub
+Redirect 410 /indiana/allservices
+Redirect 410 /indiana/bathroom
+Redirect 410 /indiana/flooring
+Redirect 410 /indiana/gutter
+Redirect 410 /indiana/handyman
+Redirect 410 /indiana/homewarranty
+Redirect 410 /indiana/hvac
+Redirect 410 /indiana/kitchen
+Redirect 410 /indiana/siding
+Redirect 410 /indiana/walktub
+Redirect 410 /iowa/allservices
+Redirect 410 /iowa/bathroom
+Redirect 410 /iowa/flooring
+Redirect 410 /iowa/gutter
+Redirect 410 /iowa/handyman
+Redirect 410 /iowa/homewarranty
+Redirect 410 /iowa/hvac
+Redirect 410 /iowa/kitchen
+Redirect 410 /iowa/siding
+Redirect 410 /iowa/walktub
+Redirect 410 /kansas/allservices
+Redirect 410 /kansas/bathroom
+Redirect 410 /kansas/flooring
+Redirect 410 /kansas/gutter
+Redirect 410 /kansas/handyman
+Redirect 410 /kansas/homewarranty
+Redirect 410 /kansas/hvac
+Redirect 410 /kansas/kitchen
+Redirect 410 /kansas/siding
+Redirect 410 /kansas/walktub
+Redirect 410 /kentucky/allservices
+Redirect 410 /kentucky/bathroom
+Redirect 410 /kentucky/flooring
+Redirect 410 /kentucky/gutter
+Redirect 410 /kentucky/handyman
+Redirect 410 /kentucky/homewarranty
+Redirect 410 /kentucky/hvac
+Redirect 410 /kentucky/kitchen
+Redirect 410 /kentucky/siding
+Redirect 410 /kentucky/walktub
+Redirect 410 /louisiana/allservices
+Redirect 410 /louisiana/bathroom
+Redirect 410 /louisiana/flooring
+Redirect 410 /louisiana/gutter
+Redirect 410 /louisiana/handyman
+Redirect 410 /louisiana/homewarranty
+Redirect 410 /louisiana/hvac
+Redirect 410 /louisiana/kitchen
+Redirect 410 /louisiana/siding
+Redirect 410 /louisiana/walktub
+Redirect 410 /maine/allservices
+Redirect 410 /maine/bathroom
+Redirect 410 /maine/flooring
+Redirect 410 /maine/gutter
+Redirect 410 /maine/handyman
+Redirect 410 /maine/homewarranty
+Redirect 410 /maine/hvac
+Redirect 410 /maine/kitchen
+Redirect 410 /maine/siding
+Redirect 410 /maine/walktub
+Redirect 410 /maryland/allservices
+Redirect 410 /maryland/bathroom
+Redirect 410 /maryland/flooring
+Redirect 410 /maryland/gutter
+Redirect 410 /maryland/handyman
+Redirect 410 /maryland/homewarranty
+Redirect 410 /maryland/hvac
+Redirect 410 /maryland/kitchen
+Redirect 410 /maryland/siding
+Redirect 410 /maryland/walktub
+Redirect 410 /massachusetts/allservices
+Redirect 410 /massachusetts/bathroom
+Redirect 410 /massachusetts/flooring
+Redirect 410 /massachusetts/gutter
+Redirect 410 /massachusetts/handyman
+Redirect 410 /massachusetts/homewarranty
+Redirect 410 /massachusetts/hvac
+Redirect 410 /massachusetts/kitchen
+Redirect 410 /massachusetts/siding
+Redirect 410 /massachusetts/walktub
+Redirect 410 /michigan/allservices
+Redirect 410 /michigan/bathroom
+Redirect 410 /michigan/flooring
+Redirect 410 /michigan/gutter
+Redirect 410 /michigan/handyman
+Redirect 410 /michigan/homewarranty
+Redirect 410 /michigan/hvac
+Redirect 410 /michigan/kitchen
+Redirect 410 /michigan/siding
+Redirect 410 /michigan/walktub
+Redirect 410 /minnesota/allservices
+Redirect 410 /minnesota/bathroom
+Redirect 410 /minnesota/flooring
+Redirect 410 /minnesota/gutter
+Redirect 410 /minnesota/handyman
+Redirect 410 /minnesota/homewarranty
+Redirect 410 /minnesota/hvac
+Redirect 410 /minnesota/kitchen
+Redirect 410 /minnesota/siding
+Redirect 410 /minnesota/walktub
+Redirect 410 /mississippi/allservices
+Redirect 410 /mississippi/bathroom
+Redirect 410 /mississippi/flooring
+Redirect 410 /mississippi/gutter
+Redirect 410 /mississippi/handyman
+Redirect 410 /mississippi/homewarranty
+Redirect 410 /mississippi/hvac
+Redirect 410 /mississippi/kitchen
+Redirect 410 /mississippi/siding
+Redirect 410 /mississippi/walktub
+Redirect 410 /missouri/allservices
+Redirect 410 /missouri/bathroom
+Redirect 410 /missouri/flooring
+Redirect 410 /missouri/gutter
+Redirect 410 /missouri/handyman
+Redirect 410 /missouri/homewarranty
+Redirect 410 /missouri/hvac
+Redirect 410 /missouri/kitchen
+Redirect 410 /missouri/siding
+Redirect 410 /missouri/walktub
+Redirect 410 /montana/allservices
+Redirect 410 /montana/bathroom
+Redirect 410 /montana/flooring
+Redirect 410 /montana/gutter
+Redirect 410 /montana/handyman
+Redirect 410 /montana/homewarranty
+Redirect 410 /montana/hvac
+Redirect 410 /montana/kitchen
+Redirect 410 /montana/siding
+Redirect 410 /montana/walktub
+Redirect 410 /nebraska/allservices
+Redirect 410 /nebraska/bathroom
+Redirect 410 /nebraska/flooring
+Redirect 410 /nebraska/gutter
+Redirect 410 /nebraska/handyman
+Redirect 410 /nebraska/homewarranty
+Redirect 410 /nebraska/hvac
+Redirect 410 /nebraska/kitchen
+Redirect 410 /nebraska/siding
+Redirect 410 /nebraska/walktub
+Redirect 410 /nevada/allservices
+Redirect 410 /nevada/bathroom
+Redirect 410 /nevada/flooring
+Redirect 410 /nevada/gutter
+Redirect 410 /nevada/handyman
+Redirect 410 /nevada/homewarranty
+Redirect 410 /nevada/hvac
+Redirect 410 /nevada/kitchen
+Redirect 410 /nevada/siding
+Redirect 410 /nevada/walktub
+Redirect 410 /new-hampshire/allservices
+Redirect 410 /new-hampshire/bathroom
+Redirect 410 /new-hampshire/flooring
+Redirect 410 /new-hampshire/gutter
+Redirect 410 /new-hampshire/handyman
+Redirect 410 /new-hampshire/homewarranty
+Redirect 410 /new-hampshire/hvac
+Redirect 410 /new-hampshire/kitchen
+Redirect 410 /new-hampshire/siding
+Redirect 410 /new-hampshire/walktub
+Redirect 410 /new-jersey/allservices
+Redirect 410 /new-jersey/bathroom
+Redirect 410 /new-jersey/flooring
+Redirect 410 /new-jersey/gutter
+Redirect 410 /new-jersey/handyman
+Redirect 410 /new-jersey/homewarranty
+Redirect 410 /new-jersey/hvac
+Redirect 410 /new-jersey/kitchen
+Redirect 410 /new-jersey/siding
+Redirect 410 /new-jersey/walktub
+Redirect 410 /new-mexico/allservices
+Redirect 410 /new-mexico/bathroom
+Redirect 410 /new-mexico/flooring
+Redirect 410 /new-mexico/gutter
+Redirect 410 /new-mexico/handyman
+Redirect 410 /new-mexico/homewarranty
+Redirect 410 /new-mexico/hvac
+Redirect 410 /new-mexico/kitchen
+Redirect 410 /new-mexico/siding
+Redirect 410 /new-mexico/walktub
+Redirect 410 /new-york/allservices
+Redirect 410 /new-york/bathroom
+Redirect 410 /new-york/flooring
+Redirect 410 /new-york/gutter
+Redirect 410 /new-york/handyman
+Redirect 410 /new-york/homewarranty
+Redirect 410 /new-york/hvac
+Redirect 410 /new-york/kitchen
+Redirect 410 /new-york/new-york-city/allservices
+Redirect 410 /new-york/new-york-city/bathroom
+Redirect 410 /new-york/new-york-city/flooring
+Redirect 410 /new-york/new-york-city/gutter
+Redirect 410 /new-york/new-york-city/handyman
+Redirect 410 /new-york/new-york-city/homewarranty
+Redirect 410 /new-york/new-york-city/hvac
+Redirect 410 /new-york/new-york-city/kitchen
+Redirect 410 /new-york/new-york-city/siding
+Redirect 410 /new-york/new-york-city/walktub
+Redirect 410 /new-york/siding
+Redirect 410 /new-york/walktub
+Redirect 410 /north-carolina/allservices
+Redirect 410 /north-carolina/bathroom
+Redirect 410 /north-carolina/flooring
+Redirect 410 /north-carolina/gutter
+Redirect 410 /north-carolina/handyman
+Redirect 410 /north-carolina/homewarranty
+Redirect 410 /north-carolina/hvac
+Redirect 410 /north-carolina/kitchen
+Redirect 410 /north-carolina/siding
+Redirect 410 /north-carolina/walktub
+Redirect 410 /north-dakota/allservices
+Redirect 410 /north-dakota/bathroom
+Redirect 410 /north-dakota/flooring
+Redirect 410 /north-dakota/gutter
+Redirect 410 /north-dakota/handyman
+Redirect 410 /north-dakota/homewarranty
+Redirect 410 /north-dakota/hvac
+Redirect 410 /north-dakota/kitchen
+Redirect 410 /north-dakota/siding
+Redirect 410 /north-dakota/walktub
+Redirect 410 /ohio/allservices
+Redirect 410 /ohio/bathroom
+Redirect 410 /ohio/flooring
+Redirect 410 /ohio/gutter
+Redirect 410 /ohio/handyman
+Redirect 410 /ohio/homewarranty
+Redirect 410 /ohio/hvac
+Redirect 410 /ohio/kitchen
+Redirect 410 /ohio/siding
+Redirect 410 /ohio/walktub
+Redirect 410 /oklahoma/allservices
+Redirect 410 /oklahoma/bathroom
+Redirect 410 /oklahoma/flooring
+Redirect 410 /oklahoma/gutter
+Redirect 410 /oklahoma/handyman
+Redirect 410 /oklahoma/homewarranty
+Redirect 410 /oklahoma/hvac
+Redirect 410 /oklahoma/kitchen
+Redirect 410 /oklahoma/siding
+Redirect 410 /oklahoma/walktub
+Redirect 410 /oregon/allservices
+Redirect 410 /oregon/bathroom
+Redirect 410 /oregon/flooring
+Redirect 410 /oregon/gutter
+Redirect 410 /oregon/handyman
+Redirect 410 /oregon/homewarranty
+Redirect 410 /oregon/hvac
+Redirect 410 /oregon/kitchen
+Redirect 410 /oregon/siding
+Redirect 410 /oregon/walktub
+Redirect 410 /pennsylvania/allservices
+Redirect 410 /pennsylvania/bathroom
+Redirect 410 /pennsylvania/flooring
+Redirect 410 /pennsylvania/gutter
+Redirect 410 /pennsylvania/handyman
+Redirect 410 /pennsylvania/homewarranty
+Redirect 410 /pennsylvania/hvac
+Redirect 410 /pennsylvania/kitchen
+Redirect 410 /pennsylvania/philadelphia/allservices
+Redirect 410 /pennsylvania/philadelphia/bathroom
+Redirect 410 /pennsylvania/philadelphia/flooring
+Redirect 410 /pennsylvania/philadelphia/gutter
+Redirect 410 /pennsylvania/philadelphia/handyman
+Redirect 410 /pennsylvania/philadelphia/homewarranty
+Redirect 410 /pennsylvania/philadelphia/hvac
+Redirect 410 /pennsylvania/philadelphia/kitchen
+Redirect 410 /pennsylvania/philadelphia/siding
+Redirect 410 /pennsylvania/philadelphia/walktub
+Redirect 410 /pennsylvania/siding
+Redirect 410 /pennsylvania/walktub
+Redirect 410 /rhode-island/allservices
+Redirect 410 /rhode-island/bathroom
+Redirect 410 /rhode-island/flooring
+Redirect 410 /rhode-island/gutter
+Redirect 410 /rhode-island/handyman
+Redirect 410 /rhode-island/homewarranty
+Redirect 410 /rhode-island/hvac
+Redirect 410 /rhode-island/kitchen
+Redirect 410 /rhode-island/siding
+Redirect 410 /rhode-island/walktub
+Redirect 410 /south-carolina/allservices
+Redirect 410 /south-carolina/bathroom
+Redirect 410 /south-carolina/flooring
+Redirect 410 /south-carolina/gutter
+Redirect 410 /south-carolina/handyman
+Redirect 410 /south-carolina/homewarranty
+Redirect 410 /south-carolina/hvac
+Redirect 410 /south-carolina/kitchen
+Redirect 410 /south-carolina/siding
+Redirect 410 /south-carolina/walktub
+Redirect 410 /south-dakota/allservices
+Redirect 410 /south-dakota/bathroom
+Redirect 410 /south-dakota/flooring
+Redirect 410 /south-dakota/gutter
+Redirect 410 /south-dakota/handyman
+Redirect 410 /south-dakota/homewarranty
+Redirect 410 /south-dakota/hvac
+Redirect 410 /south-dakota/kitchen
+Redirect 410 /south-dakota/siding
+Redirect 410 /south-dakota/walktub
+Redirect 410 /state/alabama
+Redirect 410 /state/alaska
+Redirect 410 /state/arizona
+Redirect 410 /state/arkansas
+Redirect 410 /state/california
+Redirect 410 /state/colorado
+Redirect 410 /state/connecticut
+Redirect 410 /state/delaware
+Redirect 410 /state/florida
+Redirect 410 /state/georgia
+Redirect 410 /state/hawaii
+Redirect 410 /state/idaho
+Redirect 410 /state/illinois
+Redirect 410 /state/indiana
+Redirect 410 /state/iowa
+Redirect 410 /state/kansas
+Redirect 410 /state/kentucky
+Redirect 410 /state/louisiana
+Redirect 410 /state/maine
+Redirect 410 /state/maryland
+Redirect 410 /state/massachusetts
+Redirect 410 /state/michigan
+Redirect 410 /state/minnesota
+Redirect 410 /state/mississippi
+Redirect 410 /state/missouri
+Redirect 410 /state/montana
+Redirect 410 /state/nebraska
+Redirect 410 /state/nevada
+Redirect 410 /state/new-hampshire
+Redirect 410 /state/new-jersey
+Redirect 410 /state/new-mexico
+Redirect 410 /state/new-york
+Redirect 410 /state/north-carolina
+Redirect 410 /state/north-dakota
+Redirect 410 /state/ohio
+Redirect 410 /state/oklahoma
+Redirect 410 /state/oregon
+Redirect 410 /state/pennsylvania
+Redirect 410 /state/rhode-island
+Redirect 410 /state/south-carolina
+Redirect 410 /state/south-dakota
+Redirect 410 /state/tennessee
+Redirect 410 /state/texas
+Redirect 410 /state/utah
+Redirect 410 /state/vermont
+Redirect 410 /state/virginia
+Redirect 410 /state/washington
+Redirect 410 /state/west-virginia
+Redirect 410 /state/wisconsin
+Redirect 410 /state/wyoming
+Redirect 410 /storm-proof-your-home-why-storm-windows-maryland-are-a-game-changer
+Redirect 410 /tennessee/allservices
+Redirect 410 /tennessee/bathroom
+Redirect 410 /tennessee/flooring
+Redirect 410 /tennessee/gutter
+Redirect 410 /tennessee/handyman
+Redirect 410 /tennessee/homewarranty
+Redirect 410 /tennessee/hvac
+Redirect 410 /tennessee/kitchen
+Redirect 410 /tennessee/siding
+Redirect 410 /tennessee/walktub
+Redirect 410 /texas/allservices
+Redirect 410 /texas/bathroom
+Redirect 410 /texas/dallas/allservices
+Redirect 410 /texas/dallas/bathroom
+Redirect 410 /texas/dallas/flooring
+Redirect 410 /texas/dallas/gutter
+Redirect 410 /texas/dallas/handyman
+Redirect 410 /texas/dallas/homewarranty
+Redirect 410 /texas/dallas/hvac
+Redirect 410 /texas/dallas/kitchen
+Redirect 410 /texas/dallas/siding
+Redirect 410 /texas/dallas/walktub
+Redirect 410 /texas/flooring
+Redirect 410 /texas/gutter
+Redirect 410 /texas/handyman
+Redirect 410 /texas/homewarranty
+Redirect 410 /texas/houston/allservices
+Redirect 410 /texas/houston/bathroom
+Redirect 410 /texas/houston/flooring
+Redirect 410 /texas/houston/gutter
+Redirect 410 /texas/houston/handyman
+Redirect 410 /texas/houston/homewarranty
+Redirect 410 /texas/houston/hvac
+Redirect 410 /texas/houston/kitchen
+Redirect 410 /texas/houston/siding
+Redirect 410 /texas/houston/walktub
+Redirect 410 /texas/hvac
+Redirect 410 /texas/kitchen
+Redirect 410 /texas/san-antonio/allservices
+Redirect 410 /texas/san-antonio/bathroom
+Redirect 410 /texas/san-antonio/flooring
+Redirect 410 /texas/san-antonio/gutter
+Redirect 410 /texas/san-antonio/handyman
+Redirect 410 /texas/san-antonio/homewarranty
+Redirect 410 /texas/san-antonio/hvac
+Redirect 410 /texas/san-antonio/kitchen
+Redirect 410 /texas/san-antonio/siding
+Redirect 410 /texas/san-antonio/walktub
+Redirect 410 /texas/siding
+Redirect 410 /texas/walktub
+Redirect 410 /the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact
+Redirect 410 /the-ultimate-guide-to-know-when-you-call-a-roofing-expert
+Redirect 410 /utah/allservices
+Redirect 410 /utah/bathroom
+Redirect 410 /utah/flooring
+Redirect 410 /utah/gutter
+Redirect 410 /utah/handyman
+Redirect 410 /utah/homewarranty
+Redirect 410 /utah/hvac
+Redirect 410 /utah/kitchen
+Redirect 410 /utah/siding
+Redirect 410 /utah/walktub
+Redirect 410 /vermont/allservices
+Redirect 410 /vermont/bathroom
+Redirect 410 /vermont/flooring
+Redirect 410 /vermont/gutter
+Redirect 410 /vermont/handyman
+Redirect 410 /vermont/homewarranty
+Redirect 410 /vermont/hvac
+Redirect 410 /vermont/kitchen
+Redirect 410 /vermont/siding
+Redirect 410 /vermont/walktub
+Redirect 410 /virginia/allservices
+Redirect 410 /virginia/bathroom
+Redirect 410 /virginia/flooring
+Redirect 410 /virginia/gutter
+Redirect 410 /virginia/handyman
+Redirect 410 /virginia/homewarranty
+Redirect 410 /virginia/hvac
+Redirect 410 /virginia/kitchen
+Redirect 410 /virginia/siding
+Redirect 410 /virginia/walktub
+Redirect 410 /washington/allservices
+Redirect 410 /washington/bathroom
+Redirect 410 /washington/flooring
+Redirect 410 /washington/gutter
+Redirect 410 /washington/handyman
+Redirect 410 /washington/homewarranty
+Redirect 410 /washington/hvac
+Redirect 410 /washington/kitchen
+Redirect 410 /washington/siding
+Redirect 410 /washington/walktub
+Redirect 410 /west-virginia/allservices
+Redirect 410 /west-virginia/bathroom
+Redirect 410 /west-virginia/flooring
+Redirect 410 /west-virginia/gutter
+Redirect 410 /west-virginia/handyman
+Redirect 410 /west-virginia/homewarranty
+Redirect 410 /west-virginia/hvac
+Redirect 410 /west-virginia/kitchen
+Redirect 410 /west-virginia/siding
+Redirect 410 /west-virginia/walktub
+Redirect 410 /wisconsin/allservices
+Redirect 410 /wisconsin/bathroom
+Redirect 410 /wisconsin/flooring
+Redirect 410 /wisconsin/gutter
+Redirect 410 /wisconsin/handyman
+Redirect 410 /wisconsin/homewarranty
+Redirect 410 /wisconsin/hvac
+Redirect 410 /wisconsin/kitchen
+Redirect 410 /wisconsin/siding
+Redirect 410 /wisconsin/walktub
+Redirect 410 /wyoming/allservices
+Redirect 410 /wyoming/bathroom
+Redirect 410 /wyoming/flooring
+Redirect 410 /wyoming/gutter
+Redirect 410 /wyoming/handyman
+Redirect 410 /wyoming/homewarranty
+Redirect 410 /wyoming/hvac
+Redirect 410 /wyoming/kitchen
+Redirect 410 /wyoming/siding
+Redirect 410 /wyoming/walktub
+Redirect 410 /pennsylvania/philadelphia/window
+Redirect 410 /bathrooms/roofing
+Redirect 410 /california/san-diego/window
+Redirect 410 /bathrooms/roofing.php
+Redirect 410 /texas/solar
+Redirect 410 /texas/dallas/solar
+Redirect 410 /bathrooms/solar.php
+Redirect 410 /florida/window
+Redirect 410 /texas/window
+Redirect 410 /pennsylvania/window
+Redirect 410 /illinois/solar
+Redirect 410 /california/san-francisco/window
+Redirect 410 /new-york/new-york-city/window
+Redirect 410 /new-york/new-york-city/solar
+Redirect 410 /florida/solar
+Redirect 410 /new-york/solar
+Redirect 410 /california/solar
+Redirect 410 /new-york/window
+Redirect 410 /california/solar
+Redirect 410 /illinois/chicago/solar
+Redirect 410 /texas/dallas/roofing
+Redirect 410 /texas/san-antonio/roofing
+Redirect 410 /illinois/roofing
+Redirect 410 /texas/houston/window
+Redirect 410 /pennsylvania/roofing
+Redirect 410 /pennsylvania/roofing
+Redirect 410 /california/san-jose/roofing
+Redirect 410 /california/los-angeles/roofing
+Redirect 410 /texas/houston/roofing
+Redirect 410 /california/san-francisco/roofing
+Redirect 410 /illinois/chicago/roofing
+Redirect 410 /windows/roofing
+Redirect 410 /windows/solar
+Redirect 410 /california/window
+Redirect 410 /california/san-jose/window
+Redirect 410 /california/san-jose/solar
+Redirect 410 /pennsylvania/solar
+Redirect 410 /california/los-angeles/solar
+Redirect 410 /california/los-angeles/window
+Redirect 410 /california/san-diego/roofing
+Redirect 410 /california/san-diego/solar
+Redirect 410 /california/san-francisco/solar
+Redirect 410 /florida/roofing
+Redirect 410 /florida/tampa/roofing
+Redirect 410 /florida/tampa/solar
+Redirect 410 /illinois/chicago/window
+Redirect 410 /new-york/new-york-city/roofing
+Redirect 410 /new-york/roofing
+Redirect 410 /pennsylvania/philadelphia/roofing
+Redirect 410 /pennsylvania/philadelphia/solar
+Redirect 410 /texas/houston/solar
+Redirect 410 /texas/dallas/window
+Redirect 410 /texas/roofing
+Redirect 410 /texas/san-antonio/solar
+Redirect 410 /texas/san-antonio/window
+Redirect 410 /alabama/roofing
+Redirect 410 /alabama/solar
+Redirect 410 /alabama/window
+Redirect 410 /alaska/roofing
+Redirect 410 /alaska/roofing
+Redirect 410 /alaska/solar
+Redirect 410 /alaska/window
+Redirect 410 /arizona/roofing
+Redirect 410 /arizona/solar
+Redirect 410 /arizona/window
+Redirect 410 /arkansas/roofing
+Redirect 410 /arkansas/solar
+Redirect 410 /arkansas/window
+Redirect 410 /california/los-angeles/solar
+Redirect 410 /california/los-angeles/window
+Redirect 410 /california/roofing
+Redirect 410 /colorado/roofing
+Redirect 410 /colorado/solar
+Redirect 410 /colorado/window
+Redirect 410 /connecticut/roofing
+Redirect 410 /connecticut/solar
+Redirect 410 /connecticut/window
+Redirect 410 /delaware/roofing
+Redirect 410 /delaware/solar
+Redirect 410 /delaware/window
+Redirect 410 /california/solar
+Redirect 410 /california/window
+Redirect 410 /florida/roofing
+Redirect 410 /florida/tampa/roofing
+Redirect 410 /florida/tampa/solar
+Redirect 410 /florida/tampa/window
+Redirect 410 /georgia/roofing
+Redirect 410 /georgia/solar
+Redirect 410 /georgia/window
+Redirect 410 /hawaii/roofing
+Redirect 410 /hawaii/solar
+Redirect 410 /hawaii/window
+Redirect 410 /idaho/roofing
+Redirect 410 /idaho/solar
+Redirect 410 /idaho/window
+Redirect 410 /illinois/chicago/window
+Redirect 410 /illinois/window
+Redirect 410 /indiana/roofing
+Redirect 410 /indiana/solar
+Redirect 410 /indiana/window
+Redirect 410 /iowa/roofing
+Redirect 410 /iowa/solar
+Redirect 410 /iowa/window
+Redirect 410 /kansas/roofing
+Redirect 410 /kansas/solar
+Redirect 410 /kansas/window
+Redirect 410 /kentucky/roofing
+Redirect 410 /kentucky/solar
+Redirect 410 /kentucky/window
+Redirect 410 /louisiana/roofing
+Redirect 410 /louisiana/solar
+Redirect 410 /louisiana/window
+Redirect 410 /maine/roofing
+Redirect 410 /maine/solar
+Redirect 410 /maine/window
+Redirect 410 /maryland/roofing
+Redirect 410 /maryland/solar
+Redirect 410 /maryland/window
+Redirect 410 /massachusetts/roofing
+Redirect 410 /massachusetts/solar
+Redirect 410 /massachusetts/window
+Redirect 410 /michigan/roofing
+Redirect 410 /michigan/solar
+Redirect 410 /michigan/window
+Redirect 410 /minnesota/roofing
+Redirect 410 /minnesota/solar
+Redirect 410 /minnesota/window
+Redirect 410 /mississippi/roofing
+Redirect 410 /mississippi/solar
+Redirect 410 /mississippi/window
+Redirect 410 /missouri/roofing
+Redirect 410 /missouri/solar
+Redirect 410 /missouri/window
+Redirect 410 /montana/roofing
+Redirect 410 /montana/solar
+Redirect 410 /montana/window
+Redirect 410 /nebraska/roofing
+Redirect 410 /nebraska/solar
+Redirect 410 /nebraska/window
+Redirect 410 /nevada/roofing
+Redirect 410 /nevada/solar
+Redirect 410 /nevada/window
+Redirect 410 /new-hampshire/roofing
+Redirect 410 /new-hampshire/solar
+Redirect 410 /new-hampshire/window
+Redirect 410 /new-jersey/roofing
+Redirect 410 /new-jersey/solar
+Redirect 410 /new-jersey/window
+Redirect 410 /new-mexico/roofing
+Redirect 410 /new-mexico/solar
+Redirect 410 /new-mexico/window
+Redirect 410 /new-york/new-york-city/roofing
+Redirect 410 /new-york/roofing
+Redirect 410 /north-carolina/roofing
+Redirect 410 /north-carolina/solar
+Redirect 410 /north-carolina/window
+Redirect 410 /north-dakota/roofing
+Redirect 410 /north-dakota/solar
+Redirect 410 /north-dakota/window
+Redirect 410 /ohio/roofing
+Redirect 410 /ohio/solar
+Redirect 410 /ohio/window
+Redirect 410 /oklahoma/roofing
+Redirect 410 /oklahoma/solar
+Redirect 410 /oklahoma/window
+Redirect 410 /oregon/roofing
+Redirect 410 /oregon/solar
+Redirect 410 /oregon/window
+Redirect 410 /pennsylvania/philadelphia/roofing
+Redirect 410 /pennsylvania/philadelphia/solar
+Redirect 410 /rhode-island/roofing
+Redirect 410 /rhode-island/solar
+Redirect 410 /rhode-island/window
+Redirect 410 /south-carolina/roofing
+Redirect 410 /south-carolina/solar
+Redirect 410 /south-carolina/window
+Redirect 410 /south-dakota/roofing
+Redirect 410 /south-dakota/solar
+Redirect 410 /south-dakota/window
+Redirect 410 /tennessee/roofing
+Redirect 410 /tennessee/solar
+Redirect 410 /tennessee/window
+Redirect 410 /texas/dallas/roofing
+Redirect 410 /texas/dallas/solar
+Redirect 410 /texas/dallas/window
+Redirect 410 /texas/houston/roofing
+Redirect 410 /texas/houston/solar
+Redirect 410 /texas/houston/window
+Redirect 410 /texas/roofing
+Redirect 410 /texas/san-antonio/roofing
+Redirect 410 /texas/san-antonio/solar
+Redirect 410 /texas/san-antonio/window
+Redirect 410 /texas/solar
+Redirect 410 /texas/window
+Redirect 410 /utah/roofing
+Redirect 410 /utah/solar
+Redirect 410 /utah/window
+Redirect 410 /vermont/roofing
+Redirect 410 /vermont/solar
+Redirect 410 /vermont/window
+Redirect 410 /virginia/roofing
+Redirect 410 /virginia/solar
+Redirect 410 /virginia/window
+Redirect 410 /washington/roofing
+Redirect 410 /washington/solar
+Redirect 410 /washington/window
+Redirect 410 /west-virginia/roofing
+Redirect 410 /west-virginia/solar
+Redirect 410 /west-virginia/window
+Redirect 410 /wisconsin/roofing
+Redirect 410 /wisconsin/solar
+Redirect 410 /wisconsin/window
+Redirect 410 /wyoming/roofing
+Redirect 410 /wyoming/solar
+Redirect 410 /wyoming/window
+
+
+
+
+RewriteEngine On
+
+# Redirect everything inside /bathrooms/ to /bathroom
+RewriteRule ^bathrooms(/.*)?$ /bathroom [R=301,L]
+RewriteRule ^windows(/.*)?$ /window [R=301,L]
+
+
+
+############################################################
+# PHP HANDLER (CPANEL)
+############################################################
+<IfModule mime_module>
+AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
+</IfModule>
+
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # Images
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+
+  # Fonts
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType application/font-woff2 "access plus 1 year"
+
+  # CSS & JS
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|jpg|jpeg|png|webp|svg|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # Default
+  ExpiresDefault "access plus 1 month"
+
+  # CSS
+  ExpiresByType text/css "access plus 1 month"
+
+  # JavaScript
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+
+  # Images
+  ExpiresByType image/jpg "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+
+  # Fonts
+  ExpiresByType font/ttf "access plus 1 month"
+  ExpiresByType font/otf "access plus 1 month"
+  ExpiresByType font/woff "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 month"
+
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|svg|woff|woff2|ttf|otf)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+</IfModule>
+<IfModule mod_headers.c>
+    Header set X-Robots-Tag "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php83” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

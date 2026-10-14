@@ -1,0 +1,111 @@
+RewriteEngine On
+ 
+# General redirect based on 'permalink' query value, applied globally
+ 
+# 1. historical windows
+RewriteCond %{QUERY_STRING} (^|&)permalink=historical-windows---a-look-at-architectural-styles-across-america(&|$)
+RewriteRule ^.*$ /blog/historical-windows-a-look-at-architectural-styles-across-america? [R=301,L]
+ 
+# 2. home improvement trends
+RewriteCond %{REQUEST_URI} ^/blog/2025-home-improvement-trends:-upgrades-for-a-stylish-home$
+RewriteRule ^.*$ /blog/2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home? [R=301,L]
+ 
+# 3. sustainable kitchen
+RewriteCond %{QUERY_STRING} (^|&)permalink=the-art-of-sustainable-kitchen-design:-balancing-style-and-environmental-impact(&|$)
+RewriteRule ^.*$ /blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact? [R=301,L]
+ 
+# 4. electric bill
+RewriteCond %{REQUEST_URI} ^/blog/electric-bill-$
+RewriteRule ^.*$ /blog/high-energy-bills-hidden-hvac-problems [R=301,L] 
+ 
+# Ensure the query string is preserved
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ /blog/single.php?permalink=$1 [QSA,L]
+ 
+# 1. Redirect from /allservices%7Bsearch_term_string%7D to /allservices
+RewriteCond %{REQUEST_URI} ^/allservices%7Bsearch_term_string%7D$
+RewriteRule ^ /allservices [L,R=301]
+ 
+# 2. Exclude /blog/ (the exact URL) from redirection
+RewriteCond %{REQUEST_URI} !^/blog/$
+# Redirect all other /blog/* URLs to the root without /blog/
+RewriteRule ^blog/(.*)$ /$1 [L,R=301]
+ 
+# Redirect second URL
+RewriteCond %{REQUEST_URI} ^/blog/single\.php$
+RewriteCond %{QUERY_STRING} ^category=Blog\+Post&permalink=the-ultimate-guide-to-know-when-you-call-a-roofing-expert$
+RewriteRule ^.*$ https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert? [R=301,L]
+ 
+# Redirect third URL
+RewriteCond %{REQUEST_URI} ^/blog/single\.php$
+RewriteCond %{QUERY_STRING} ^category=Blog\+Post&permalink=the-art-of-sustainable-kitchen-design:-balancing-style-and-environmental-impact$
+RewriteRule ^.*$ https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact? [R=301,L]
+ 
+# Redirect fourth URL
+RewriteCond %{REQUEST_URI} ^/blog/single\.php$
+RewriteCond %{QUERY_STRING} ^category=Windows&permalink=historical-windows-a-look-at-architectural-styles-across-america$
+RewriteRule ^.*$ https://easyhomeservice.com/blog/historical-windows-a-look-at-architectural-styles-across-america? [R=301,L]
+ 
+RewriteRule ^electric-bill-?$ - [G,L]
+
+# Redirects (301 & 410)
+Redirect 301 /blog/admin/bathroom-remodeling-trends-2025 /bathroom
+Redirect 301 /blog/admin/best-window-replacement-in-maryland /blog/best-window-replacement-in-maryland
+Redirect 301 /blog/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert /blog/roofing-projects-skylight-upgrade
+
+# Post Assets 301 Redirects
+Redirect 301 /blog/boiler-installation-ohio-cost-repair-replacement-guide/assets/css/blogstyle.css /blog/boiler-installation-ohio-cost-repair-replacement-guide
+Redirect 301 /blog/boiler-installation-ohio-cost-repair-replacement-guide/assets/css/style.css /blog/boiler-installation-ohio-cost-repair-replacement-guide
+Redirect 301 /blog/boiler-installation-ohio-cost-repair-replacement-guide/assets/css/wordpresscss.css /blog/boiler-installation-ohio-cost-repair-replacement-guide
+Redirect 301 /blog/boiler-installation-ohio-cost-repair-replacement-guide/fetch_comments /blog/boiler-installation-ohio-cost-repair-replacement-guide
+
+Redirect 301 /blog/furnace-not-heating-ohio-common-causes/assets/css/blogstyle.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-not-heating-ohio-common-causes/assets/css/style.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-not-heating-ohio-common-causes/assets/css/wordpresscss.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-not-heating-ohio-common-causes/fetch_comments /blog/furnace-not-heating-ohio-common-causes
+
+Redirect 301 /blog/furnace-repair-vs-furnace-replacement-heating-and-furnace-services/assets/css/blogstyle.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-repair-vs-furnace-replacement-heating-and-furnace-services/assets/css/style.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-repair-vs-furnace-replacement-heating-and-furnace-services/assets/css/wordpresscss.css /blog/furnace-not-heating-ohio-common-causes
+Redirect 301 /blog/furnace-repair-vs-furnace-replacement-heating-and-furnace-services/fetch_comments /blog/furnace-not-heating-ohio-common-causes
+
+Redirect 301 /blog/air-conditioner-maintenance-cost/assets/css/blogstyle.css /blog/air-conditioner-maintenance-cost
+Redirect 301 /blog/kitchen-remodeling-expert/assets/css/blogstyle.css /blog/kitchen-remodeling-expert
+Redirect 301 /blog/kitchen-remodeling-expert/assets/css/style.css /blog/kitchen-remodeling-expert
+Redirect 301 /blog/kitchen-remodeling-expert/assets/css/wordpresscss.css /blog/kitchen-remodeling-expert
+Redirect 301 /blog/winter-plumbing-issues-homeowners/assets/css/blogstyle.css /blog/winter-plumbing-issues-homeowners
+Redirect 301 /blog/winter-plumbing-issues-homeowners/assets/css/wordpresscss.css /blog/winter-plumbing-issues-homeowners
+
+Redirect 301 /blog/admin/postimages/31bc5101ae4d2220686d6d68b1bd9c32.png https://easyhomeservice.com/blog/
+Redirect 301 /blog/admin/postimages/d0446988803b7a8610a4b4d53dc91b08.png https://easyhomeservice.com/blog/
+
+
+Redirect 301 /blog/gutter-cleaning-cost/assets/css/blogstyle.css https://easyhomeservice.com/blog/gutter-cleaning-cost
+Redirect 301 /blog/gutter-cleaning-cost/assets/css/style.css https://easyhomeservice.com/blog/gutter-cleaning-cost
+Redirect 301 /blog/gutter-cleaning-cost/assets/css/wordpresscss.css https://easyhomeservice.com/blog/gutter-cleaning-cost
+
+Redirect 301 /blog/kitchen-remodeling-expert/assets/css/style.css https://easyhomeservice.com/blog/kitchen-remodeling-expert
+
+# SVG Icons 301 Redirects
+Redirect 301 /blog/images/easyhomeservice.svg /
+Redirect 301 /blog/images/hvac.svg /hvac
+Redirect 301 /blog/admin/best-window-replacement-in-maryland /blog/best-window-replacement-in-maryland
+
+
+Redirect 301 /blog/.solar-panel-problems https://easyhomeservice.com/blog/solar-panel-problems
+
+Redirect 301 /blog/damaged-roof-affect- https://easyhomeservice.com/blog/damaged-roof-affect-your-solar-panels
+
+Redirect 301 /blog/cost-carpet- https://easyhomeservice.com/blog/cost-carpet-flooring
+
+Redirect 301 /blog/common-bathroom-plumbing-problems-texasLearn https://easyhomeservice.com/blog/common-bathroom-plumbing-problems-texas
+
+Redirect 301 /blog/best-vinyl https://easyhomeservice.com/blog/best-vinyl-siding-colors-in-colorado
+
+
+# Remaining 410 redirects (no active redirects)
+Redirect 410 /blog/admin/postimages/What s the Best HVAC System for Homes in USA Guide 2026-1782.jpg
+Redirect 410 /blog/cabinet-refacing-cost
+RewriteRule ^cat=([^/]+)/?$ index.php?cat=$1 [L,QSA]
+# main

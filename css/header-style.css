@@ -1,0 +1,38 @@
+
+
+   @media (min-width: 601px) and (max-width: 1440px) {
+ ul.topMenu {
+    float: left;
+    margin: 0 0 0 38px;
+}
+}
+
+.topMenu > li > a {
+    transition: transform 0.3s ease;
+    display: inline-block; /* required for transform effect */
+}
+
+.topMenu > li > a:hover {
+    transform: scale(1.07);
+    color: #ff7300; /* optional color change */
+}
+.header_call, .header-btn {
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+.header_call:hover,
+.header-btn:hover {
+    transform: scale(1.07);   /* Zoom hover effect */
+}
+.header_call span:hover {
+    transform: scale(1.07);
+}
+.header-btn:hover {
+    transform: scale(1.07);
+}
+@keyframes zoomInOut {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.08); }
+  100% { transform: scale(1); }
+}

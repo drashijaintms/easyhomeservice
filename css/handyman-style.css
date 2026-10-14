@@ -1,0 +1,20 @@
+.banner_handyman {
+  background: url(/images/handyman-cover.jpg);
+  background-position: right;
+  padding: 40px 0 50px;
+}
+.banner_heading {
+  width: 90%;
+}
+.inner__banner__text {
+  width: 90%;
+}
+@media (max-width: 768px) {
+  .banner_heading {
+    width: 100%;
+  }
+  .inner__banner__text {
+    width: 100%;
+  }
+ 
+}

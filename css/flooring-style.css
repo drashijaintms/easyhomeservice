@@ -1,0 +1,58 @@
+@media (max-width: 768px) {
+  .banner_heading {
+    width: 100% !important;
+    text-align:center;
+  }
+  .inner__banner__text {
+    width: 100% !important;
+  text-align:center;
+      
+  }
+  .banner_flooring {
+    background: #e8f0fb !important;
+    padding: 20px 0 !important;
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+  .inner__banner__text {
+    font-size: 15px !important;
+    line-height: 21px !important;
+    margin-top: 10px !important;
+    width: 100% !important;
+  }
+  .inner__banner__left {
+    width: 100% !important;
+  }
+  .window-card {
+    height: 170px !important;
+  }
+}
+.banner_heading {
+  width: 90%;
+}
+.inner__banner__text {
+  width: 80%;
+}
+.banner_flooring {
+  background: linear-gradient(
+      to right,
+      #fff0 0%,
+      rgb(230 241 250 / 51%) 40%,
+      rgb(230 241 250 / 28%) 45%,
+      #fff0 100%
+    ),
+    url(/images/flooring-banner-6.jpg) right center / cover no-repeat;
+  padding: 80px 0;
+}
+.inner__banner__left {
+  width: 59.26%;
+  float: left;
+  text-align: left;
+}
+.inner__banner__text {
+  font-size: 21px;
+  line-height: 30px;
+  margin-top: 15px;
+  float: left;
+  width: 85%;
+}

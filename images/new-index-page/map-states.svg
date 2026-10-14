@@ -1,0 +1,72 @@
+<svg width="984" height="480" viewBox="0 0 984 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .state-link { cursor: pointer; }
+    .state-link rect { fill: rgba(0, 0, 0, 0); stroke: none; pointer-events: all; }
+    .state-link:hover rect { fill: rgba(0, 0, 0, 0); stroke: none; }
+  </style>
+
+  <!-- Pacific Northwest / West Coast -->
+  <a href="#hero-search" class="state-link" title="Washington"><rect x="35" y="10" width="105" height="36"/></a>
+  <a href="#hero-search" class="state-link" title="Oregon"><rect x="30" y="55" width="85" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="California"><rect x="5" y="180" width="115" height="70"/></a>
+  <a href="#hero-search" class="state-link" title="Nevada"><rect x="110" y="135" width="65" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Idaho"><rect x="145" y="60" width="55" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Utah"><rect x="175" y="150" width="55" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Arizona"><rect x="150" y="240" width="70" height="60"/></a>
+
+  <!-- Mountain / Plains -->
+  <a href="#hero-search" class="state-link" title="Montana"><rect x="225" y="25" width="95" height="50"/></a>
+  <a href="#hero-search" class="state-link" title="Wyoming"><rect x="235" y="90" width="90" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Colorado"><rect x="250" y="155" width="95" height="48"/></a>
+  <a href="#hero-search" class="state-link" title="New Mexico"><rect x="245" y="235" width="95" height="55"/></a>
+
+  <!-- Northern / Midwest -->
+  <a href="#hero-search" class="state-link" title="North Dakota"><rect x="345" y="25" width="90" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="South Dakota"><rect x="340" y="80" width="95" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Nebraska"><rect x="345" y="135" width="90" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Kansas"><rect x="360" y="195" width="85" height="42"/></a>
+  <a href="#hero-search" class="state-link" title="Oklahoma"><rect x="375" y="248" width="95" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Texas"><rect x="340" y="295" width="130" height="100"/></a>
+
+  <!-- Great Lakes / Central -->
+  <a href="#hero-search" class="state-link" title="Minnesota"><rect x="440" y="30" width="80" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Iowa"><rect x="445" y="115" width="65" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Missouri"><rect x="450" y="175" width="75" height="50"/></a>
+  <a href="#hero-search" class="state-link" title="Arkansas"><rect x="460" y="250" width="70" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Louisiana"><rect x="465" y="305" width="75" height="55"/></a>
+
+  <a href="#hero-search" class="state-link" title="Wisconsin"><rect x="510" y="65" width="75" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Illinois"><rect x="520" y="140" width="60" height="55"/></a>
+  <a href="#hero-search" class="state-link" title="Michigan"><rect x="580" y="90" width="75" height="60"/></a>
+  <a href="#hero-search" class="state-link" title="Indiana"><rect x="575" y="155" width="55" height="50"/></a>
+  <a href="#hero-search" class="state-link" title="Ohio"><rect x="625" y="150" width="55" height="48"/></a>
+  <a href="#hero-search" class="state-link" title="Kentucky"><rect x="600" y="210" width="75" height="40"/></a>
+  <a href="#hero-search" class="state-link" title="Tennessee"><rect x="580" y="255" width="85" height="38"/></a>
+  <a href="#hero-search" class="state-link" title="Mississippi"><rect x="545" y="285" width="40" height="75"/></a>
+  <a href="#hero-search" class="state-link" title="Alabama"><rect x="585" y="295" width="60" height="65"/></a>
+  <a href="#hero-search" class="state-link" title="Georgia"><rect x="635" y="285" width="65" height="65"/></a>
+  <a href="#hero-search" class="state-link" title="Florida"><rect x="670" y="325" width="75" height="90"/></a>
+
+  <!-- Mid-Atlantic / South -->
+  <a href="#hero-search" class="state-link" title="West Virginia"><rect x="655" y="195" width="50" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="Virginia"><rect x="690" y="215" width="70" height="40"/></a>
+  <a href="#hero-search" class="state-link" title="North Carolina"><rect x="680" y="255" width="95" height="35"/></a>
+  <a href="#hero-search" class="state-link" title="South Carolina"><rect x="675" y="290" width="75" height="40"/></a>
+  <a href="#hero-search" class="state-link" title="Pennsylvania"><rect x="690" y="135" width="90" height="42"/></a>
+  <a href="#hero-search" class="state-link" title="New York"><rect x="730" y="90" width="80" height="50"/></a>
+
+  <!-- Northeast / New England Labels & Arrows -->
+  <a href="#hero-search" class="state-link" title="Maine"><rect x="815" y="25" width="55" height="50"/></a>
+  <a href="#hero-search" class="state-link" title="Vermont"><rect x="755" y="0" width="70" height="45"/></a>
+  <a href="#hero-search" class="state-link" title="New Hampshire"><rect x="825" y="55" width="125" height="30"/></a>
+  <a href="#hero-search" class="state-link" title="Massachusetts"><rect x="830" y="88" width="130" height="28"/></a>
+  <a href="#hero-search" class="state-link" title="Rhode Island"><rect x="825" y="118" width="115" height="26"/></a>
+  <a href="#hero-search" class="state-link" title="Connecticut"><rect x="805" y="142" width="115" height="28"/></a>
+  <a href="#hero-search" class="state-link" title="New Jersey"><rect x="785" y="170" width="105" height="28"/></a>
+  <a href="#hero-search" class="state-link" title="Delaware"><rect x="770" y="195" width="95" height="28"/></a>
+  <a href="#hero-search" class="state-link" title="Maryland"><rect x="770" y="222" width="95" height="28"/></a>
+
+  <!-- Non-contiguous -->
+  <a href="#hero-search" class="state-link" title="Alaska"><rect x="40" y="320" width="85" height="85"/></a>
+  <a href="#hero-search" class="state-link" title="Hawaii"><rect x="250" y="390" width="115" height="45"/></a>
+</svg>

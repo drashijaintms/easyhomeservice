@@ -1,0 +1,114 @@
+.color-blue {
+  color: #14147e;
+}
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 1.8rem;
+  }
+}
+.banner_window-new {
+  background: linear-gradient(to right, rgb(233 239 253 / 86%), #fff0),
+    url(/images/window-image-7.jpg) right no-repeat;
+  background-position: right;
+}
+.f-ul li {
+  list-style: decimal;
+}
+@media only screen and (max-width: 767px) {
+  .inner__banner--roof {
+    padding: 20px 0;
+    position: relative;
+    background: #e6f1fa !important;
+  }
+  .banner_window-new .inner__banner__text {
+    width: 100%;
+  }
+}
+.banner_window-new .inner__banner__text {
+  width: 85%;
+}
+.inner__banner,
+.banner_window-new {
+  position: relative;
+  z-index: 1;
+}
+.section_2,
+.gallery-section,
+.quote-form-card {
+  z-index: 2;
+}
+.w-80 {
+  width: 80%;
+}
+.lispan {
+  font-weight: 400;
+}
+.points li {
+  text-align: left;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 2px 2px 4px 0 #0000004f;
+  border-radius: 6px;
+}
+.ulclas {
+  padding-left: 3rem;
+}
+.ulclas li {
+  padding-left: 0px !important;
+  background: none !important;
+  list-style-type: disc;
+}
+p.new-text {
+  font-size: 18px;
+  text-align: left;
+}
+.section_8 {
+  float: left;
+  width: 100%;
+  padding: 60px 0 50px;
+  background: #eff6ff;
+}
+.new-ul {
+    text-align: left;
+    padding-left: 2rem;
+}
+.new-ul i {
+  font-size: 24px;
+  color: #04d36f;
+}
+ul.new-ul li {
+  font-size: 17px;
+  font-weight: 600;
+  list-style-type: disc;
+}
+.ulclas i {
+  color: #14147e;
+  font-size: 24px;
+}
+.inner__banner--roof-1 {
+  background: url(/images/roofing-02.jpg) center top no-repeat #e8f0fb;
+  padding: 80px 0 110px;
+}
+@media only screen and (max-width: 768px) {
+  .inner__banner--roof-1 {
+    padding: 20px 0;
+    position: relative;
+    background: #e6f1fa;
+  }
+  .roof-mob-side {
+    content: url(/images/roofing-side-mob.jpg);
+    width: auto;
+    height: auto;
+  }
+  .w-80 {
+    width: 100% !important;
+  }
+}
+.new-img {
+  border-radius: 10px;
+}
+.ulclas li::marker {
+  color: #14147e;
+}

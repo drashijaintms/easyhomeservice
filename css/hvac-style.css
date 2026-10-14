@@ -1,0 +1,110 @@
+.banner_hvac {
+  background: url(../images/hvac-img-02.webp) no-repeat #e8f0fb;
+  background-position: right;
+  padding: 38px 0;
+}
+.inner__banner__text {
+  width: 80% !important;
+  font-size: 20px;
+}
+.custom-tabs {
+  gap: 12px;
+  margin: 25px 0;
+}
+.custom-tab-btn {
+  padding: 10px 24px;
+  background: #e9ecef;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+  margin: 0 10px;
+}
+.custom-tab-btn.active {
+  background: #14147e;
+  color: #fff;
+}
+.custom-tab-btn:hover {
+  background: #04d36f;
+  color: #fff;
+  transform: scale(1.05);
+}
+.tab-pane-custom {
+  display: none;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #04d36f;
+}
+.tab-pane-custom.active {
+  display: block;
+}
+.tab-pane-custom p {
+  text-align: left;
+}
+.tab-pane-custom h5,
+.tab-pane-custom h3 {
+  color: #14147e;
+  font-weight: 600;
+  font-size: 35px;
+  padding-bottom: 13px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.hvac-s-img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+a.hvac-btn {
+  float: left;
+  width: 37%;
+  height: 55px;
+  border-radius: 7px;
+  background: #04d36f;
+  font-size: 20px;
+  line-height: 55px;
+  color: #fff;
+  font-weight: 700;
+  font-family: "DM Sans";
+  text-decoration: none;
+  margin-top:10px;
+}
+ul.city-ul {
+  font-size: 19px;
+  text-align: left;
+  font-weight: 500;
+}
+.city-ul i {
+  color: #04d36f;
+}
+.city-ul li {
+  padding: 3px 0;
+}
+@media (max-width: 768px) {
+  
+  .inner__banner__text {
+    width: 100% !important;
+    font-size: 15px;
+  }
+  ul.city-ul {
+    font-size: 16px;
+    padding-left: 10px;
+    margin-bottom: 0;
+  }
+  a.hvac-btn {
+    width: 65%;
+  }
+  .swiper-button-prev {
+    left: 1%;
+  }
+  .swiper-button-next {
+    right: 1%;
+  }
+}
+.tab-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

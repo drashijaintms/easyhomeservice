@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Free home improvement project cost calculator from Easy Home Service.">
+  <title>Calculate Home Project Costs | Easy Home Service</title>
+  <link rel="preload" href="https://easyhomeservice.com/css/DMSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="ehs-cost-calculator" id="ehsCostCalculator">
+    <div class="ehs-shell">
+      <header class="ehs-intro">
+        <span class="ehs-kicker">Free Home Project Estimator</span>
+        <h1>Calculate Home Project Costs</h1>
+        <p>Calculate your project with confidence. Free to use, always transparent.</p>
+      </header>
+
+      <section class="project-picker" id="projectPicker" aria-labelledby="projectPickerTitle">
+        <h2 class="sr-only" id="projectPickerTitle">Choose a home project</h2>
+        <div class="project-grid" id="projectGrid"></div>
+      </section>
+
+      <section class="calculator-stage" id="calculatorStage" hidden aria-live="polite">
+        <div class="calculator-card">
+          <div class="calculator-visual" id="calculatorVisual">
+            <button class="close-calculator" id="closeCalculator" type="button" aria-label="Choose a different project">×</button>
+            <div class="visual-copy">
+              <h2 id="visualTitle"></h2>
+              <p>Answer a few quick questions for your personalized planning range.</p>
+            </div>
+          </div>
+
+          <div class="calculator-content">
+            <div class="progress-head">
+              <button class="back-button" id="backButton" type="button">← Back</button>
+              <span id="progressText">Step 1 of 5</span>
+            </div>
+            <div class="progress-track" aria-hidden="true"><span id="progressBar"></span></div>
+
+            <div id="questionView">
+              <span class="question-eyebrow" id="questionEyebrow">YOUR PROJECT</span>
+              <h3 id="questionTitle"></h3>
+              <p class="question-help" id="questionHelp"></p>
+              <div class="answer-area" id="answerArea"></div>
+              <p class="field-error" id="fieldError" role="alert"></p>
+              <div class="step-actions">
+                <button class="next-button" id="nextButton" type="button">Continue <span>→</span></button>
+              </div>
+            </div>
+
+            <div class="results-view" id="resultsView" hidden>
+              <span class="result-check">✓</span>
+              <span class="question-eyebrow">YOUR PLANNING ESTIMATE</span>
+              <h3 id="resultHeading">Your estimated project cost</h3>
+              <div class="result-range" id="resultRange"></div>
+              <p class="result-location" id="resultLocation"></p>
+              <div class="range-meter"><i></i><span></span><b></b></div>
+              <div class="range-labels"><span>Budget</span><span>Typical</span><span>Premium</span></div>
+              <div class="estimate-breakdown" id="estimateBreakdown"></div>
+              <p class="estimate-disclaimer">This is a planning estimate based on typical materials and professional installation. Site conditions, permits and contractor pricing can affect your final quote.</p>
+              <a class="quote-button" href="https://easyhomeservice.com/get-quote" target="_top">Get A Quote Now <span>→</span></a>
+              <button class="restart-button" id="restartButton" type="button">Recalculate this project</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="trust-points" aria-label="Calculator benefits">
+        <span>✓ No signup required</span><span>✓ Instant estimate</span><span>✓ Free for homeowners</span>
+      </div>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

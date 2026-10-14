@@ -1,0 +1,2994 @@
+    /* ==========================================================================
+       Easy Home Service - Bootstrap-Powered Redesign Stylesheet
+       Unique CSS Folder: new-css/index-new-design.css
+       ========================================================================== */
+    
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }
+
+    :root {
+        --eh-navy: #192a4d;
+        --eh-navy-dark: #0f1d38;
+        --eh-bar-bg: #001f54;
+        --eh-btn-green: #34b35e;
+        --eh-btn-green-hover: #2d9d52;
+        --eh-star-gold: #ff9800;
+        --eh-text-dark: #1e293b;
+        --eh-text-muted: #556987;
+        --eh-border-green: #86efac;
+        --eh-border-green-hover: #22c55e;
+        --eh-card-shadow: 0 4px 14px rgba(0, 0, 0, 0.03);
+    }
+    
+    body {
+        font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        color: var(--eh-text-dark);
+        background-color: #ffffff;
+        overflow-x: hidden;
+    }
+    
+    a {
+        text-decoration: none;
+        transition: all 0.25s ease;
+    }
+    
+    /* ==========================================================================
+       Top Header Strip & Navbar
+       ========================================================================== */
+    .eh-top-strip {
+        background-color: #0b1a38;
+        color: #e2e8f0;
+        font-size: 13px;
+        font-weight: 500;
+        padding: 7px 0;
+    }
+    
+    .eh-navbar {
+        background: #ffffff;
+        border-bottom: 1px solid #edf2f7;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    }
+    
+    .eh-brand-logo {
+        font-size: 22px;
+        font-weight: 800;
+        color: var(--eh-navy);
+    }
+    
+    .eh-brand-logo i {
+        font-size: 24px;
+        color: #0066cc;
+    }
+    
+    .navbar-nav .nav-link {
+        color: #334155;
+        font-weight: 600;
+        font-size: 15px;
+        padding: 0.5rem 1rem;
+    }
+    
+    .navbar-nav .nav-link:hover {
+        color: #0066cc;
+    }
+    
+    .eh-nav-call-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background: #e0f2fe;
+        color: #0284c7;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+    
+    .eh-nav-btn {
+        background-color: var(--eh-btn-green);
+        color: #ffffff !important;
+        font-weight: 700;
+        font-size: 14px;
+        padding: 9px 20px;
+        border-radius: 6px;
+        box-shadow: 0 4px 12px rgba(52, 179, 94, 0.25);
+        border: none;
+    }
+    
+    .eh-nav-btn:hover {
+        background-color: var(--eh-btn-green-hover);
+        transform: translateY(-1px);
+    }
+    
+    /* ==========================================================================
+       Section Title Glow Badge
+       ========================================================================== */
+    .eh-title-wrap {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .eh-head-glow {
+        position: absolute;
+        top: -24px;
+        left: -28px;
+        width: 78px;
+        height: 78px;
+        pointer-events: none;
+        z-index: 0;
+        opacity: 0.95;
+    }
+    
+    /* ==========================================================================
+       Main Wrapper & Section 1: Hero Section (Exact Screenshot Match)
+       ========================================================================== */
+    main {
+        clear: both !important;
+        display: block !important;
+        width: 100% !important;
+        position: relative !important;
+        float: left !important;
+    }
+
+    .eh-hero-section {
+        clear: both !important;
+        position: relative !important;
+        background-image: url('../images/new-index-page/hero-main.png') !important;
+        background-position: right center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        min-height: 580px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: space-between !important;
+        padding-top: 45px !important;
+        padding-bottom: 20px !important;
+        overflow: hidden !important;
+        width: 100% !important;
+        text-align: left !important;
+        box-sizing: border-box !important;
+    }
+    
+    .eh-hero-content {
+        position: relative !important;
+        z-index: 2 !important;
+        text-align: left !important;
+        width: 100% !important;
+    }
+    
+    .eh-hero-content .row {
+        display: flex !important;
+        flex-wrap: wrap !important;
+    }
+
+    .eh-hero-top-rating {
+        display: inline-flex !important;
+        align-items: center !important;
+        gap: 10px !important;
+        margin-bottom: 22px !important;
+        flex-wrap: wrap !important;
+        text-align: left !important;
+    }
+    
+    .eh-hero-stars {
+        height: 14px !important;
+        width: auto !important;
+        object-fit: contain !important;
+    }
+    
+    .eh-hero-rating-text {
+        font-size: 13.5px !important;
+        font-weight: 700 !important;
+        color: #1e293b !important;
+    }
+    
+    .eh-hero-people-img {
+        height: 28px !important;
+        width: auto !important;
+        object-fit: contain !important;
+    }
+    
+    .eh-hero-main-title {
+        display: block !important;
+        font-size: 50px !important;
+        font-weight: 850 !important;
+        line-height: 1.15 !important;
+        color: var(--eh-navy, #192a4d) !important;
+        letter-spacing: -0.8px !important;
+        margin-bottom: 30px !important;
+        max-width: 580px !important;
+        text-align: left !important;
+    }
+    
+    .eh-hero-search-bar {
+        display: block !important;
+        background: var(--eh-bar-bg, #001f54) !important;
+        border-radius: 8px !important;
+        padding: 6px !important;
+        box-shadow: 0 10px 28px rgba(0, 31, 84, 0.28) !important;
+        max-width: 540px !important;
+        text-align: left !important;
+    }
+
+    .eh-hero-search-bar .row {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        margin: 0 !important;
+        align-items: center !important;
+    }
+    
+    .eh-hero-search-bar .form-select,
+    .eh-hero-search-bar .form-control,
+    .eh-search-select, .eh-search-input {
+        height: 48px !important;
+        border: none !important;
+        outline: none !important;
+        background: #ffffff !important;
+        border-radius: 4px !important;
+        padding: 0 14px !important;
+        font-size: 14px !important;
+        font-weight: 500 !important;
+        color: #334155 !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
+        float: none !important;
+        margin: 0 !important;
+        line-height: 48px !important;
+    }
+    
+    .eh-search-btn {
+        height: 48px !important;
+        line-height: 48px !important;
+        background: var(--eh-btn-green, #34b35e) !important;
+        color: #ffffff !important;
+        border: none !important;
+        border-radius: 4px !important;
+        font-size: 15px !important;
+        font-weight: 700 !important;
+        cursor: pointer !important;
+        transition: all 0.25s ease !important;
+        white-space: nowrap !important;
+        width: 100% !important;
+        text-align: center !important;
+        padding: 0 15px !important;
+        float: none !important;
+        display: block !important;
+    }
+    
+    .eh-search-btn:hover {
+        background: var(--eh-btn-green-hover, #2d9d52) !important;
+        box-shadow: 0 4px 12px rgba(52, 179, 94, 0.35) !important;
+        color: #ffffff !important;
+    }
+    
+    .eh-hero-security-note {
+        font-size: 12.5px !important;
+        color: #475569 !important;
+        font-weight: 600 !important;
+        margin-top: 12px !important;
+        text-align: left !important;
+    }
+    
+    /* Bottom Stats Strip (Centered & Cleanly Aligned) */
+    .eh-hero-stats-strip {
+        position: relative !important;
+        z-index: 2 !important;
+        margin-top: 48px !important;
+        padding-bottom: 26px !important;
+        clear: both !important;
+        width: 100% !important;
+    }
+    
+    .eh-hero-stats-strip .row {
+        display: flex !important;
+        flex-wrap: wrap !important;
+    }
+
+    .eh-stat-col {
+        border-right: 1.5px solid rgba(148, 163, 184, 0.4) !important;
+        padding: 8px 20px !important;
+        text-align: center !important;
+    }
+    
+    .eh-stat-col:last-child {
+        border-right: none !important;
+    }
+    
+    .eh-stat-number {
+        font-size: 45px !important;
+        font-weight: 850 !important;
+        color: var(--eh-navy, #192a4d) !important;
+        line-height: 1.1 !important;
+        letter-spacing: -0.5px !important;
+    }
+    
+    .eh-stat-label {
+        font-size: 17px !important;
+        font-weight: 700 !important;
+        color: #334155 !important;
+        margin-top: 2px !important;
+    }
+    
+    /* ==========================================================================
+       SECTION 2: "Services We Provide" (Enlarged 1-Fold Viewport Fit)
+       ========================================================================== */
+    .eh-services-provide-section {
+        position: relative;
+        background-color: #ffffff;
+        background-image: url('../images/new-index-page/line-background.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        min-height: calc(100vh - 80px);
+        padding: 85px 0 95px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+    
+    .eh-services-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        max-width: 760px;
+        margin: 0 auto 45px auto;
+    }
+    
+    .eh-services-title {
+        position: relative;
+        z-index: 1;
+        font-size: 44px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        letter-spacing: -0.6px;
+        margin-bottom: 14px;
+    }
+    
+    .eh-services-subtitle {
+        font-size: 16.5px;
+        color: #475569;
+        line-height: 1.6;
+        margin: 0;
+    }
+    
+    .eh-services-grid-wrapper {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        grid-template-columns: repeat(7, 1fr);
+        gap: 20px 18px;
+        max-width: 1260px;
+        margin: 0 auto 45px auto;
+    }
+    
+    /* Service Card Box with Clean Animated Conic Gradient Border */
+    .eh-service-box {
+        --angle: 0deg;
+        position: relative;
+        border: 1.5px solid transparent;
+        border-radius: 16px;
+        background: 
+            linear-gradient(#ffffff, #ffffff) padding-box,
+            conic-gradient(from var(--angle), #86efac, #22c55e, #16a34a, #86efac) border-box;
+        animation: spin-service-border 4.5s linear infinite;
+        padding: 22px 10px 18px 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+        transition: all 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+        min-height: 140px;
+        color: var(--eh-navy);
+        text-decoration: none;
+        box-sizing: border-box;
+        z-index: 1;
+    }
+
+    @keyframes spin-service-border {
+        to {
+            --angle: 360deg;
+        }
+    }
+
+    .eh-service-box-icon {
+        position: relative;
+        z-index: 1;
+        margin-bottom: 12px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.25s ease;
+    }
+
+    .eh-service-icon-img {
+        height: 54px;
+        max-width: 58px;
+        width: auto;
+        object-fit: contain;
+        display: block;
+        transition: transform 0.25s ease;
+    }
+
+    .eh-service-box-title {
+        position: relative;
+        z-index: 1;
+        font-size: 15.5px;
+        font-weight: 750;
+        color: var(--eh-navy);
+        margin: 0;
+        line-height: 1.25;
+        white-space: nowrap;
+    }
+
+    .eh-service-box:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 12px 28px rgba(52, 179, 94, 0.22);
+        background: 
+            linear-gradient(#f9fdfa, #f9fdfa) padding-box,
+            conic-gradient(from var(--angle), #22c55e, #15803d, #22c55e) border-box;
+    }
+
+    .eh-service-box:hover .eh-service-icon-img {
+        transform: scale(1.08);
+    }
+
+    .eh-services-cta-wrap {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+    }
+    
+    .eh-services-quote-btn {
+        background-color: var(--eh-btn-green);
+        color: #ffffff !important;
+        font-weight: 750;
+        font-size: 16px;
+        padding: 14px 44px;
+        border-radius: 9px;
+        border: none;
+        box-shadow: 0 6px 18px rgba(52, 179, 94, 0.35);
+        display: inline-block;
+        transition: all 0.25s ease;
+    }
+    
+    .eh-services-quote-btn:hover {
+        background-color: var(--eh-btn-green-hover);
+        color: #ffffff !important;
+        transform: translateY(-2px);
+        box-shadow: 0 10px 24px rgba(52, 179, 94, 0.45);
+    }
+    
+    .eh-services-subtext {
+        font-size: 13.5px;
+        color: #64748b;
+        margin-top: 10px;
+        font-weight: 500;
+    }
+    
+    @media (max-width: 1199px) {
+        .eh-services-grid-wrapper {
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            max-width: 900px;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .eh-services-provide-section {
+            padding: 60px 0 70px 0;
+            min-height: auto;
+        }
+        .eh-services-title {
+            font-size: 32px;
+        }
+        .eh-services-grid-wrapper {
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+        }
+        .eh-service-box {
+            min-height: 125px;
+            padding: 16px 8px;
+        }
+        .eh-service-icon-img {
+            height: 46px;
+            max-width: 50px;
+        }
+        .eh-service-box-title {
+            font-size: 14px;
+        }
+    }
+    
+    @media (max-width: 575px) {
+        .eh-services-grid-wrapper {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+        .eh-service-box-title {
+            font-size: 13px;
+        }
+    }
+    
+    /* ==========================================================================
+       SECTION 3: "Your Home Deserves the Right Home Service Solutions"
+       ========================================================================== */
+    .eh-intro-section {
+        position: relative;
+        background-color: #fbfcfd;
+        padding: 45px 0;
+        overflow: hidden;
+    }
+    
+    .eh-intro-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        max-width: 780px;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-intro-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        line-height: 1.22;
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-intro-img-wrap {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        min-height: 100%;
+        border-radius: 18px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    }
+    
+    .eh-intro-img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+    
+    .eh-intro-content {
+        position: relative !important;
+        z-index: 1 !important;
+        text-align: left !important;
+    }
+    
+    .eh-intro-badge {
+        display: inline-block !important;
+        background-color: #dcfce7 !important;
+        color: #166534 !important;
+        font-size: 12.5px !important;
+        font-weight: 800 !important;
+        letter-spacing: 0.8px !important;
+        text-transform: uppercase !important;
+        padding: 6px 16px !important;
+        border-radius: 6px !important;
+        margin-bottom: 16px !important;
+        text-align: left !important;
+    }
+    
+    .eh-intro-text {
+        font-size: 14.5px !important;
+        color: #334155 !important;
+        line-height: 1.65 !important;
+        margin-bottom: 14px !important;
+        text-align: left !important;
+    }
+    
+    .eh-intro-text strong {
+        color: #0f172a;
+        font-weight: 700;
+    }
+    
+    .eh-intro-btn {
+        background-color: var(--eh-btn-green) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+        padding: 12px 36px !important;
+        border-radius: 8px !important;
+        border: none !important;
+        box-shadow: 0 4px 14px rgba(52, 179, 94, 0.35) !important;
+        display: inline-block !important;
+        margin-top: 4px !important;
+        text-align: center !important;
+        transition: all 0.25s ease !important;
+    }
+    
+    .eh-intro-btn:hover {
+        background-color: var(--eh-btn-green-hover) !important;
+        color: #ffffff !important;
+        transform: translateY(-2px) !important;
+        box-shadow: 0 8px 20px rgba(52, 179, 94, 0.42) !important;
+    }
+    
+    /* ==========================================================================
+       SECTION 4: "Top-Rated Home Improvement Experts Near You"
+       ========================================================================== */
+    .eh-remodel-section {
+        position: relative;
+        background-color: #edf8f1;
+        background-image: url('../images/new-index-page/remodel-section-bg.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        padding: 55px 0 60px 0;
+        overflow: hidden;
+    }
+    
+    .eh-remodel-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-remodel-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy, #192a4d);
+        line-height: 1.22;
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    /* The White Card */
+    .eh-remodel-box {
+        position: relative;
+        z-index: 1;
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 18px;
+        padding: 20px 30px 20px 30px;
+        max-width: 920px;
+        margin: 0 auto;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.04);
+        text-align: center;
+    }
+    
+    .eh-remodel-p {
+        font-size: 14.5px;
+        color: #334155;
+        line-height: 1.75;
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    
+    .eh-remodel-p strong {
+        color: #0f172a;
+        font-weight: 700;
+    }
+    
+    /* The Prominent Subheading Outside the Card */
+    .eh-remodel-subtitle {
+        position: relative;
+        z-index: 1;
+        font-size: 26px;
+        font-weight: 700;
+        color: #192a4d;
+        line-height: 1.35;
+        text-align: center;
+        max-width: 800px;
+        margin: 15px auto 15px auto;
+        letter-spacing: -0.4px;
+    }
+    
+    /* 8 Services Grid */
+    .eh-remodel-services-grid {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 14px;
+        max-width: 920px;
+        margin: 0 auto 32px auto;
+    }
+    
+    .eh-remodel-badge-card {
+        --angle: 0deg;
+        position: relative;
+        background: transparent;
+        border: none;
+        border-radius: 12px;
+        padding: 12px 8px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    
+    .eh-remodel-badge-card::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        border-radius: 12px;
+        padding: 1.5px;
+        background: #c7eed6;
+        -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+        mask-composite: exclude;
+        pointer-events: none;
+        transition: background 0.3s ease;
+    }
+    
+    .eh-remodel-badge-card::after {
+        content: '';
+        position: absolute;
+        inset: 1.5px;
+        border-radius: 10.5px;
+        background: #ffffff;
+        z-index: -1;
+    }
+    
+    .eh-remodel-badge-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 22px rgba(52, 179, 94, 0.16);
+    }
+    
+    .eh-remodel-badge-card:hover::before {
+        background: #34b35e;
+    }
+    
+    .eh-remodel-badge-card .card-icon {
+        width: 38px;
+        height: 38px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 6px;
+    }
+    
+    .eh-remodel-badge-card .card-icon img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+    
+    .eh-remodel-badge-card .card-title-text {
+        font-size: 13.5px;
+        font-weight: 700;
+        color: #34b35e;
+        margin: 0;
+        line-height: 1.2;
+    }
+    
+    /* CTA Button */
+    .eh-remodel-cta-wrap {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+    }
+    
+    .eh-remodel-quote-btn {
+        display: inline-block;
+        background-color: #34b35e;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: 700;
+        padding: 12px 38px;
+        border-radius: 8px;
+        text-decoration: none;
+        transition: all 0.25s ease;
+        box-shadow: 0 6px 18px rgba(52, 179, 94, 0.32);
+    }
+    
+    .eh-remodel-quote-btn:hover {
+        background-color: #2da153;
+        transform: translateY(-2px);
+        box-shadow: 0 10px 24px rgba(52, 179, 94, 0.42);
+        color: #ffffff;
+    }
+    
+    /* ==========================================================================
+       SECTION 5: "Why Do Homeowners Keep Coming Back?"
+       ========================================================================== */
+    .eh-why-back-section {
+        position: relative;
+        background-color: #ffffff;
+        background-image: url('../images/new-index-page/why-back-section-bg.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        padding: 45px 0;
+        overflow: hidden;
+    }
+    
+    .eh-why-back-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-why-back-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-why-cards-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+    }
+    
+    .eh-feature-card {
+        position: relative;
+        background: white;
+        border: 2px solid #eef3f8;
+        border-radius: 25px;
+        padding: 20px 20px;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        box-shadow: 0 4px 18px rgba(0, 0, 0, 0.03);
+        transition: all 0.25s ease;
+        overflow: hidden;
+    }
+    
+    .eh-feature-card::before {
+        content: "";
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        right: 10px;
+        bottom: 10px;
+        background-color: #ffffff;
+        background-image: url('../images/new-index-page/why-card-bg.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 100% 100%;
+        border-radius: 16px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+        z-index: 0;
+    }
+    
+    .eh-feature-card:hover {
+        transform: translateY(-4px);
+        border-color: #86efac;
+        box-shadow: 0 12px 28px rgba(52, 179, 94, 0.14);
+    }
+    
+    .eh-feature-icon-wrap,
+    .eh-feature-content {
+        position: relative;
+        z-index: 1;
+    }
+    
+    .eh-feature-icon-wrap {
+        width: 44px;
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        margin-top: 2px;
+    }
+    
+    .eh-feature-icon-img {
+        width: 42px;
+        height: 42px;
+        object-fit: contain;
+        display: block;
+    }
+    
+    .eh-feature-content {
+        flex-grow: 1;
+    }
+    
+    .eh-feature-title {
+        font-size: 18px;
+        font-weight: 800;
+        color: var(--eh-navy);
+        margin-bottom: 8px;
+        line-height: 1.25;
+    }
+    
+    .eh-feature-desc-wrap {
+        border-left: 3px solid var(--eh-btn-green);
+        padding-left: 12px;
+    }
+    
+    .eh-feature-desc {
+        font-size: 15px;
+        color: #000000;
+        margin: 0;
+    }
+    
+    .eh-why-back-cta-wrap {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        margin-top: 35px;
+    }
+    
+    .eh-why-back-btn {
+        background-color: var(--eh-btn-green);
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 15px;
+        padding: 12px 38px;
+        border-radius: 8px;
+        border: none;
+        box-shadow: 0 4px 14px rgba(52, 179, 94, 0.35);
+        display: inline-block;
+        transition: all 0.25s ease;
+    }
+    
+    .eh-why-back-btn:hover {
+        background-color: var(--eh-btn-green-hover);
+        color: #ffffff;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(52, 179, 94, 0.42);
+    }
+    
+    /* ==========================================================================
+       SECTION 6: "Because EveryHome Deserves the Right Care" (Exact Screenshot Match)
+       ========================================================================== */
+    .eh-care-section {
+        position: relative !important;
+        background-color: #ffffff !important;
+        padding: 60px 0 65px 0 !important;
+        overflow: hidden !important;
+        width: 100% !important;
+    }
+
+    .eh-care-container {
+        max-width: 1240px !important;
+        margin: 0 auto !important;
+        padding: 0 20px !important;
+    }
+
+    .eh-care-header {
+        position: relative !important;
+        z-index: 2 !important;
+        text-align: center !important;
+        max-width: 800px !important;
+        margin: 0 auto 40px auto !important;
+    }
+
+    .eh-care-title {
+        position: relative !important;
+        z-index: 1 !important;
+        font-size: 40px !important;
+        font-weight: 850 !important;
+        color: var(--eh-navy, #192a4d) !important;
+        line-height: 1.25 !important;
+        letter-spacing: -0.6px !important;
+        margin: 0 !important;
+        text-align: center !important;
+    }
+
+    /*.eh-care-text-col {*/
+    /*    position: relative !important;*/
+    /*    z-index: 2 !important;*/
+    /*    text-align: left !important;*/
+    /*    padding-right: 15px !important;*/
+    /*}*/
+
+    .eh-care-p {
+        font-size: 15px !important;
+        color: #334155 !important;
+        line-height: 1.7 !important;
+        margin-bottom: 22px !important;
+        text-align: left !important;
+    }
+
+    .eh-care-cta-wrap {
+        margin-top: 28px !important;
+        text-align: left !important;
+    }
+
+    .eh-care-quote-btn {
+        background-color: var(--eh-btn-green, #34b35e) !important;
+        color: #ffffff !important;
+        font-weight: 700 !important;
+        font-size: 15.5px !important;
+        padding: 13px 40px !important;
+        border-radius: 8px !important;
+        display: inline-block !important;
+        box-shadow: 0 4px 14px rgba(52, 179, 94, 0.35) !important;
+        transition: all 0.25s ease !important;
+        text-decoration: none !important;
+        border: none !important;
+        text-align: center !important;
+    }
+
+    .eh-care-quote-btn:hover {
+        background-color: var(--eh-btn-green-hover, #2d9d52) !important;
+        color: #ffffff !important;
+        transform: translateY(-2px) !important;
+        box-shadow: 0 8px 20px rgba(52, 179, 94, 0.42) !important;
+    }
+
+    .eh-care-img-wrap {
+        position: relative !important;
+        z-index: 2 !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .eh-care-house-img {
+        max-width: 100% !important;
+        height: auto !important;
+        display: block !important;
+        transition: transform 0.3s ease !important;
+    }
+
+    .eh-care-house-img:hover {
+        transform: translateY(-4px) !important;
+    }
+    
+    /* ==========================================================================
+       SECTION: "How It Works In Just 3 Simple Steps" (Exact Screenshot Match)
+       ========================================================================== */
+    .eh-how-it-works-section {
+        position: relative;
+        background-color: #ffffff;
+        padding: 70px 0 80px 0;
+        overflow: hidden;
+    }
+    
+    .eh-hiw-bg-lines {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../images/new-index-page/line-background.png');
+        background-repeat: no-repeat;
+        background-position: left center;
+        background-size: cover;
+        opacity: 0.05;
+        filter: invert(1);
+        pointer-events: none;
+        z-index: 1;
+    }
+    
+    .eh-hiw-header {
+        position: relative;
+        z-index: 2;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    
+    .eh-hiw-title {
+        font-size: 40px;
+        font-weight: 850;
+        color: #192a4d;
+        line-height: 1.25;
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-hiw-title span {
+        display: block;
+        color: #192a4d;
+    }
+    
+    .eh-hiw-container {
+        position: relative;
+        z-index: 2;
+        max-width: 1160px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 40px;
+    }
+    
+    /* Left Column: Phone Mockup */
+    .eh-hiw-media-col {
+        flex: 0 0 460px;
+        max-width: 460px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .eh-hiw-mob-img {
+        width: 100%;
+        max-width: 440px;
+        height: auto;
+        display: block;
+        filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.08));
+        transition: transform 0.3s ease;
+    }
+    
+    .eh-hiw-mob-img:hover {
+        transform: translateY(-4px);
+    }
+    
+    /* Right Column: Steps Timeline */
+    .eh-hiw-steps-col {
+        flex: 1;
+        max-width: 640px;
+    }
+    
+    .eh-hiw-timeline {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .eh-hiw-step {
+        position: relative;
+        display: flex;
+        align-items: stretch;
+        gap: 24px;
+    }
+    
+    /* Timeline Marker Column with Dashed Line */
+    .eh-hiw-marker {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 26px;
+        flex-shrink: 0;
+    }
+    
+    /* Continuous dashed vertical line */
+    .eh-hiw-step:not(:last-child) .eh-hiw-marker::after {
+        content: '';
+        position: absolute;
+        top: 28px;
+        bottom: -6px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0;
+        border-left: 2px dashed #38bdf8;
+        z-index: 1;
+    }
+    
+    /* Dot concentric circles */
+    .eh-hiw-dot-outer {
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        background-color: #e0f2fe;
+        border: 2px solid #38bdf8;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 8px;
+        z-index: 2;
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.9);
+    }
+    
+    .eh-hiw-dot-inner {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background-color: #192a4d;
+        display: block;
+    }
+    
+    /* Step Content */
+    .eh-hiw-content {
+        flex: 1;
+        padding-bottom: 24px;
+    }
+    
+    .eh-hiw-step:last-child .eh-hiw-content {
+        padding-bottom: 10px;
+    }
+    
+    /* Full Width Light Blue Header Bar */
+    .eh-hiw-step-bar {
+        background-color: #f0f7ff;
+        border-radius: 6px;
+        padding: 10px 18px;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        width: 100%;
+    }
+    
+    .eh-hiw-step-icon {
+        font-size: 16px;
+        color: #192a4d;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .eh-hiw-step-title {
+        font-size: 17px;
+        font-weight: 750;
+        color: #192a4d;
+        margin: 0;
+        letter-spacing: -0.2px;
+    }
+    
+    .eh-hiw-step-desc {
+        font-size: 14px;
+        color: #475569;
+        line-height: 1.55;
+        margin: 10px 0 0 4px;
+    }
+    
+    /* CTA Wrap */
+    .eh-hiw-cta-wrap {
+        margin-top: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .eh-hiw-btn {
+        background-color: #00c853;
+        color: #ffffff !important;
+        font-size: 16px;
+        font-weight: 750;
+        padding: 13px 40px;
+        border-radius: 8px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        text-decoration: none;
+        transition: all 0.25s ease;
+        box-shadow: 0 6px 18px rgba(0, 200, 83, 0.35);
+    }
+    
+    .eh-hiw-btn:hover {
+        background-color: #00b048;
+        transform: translateY(-2px);
+        box-shadow: 0 10px 24px rgba(0, 200, 83, 0.45);
+        color: #ffffff;
+    }
+    
+    .eh-hiw-subtext {
+        font-size: 12px;
+        color: #64748b;
+        margin-top: 8px;
+        font-weight: 500;
+    }
+    
+    @media (max-width: 991px) {
+        .eh-hiw-container {
+            flex-direction: column;
+            align-items: center;
+            gap: 40px;
+        }
+        .eh-hiw-media-col {
+            max-width: 360px;
+        }
+        .eh-hiw-steps-col {
+            width: 100%;
+            max-width: 550px;
+        }
+    }
+    
+    /* ==========================================================================
+       SECTION 7: "Why We're Different?"
+       ========================================================================== */
+    .eh-comparison-section {
+        position: relative;
+        background-color: #fbfcfd;
+        padding: 45px 0;
+        overflow: hidden;
+    }
+    
+    .eh-comparison-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-comparison-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-comparison-table-wrap {
+        position: relative;
+        z-index: 1;
+        max-width: 800px;
+        margin: 0 auto;
+        border-radius: 0px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+    }
+    
+    .eh-comp-head-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .eh-comp-head-left {
+        background-color: #8c929a;
+        color: #ffffff;
+        font-size: 16.5px;
+        font-weight: 750;
+        padding: 16px 28px;
+    }
+    
+    .eh-comp-head-right {
+        background-color: var(--eh-btn-green);
+        color: #ffffff;
+        font-size: 16.5px;
+        font-weight: 750;
+        padding: 16px 28px;
+    }
+    
+    .eh-comp-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        border-bottom: 1px solid #edf2f7;
+    }
+    
+    .eh-comp-row:last-child {
+        border-bottom: none;
+    }
+    
+    .eh-comp-cell-left {
+        padding: 15px 28px;
+        background-color: #F6F6F6;
+        color: #707070;
+        font-size: 14px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .eh-comp-row.eh-comp-tint .eh-comp-cell-left {
+        background-color: #ECECEC;
+    }
+    
+    .eh-comp-cell-right {
+        padding: 15px 28px;
+        background-color: #EDF8F1;
+        color: var(--eh-navy);
+        font-size: 14px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .eh-comp-row.eh-comp-tint .eh-comp-cell-right {
+        background-color: #D5F6E1;
+    }
+    
+    .eh-comp-icon-cross {
+        color: #8D8D8D;
+        font-size: 16px;
+        font-weight: 800;
+    }
+    
+    .eh-comp-icon-check {
+        color: #45B96A;
+        font-size: 18px;
+        font-weight: 800;
+    }
+    
+    /* ==========================================================================
+       SECTION: "States We Serve" (Interactive Map)
+       ========================================================================== */
+    .eh-states-map-section {
+        position: relative;
+        background-color: #ffffff;
+        padding: 50px 0 60px 0;
+        overflow: hidden;
+    }
+    
+    .eh-states-header {
+        position: relative;
+        z-index: 2;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-states-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-states-subtitle {
+        font-size: 14.5px;
+        color: #475569;
+        line-height: 1.55;
+        max-width: 650px;
+        margin: 14px auto 0 auto;
+    }
+    
+    .eh-states-map-container {
+        position: relative;
+        z-index: 1;
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    
+    .eh-states-map-wrapper {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .eh-states-map-bg {
+        width: 100%;
+        height: auto;
+        display: block;
+        object-fit: contain;
+        user-select: none;
+    }
+    
+    .eh-states-map-svg-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .eh-states-map-svg-overlay svg {
+        width: 100%;
+        height: 100%;
+        display: block;
+        pointer-events: auto;
+    }
+    
+    .eh-states-map-svg-overlay a,
+    .eh-states-map-svg-overlay text,
+    .eh-states-map-svg-overlay path,
+    .eh-states-map-svg-overlay g {
+        pointer-events: auto;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+    
+    .eh-states-map-svg-overlay path:hover,
+    .eh-states-map-svg-overlay g:hover > path {
+        filter: brightness(0.95);
+    }
+    
+    .eh-states-map-svg-overlay text:hover,
+    .eh-states-map-svg-overlay a:hover text {
+        fill: #22c55e !important;
+        font-weight: bold;
+    }
+    
+    /* ==========================================================================
+       SECTION 8: "Frequently Asked Question"
+       ========================================================================== */
+    .eh-faq-section {
+        position: relative;
+        background-color: #ffffff;
+        background-image: url('../images/new-index-page/line-background-flipped.png');
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: 100% auto;
+        padding: 50px 0;
+        overflow: hidden;
+    }
+    
+    .eh-faq-header {
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        max-width: 800px;
+        margin: 0 auto 35px auto;
+    }
+    
+    .eh-faq-title {
+        position: relative;
+        z-index: 1;
+        font-size: 40px;
+        font-weight: 850;
+        color: var(--eh-navy);
+        letter-spacing: -0.6px;
+        margin: 0;
+    }
+    
+    .eh-faq-accordion-wrap {
+        position: relative;
+        z-index: 1;
+        max-width: 785px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .eh-faq-item {
+        background-color: #ffffff;
+        border: 1px solid #eef2f6;
+        border-radius: 50px;
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.03);
+        transition: all 0.28s ease;
+        overflow: hidden;
+    }
+    
+    .eh-faq-button {
+        width: 100%;
+        background: transparent;
+        border: none;
+        outline: none;
+        padding: 12px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        text-align: left;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: 750;
+        color: var(--eh-navy);
+        gap: 16px;
+        transition: all 0.25s ease;
+    }
+    
+    .eh-faq-icon {
+        font-size: 24px;
+        color: #22c55e;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.25s ease;
+    }
+    
+    .eh-faq-body {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.35s ease-out, padding 0.3s ease;
+        padding: 0 28px;
+    }
+    
+    .eh-faq-body p {
+        margin: 0;
+        font-size: 14.5px;
+        line-height: 1.65;
+        color: #e2e8f0;
+    }
+    
+    .eh-faq-item.active {
+        background-color: #192a4d;
+        border-radius: 16px;
+        border-color: #192a4d;
+        box-shadow: 0 10px 28px rgba(25, 42, 77, 0.22);
+    }
+    
+    .eh-faq-item.active .eh-faq-button {
+        color: #ffffff;
+        padding-bottom: 12px;
+    }
+    
+    .eh-faq-item.active .eh-faq-icon {
+        color: #ffffff;
+    }
+    
+    .eh-faq-item.active .eh-faq-body {
+        max-height: 250px;
+        padding: 8px 28px 20px 28px;
+        border-top: 1px solid rgba(255, 255, 255, 0.12);
+    }
+    
+    /* ==========================================================================
+       Footer
+       ========================================================================= */
+    .eh-footer {
+        background: #0b1a38;
+        color: #94a3b8;
+        font-size: 13.5px;
+    }
+    
+    .eh-footer-brand h4, .eh-footer h5 {
+        color: #ffffff;
+        font-weight: 700;
+    }
+    
+    .eh-footer ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .eh-footer ul li {
+        margin-bottom: 8px;
+    }
+    
+    .eh-footer ul li a {
+        color: #94a3b8;
+    }
+    
+    .eh-footer ul li a:hover {
+        color: #ffffff;
+    }
+    
+    .eh-footer-bottom {
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        font-size: 12.5px;
+        color: #64748b;
+    }
+    .map-wrapper {
+                position: relative;
+                width: 100%;
+                margin: 0 auto;
+                line-height: 0;
+            }
+    
+            /* PNG - BACKGROUND */
+            .map-png {
+                display: block;
+                width: 100%;
+                height: auto;
+            }
+    
+            /* SVG - OVERLAY */
+            .map-svg {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 10;
+                border: 0;
+                display: block;
+            }
+    /* ==========================================================================
+       Responsive Breakpoints
+       ========================================================================== */
+    @media (max-width: 1199px) {
+        .eh-services-grid-wrapper {
+            grid-template-columns: repeat(4, 1fr);
+        }
+        .eh-remodel-services-grid {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+    
+    @media (max-width: 991px) {
+        .eh-hero-section {
+            background-position: center right;
+            min-height: auto;
+            padding-top: 35px;
+        }
+        .eh-hero-section::before {
+            background: rgba(224, 238, 252, 0.94);
+        }
+        .eh-hero-main-title {
+            font-size: 36px;
+        }
+        .eh-stat-col {
+            border-right: none;
+            margin-bottom: 15px;
+        }
+        .eh-services-grid-wrapper {
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+        .eh-intro-title, .eh-remodel-title, .eh-why-back-title, .eh-care-title, .eh-comparison-title, .eh-faq-title {
+            font-size: 32px;
+        }
+        .eh-intro-img-wrap {
+            height: 340px;
+            min-height: 340px;
+        }
+        .eh-remodel-box {
+            padding: 26px 20px;
+        }
+        .eh-care-img-wrap {
+            margin-top: 15px;
+        }
+    }
+    
+    @media (max-width: 575px) {
+        .eh-hero-main-title {
+            font-size: 28px;
+        }
+        .eh-stat-number {
+            font-size: 26px;
+        }
+        .eh-services-title, .eh-intro-title, .eh-remodel-title, .eh-why-back-title, .eh-care-title, .eh-comparison-title, .eh-faq-title {
+            font-size: 26px;
+        }
+        .eh-services-grid-wrapper, .eh-remodel-services-grid {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+        .eh-service-box, .eh-remodel-badge-card {
+            padding: 10px 8px;
+            min-height: 94px;
+        }
+    
+        .eh-comp-head-left, .eh-comp-head-right {
+            padding: 12px 14px;
+            font-size: 14px;
+        }
+        .eh-comp-cell-left, .eh-comp-cell-right {
+            padding: 12px 14px;
+            font-size: 12.5px;
+        }
+        .eh-faq-button {
+            padding: 14px 18px;
+            font-size: 13.5px;
+        }
+        .eh-faq-item.active .eh-faq-body {
+            padding: 8px 18px 16px 18px;
+        }
+    }
+    
+            :root {
+                --ehs-primary-dark: #162947;
+                --ehs-accent-green: #38b763;
+                --ehs-accent-green-hover: #2e9f54;
+                --ehs-light-bg: #eef6fc;
+                --ehs-text-muted: #64748b;
+                --ehs-text-dark: #1e293b;
+                --ehs-card-border: #4ade80;
+                --ehs-pill-bg: #eef9f2;
+            }
+    
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                color: #1e293b;
+                background-color: #ffffff;
+                -webkit-font-smoothing: antialiased;
+            }
+    
+            /* ==========================================================================
+               SECTION 1: THE U.S. HOME IMPROVEMENT MARKET CONTINUES TO GROW
+               ========================================================================== */
+            .ehs-contractor-market-growth {
+                position: relative;
+                width: 100%;
+                background: linear-gradient(108deg, #edf5fc 0%, #edf5fc 49%, #141f42 49%, #141f42 100%);
+                padding: 0px 0 20px;
+                overflow: hidden;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            }
+    
+            /* Background watermark rings on right */
+            .ehs-market-rings {
+                position: absolute;
+                right: -120px;
+                bottom: -120px;
+                width: 520px;
+                height: 520px;
+                border-radius: 50%;
+                border: 35px solid rgba(255, 255, 255, 0.03);
+                box-shadow: 0 0 0 45px rgba(255, 255, 255, 0.02), 0 0 0 90px rgba(255, 255, 255, 0.012), 0 0 0 135px rgba(255, 255, 255, 0.008);
+                pointer-events: none;
+                z-index: 1;
+            }
+    
+            /* Left Content */
+            .ehs-market-left-content {
+                max-width: 550px;
+                padding-right: 20px;
+                position: relative;
+                z-index: 2;
+            }
+    
+            .ehs-market-title {
+                font-size: 2.3rem;
+                font-weight: 700;
+                color: var(--ehs-primary-dark);
+                margin-bottom: 22px;
+            }
+    
+            .ehs-market-title .ehs-highlight-green {
+                color: var(--ehs-accent-green);
+            }
+    
+            .ehs-market-desc-list {
+                margin-bottom: 28px;
+            }
+    
+            .ehs-market-desc-list p {
+                font-size: 0.94rem;
+                line-height: 1.6;
+                color: #334155;
+                margin-bottom: 16px;
+            }
+    
+            .ehs-market-desc-list p:last-child {
+                margin-bottom: 0;
+            }
+    
+            .ehs-market-btn {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+                background-color: var(--ehs-accent-green);
+                color: #ffffff;
+                font-size: 1rem;
+                font-weight: 600;
+                padding: 12px 30px;
+                border-radius: 8px;
+                text-decoration: none;
+                transition: all 0.25s ease;
+                box-shadow: 0 4px 14px rgba(34, 197, 94, 0.35);
+            }
+    
+            .ehs-market-btn:hover {
+                background-color: var(--ehs-accent-green-hover);
+                color: #ffffff;
+                transform: translateY(-2px);
+                box-shadow: 0 6px 18px rgba(34, 197, 94, 0.45);
+            }
+    
+            .ehs-market-btn i {
+                font-size: 1.1rem;
+                transition: transform 0.2s ease;
+            }
+    
+            .ehs-market-btn:hover i {
+                transform: translateX(4px);
+            }
+    
+            /* Right Content (Map & Metrics) */
+            .ehs-market-right-content {
+                padding-left: 20px;
+                position: relative;
+                z-index: 2;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+    
+            .ehs-market-map-graphic {
+                width: 100%;
+                max-width: 580px;
+                margin-bottom: 24px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+    
+            .ehs-market-map-img {
+                max-width: 100%;
+                height: auto;
+                object-fit: contain;
+                display: block;
+                filter: drop-shadow(0 15px 25px rgba(0, 0, 0, 0.25));
+            }
+    
+            /* 3 Metrics Box at bottom right */
+            .ehs-market-stats-card {
+                background: #141f42;
+                border: 1.5px solid #22c55e;
+                border-radius: 20px;
+                padding: 15px 20px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                width: 100%;
+                max-width: 580px;
+                box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
+                position: relative;
+                z-index: 2;
+            }
+    
+            .ehs-market-stat-item {
+                flex: 1;
+                padding: 0 16px;
+                position: relative;
+                text-align: left;
+            }
+    
+            .ehs-market-stat-item:not(:last-child)::after {
+                content: "";
+                position: absolute;
+                right: 0;
+                top: 5%;
+                height: 90%;
+                width: 1.5px;
+                background: rgba(255, 255, 255, 0.35);
+            }
+    
+            .ehs-market-stat-item:first-child {
+                padding-left: 0;
+            }
+    
+            .ehs-market-stat-item:last-child {
+                padding-right: 0;
+            }
+    
+            .ehs-market-stat-num {
+                font-size: 2.5rem;
+                font-weight: 800;
+                color: #22c55e;
+                line-height: 1.1;
+                margin-bottom: 8px;
+                letter-spacing: -0.5px;
+            }
+    
+            .ehs-market-stat-label {
+                font-size: 0.95rem;
+                font-weight: 500;
+                line-height: 1.35;
+                color: #ffffff;
+                margin: 0;
+                letter-spacing: -0.1px;
+            }
+    
+            /* ==========================================================================
+               SECTION 2: TESTIMONIALS & READY TO GROW CTA BANNER
+               ========================================================================== */
+            .ehs-contractor-testimonials-cta {
+                padding: 50px 0;
+                background-color: #edf5fc;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                position: relative;
+                overflow: hidden;
+            }
+    
+            .ehs-testimonial-title {
+                font-size: 40px;
+                font-weight: 850;
+                line-height: 1.2;
+                color: var(--eh-navy);
+                text-align: center;
+                letter-spacing: -0.6px;
+                margin-bottom: 50px;
+            }
+    
+            /* Testimonials Carousel Wrapper */
+            .ehs-testimonials-wrapper {
+                position: relative;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-bottom: 75px;
+                width: 100%;
+            }
+    
+            .ehs-testimonials-viewport {
+                overflow: hidden;
+                width: 100%;
+                max-width: 980px;
+                padding: 55px 6px 15px;
+            }
+    
+            .ehs-testimonials-track {
+                display: flex;
+                transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+                gap: 24px;
+                width: 100%;
+                will-change: transform;
+            }
+    
+            .ehs-test-slide {
+                flex: 0 0 calc(50% - 12px);
+                min-width: 0;
+                display: flex;
+            }
+    
+            /* Testimonial Card Container */
+            .ehs-test-card-container {
+                position: relative;
+                width: 100%;
+                padding: 0;
+                transition: transform 0.25s ease;
+                margin-top: 0;
+                background-image: url('../images/new-index-page/testimonial-card-background.png');
+                background-size: 100% 100%;
+                background-repeat: no-repeat;
+                background-position: center;
+                display: flex;
+                flex-direction: column;
+                min-height: 235px;
+            }
+    
+            .ehs-test-card-container:hover {
+                transform: translateY(-4px);
+            }
+    
+            /* Top Header Bar inside Notch */
+            .ehs-test-header-bar {
+                position: relative;
+                z-index: 3;
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                padding: 0 24px;
+                margin-top: -52px;
+            }
+    
+            /* Floating Avatar */
+            .ehs-test-avatar-outer {
+                position: relative;
+                margin-left: 24px;
+            }
+    
+            .ehs-test-avatar-glow {
+                width: 104px;
+                height: 104px;
+                border-radius: 50%;
+                background: #ffffff;
+                padding: 4px;
+                box-shadow: 0 0 0 5px #bbf7d0, 0 10px 24px rgba(34, 197, 94, 0.22);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+    
+            .ehs-test-avatar-photo {
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                object-fit: cover;
+                display: block;
+            }
+    
+            /* Stars Rating Pill */
+            .ehs-test-stars-badge {
+                background: #ffffff;
+                border: 1.5px solid #eef2f6;
+                border-radius: 40px;
+                padding: 8px 18px;
+                display: inline-flex;
+                align-items: center;
+                gap: 6px;
+                box-shadow: 0 4px 14px rgba(15, 23, 42, 0.05);
+                margin-bottom: 0px;
+                margin-right: 0px;
+            }
+    
+            .ehs-test-stars-badge i {
+                color: #ff9800;
+                font-size: 1.15rem;
+            }
+    
+            /* Inner Text Content on Card Body */
+            .ehs-test-content-inner {
+                position: relative;
+                z-index: 2;
+                padding: 10px 30px 20px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                flex: 1;
+            }
+    
+            .ehs-test-quote-text {
+                font-size: 0.98rem;
+                color: #1e293b;
+                margin-bottom: 0px;
+                margin-top: 15px;
+                line-height: 1.5;
+                text-align:left;
+            }
+    
+            /* Bottom Row */
+            .ehs-test-bottom-row {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                margin-top: auto;
+                padding-top: 10px;
+            }
+    
+            .ehs-test-meta-name {
+                font-size: 1.15rem;
+                font-weight: 800;
+                color: #0f172a;
+                margin: 0 0 2px;
+                text-align:left;
+            }
+    
+            .ehs-test-meta-role {
+                font-size: 0.88rem;
+                color: #475569;
+                margin: 0;
+                font-weight: 500;
+            }
+    
+            .ehs-test-quotes-mark {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                line-height: 1;
+            }
+    
+            /* Carousel Side Navigation Arrows */
+            .ehs-test-nav-btn {
+                background: transparent;
+                border: none;
+                color: #94a3b8;
+                font-size: 2.2rem;
+                padding: 10px;
+                cursor: pointer;
+                transition: color 0.2s ease, transform 0.2s ease;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+    
+            .ehs-test-nav-btn:hover {
+                color: var(--ehs-primary-dark);
+                transform: scale(1.15);
+            }
+    
+            /* Bottom CTA Banner */
+            .ehs-grow-banner-card {
+                background-color: #141f42;
+                border-radius: 20px;
+                padding: 38px 48px 30px;
+                box-shadow: 0 16px 40px rgba(15, 23, 42, 0.28);
+                position: relative;
+                overflow: hidden;
+                margin-top: 20px;
+                text-align:left;
+            }
+    
+            .ehs-grow-banner-title {
+                font-size: 2.25rem;
+                font-weight: 800;
+                line-height: 1.15;
+                color: #ffffff;
+                letter-spacing: -0.4px;
+                margin-bottom: 12px;
+            }
+    
+            .ehs-grow-banner-desc {
+                font-size: 1.02rem;
+                line-height: 1.6;
+                color: #cbd5e1;
+                margin: 0;
+                max-width: 480px;
+            }
+    
+            .ehs-grow-banner-desc span {
+                color: #4ade80;
+                font-weight: 700;
+            }
+    
+            .ehs-grow-actions-top {
+                display: flex;
+                align-items: center;
+                justify-content: flex-end;
+                gap: 16px;
+                margin-bottom: 22px;
+            }
+    
+            .ehs-btn-grow-partner {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+                background-color: var(--ehs-accent-green);
+                color: #ffffff;
+                font-size: 0.98rem;
+                font-weight: 700;
+                padding: 13px 24px;
+                border-radius: 8px;
+                text-decoration: none;
+                transition: all 0.25s ease;
+                box-shadow: 0 4px 14px rgba(56, 183, 99, 0.4);
+                white-space: nowrap;
+            }
+    
+            .ehs-btn-grow-partner:hover {
+                background-color: var(--ehs-accent-green-hover);
+                color: #ffffff;
+                transform: translateY(-2px);
+            }
+    
+            .ehs-btn-grow-speak {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+                background-color: #ffffff;
+                color: var(--ehs-primary-dark);
+                font-size: 0.98rem;
+                font-weight: 700;
+                padding: 13px 24px;
+                border-radius: 8px;
+                text-decoration: none;
+                transition: all 0.25s ease;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+                white-space: nowrap;
+            }
+    
+            .ehs-btn-grow-speak:hover {
+                background-color: #f8fafc;
+                color: var(--ehs-accent-green);
+                transform: translateY(-2px);
+            }
+    
+            .ehs-grow-chart-icon {
+                color: #ffffff;
+                font-size: 2.6rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-left: 12px;
+                opacity: 0.95;
+            }
+    
+            .ehs-grow-divider {
+                height: 1.5px;
+                background: #34b35e;
+                width: 100%;
+                margin-bottom: 18px;
+                opacity: 0.7;
+            }
+    
+            .ehs-grow-tagline {
+                font-size: 1rem;
+                font-weight: 700;
+                color: #ffffff;
+                margin: 0;
+                text-align: center;
+                letter-spacing: 0.2px;
+            }
+    
+            /* ==========================================================================
+               SECTION 3: STATES WE SERVE
+               ========================================================================== */
+            .ehs-contractor-states-served {
+                padding: 50px 0;
+                background-color: #ffffff;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                text-align: center;
+            }
+    
+            .ehs-states-title {
+                font-size: 2.75rem;
+                font-weight: 800;
+                line-height: 1.2;
+                color: var(--ehs-primary-dark);
+                letter-spacing: -0.5px;
+                margin-bottom: 14px;
+            }
+    
+            .ehs-states-desc {
+                font-size: 1.05rem;
+                line-height: 1.65;
+                color: #64748b;
+                max-width: 680px;
+                margin: 0 auto 50px;
+                font-weight: 400;
+            }
+    
+            .ehs-states-wrapper {
+                width: 100%;
+                position: relative;
+                background-image: url('../images/new-index-page/map-background-image.png');
+                background-repeat: no-repeat;
+                background-position: center top;
+                background-size: 100% auto;
+                padding: 65px 20px 140px;
+                min-height: 700px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+            }
+    
+            .ehs-states-col {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+                text-align: left;
+            }
+    
+            .ehs-state-item {
+                display: inline-flex;
+                align-items: center;
+                gap: 9px;
+            }
+    
+            .ehs-state-pin {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+                line-height: 1;
+            }
+    
+            .ehs-state-name {
+                font-size: 0.95rem;
+                font-weight: 700;
+                color: #1e293b;
+                letter-spacing: -0.2px;
+                white-space: nowrap;
+            }
+    
+            .ehs-states-cta {
+                text-align: center;
+                position: relative;
+                z-index: 2;
+                margin-top: 10px;
+            }
+    
+            .ehs-btn-get-quote {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                background-color: #2ebd59;
+                color: #ffffff;
+                font-size: 1rem;
+                font-weight: 600;
+                padding: 12px 38px;
+                border-radius: 8px;
+                text-decoration: none;
+                box-shadow: 0 4px 14px rgba(46, 189, 89, 0.25);
+                transition: all 0.25s ease;
+            }
+    
+            .ehs-btn-get-quote:hover {
+                background-color: #24a14b;
+                color: #ffffff;
+                transform: translateY(-2px);
+                box-shadow: 0 6px 20px rgba(46, 189, 89, 0.35);
+            }
+    
+            /* ==========================================================================
+               SECTION 4: CITIES WE SERVE
+               ========================================================================== */
+            .ehs-contractor-cities-served {
+                padding: 45px 0 55px 0;
+                background-color: #edf5fc;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                text-align: center;
+            }
+    
+            .ehs-cities-title {
+                font-size: 2.35rem;
+                font-weight: 850;
+                line-height: 1.25;
+                color: #192a4d;
+                letter-spacing: -0.5px;
+                margin-bottom: 28px;
+                text-align: center;
+            }
+
+            /* White Card with Mint Green Outline */
+            .ehs-cities-card {
+                background: #ffffff;
+                border: 1.5px solid #a7f3d0;
+                border-radius: 18px;
+                padding: 30px 36px;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+            }
+    
+            .ehs-cities-grid {
+                margin: 0;
+            }
+
+            .ehs-states-col {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+                text-align: left;
+            }
+
+            .ehs-state-item {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                transition: transform 0.2s ease;
+            }
+
+            .ehs-state-item:hover {
+                transform: translateX(3px);
+            }
+
+            .ehs-state-pin {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+            }
+
+            .ehs-state-name {
+                font-size: 15px;
+                font-weight: 600;
+                color: #192a4d;
+                letter-spacing: -0.2px;
+            }
+    
+            /* ==========================================================================
+               SECTION 5: OUR LATEST BLOG POSTS
+               ========================================================================== */
+            .ehs-contractor-blogs {
+                padding: 50px 0;
+                background-color: #ffffff;
+                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                position: relative;
+                overflow: hidden;
+            }
+    
+            .ehs-contractor-blogs .container {
+                position: relative;
+                z-index: 2;
+            }
+    
+            .ehs-blog-decor-ring {
+                position: absolute;
+                left: -140px;
+                top: -30px;
+                width: 380px;
+                height: 380px;
+                background-image: url('images/blog-circle-bg.png');
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: center;
+                pointer-events: none;
+                z-index: 0;
+                opacity: 0.85;
+            }
+    
+            .ehs-blog-header-row {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                margin-bottom: 40px;
+                position: relative;
+                z-index: 2;
+                text-align:left;
+            }
+    
+            .ehs-blog-header-left {
+                max-width: 600px;
+            }
+            .ehs-blog-header-right a{
+                color:var(--ehs-accent-green);
+            }
+            .ehs-blog-title {
+                font-size: 2.75rem;
+                font-weight: 800;
+                line-height: 1.2;
+                color: var(--ehs-primary-dark);
+                letter-spacing: -0.5px;
+                margin-bottom: 8px;
+            }
+    
+            .ehs-blog-title .ehs-highlight-green {
+                color: var(--ehs-accent-green);
+            }
+    
+            .ehs-blog-subtitle {
+                font-size: 1.05rem;
+                color: #475569;
+                margin: 0;
+                font-weight: 500;
+            }
+    
+            .ehs-blog-card {
+                text-decoration: none;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                transition: transform 0.25s ease;
+            }
+    
+            .ehs-blog-img-box {
+                width: 100%;
+                height: 235px;
+                border-radius: 14px;
+                overflow: hidden;
+                margin-bottom: 16px;
+                background-color: #f1f5f9;
+            }
+    
+            .ehs-blog-img-box img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                transition: transform 0.4s ease;
+            }
+    
+            .ehs-blog-card:hover .ehs-blog-img-box img {
+                transform: scale(1.04);
+            }
+    
+            .ehs-blog-date {
+                font-size: 0.92rem;
+                font-weight: 600;
+                color: #1e293b;
+                margin-bottom: 8px;
+                display: block;
+            }
+    
+            .ehs-blog-card-title {
+                font-size: 1.25rem;
+                font-weight: 800;
+                color: var(--ehs-primary-dark);
+                line-height: 1.35;
+                margin-bottom: 12px;
+                transition: color 0.2s ease;
+            }
+    
+            .ehs-blog-card:hover .ehs-blog-card-title {
+                color: var(--ehs-accent-green);
+            }
+    
+            .ehs-blog-card-excerpt {
+                font-size: 0.94rem;
+                line-height: 1.55;
+                color: #334155;
+                margin: 0;
+            }            .ehs-blog-header-right {
+                display: flex;
+                align-items: center;
+            }
+            .ehs-blog-header-controls {
+                display: flex;
+                align-items: center;
+                gap: 20px;
+            }
+            .ehs-blog-view-more,
+            .ehs-blog-header-right a {
+                color: var(--ehs-accent-green);
+                text-decoration: none;
+                font-weight: 600;
+                font-size: 1.02rem;
+                display: inline-flex;
+                align-items: center;
+                gap: 6px;
+                transition: all 0.2s ease;
+            }
+            .ehs-blog-view-more:hover,
+            .ehs-blog-header-right a:hover {
+                color: var(--ehs-primary-dark);
+                transform: translateX(3px);
+            }
+            .ehs-blog-nav-buttons {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+            .ehs-blog-nav-btn {
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                border: 1.5px solid #d8e2ea;
+                background: #ffffff;
+                color: var(--ehs-primary-dark);
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 0.95rem;
+                cursor: pointer;
+                transition: all 0.25s ease;
+                outline: none;
+                box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+            }
+            .ehs-blog-nav-btn:hover {
+                background: var(--ehs-accent-green);
+                border-color: var(--ehs-accent-green);
+                color: #ffffff;
+                box-shadow: 0 4px 12px rgba(56, 183, 99, 0.28);
+                transform: scale(1.05);
+            }
+            .ehs-blog-nav-btn:active {
+                transform: scale(0.96);
+            }
+
+            /* Blog Carousel Track & Slides */
+            .ehs-blog-carousel-wrapper {
+                position: relative;
+                width: 100%;
+            }
+
+            .ehs-blog-viewport {
+                overflow: hidden;
+                width: 100%;
+                padding: 6px 2px 16px;
+            }
+
+            .ehs-blog-track {
+                display: flex;
+                gap: 24px;
+                transition: transform 0.55s cubic-bezier(0.25, 1, 0.5, 1);
+                will-change: transform;
+                text-align:left;
+            }
+
+            .ehs-blog-slide {
+                flex: 0 0 calc((100% - 48px) / 3);
+                min-width: calc((100% - 48px) / 3);
+                max-width: calc((100% - 48px) / 3);
+                box-sizing: border-box;
+                display: flex;
+            }
+    
+            /* ==========================================================================
+               RESPONSIVE MEDIA QUERIES
+               ========================================================================== */
+            @media (max-width: 1199px) {
+                .ehs-states-wrapper {
+                    min-height: 640px;
+                    padding: 50px 20px 110px;
+                }
+            }
+    
+            @media (max-width: 991px) {
+                .ehs-blog-slide {
+                    flex: 0 0 calc((100% - 24px) / 2);
+                    min-width: calc((100% - 24px) / 2);
+                    max-width: calc((100% - 24px) / 2);
+                }
+                .ehs-contractor-market-growth {
+                    background: #edf5fc;
+                    padding: 60px 0 70px;
+                }
+    
+                .ehs-market-left-content {
+                    padding-right: 0;
+                    margin-bottom: 40px;
+                }
+    
+                .ehs-market-right-content {
+                    padding-left: 0;
+                    background-color: #141f42;
+                    padding: 35px 20px;
+                    border-radius: 16px;
+                }
+    
+                .ehs-blog-card {
+                    margin-bottom: 30px;
+                }
+    
+                .ehs-grow-actions-top {
+                    justify-content: flex-start;
+                    margin-top: 20px;
+                }
+    
+                .ehs-contractor-states-served {
+                    padding: 60px 0 70px;
+                }
+    
+                .ehs-states-wrapper {
+                    background-size: contain;
+                    padding: 40px 15px 25px;
+                    min-height: auto;
+                }
+            }
+    
+            @media (max-width: 576px) {
+                .ehs-blog-slide {
+                    flex: 0 0 100%;
+                    min-width: 100%;
+                    max-width: 100%;
+                }
+                .ehs-blog-header-controls {
+                    width: 100%;
+                    justify-content: space-between;
+                }
+                .ehs-contractor-market-growth {
+                    background: #edf5fc;
+                    padding: 50px 0 60px;
+                }
+    
+                .ehs-market-left-content {
+                    padding-right: 0;
+                    margin-bottom: 40px;
+                }
+    
+                .ehs-market-title {
+                    font-size: 2rem;
+                }
+    
+                .ehs-market-right-content {
+                    padding-left: 0;
+                    background-color: #141f42;
+                    padding: 30px 16px;
+                    border-radius: 16px;
+                }
+    
+                .ehs-market-stats-card {
+                    padding: 14px 10px;
+                }
+    
+                .ehs-market-stat-num {
+                    font-size: 1.35rem;
+                }
+    
+                .ehs-market-stat-label {
+                    font-size: 0.72rem;
+                }
+    
+                .ehs-contractor-blogs {
+                    padding: 50px 0 60px;
+                }
+    
+                .ehs-blog-header-row {
+                    flex-direction: column;
+                    align-items: flex-start;
+                    gap: 12px;
+                    margin-bottom: 30px;
+                }
+    
+                .ehs-blog-title {
+                    font-size: 2rem;
+                }
+    
+                .ehs-blog-card {
+                    margin-bottom: 30px;
+                }
+    
+                .ehs-contractor-testimonials-cta {
+                    padding: 50px 0 60px;
+                }
+    
+                .ehs-testimonial-title {
+                    font-size: 2rem;
+                    margin-bottom: 30px;
+                }
+    
+                .ehs-test-slide {
+                    flex: 0 0 100%;
+                }
+    
+                .ehs-test-nav-btn {
+                    font-size: 1.6rem;
+                    padding: 5px;
+                }
+    
+                .ehs-grow-banner-card {
+                    padding: 28px 20px;
+                }
+    
+                .ehs-grow-banner-title {
+                    font-size: 1.7rem;
+                }
+    
+                .ehs-grow-actions-top {
+                    justify-content: center;
+                    margin-top: 20px;
+                }
+    
+                .ehs-btn-grow-partner,
+                .ehs-btn-grow-speak {
+                    width: 100%;
+                    justify-content: center;
+                }
+    
+                .ehs-grow-chart-icon {
+                    display: none;
+                }
+    
+                .ehs-grow-tagline {
+                    font-size: 0.98rem;
+                }
+    
+                .ehs-contractor-states-served {
+                    padding: 50px 0 60px;
+                }
+    
+                .ehs-states-title {
+                    font-size: 2rem;
+                }
+    
+                .ehs-states-desc {
+                    font-size: 0.95rem;
+                    margin-bottom: 30px;
+                }
+    
+                .ehs-states-wrapper {
+                    background-size: cover;
+                    padding: 30px 10px 20px;
+                    min-height: auto;
+                }
+    
+                .ehs-state-name {
+                    font-size: 0.85rem;
+                }
+    
+                .ehs-contractor-cities-served {
+                    padding: 45px 0 55px;
+                }
+    
+                .ehs-cities-title {
+                    font-size: 1.85rem;
+                    margin-bottom: 30px;
+                }
+            }
+
+/* ==========================================================================
+   HOME IMPROVEMENT CTA BANNER STYLES
+   ========================================================================== */
+.ehs-home-cta-section {
+    position: relative;
+    width: 100%;
+    padding: 60px 20px;
+    background-image: 
+        linear-gradient(rgba(11, 17, 32, 0.75), rgba(11, 17, 32, 0.78)),
+        url('../images/new-index-page/cta-banner-bg.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.ehs-home-cta-content {
+    max-width: 820px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+}
+
+.ehs-home-cta-title {
+    font-size: 2.6rem;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    line-height: 1.25;
+    letter-spacing: -0.5px;
+    margin-bottom: 14px;
+    font-family: 'Inter', 'DM Sans', sans-serif;
+}
+
+.ehs-home-cta-subtitle {
+    font-size: 1.15rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 400;
+    margin-bottom: 32px;
+    line-height: 1.5;
+}
+
+/* Button Group */
+.ehs-home-cta-buttons {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    flex-wrap: wrap;
+}
+
+/* Green Action Button */
+.ehs-btn-cta-green {
+    background-color: #38b763;
+    color: #ffffff !important;
+    font-size: 1.05rem;
+    font-weight: 600;
+    padding: 14px 32px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: 1.5px solid #38b763;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(56, 183, 99, 0.35);
+}
+
+.ehs-btn-cta-green:hover {
+    background-color: #2ea354;
+    border-color: #2ea354;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(56, 183, 99, 0.45);
+}
+
+.ehs-btn-cta-green i {
+    transition: transform 0.2s ease;
+}
+
+.ehs-btn-cta-green:hover i {
+    transform: translateX(4px);
+}
+
+/* White Action Button */
+.ehs-btn-cta-white {
+    background-color: #f8fafc;
+    color: #1e293b !important;
+    font-size: 1.05rem;
+    font-weight: 600;
+    padding: 14px 32px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: 1.5px solid #ffffff;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+.ehs-btn-cta-white:hover {
+    background-color: #ffffff;
+    color: #38b763 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.25);
+}
+
+.ehs-btn-cta-white i {
+    color: #1e293b;
+    transition: all 0.2s ease;
+}
+
+.ehs-btn-cta-white:hover i {
+    color: #38b763;
+    transform: translateX(4px);
+}
+
+/* ==========================================================================
+   RESPONSIVE STYLES
+   ========================================================================== */
+@media (max-width: 768px) {
+    .ehs-home-cta-section {
+        padding: 65px 16px;
+    }
+
+    .ehs-home-cta-title {
+        font-size: 1.95rem;
+    }
+
+    .ehs-home-cta-subtitle {
+        font-size: 1rem;
+        margin-bottom: 26px;
+    }
+
+    .ehs-home-cta-buttons {
+        flex-direction: column;
+        width: 100%;
+        gap: 14px;
+    }
+
+    .ehs-btn-cta-green,
+    .ehs-btn-cta-white {
+        width: 100%;
+        max-width: 320px;
+        justify-content: center;
+        padding: 13px 24px;
+    }
+}

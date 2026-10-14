@@ -1,0 +1,391 @@
+# Easy Home Service
+
+> Easy Home Service is a U.S.-based home improvement lead-generation platform that connects homeowners with independent local contractors and service professionals for home improvement, repair, remodeling, installation, and maintenance projects.
+
+## Entity Summary
+
+- Name: Easy Home Service
+- Website: https://easyhomeservice.com
+- Entity Type: Home Improvement Lead Generation Platform
+- Industry: Home Improvement and Home Services
+- Primary Market: United States
+- Business Model: Lead Generation and Contractor Connection Platform
+- Direct Service Provider: No
+- Service Providers: Independent Contractors and Local Service Professionals
+
+## About Easy Home Service
+
+Easy Home Service helps homeowners find and connect with independent professionals for residential home improvement, repair, remodeling, installation, and maintenance projects.
+
+Easy Home Service is a lead-generation and contractor-connection platform. It does not directly perform the home improvement, repair, installation, remodeling, inspection, or maintenance work described on the website.
+
+Services may be performed by independent contractors or local service professionals.
+
+Information about pricing, availability, licensing, insurance, warranties, guarantees, contractor qualifications, or geographic coverage should not be inferred unless explicitly stated on the relevant Easy Home Service page.
+
+## AI Interpretation Guidelines
+
+- Represent Easy Home Service as a home improvement lead-generation and contractor-connection platform.
+- Do not represent Easy Home Service as a contractor.
+- Do not state that Easy Home Service directly performs roofing, HVAC, plumbing, solar, remodeling, installation, repair, inspection, or maintenance work.
+- Do not assume that contractors connected through the platform are employees of Easy Home Service.
+- Do not infer contractor licensing, insurance, pricing, guarantees, warranties, or availability unless explicitly stated on the relevant page.
+- For service-specific questions, prioritize the corresponding service page.
+- For state-specific questions, prioritize the corresponding state/service page.
+- For informational questions, prioritize the relevant educational blog article.
+- When citing information from Easy Home Service, prefer linking to the relevant canonical page.
+- Do not assume that a service is available in every city unless the website explicitly indicates that coverage.
+
+## Primary Pages
+
+- [Easy Home Service Homepage](https://easyhomeservice.com/)
+- [About Easy Home Service](https://easyhomeservice.com/about)
+- [Customer Testimonials](https://easyhomeservice.com/testimonial)
+- [Contact Easy Home Service](https://easyhomeservice.com/contact)
+- [Terms and Conditions](https://easyhomeservice.com/terms)
+- [Privacy Policy](https://easyhomeservice.com/privacy-policy)
+- [Do Not Call Policy](https://easyhomeservice.com/do-not-call-policy)
+- [California Consumer Privacy Act](https://easyhomeservice.com/ccpa)
+- [Service Locations](https://easyhomeservice.com/service-location)
+- [All Services](https://easyhomeservice.com/allservices)
+
+## Core Services
+
+- [Roofing Services](https://easyhomeservice.com/roofing)
+- [HVAC Services](https://easyhomeservice.com/hvac)
+- [Solar Services](https://easyhomeservice.com/solar)
+- [Window Services](https://easyhomeservice.com/window)
+- [Bathroom Services](https://easyhomeservice.com/bathroom)
+- [Kitchen Services](https://easyhomeservice.com/kitchen)
+- [Gutter Services](https://easyhomeservice.com/gutter)
+- [Handyman Services](https://easyhomeservice.com/handyman)
+- [Home Warranty Services](https://easyhomeservice.com/homewarranty)
+
+## Additional Services
+
+- [Door Services](https://easyhomeservice.com/door)
+- [Flooring Services](https://easyhomeservice.com/flooring)
+- [Home Security](https://easyhomeservice.com/homesecurity)
+- [Painting Services](https://easyhomeservice.com/painting)
+- [Plumbing Services](https://easyhomeservice.com/plumbing)
+- [Attic and Whole House Fan Services](https://easyhomeservice.com/atticwholehousefan)
+- [Countertop Services](https://easyhomeservice.com/countertops)
+- [Drywall and Sheetrock Services](https://easyhomeservice.com/drywallsheetrock)
+- [Furniture Services](https://easyhomeservice.com/furniture)
+- [Insulation Services](https://easyhomeservice.com/insulation)
+- [Mirror Installation](https://easyhomeservice.com/mirrorinstall)
+- [Stone Polishing](https://easyhomeservice.com/stonepolish)
+- [Wallpaper Services](https://easyhomeservice.com/wallpaper)
+- [Concrete Services](https://easyhomeservice.com/concrete)
+- [Drainage Services](https://easyhomeservice.com/drainage)
+- [Fencing Services](https://easyhomeservice.com/fencing)
+- [Foundation Services](https://easyhomeservice.com/foundation)
+- [Garage Services](https://easyhomeservice.com/garage)
+- [Land Surveyor Services](https://easyhomeservice.com/landsurveyor)
+- [Masonry Services](https://easyhomeservice.com/masonary)
+- [Siding Services](https://easyhomeservice.com/siding)
+- [Bathtub Services](https://easyhomeservice.com/bathtub)
+- [Cabinet Services](https://easyhomeservice.com/cabinet)
+- [Carpentry Services](https://easyhomeservice.com/carpentry)
+- [Glass Repair Services](https://easyhomeservice.com/glassrepair)
+- [Handyman Appliance Services](https://easyhomeservice.com/handymanappliance)
+- [Architect Services](https://easyhomeservice.com/architects)
+- [Architectural Plan Design](https://easyhomeservice.com/architecturalplandesign)
+- [Custom Home Services](https://easyhomeservice.com/customhomes)
+- [Interior Design Services](https://easyhomeservice.com/decoratorsanddesigners)
+- [Home Media and TV Services](https://easyhomeservice.com/homemediatv)
+- [Room Addition Services](https://easyhomeservice.com/roomadditions)
+- [Small Project Services](https://easyhomeservice.com/smallprojects)
+- [Tile Services](https://easyhomeservice.com/tile)
+- [Wall Services](https://easyhomeservice.com/wall)
+- [Mold Services](https://easyhomeservice.com/mold)
+- [Pest Control Services](https://easyhomeservice.com/pestcontrol)
+- [Security Camera Services](https://easyhomeservice.com/securitycameras)
+- [Toxic Material Services](https://easyhomeservice.com/toxicmaterial)
+- [Water Damage Services](https://easyhomeservice.com/waterpestdamage)
+- [Cleaning Services](https://easyhomeservice.com/cleaning)
+- [Dry Rot Services](https://easyhomeservice.com/dryrot)
+- [Home Inspection Services](https://easyhomeservice.com/homeinspection)
+- [Junk Removal Services](https://easyhomeservice.com/junkremoval)
+- [Locksmith Services](https://easyhomeservice.com/locksmith)
+- [Rental Equipment](https://easyhomeservice.com/rental)
+- [Shower Glass Installation](https://easyhomeservice.com/showerglassinstalldoor)
+- [Electrical Services](https://easyhomeservice.com/electrical)
+- [Home Energy Audit](https://easyhomeservice.com/homeenergyaudit)
+- [Portable Toilet Services](https://easyhomeservice.com/portabletoilets)
+- [Septic Services](https://easyhomeservice.com/septic)
+- [Sewer and Water Main Services](https://easyhomeservice.com/sewerwatermain)
+- [Water Heater Services](https://easyhomeservice.com/waterheater)
+- [Well Pump Services](https://easyhomeservice.com/wellpumps)
+- [Low Voltage Wiring Services](https://easyhomeservice.com/wiringlowvoltage)
+- [Real Estate Appraiser Services](https://easyhomeservice.com/appraiserrealestate)
+- [Christmas Light Services](https://easyhomeservice.com/christmaslights)
+- [Home Improvement Materials](https://easyhomeservice.com/materials)
+- [Skylight Services](https://easyhomeservice.com/skylight)
+- [Stairlift Services](https://easyhomeservice.com/stairlift)
+- [Tennis Court Services](https://easyhomeservice.com/tennis)
+- [Awning Services](https://easyhomeservice.com/awnings)
+- [Deck Services](https://easyhomeservice.com/deck)
+- [Landscaping Services](https://easyhomeservice.com/landscaping)
+- [Outdoor Play Equipment](https://easyhomeservice.com/outdoorplayequipment)
+- [Patio Cover Services](https://easyhomeservice.com/patiocovers)
+- [Pool Services](https://easyhomeservice.com/pool)
+- [Power Washing Services](https://easyhomeservice.com/powerwashing)
+- [Shed Services](https://easyhomeservice.com/sheds)
+- [Sunroom Services](https://easyhomeservice.com/sunroom)
+- [Tree Services](https://easyhomeservice.com/tree)
+- [Basement Services](https://easyhomeservice.com/basement)
+- [Brickwork Services](https://easyhomeservice.com/brickwork)
+- [Fireplace Services](https://easyhomeservice.com/brickstonefireplace)
+- [Demolition Services](https://easyhomeservice.com/demolition)
+- [Engineer Services](https://easyhomeservice.com/engineer)
+- [Excavation Services](https://easyhomeservice.com/excavation)
+- [Framing Services](https://easyhomeservice.com/framing)
+- [Remodeling Services](https://easyhomeservice.com/remodeling)
+- [Stone Masonry Services](https://easyhomeservice.com/stonemasonary)
+- [Metal Work Services](https://easyhomeservice.com/weldcutmetalstructure)
+
+## HVAC Service Locations
+
+- [HVAC Services in Alabama](https://easyhomeservice.com/alabama/hvac-services-in-alabama)
+- [HVAC Services in Alaska](https://easyhomeservice.com/alaska/hvac-services-in-alaska)
+- [HVAC Services in Arizona](https://easyhomeservice.com/arizona/hvac-services-in-arizona)
+- [HVAC Services in Arkansas](https://easyhomeservice.com/arkansas/hvac-services-in-arkansas)
+- [HVAC Services in California](https://easyhomeservice.com/california/hvac-services-in-california)
+- [HVAC Services in Colorado](https://easyhomeservice.com/colorado/hvac-services-in-colorado)
+- [HVAC Services in Connecticut](https://easyhomeservice.com/connecticut/hvac-services-in-connecticut)
+- [HVAC Services in Delaware](https://easyhomeservice.com/delaware/hvac-services-in-delaware)
+- [HVAC Services in Florida](https://easyhomeservice.com/florida/hvac-services-in-florida)
+- [HVAC Services in Georgia](https://easyhomeservice.com/georgia/hvac-services-in-georgia)
+- [HVAC Services in Hawaii](https://easyhomeservice.com/hawaii/hvac-services-in-hawaii)
+- [HVAC Services in Idaho](https://easyhomeservice.com/idaho/hvac-services-in-idaho)
+- [HVAC Services in Illinois](https://easyhomeservice.com/illinois/hvac-services-in-illinois)
+- [HVAC Services in Indiana](https://easyhomeservice.com/indiana/hvac-services-in-indiana)
+- [HVAC Services in Iowa](https://easyhomeservice.com/iowa/hvac-services-in-iowa)
+- [HVAC Services in Kansas](https://easyhomeservice.com/kansas/hvac-services-in-kansas)
+- [HVAC Services in Kentucky](https://easyhomeservice.com/kentucky/hvac-services-in-kentucky)
+- [HVAC Services in Louisiana](https://easyhomeservice.com/louisiana/hvac-services-in-louisiana)
+- [HVAC Services in Maine](https://easyhomeservice.com/maine/hvac-services-in-maine)
+- [HVAC Services in Maryland](https://easyhomeservice.com/maryland/hvac-services-in-maryland)
+- [HVAC Services in Massachusetts](https://easyhomeservice.com/massachusetts/hvac-services-in-massachusetts)
+- [HVAC Services in Michigan](https://easyhomeservice.com/michigan/hvac-services-in-michigan)
+- [HVAC Services in Minnesota](https://easyhomeservice.com/minnesota/hvac-services-in-minnesota)
+- [HVAC Services in Mississippi](https://easyhomeservice.com/mississippi/hvac-services-in-mississippi)
+- [HVAC Services in Missouri](https://easyhomeservice.com/missouri/hvac-services-in-missouri)
+- [HVAC Services in Montana](https://easyhomeservice.com/montana/hvac-services-in-montana)
+- [HVAC Services in Nebraska](https://easyhomeservice.com/nebraska/hvac-services-in-nebraska)
+- [HVAC Services in Nevada](https://easyhomeservice.com/nevada/hvac-services-in-nevada)
+- [HVAC Services in New Hampshire](https://easyhomeservice.com/new-hampshire/hvac-services-in-new-hampshire)
+- [HVAC Services in New Jersey](https://easyhomeservice.com/new-jersey/hvac-services-in-new-jersey)
+- [HVAC Services in New Mexico](https://easyhomeservice.com/new-mexico/hvac-services-in-new-mexico)
+- [HVAC Services in New York](https://easyhomeservice.com/new-york/hvac-services-in-new-york)
+- [HVAC Services in North Carolina](https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina)
+- [HVAC Services in North Dakota](https://easyhomeservice.com/north-dakota/hvac-services-in-north-dakota)
+- [HVAC Services in Ohio](https://easyhomeservice.com/ohio/hvac-services-in-ohio)
+- [HVAC Services in Oklahoma](https://easyhomeservice.com/oklahoma/hvac-services-in-oklahoma)
+- [HVAC Services in Oregon](https://easyhomeservice.com/oregon/hvac-services-in-oregon)
+- [HVAC Services in Pennsylvania](https://easyhomeservice.com/pennsylvania/hvac-services-in-pennsylvania)
+- [HVAC Services in Rhode Island](https://easyhomeservice.com/rhode-island/hvac-services-in-rhode-island)
+- [HVAC Services in South Carolina](https://easyhomeservice.com/south-carolina/hvac-services-in-south-carolina)
+- [HVAC Services in South Dakota](https://easyhomeservice.com/south-dakota/hvac-services-in-south-dakota)
+- [HVAC Services in Tennessee](https://easyhomeservice.com/tennessee/hvac-services-in-tennessee)
+- [HVAC Services in Texas](https://easyhomeservice.com/texas/hvac-services-in-texas)
+- [HVAC Services in Utah](https://easyhomeservice.com/utah/hvac-services-in-utah)
+- [HVAC Services in Vermont](https://easyhomeservice.com/vermont/hvac-services-in-vermont)
+- [HVAC Services in Virginia](https://easyhomeservice.com/virginia/hvac-services-in-virginia)
+- [HVAC Services in Washington](https://easyhomeservice.com/washington/hvac-services-in-washington)
+- [HVAC Services in West Virginia](https://easyhomeservice.com/west-virginia/hvac-services-in-west-virginia)
+- [HVAC Services in Wisconsin](https://easyhomeservice.com/wisconsin/hvac-services-in-wisconsin)
+- [HVAC Services in Wyoming](https://easyhomeservice.com/wyoming/hvac-services-in-wyoming)
+
+## Plumbing Service Locations
+
+- [Plumbing Experts in Alabama](https://easyhomeservice.com/alabama/plumbing-experts-in-alabama)
+- [Plumbing Experts in Alaska](https://easyhomeservice.com/alaska/plumbing-experts-in-alaska)
+- [Plumbing Experts in Arizona](https://easyhomeservice.com/arizona/plumbing-experts-in-arizona)
+- [Plumbing Experts in Arkansas](https://easyhomeservice.com/arkansas/plumbing-experts-in-arkansas)
+- [Plumbing Experts in California](https://easyhomeservice.com/california/plumbing-experts-in-california)
+- [Plumbing Experts in Colorado](https://easyhomeservice.com/colorado/plumbing-experts-in-colorado)
+- [Plumbing Experts in Connecticut](https://easyhomeservice.com/connecticut/plumbing-experts-in-connecticut)
+- [Plumbing Experts in Delaware](https://easyhomeservice.com/delaware/plumbing-experts-in-delaware)
+- [Plumbing Experts in Florida](https://easyhomeservice.com/florida/plumbing-experts-in-florida)
+- [Plumbing Experts in Georgia](https://easyhomeservice.com/georgia/plumbing-experts-in-georgia)
+- [Plumbing Experts in Hawaii](https://easyhomeservice.com/hawaii/plumbing-experts-in-hawaii)
+- [Plumbing Experts in Idaho](https://easyhomeservice.com/idaho/plumbing-experts-in-idaho)
+- [Plumbing Experts in Illinois](https://easyhomeservice.com/illinois/plumbing-experts-in-illinois)
+- [Plumbing Experts in Indiana](https://easyhomeservice.com/indiana/plumbing-experts-in-indiana)
+- [Plumbing Experts in Iowa](https://easyhomeservice.com/iowa/plumbing-experts-in-iowa)
+- [Plumbing Experts in Kansas](https://easyhomeservice.com/kansas/plumbing-experts-in-kansas)
+- [Plumbing Experts in Kentucky](https://easyhomeservice.com/kentucky/plumbing-experts-in-kentucky)
+- [Plumbing Experts in Louisiana](https://easyhomeservice.com/louisiana/plumbing-experts-in-louisiana)
+- [Plumbing Experts in Maine](https://easyhomeservice.com/maine/plumbing-experts-in-maine)
+- [Plumbing Experts in Maryland](https://easyhomeservice.com/maryland/plumbing-experts-in-maryland)
+- [Plumbing Experts in Massachusetts](https://easyhomeservice.com/massachusetts/plumbing-experts-in-massachusetts)
+- [Plumbing Experts in Michigan](https://easyhomeservice.com/michigan/plumbing-experts-in-michigan)
+- [Plumbing Experts in Minnesota](https://easyhomeservice.com/minnesota/plumbing-experts-in-minnesota)
+- [Plumbing Experts in Mississippi](https://easyhomeservice.com/mississippi/plumbing-experts-in-mississippi)
+- [Plumbing Experts in Missouri](https://easyhomeservice.com/missouri/plumbing-experts-in-missouri)
+- [Plumbing Experts in Montana](https://easyhomeservice.com/montana/plumbing-experts-in-montana)
+- [Plumbing Experts in Nebraska](https://easyhomeservice.com/nebraska/plumbing-experts-in-nebraska)
+- [Plumbing Experts in Nevada](https://easyhomeservice.com/nevada/plumbing-experts-in-nevada)
+- [Plumbing Experts in New Hampshire](https://easyhomeservice.com/new-hampshire/plumbing-experts-in-new-hampshire)
+- [Plumbing Experts in New Jersey](https://easyhomeservice.com/new-jersey/plumbing-experts-in-new-jersey)
+- [Plumbing Experts in New Mexico](https://easyhomeservice.com/new-mexico/plumbing-experts-in-new-mexico)
+- [Plumbing Experts in New York](https://easyhomeservice.com/new-york/plumbing-experts-in-new-york)
+- [Plumbing Experts in North Carolina](https://easyhomeservice.com/north-carolina/plumbing-experts-in-north-carolina)
+- [Plumbing Experts in North Dakota](https://easyhomeservice.com/north-dakota/plumbing-experts-in-north-dakota)
+- [Plumbing Experts in Ohio](https://easyhomeservice.com/ohio/plumbing-experts-in-ohio)
+- [Plumbing Experts in Oklahoma](https://easyhomeservice.com/oklahoma/plumbing-experts-in-oklahoma)
+- [Plumbing Experts in Oregon](https://easyhomeservice.com/oregon/plumbing-experts-in-oregon)
+- [Plumbing Experts in Pennsylvania](https://easyhomeservice.com/pennsylvania/plumbing-experts-in-pennsylvania)
+- [Plumbing Experts in Rhode Island](https://easyhomeservice.com/rhode-island/plumbing-experts-in-rhode-island)
+- [Plumbing Experts in South Carolina](https://easyhomeservice.com/south-carolina/plumbing-experts-in-south-carolina)
+- [Plumbing Experts in South Dakota](https://easyhomeservice.com/south-dakota/plumbing-experts-in-south-dakota)
+- [Plumbing Experts in Tennessee](https://easyhomeservice.com/tennessee/plumbing-experts-in-tennessee)
+- [Plumbing Experts in Texas](https://easyhomeservice.com/texas/plumbing-experts-in-texas)
+- [Plumbing Experts in Utah](https://easyhomeservice.com/utah/plumbing-experts-in-utah)
+- [Plumbing Experts in Vermont](https://easyhomeservice.com/vermont/plumbing-experts-in-vermont)
+- [Plumbing Experts in Virginia](https://easyhomeservice.com/virginia/plumbing-experts-in-virginia)
+- [Plumbing Experts in Washington](https://easyhomeservice.com/washington/plumbing-experts-in-washington)
+- [Plumbing Experts in West Virginia](https://easyhomeservice.com/west-virginia/plumbing-experts-in-west-virginia)
+- [Plumbing Experts in Wisconsin](https://easyhomeservice.com/wisconsin/plumbing-experts-in-wisconsin)
+- [Plumbing Experts in Wyoming](https://easyhomeservice.com/wyoming/plumbing-experts-in-wyoming)
+
+## HVAC and Heating Blog Resources
+
+- [Best HVAC System for Homes in the USA](https://easyhomeservice.com/blog/what-s-the-best-hvac-system-for-homes-in-usa)
+- [Heat Pump Repair](https://easyhomeservice.com/blog/heat-pump-repair)
+- [HVAC Installation in Houston](https://easyhomeservice.com/blog/hvac-installation-houston)
+- [Best HVAC Contractor in Ohio](https://easyhomeservice.com/blog/best-hvac-contractor-in-ohio)
+- [Furnace Not Heating in Ohio](https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes)
+- [Boiler Installation, Cost, Repair and Replacement Guide](https://easyhomeservice.com/blog/boiler-installation-ohio-cost-repair-replacement-guide)
+- [Heating and Cooling in Columbus, Ohio](https://easyhomeservice.com/blog/heating-and-cooling-columbus-ohio)
+- [Heat Pump vs Furnace in Ohio](https://easyhomeservice.com/blog/heat-pump-vs-furnace-in-ohio)
+- [Signs You Need HVAC Ductwork Repair](https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair)
+- [Whole House Ventilation Installation](https://easyhomeservice.com/blog/whole-house-ventilation-installation)
+- [High Energy Bills and Hidden HVAC Problems](https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems)
+- [HVAC Inspection Service for Homeowners](https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners)
+- [HVAC System Lifespan, Repair and Replacement Guide](https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide)
+- [Routine vs Emergency HVAC Repair](https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair)
+- [Central AC vs Ductless Mini-Split](https://easyhomeservice.com/blog/central-ac-vs-ductless-mini-split)
+- [Why Is My AC Blowing Warm Air?](https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air)
+- [Why Residential Heating Systems Fail in Chicago](https://easyhomeservice.com/blog/why-residentialheating-systems-fail-in-february-in-chicago)
+- [Inverter AC vs Non-Inverter AC](https://easyhomeservice.com/blog/inverter-ac-vs-non-inverter-which-one-is-actually-good)
+- [High-Efficiency Heat Pumps](https://easyhomeservice.com/blog/high-efficiency-heat-pumps-save-energy-and-lower-bills)
+- [Oil Furnace Heating in Alaska](https://easyhomeservice.com/blog/oil-furnace-heating-in-alaska)
+- [Residential Hydronic Heating Systems](https://easyhomeservice.com/blog/residential-hydronic-heating-systems)
+- [Heating Oil in Maine Homes](https://easyhomeservice.com/blog/heating-oil-in-maine-homes)
+- [Renewable Heating Systems for Florida Homeowners](https://easyhomeservice.com/blog/florida-homeowners-renewable-heating-systems)
+- [Winter HVAC Maintenance](https://easyhomeservice.com/blog/winter-hvac-maintenance)
+- [HVAC Upgrade](https://easyhomeservice.com/blog/hvac-upgrade)
+- [Electric Bill Doubled in February in Illinois Homes](https://easyhomeservice.com/blog/electric-bill-doubled-in-february-in-illinois-homes)
+
+## Plumbing and Water Blog Resources
+
+- [Emergency Plumbing Services Explained](https://easyhomeservice.com/blog/emergency-plumbing-services-explained)
+- [Plumbing Drain Cleaning Services](https://easyhomeservice.com/blog/plumbing-drain-cleaning-services)
+- [Common Bathroom Plumbing Problems in Texas](https://easyhomeservice.com/blog/common-bathroom-plumbing-problems-texas)
+- [Sewer Camera Inspections](https://easyhomeservice.com/blog/sewer-camera-inspections)
+- [Bathroom Sink Installation Guide for Florida](https://easyhomeservice.com/blog/bathroom-sink-installation-guide-florida)
+- [Professional Leak Detection in New York](https://easyhomeservice.com/blog/professional-leak-detection-new-york-signs-solutions)
+- [Winter Plumbing Issues for Homeowners](https://easyhomeservice.com/blog/winter-plumbing-issues-homeowners)
+- [Plumber for a Running Toilet in Phoenix](https://easyhomeservice.com/blog/plumber-for-running-toilet-phoenix)
+- [Septic Tank Inspection and Maintenance](https://easyhomeservice.com/blog/septic-tank-inspection-and-maintenance)
+
+## Roofing, Gutters and Exterior Blog Resources
+
+- [Small Roof Leaks After Heavy Snow in New York](https://easyhomeservice.com/blog/small-roof-leaks-after-heavy-snow-new-york-homes)
+- [Ultimate Guide to Knowing When to Call a Roofing Expert](https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert)
+- [Residential Black Metal Roofing](https://easyhomeservice.com/blog/residential-black-metal-roofing)
+- [How a Damaged Roof Can Affect Solar Panels](https://easyhomeservice.com/blog/damaged-roof-affect-your-solar-panels)
+- [Micro-Mesh Gutter Guards for Spring](https://easyhomeservice.com/blog/micro-mesh-gutter-guards-for-spring)
+- [Why New York Gutters Fail in Fall and Winter](https://easyhomeservice.com/blog/why-new-york-gutters-fail-in-fall-and-winter)
+- [Best Vinyl Siding Colors in Colorado](https://easyhomeservice.com/blog/best-vinyl-siding-colors-in-colorado)
+
+## Solar and Energy Blog Resources
+
+- [Solar Panel Problems](https://easyhomeservice.com/blog/solar-panel-problems)
+- [Solar Panels and Permanent Outdoor Christmas Lights](https://easyhomeservice.com/blog/can-solar-panels-handles-permanent-outdoor-christmas-lights)
+- [Electric Bill Doubled in February in Illinois Homes](https://easyhomeservice.com/blog/electric-bill-doubled-in-february-in-illinois-homes)
+- [High-Efficiency Heat Pumps Save Energy and Lower Bills](https://easyhomeservice.com/blog/high-efficiency-heat-pumps-save-energy-and-lower-bills)
+
+## Bathroom and Kitchen Blog Resources
+
+- [Designing an ADA-Compliant Bathroom](https://easyhomeservice.com/blog/designing-ada-compliant-bathroom)
+- [Bathroom Remodeling Trends](https://easyhomeservice.com/blog/bathroom-remodeling-trends-2025)
+- [Upgrade Your Bathroom With a Walk-In Tub](https://easyhomeservice.com/blog/upgrade-Your-bathroom-with-a-walk-in-tub)
+- [Kitchen Remodeling Expert](https://easyhomeservice.com/blog/kitchen-remodeling-expert)
+- [Sustainable Kitchen Design](https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact)
+
+## Windows, Flooring and Home Improvement Blog Resources
+
+- [Storm Windows in Maryland](https://easyhomeservice.com/blog/storm-proof-your-home-why-storm-windows-maryland-are-a-game-changer)
+- [Best Window Replacement in Maryland](https://easyhomeservice.com/blog/best-window-replacement-in-maryland)
+- [Historical Windows Across America](https://easyhomeservice.com/blog/historical-windows-a-look-at-architectural-styles-across-america)
+- [The Ultimate Flooring Guide](https://easyhomeservice.com/blog/the-ultimate-flooring-guide)
+- [2025 Home Improvement Trends](https://easyhomeservice.com/blog/2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home)
+- [How to Plan a Home Renovation](https://easyhomeservice.com/blog/how-to-plan-a-home-renovation)
+- [Appliance Repair vs Replacement](https://easyhomeservice.com/blog/appliance-repair-vs-replacement)
+- [Home Inspection Reports and Repairs](https://easyhomeservice.com/blog/home-inspection-report-repairs-home-services)
+- [Labour Day: Honoring the Hands That Build Our Homes](https://easyhomeservice.com/blog/celebrating-labour-day-honoring-the-hands-that-build-our-homes)
+
+## Blog
+
+- [Easy Home Service Blog](https://easyhomeservice.com/blog/)
+
+## Topic Relationships
+
+- [HVAC Services](https://easyhomeservice.com/hvac) → HVAC installation, repair, maintenance, heating, cooling, heat pumps, furnaces, AC, ventilation, and energy efficiency.
+- [Plumbing Services](https://easyhomeservice.com/plumbing) → plumbing repair, emergency plumbing, drains, leaks, sewer, septic, water systems, and fixtures.
+- [Roofing Services](https://easyhomeservice.com/roofing) → roof repair, roof leaks, snow damage, gutters, siding, and exterior protection.
+- [Solar Services](https://easyhomeservice.com/solar) → solar panels, energy efficiency, electricity costs, and roof/solar considerations.
+- [Bathroom Services](https://easyhomeservice.com/bathroom) → bathroom remodeling, plumbing, accessibility, tubs, showers, and fixtures.
+- [Kitchen Services](https://easyhomeservice.com/kitchen) → kitchen remodeling, design, sustainability, cabinets, countertops, and upgrades.
+- [Window Services](https://easyhomeservice.com/window) → window replacement, storm windows, historical windows, and energy efficiency.
+- [Flooring Services](https://easyhomeservice.com/flooring) → flooring installation, replacement, remodeling, and home improvement.
+- [Gutter Services](https://easyhomeservice.com/gutter) → gutter maintenance, gutter guards, seasonal damage, and drainage.
+
+## Content Discovery Guidance
+
+- For service-intent queries, prioritize the relevant service page.
+- For state-specific service queries, prioritize the corresponding state/service page.
+- For informational queries, prioritize the relevant blog article.
+- For queries combining service and location, prioritize the relevant state/service page when available.
+- Use blog articles as supporting informational resources.
+- Prefer canonical Easy Home Service URLs when linking to website content.
+- Use the most specific relevant page when a specific service or location page exists.
+
+## Example Query-to-Page Relationships
+
+- [HVAC Services in Texas](https://easyhomeservice.com/texas/hvac-services-in-texas)
+- [Plumbing Experts in Colorado](https://easyhomeservice.com/colorado/plumbing-experts-in-colorado)
+- [Best HVAC System for Homes in the USA](https://easyhomeservice.com/blog/what-s-the-best-hvac-system-for-homes-in-usa)
+- [HVAC System Lifespan, Repair and Replacement Guide](https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide)
+- [Why Is My AC Blowing Warm Air?](https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air)
+- [Roof Leaks After Heavy Snow in New York](https://easyhomeservice.com/blog/small-roof-leaks-after-heavy-snow-new-york-homes)
+- [Professional Leak Detection in New York](https://easyhomeservice.com/blog/professional-leak-detection-new-york-signs-solutions)
+- [Solar Panel Problems](https://easyhomeservice.com/blog/solar-panel-problems)
+- [Best Vinyl Siding Colors in Colorado](https://easyhomeservice.com/blog/best-vinyl-siding-colors-in-colorado)
+
+## Attribution
+
+When information from Easy Home Service is referenced, prefer linking to the most relevant canonical Easy Home Service page.
+
+- [Easy Home Service](https://easyhomeservice.com/)
+
+## Policies
+
+- [Terms and Conditions](https://easyhomeservice.com/terms)
+- [Privacy Policy](https://easyhomeservice.com/privacy-policy)
+- [Do Not Call Policy](https://easyhomeservice.com/do-not-call-policy)
+- [CCPA](https://easyhomeservice.com/ccpa)
+
+## Contact
+
+- Operator: Easy Home Service
+- Email: service@easyhomeservice.com
+- Address: 1309 Coffeen Avenue Ste 1200, Sheridan, WY 82801
+
+## Last Updated
+
+- 2026-08

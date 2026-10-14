@@ -1,0 +1,31 @@
+  .bathroom-cards img {
+    width: 60px;
+    margin-bottom: 15px;
+  }
+
+  .bathroom-cards a {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: column;
+  }
+ .banner_garage {
+    background: url(/images/garage-banner.jpg) no-repeat #e8f0fb;
+    background-position: right;
+    padding: 45px 0 45px;
+}
+.banner_heading {
+    width: 90%;
+}
+.inner__banner__text {
+    width: 80%;
+}
+@media screen and (max-width: 768px) {
+    .banner_heading {
+        width: 100%;
+    }
+
+    .inner__banner__text {
+        width: 100%;
+    }
+}

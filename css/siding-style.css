@@ -1,0 +1,40 @@
+.banner_siding {
+  background: linear-gradient(
+      to right,
+      #fff0 0%,
+      rgb(230 241 250 / 20%) 10%,
+      rgb(230 241 250 / 40%) 20%,
+      rgb(230 241 250 / 60%) 30%,
+      rgb(230 241 250 / 50%) 40%,
+      rgb(255 255 255 / 53%) 50%,
+      #fff0 60%,
+      #fff0 70%,
+      #fff0 85%,
+      #fff0 100%
+    ),
+    url(/images/siding-banner-5.jpg) right center / cover no-repeat;
+  padding: 60px 0 60px;
+}
+.inner__banner__text {
+  width: 84%;
+}
+.inner_sec1__point li span {
+  color: #000;
+  font-weight: 400;
+}
+.roofing_sec2_row_box span,
+.roofing_sec2_row_box h3 {
+  float: left;
+  width: 100%;
+  padding-right: 75px;
+  font-size: 25px;
+  line-height: 30px;
+  color: #14147e;
+  font-weight: 700;
+  min-height: 90px;
+}
+@media screen and (max-width: 768px) {
+  .inner__banner__text {
+    width: 100%;
+  }
+}

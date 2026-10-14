@@ -1,0 +1,21 @@
+
+   .banner_fencing {
+    background: url(/images/fencing-banner.jpg) no-repeat #e8f0fb;
+    background-position: right;
+    padding: 55px 0 55px;
+}
+.banner_heading {
+    width: 90%;
+}
+.inner__banner__text {
+    width: 80%;
+}
+@media screen and (max-width: 768px) {
+    .banner_heading {
+        width: 100%;
+    }
+
+    .inner__banner__text {
+        width: 100%;
+    }
+}

@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Do not redirect/rewrite form processing endpoints
+RewriteRule ^process-booking\.php$ - [L]
+RewriteRule ^save-quote\.php$ - [L]
+Require all denied

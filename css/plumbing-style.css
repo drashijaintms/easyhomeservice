@@ -1,0 +1,165 @@
+@media (max-width: 768px) {
+  .banner_plumbing {
+    background: #e8f0fb !important;
+    padding: 20px 0 !important;
+    background-position: right center;
+    background-repeat: no-repeat;
+  }
+  .inner__banner__text {
+    font-size: 15px !important;
+    line-height: 21px !important;
+    margin-top: 10px !important;
+    width: 100% !important;
+  }
+  .tab-pane-custom h5,
+  .tab-pane-custom h3 {
+    font-size: 30px !important;
+  }
+  ul.city-ul {
+    font-size: 16px;
+    text-align: left;
+    font-weight: 500;
+    padding-left: 0.5rem;
+    margin-bottom: 0;
+  }
+}
+.banner_plumbing {
+  background: url(/images/plumbing-img-03.jpg) no-repeat #e8f0fb;
+  padding: 80px 0 110px;
+  background-position: right;
+}
+.inner__banner__text {
+  font-size: 21px;
+  line-height: 30px;
+  margin-top: 15px;
+  float: left;
+  width: 95%;
+}
+.custom-tabs {
+  gap: 12px;
+  margin: 25px 0;
+}
+.custom-tab-btn {
+  padding: 10px 24px;
+  background: #e9ecef;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+  margin: 0 10px;
+}
+.custom-tab-btn.active {
+  background: #14147e;
+  color: #fff;
+}
+.custom-tab-btn:hover {
+  background: #04d36f;
+  color: #fff;
+  transform: scale(1.05);
+  transition: transform 1s ease;
+}
+.tab-pane-custom {
+  display: none;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #04d36f;
+}
+.tab-pane-custom p {
+  text-align: left;
+}
+.tab-pane-custom ul {
+  text-align: left;
+  padding: 1rem 0rem 1rem 2rem;
+}
+.tab-pane-custom li {
+  list-style: disc;
+  font-weight: 500;
+}
+.tab-pane-custom.active {
+  display: block;
+}
+.hvac-s-img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+.tab-pane-custom h5,
+.tab-pane-custom h3 {
+  color: #14147e;
+  font-weight: 600;
+  font-size: 35px;
+  padding-bottom: 13px;
+  margin-bottom: 0;
+}
+a.hvac-btn {
+  float: left;
+  width: 37%;
+  height: 55px;
+  border-radius: 7px;
+  background: #04d36f;
+  font-size: 20px;
+  line-height: 55px;
+  color: #fff;
+  font-weight: 700;
+  -webkit-appearance: none;
+  font-family: "DM Sans";
+  text-decoration: none;
+}
+ul.city-ul {
+  font-size: 19px;
+  text-align: left;
+  font-weight: 500;
+}
+.city-ul i {
+  color: #04d36f;
+}
+.city-ul li {
+  padding: 3px 0;
+}
+.team-boxed .people {
+  padding: 50px 0;
+}
+.team-boxed .item {
+  text-align: center;
+}
+.team-boxed .item .box {
+  text-align: center;
+  padding: 20px 15px;
+  background-color: #fff;
+  height: 100%;
+}
+.icon-circle {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: #f0f8ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.icon-circle img {
+  max-width: 70%;
+  max-height: 70%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.team-boxed .item .name {
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  color: #14147e;
+  font-size: 1.5rem;
+}
+.team-boxed .item .description {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  color: #000;
+}
+.team-boxed .item .box:hover .icon-circle {
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}

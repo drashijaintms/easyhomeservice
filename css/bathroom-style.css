@@ -1,0 +1,108 @@
+.banner_heading {
+  width: 90%;
+}
+.inner__banner__text {
+  width: 90%;
+}
+@media (max-width: 768px) {
+  .banner_heading {
+    width: 100%;
+  }
+  .inner__banner__text {
+    width: 100% !important;
+  }
+  .window-card {
+    height: 170px !important;
+  }
+  .window-overlay {
+    padding: 5px !important;
+  }
+  .window-name {
+    font-size: 1rem !important;
+  }
+}
+ul.inner_sec1__point li {
+  float: left;
+  width: 100%;
+  margin-top: 12px;
+  padding-left: 25px;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000;
+  background: url(../images/bnr_chk.png) left 4px / 17px no-repeat;
+}
+
+.banner_bathroom {
+  background: linear-gradient(
+      to right,
+      #fff0 0%,
+      rgb(230 241 250 / 20%) 10%,
+      rgb(230 241 250 / 40%) 20%,
+      rgb(230 241 250 / 60%) 30%,
+      rgb(230 241 250 / 50%) 40%,
+      rgb(255 255 255 / 53%) 50%,
+      #fff0 60%,
+      #fff0 70%,
+      #fff0 85%,
+      #fff0 100%
+    ),
+    url(/images/bathroom-banner-02.jpg) right center / cover no-repeat;
+  padding: 40px 0 40px;
+}
+.inner__banner__text {
+  width: 77%;
+}
+
+.team-boxed .item .box {
+  text-align: center;
+  padding: 20px 15px;
+  background-color: #fff;
+  height: 100%;
+}
+.icon-circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #f0f8ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.icon-circle img {
+  max-width: 65%;
+  max-height: 65%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  padding: 5px;
+}
+.team-boxed .item .name {
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  color: #14147e;
+  font-size: 1.5rem;
+}
+.team-boxed .item .description {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  color: #000;
+}
+.team-boxed .item .box:hover .icon-circle {
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}
+
+    .bathroom-cards img {
+    width: 60px;
+    margin-bottom: 15px;
+}
+
+    .bathroom-cards a {display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: column;
+}

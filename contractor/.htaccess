@@ -1,0 +1,31 @@
+RewriteEngine On
+RewriteBase /contractor/
+
+# 1. DO NOT redirect POST requests (prevents 301/302 from dropping POST data to GET)
+RewriteCond %{REQUEST_METHOD} POST
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# 2. Map extensionless form endpoints directly to .php files for POST and GET
+RewriteRule ^process-booking/?$ process-booking.php [L,QSA]
+RewriteRule ^save-quote/?$ save-quote.php [L,QSA]
+
+# 3. If a .php file is requested via GET from browser, strip .php for clean URLs
+RewriteCond %{REQUEST_METHOD} !=POST
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# 4. Internally rewrite extensionless requests to .php if the file exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# 5. Security: Deny direct public access to data folder & sensitive files
+<FilesMatch "\.(csv|log|sql|env|ini)$">
+    <IfModule authz_core_module>
+        Require all denied
+    </IfModule>
+    <IfModule !authz_core_module>
+        Deny from all
+    </IfModule>
+</FilesMatch>

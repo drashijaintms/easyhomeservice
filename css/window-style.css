@@ -1,0 +1,35 @@
+.color-blue {
+  color: #14147e;
+}
+
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 1.8rem;
+  }
+ }
+.banner_window-new {
+  background: linear-gradient(to right, rgb(233 239 253 / 86%), #fff0),
+    url(../images/window-image-7.jpg) right no-repeat;
+  background-position: right;
+}
+.f-ul li {
+  list-style: decimal;
+}
+@media only screen and (max-width: 767px) {
+  .inner__banner--roof {
+    padding: 20px 0;
+    position: relative;
+    background: #e6f1fa !important;
+  }
+  .banner_window-new .inner__banner__text {
+    width: 100% !important;
+  }
+}
+.banner_window-new .inner__banner__text {
+  width: 85%;
+}
+.inner__banner,
+.banner_window-new {
+  position: relative;
+  z-index: 1;
+}
