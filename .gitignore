@@ -16,11 +16,7 @@ backups/
 # Logs & error dumps
 *.log
 error_log
-logs/
-log.txt
-update_log.txt
-short-forms-log.txt
-modification_log.txt
+
 
 # OS & Editor generated files
 ._*
