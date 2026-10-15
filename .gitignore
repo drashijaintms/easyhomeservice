@@ -19,6 +19,7 @@ error_log
 
 
 # OS & Editor generated files
+router.php
 ._*
 Thumbs.db
 ehthumbs.db
