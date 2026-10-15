@@ -1,8 +1,8 @@
-<?php include'header.php' ?>
- <link rel="stylesheet" href="css/index-css.css">
 <?php
 $pagenm = 'index';
+include 'header.php';
 ?>
+ <link rel="stylesheet" href="css/index-css.css">
 <div class="banner" id="top_form">
   <div class="container">
     <div class="banner_left">
@@ -12,7 +12,7 @@ $pagenm = 'index';
       <h1 class="banner_heading">Connecting Homeowners <br> with Trusted Home <br> Improvement Experts </h1>
       <div class="banner_quote_box">
         <div class="banner_quote_box_inner">
-          <p class="showMob frmHeading-m">Get A Quote Now</p> <?php $query = $_SERVER['QUERY_STRING'] ? '?' . $_SERVER['QUERY_STRING'] : '';?> <form method="get" id="quoteForm" action="">
+          <p class="showMob frmHeading-m">Get A Quote Now</p> <?php $query = !empty($_SERVER['QUERY_STRING']) ? '?' . $_SERVER['QUERY_STRING'] : '';?> <form method="get" id="quoteForm" action="">
             <div class="form_field">
               <select name="service" id="serviceSelect" required class="input_field">
                 <option value="" disabled selected>I need help with</option>

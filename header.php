@@ -10,7 +10,12 @@
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <link rel="icon" href="/images/favicon.ico" sizes="any">
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/assets.php'; ?>
-<?php $base_url = '/'; ?>
+<?php 
+$base_url = '/'; 
+if (!isset($pagenm)) {
+    $pagenm = '';
+}
+?>
 <?php 
 include $_SERVER['DOCUMENT_ROOT'].'/includes/schema-dates.php';
 $dates = getSchemaDates();
