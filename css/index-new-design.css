@@ -13,7 +13,7 @@
         --eh-navy: #192a4d;
         --eh-navy-dark: #0f1d38;
         --eh-bar-bg: #001f54;
-        --eh-btn-green: #34b35e;
+        --eh-btn-green: #04d36f;
         --eh-btn-green-hover: #2d9d52;
         --eh-star-gold: #ff9800;
         --eh-text-dark: #1e293b;
@@ -24,7 +24,7 @@
     }
     
     body {
-        font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         color: var(--eh-text-dark);
         background-color: #ffffff;
         overflow-x: hidden;
@@ -241,7 +241,7 @@
     .eh-search-btn {
         height: 48px !important;
         line-height: 48px !important;
-        background: var(--eh-btn-green, #34b35e) !important;
+        background: var(--eh-btn-green, #04d36f) !important;
         color: #ffffff !important;
         border: none !important;
         border-radius: 4px !important;
@@ -622,16 +622,16 @@
        SECTION 4: "Top-Rated Home Improvement Experts Near You"
        ========================================================================== */
     .eh-remodel-section {
-        position: relative;
-        background-color: #edf8f1;
-        background-image: url('../images/new-index-page/remodel-section-bg.png');
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-size: cover;
-        padding: 55px 0 60px 0;
-        overflow: hidden;
-    }
-    
+    position: relative;
+    padding: 70px 0 60px;
+    background-color: #fafafa;
+    background-image: url(/images/additional-sec-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    overflow: hidden;
+}
+
     .eh-remodel-header {
         position: relative;
         z-index: 1;
@@ -750,12 +750,12 @@
     }
     
     .eh-remodel-badge-card:hover::before {
-        background: #34b35e;
+        background: #04d36f;
     }
     
     .eh-remodel-badge-card .card-icon {
-        width: 38px;
-        height: 38px;
+        width: 50px;
+        height: 50px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -771,7 +771,7 @@
     .eh-remodel-badge-card .card-title-text {
         font-size: 13.5px;
         font-weight: 700;
-        color: #34b35e;
+        color: #04d36f;
         margin: 0;
         line-height: 1.2;
     }
@@ -785,7 +785,7 @@
     
     .eh-remodel-quote-btn {
         display: inline-block;
-        background-color: #34b35e;
+        background-color: #04d36f;
         color: #ffffff !important;
         font-size: 16px;
         font-weight: 700;
@@ -1011,7 +1011,7 @@
     }
 
     .eh-care-quote-btn {
-        background-color: var(--eh-btn-green, #34b35e) !important;
+        background-color: var(--eh-btn-green, #04d36f) !important;
         color: #ffffff !important;
         font-weight: 700 !important;
         font-size: 15.5px !important;
@@ -1782,7 +1782,7 @@
             body {
                 margin: 0;
                 padding: 0;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
                 color: #1e293b;
                 background-color: #ffffff;
                 -webkit-font-smoothing: antialiased;
@@ -1797,7 +1797,7 @@
                 background: linear-gradient(108deg, #edf5fc 0%, #edf5fc 49%, #141f42 49%, #141f42 100%);
                 padding: 0px 0 20px;
                 overflow: hidden;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             }
     
             /* Background watermark rings on right */
@@ -1971,7 +1971,7 @@
             .ehs-contractor-testimonials-cta {
                 padding: 50px 0;
                 background-color: #edf5fc;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
                 position: relative;
                 overflow: hidden;
             }
@@ -2261,7 +2261,7 @@
     
             .ehs-grow-divider {
                 height: 1.5px;
-                background: #34b35e;
+                background: #04d36f;
                 width: 100%;
                 margin-bottom: 18px;
                 opacity: 0.7;
@@ -2282,7 +2282,7 @@
             .ehs-contractor-states-served {
                 padding: 50px 0;
                 background-color: #ffffff;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
                 text-align: center;
             }
     
@@ -2382,7 +2382,7 @@
             .ehs-contractor-cities-served {
                 padding: 45px 0 55px 0;
                 background-color: #edf5fc;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
                 text-align: center;
             }
     
@@ -2447,7 +2447,7 @@
             .ehs-contractor-blogs {
                 padding: 50px 0;
                 background-color: #ffffff;
-                font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+                font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
                 position: relative;
                 overflow: hidden;
             }
@@ -2875,7 +2875,7 @@
     line-height: 1.25;
     letter-spacing: -0.5px;
     margin-bottom: 14px;
-    font-family: 'Inter', 'DM Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .ehs-home-cta-subtitle {

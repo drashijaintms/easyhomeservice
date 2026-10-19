@@ -13,74 +13,75 @@ $(window).on('load', function () {
 
 <?php
 // ✅ DATABASE CONNECTION
-$conn = new mysqli("localhost", "easyhomeservice_mainblog", "easyhomeservice_mainblog", "easyhomeservice_mainblog");
+try {
+    mysqli_report(MYSQLI_REPORT_OFF);
+    $conn = @new mysqli("localhost", "easyhomeservice_mainblog", "easyhomeservice_mainblog", "easyhomeservice_mainblog");
 
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
+    if (!$conn || $conn->connect_error) {
+        return;
+    }
 
-// ✅ GET CURRENT URL
-$current_url = $_SERVER['REQUEST_URI'];
-$current_url = strtok($current_url, '?');
-$current_url = rtrim($current_url, '/');
+    // ✅ GET CURRENT URL
+    $current_url = $_SERVER['REQUEST_URI'];
+    $current_url = strtok($current_url, '?');
+    $current_url = rtrim($current_url, '/');
 
-$parts = explode('/', $current_url);
-$last_part = end($parts);
+    $parts = explode('/', $current_url);
+    $last_part = end($parts);
 
-if (empty($last_part) && count($parts) > 1) {
-    $last_part = prev($parts);
-}
+    if (empty($last_part) && count($parts) > 1) {
+        $last_part = prev($parts);
+    }
 
-// ✅ EXTRACT MAIN KEYWORD (KEEP YOUR ORIGINAL LOGIC)
-$words = explode('-', strtolower($last_part));
-$raw_keyword = trim($words[0]); // <-- IMPORTANT (plumbing from plumbing-experts...)
+    // ✅ EXTRACT MAIN KEYWORD (KEEP YOUR ORIGINAL LOGIC)
+    $words = explode('-', strtolower($last_part));
+    $raw_keyword = trim($words[0]); // <-- IMPORTANT (plumbing from plumbing-experts...)
 
-// ✅ NORMALIZE (for slug matching)
-$normalized_keyword = str_replace([' ', '_'], '-', $raw_keyword);
+    // ✅ NORMALIZE (for slug matching)
+    $normalized_keyword = str_replace([' ', '_'], '-', $raw_keyword);
 
-// ✅ CHECK CATEGORY USING FLEXIBLE MATCH
-$category_condition = "";
+    // ✅ CHECK CATEGORY USING FLEXIBLE MATCH
+    $category_condition = "";
 
-// Match cases:
-// plumbing → plumbing
-// walktub → walk-tub / walk tub / walk_tub
-$cat_query = "
-    SELECT CategorySlug 
-    FROM tblcategory 
-    WHERE 
-        LOWER(REPLACE(REPLACE(CategorySlug, ' ', ''), '-', '')) = REPLACE('$normalized_keyword', '-', '')
-    LIMIT 1
-";
-
-$cat_result = $conn->query($cat_query);
-
-if ($cat_result && $cat_result->num_rows > 0) {
-    $cat_row = $cat_result->fetch_assoc();
-    $real_slug = $cat_row['CategorySlug'];
-
-    $category_condition = "
-        AND LOWER(REPLACE(REPLACE(tblcategory.CategorySlug, ' ', ''), '-', '')) 
-        = REPLACE('$normalized_keyword', '-', '')
+    // Match cases:
+    // plumbing → plumbing
+    // walktub → walk-tub / walk tub / walk_tub
+    $cat_query = "
+        SELECT CategorySlug 
+        FROM tblcategory 
+        WHERE 
+            LOWER(REPLACE(REPLACE(CategorySlug, ' ', ''), '-', '')) = REPLACE('$normalized_keyword', '-', '')
+        LIMIT 1
     ";
-} else {
-    return;
-}
 
-// ✅ FETCH BLOGS
-$query = "SELECT tblposts.*, tblcategory.CategorySlug 
-          FROM tblposts 
-          LEFT JOIN tblcategory ON tblposts.CategoryId = tblcategory.id
-          WHERE tblposts.Is_Active = 1
-          $category_condition
-          ORDER BY tblposts.PostingDate DESC";
+    $cat_result = $conn->query($cat_query);
 
-$result = $conn->query($query);
+    if ($cat_result && $cat_result->num_rows > 0) {
+        $cat_row = $cat_result->fetch_assoc();
+        $real_slug = $cat_row['CategorySlug'];
 
-if (!$result) {
-    die("Query Error: " . $conn->error);
-}
+        $category_condition = "
+            AND LOWER(REPLACE(REPLACE(tblcategory.CategorySlug, ' ', ''), '-', '')) 
+            = REPLACE('$normalized_keyword', '-', '')
+        ";
+    } else {
+        return;
+    }
 
-if ($result->num_rows == 0) {
+    // ✅ FETCH BLOGS
+    $query = "SELECT tblposts.*, tblcategory.CategorySlug 
+              FROM tblposts 
+              LEFT JOIN tblcategory ON tblposts.CategoryId = tblcategory.id
+              WHERE tblposts.Is_Active = 1
+              $category_condition
+              ORDER BY tblposts.PostingDate DESC";
+
+    $result = $conn->query($query);
+
+    if (!$result || $result->num_rows == 0) {
+        return;
+    }
+} catch (Throwable $e) {
     return;
 }
 ?>

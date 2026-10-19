@@ -48,40 +48,46 @@ $schema = $seoData['schema'] ?? '';
 
 function canonical_from_pageslug($slug, $requestPath)
 {
-    $host = $_SERVER['HTTP_HOST'];
+    $host = $_SERVER['HTTP_HOST'] ?? 'easyhomeservice.com';
+    if (strpos($host, 'www.') === 0) {
+        $host = substr($host, 4);
+    }
     $base = "https://$host";
 
     // Homepage
-    if ($slug === 'home') {
+    if ($slug === 'home' || $requestPath === '') {
         return $base . '/';
     }
 
-    // Detect service-in-state pattern
-    if (preg_match('/^([a-z-]+)-(services|experts)-in-([a-z-]+)$/', $slug, $m)) {
+    $cleanPath = trim($requestPath, '/');
 
+    // If request path already has directory path (e.g. new-york/hvac-services-in-bronx, new-jersey/hvac-services-in-newark, texas/hvac-services-in-texas, hvac/ventilation)
+    if (strpos($cleanPath, '/') !== false) {
+        return "$base/$cleanPath";
+    }
+
+    // Fallback: If a service-in-state page is requested at root without its state folder
+    if (preg_match('/^([a-z-]+)-(services|experts)-in-([a-z-]+)$/', $slug, $m)) {
         $service = $m[1];
         $type    = $m[2];
-        $state   = $m[3];
+        $target  = $m[3];
+        $page    = "{$service}-{$type}-in-{$target}";
 
-        if ($type === 'services') {
-            $page = "{$service}-services-in-$state";
-        } else {
-            $page = "{$service}-experts-in-$state";
+        $docRoot = $_SERVER['DOCUMENT_ROOT'] ?? __DIR__ . '/..';
+        if (is_dir($docRoot . '/' . $target)) {
+            return "$base/$target/$page";
         }
-
-        // Always include state folder
-        return "$base/$state/$page";
     }
 
     /*
      * Preserve the complete URL path.
      *
      * Example:
-     * /hvac/ventilation
+     * /roofing
      * becomes:
-     * https://easyhomeservice.com/hvac/ventilation
+     * https://easyhomeservice.com/roofing
      */
-    return $base . '/' . trim($requestPath, '/');
+    return "$base/$cleanPath";
 }
 
 $canonicalUrl = canonical_from_pageslug($pageSlug, $requestPath);
@@ -112,9 +118,7 @@ if (preg_match('/^plumbing-experts-in-([a-z-]+)$/', $pageSlug, $matches)) {
 
     $state_code = $state_codes[$state_slug] ?? "";
 
-    $host = $_SERVER['HTTP_HOST'];
-    $base = "https://$host";
-    $url  = "$base/$state_slug/$pageSlug";
+    $url = $canonicalUrl;
 
     $image = $meta['image'] ?? '';
     $title = $meta['title'] ?? '';

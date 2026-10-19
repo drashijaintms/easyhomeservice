@@ -117,115 +117,119 @@ $blogDescription = $blogContent["description"] ?? '';
 
 
 /* ===========================
-   DATABASE CONNECTION
+   DATABASE CONNECTION & BLOG FETCH
 =========================== */
 
-$conn = new mysqli(
-    "localhost",
-    "easyhomeservice_mainblog",
-    "easyhomeservice_mainblog",
-    "easyhomeservice_mainblog"
-);
+try {
+    mysqli_report(MYSQLI_REPORT_OFF);
+    $conn = @new mysqli(
+        "localhost",
+        "easyhomeservice_mainblog",
+        "easyhomeservice_mainblog",
+        "easyhomeservice_mainblog"
+    );
 
-if ($conn->connect_error) {
-    return;
-}
-
-
-/* ===========================
-   FIND BLOG CATEGORY
-=========================== */
-
-$normalizedService = strtolower(
-    str_replace([' ', '-', '_'], '', $service)
-);
+    if (!$conn || $conn->connect_error) {
+        return;
+    }
 
 
-$categoryQuery = "
-    SELECT id, CategorySlug
-    FROM tblcategory
-    WHERE LOWER(
-        REPLACE(
+    /* ===========================
+       FIND BLOG CATEGORY
+    =========================== */
+
+    $normalizedService = strtolower(
+        str_replace([' ', '-', '_'], '', $service)
+    );
+
+
+    $categoryQuery = "
+        SELECT id, CategorySlug
+        FROM tblcategory
+        WHERE LOWER(
             REPLACE(
-                REPLACE(CategorySlug, ' ', ''),
-                '-',
+                REPLACE(
+                    REPLACE(CategorySlug, ' ', ''),
+                    '-',
+                    ''
+                ),
+                '_',
                 ''
-            ),
-            '_',
-            ''
-        )
-    ) = ?
-    LIMIT 1
-";
+            )
+        ) = ?
+        LIMIT 1
+    ";
 
 
-$stmt = $conn->prepare($categoryQuery);
+    $stmt = $conn->prepare($categoryQuery);
 
-if (!$stmt) {
+    if (!$stmt) {
+        return;
+    }
+
+
+    $stmt->bind_param("s", $normalizedService);
+
+    $stmt->execute();
+
+    $categoryResult = $stmt->get_result();
+
+
+    /* ===========================
+       CATEGORY NOT FOUND
+    =========================== */
+
+    if (!$categoryResult || $categoryResult->num_rows === 0) {
+        return;
+    }
+
+
+    $categoryRow = $categoryResult->fetch_assoc();
+
+    $categoryId = $categoryRow['id'];
+
+
+    /* ===========================
+       FETCH BLOGS
+    =========================== */
+
+    $query = "
+        SELECT
+            tblposts.*,
+            tblcategory.CategorySlug
+        FROM tblposts
+        LEFT JOIN tblcategory
+            ON tblposts.CategoryId = tblcategory.id
+        WHERE tblposts.Is_Active = 1
+        AND tblposts.CategoryId = ?
+        ORDER BY tblposts.PostingDate DESC
+    ";
+
+
+    $stmt = $conn->prepare($query);
+
+    if (!$stmt) {
+        return;
+    }
+
+
+    $stmt->bind_param("i", $categoryId);
+
+    $stmt->execute();
+
+    $result = $stmt->get_result();
+
+
+    /* ===========================
+       IF NO BLOGS DON'T SHOW SECTION
+    =========================== */
+
+    if (!$result || $result->num_rows === 0) {
+        return;
+    }
+} catch (Throwable $e) {
     return;
 }
-
-
-$stmt->bind_param("s", $normalizedService);
-
-$stmt->execute();
-
-$categoryResult = $stmt->get_result();
-
-
-/* ===========================
-   CATEGORY NOT FOUND
-=========================== */
-
-if (!$categoryResult || $categoryResult->num_rows === 0) {
-    return;
-}
-
-
-$categoryRow = $categoryResult->fetch_assoc();
-
-$categoryId = $categoryRow['id'];
-
-
-/* ===========================
-   FETCH BLOGS
-=========================== */
-
-$query = "
-    SELECT
-        tblposts.*,
-        tblcategory.CategorySlug
-    FROM tblposts
-    LEFT JOIN tblcategory
-        ON tblposts.CategoryId = tblcategory.id
-    WHERE tblposts.Is_Active = 1
-    AND tblposts.CategoryId = ?
-    ORDER BY tblposts.PostingDate DESC
-";
-
-
-$stmt = $conn->prepare($query);
-
-if (!$stmt) {
-    return;
-}
-
-
-$stmt->bind_param("i", $categoryId);
-
-$stmt->execute();
-
-$result = $stmt->get_result();
-
-
-/* ===========================
-   IF NO BLOGS DON'T SHOW SECTION
-=========================== */
-
-if (!$result || $result->num_rows === 0) {
-    return;
-}
-
 ?>
 
 

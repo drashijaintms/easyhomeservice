@@ -77,20 +77,20 @@ include_once 'header.php';
                         <div class="col-12 col-lg-11 col-xl-10">
                             <div class="row g-0 align-items-center">
                                 <div class="col-6 col-sm-3 eh-stat-col">
-                                    <div class="eh-stat-number eh-counter" data-target="50">0</div>
-                                    <div class="eh-stat-label">States</div>
-                                </div>
-                                <div class="col-6 col-sm-3 eh-stat-col">
-                                    <div class="eh-stat-number eh-counter" data-target="100" data-suffix="+">0+</div>
-                                    <div class="eh-stat-label">Home Services</div>
+                                    <div class="eh-stat-number eh-counter" data-target="5000" data-suffix="+" data-comma="true">0+</div>
+                                    <div class="eh-stat-label">Contractor Partners</div>
                                 </div>
                                 <div class="col-6 col-sm-3 eh-stat-col">
                                     <div class="eh-stat-number eh-counter" data-target="25000" data-suffix="+" data-comma="true">0+</div>
                                     <div class="eh-stat-label">Homeowners Connected</div>
                                 </div>
                                 <div class="col-6 col-sm-3 eh-stat-col">
-                                    <div class="eh-stat-number eh-counter" data-target="5000" data-suffix="+" data-comma="true">0+</div>
-                                    <div class="eh-stat-label">Contractor Partners</div>
+                                    <div class="eh-stat-number eh-counter" data-target="100" data-suffix="+">0+</div>
+                                    <div class="eh-stat-label">Home Services</div>
+                                </div>
+                                <div class="col-6 col-sm-3 eh-stat-col">
+                                    <div class="eh-stat-number eh-counter" data-target="50">0</div>
+                                    <div class="eh-stat-label">States</div>
                                 </div>
                             </div>
                         </div>
@@ -368,7 +368,7 @@ include_once 'header.php';
                 <!-- Bottom CTA Button -->
                 <div class="eh-why-back-cta-wrap">
                     <a href="#hero-search" class="eh-why-back-btn">
-                        Get A Quote
+                       Call Now
                     </a>
                 </div>
 
@@ -442,28 +442,12 @@ include_once 'header.php';
                     <div class="eh-title-wrap">
                         <img src="images/new-index-page/head-back-circle.png" class="eh-head-glow" alt="">
                         <h2 class="eh-remodel-title">
-                            Top-Rated Home Improvement Experts Near You<br>Quality You Can Trust!
+                            Popular Home Improvement Projects
                         </h2>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- 1. Center White Content Box -->
-        <div class="eh-remodel-box">
-            <p class="eh-remodel-p">
-                Finding construction home remodeling experts near you shouldn't be that much stressful or expensive. At Easy Home Service, we make it easy for homeowners. We connect you with trusted general service provider and top home remodeling experts near you. They provide high-quality services that you deserve, all without high costs.
-            </p>
-            <p class="eh-remodel-p">
-                If you are planning a kitchen remodel, bathroom renovation, Window Replacement, or a full home upgrade, our platform can help. We connect you with trusted home improvement experts near you. Many customers highly recommend them.
-            </p>
-            <p class="eh-remodel-p mb-0">
-                They offer quality work and clear pricing-all in just a few clicks. No more guesswork or stress-just seamless, affordable home improvements backed by skilled professionals.
-            </p>
-        </div>
-        <!-- 2. Subheading OUTSIDE and BELOW the White Box -->
-        <h3 class="eh-remodel-subtitle">
-            Start your project today and experience a better way<br>to remodel your home!
-        </h3>
 
                 <!-- 8 Service Cards Grid Below Card -->
                 <div class="eh-remodel-services-grid">
@@ -541,7 +525,7 @@ include_once 'header.php';
                     <div class="eh-title-wrap">
                         <img src="images/new-index-page/head-back-circle.png" class="eh-head-glow" alt="">
                         <h2 class="eh-care-title">
-                            Because EveryHome Deserves the<br>Right Care
+                            Because Every Home Deserves the<br>Right Care
                         </h2>
                     </div>
                 </div>
@@ -562,7 +546,7 @@ include_once 'header.php';
 
                             <div class="eh-care-cta-wrap mt-4">
                                 <a href="#hero-search" class="eh-care-quote-btn">
-                                    Get A Quote
+                                    Connect With Professionals
                                 </a>
                             </div>
                         </div>

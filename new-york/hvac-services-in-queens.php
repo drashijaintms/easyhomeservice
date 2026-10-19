@@ -11,10 +11,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in Queens for Year-Round Home Comfort
+                            HVAC Services in Queens, NY for Year-Round Home Comfort
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Easy Home Service helps you connect with local HVAC professionals for AC repair, furnace troubleshooting, system installation, replacement, and seasonal maintenance. From unexpected system problems to routine maintenance and new HVAC installations, HVAC services in Queens can help keep your home comfortable throughout the changing seasons.  
+                            Easy Home Service connects Queens homeowners with local HVAC professionals for AC repair, furnace troubleshooting, system installation, replacement and seasonal maintenance. 
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,18 +32,18 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                           Why Homeowners in Queens Need Reliable HVAC Services
+                          Why Homeowners in Queens Need Reliable HVAC Services
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            Queens' climate doesn't make it easy on home comfort systems. Bitter winter cold snaps and humid, sticky summers push heating and cooling equipment hard in both directions, all year long.
+                           Finding dependable HVAC services in Queens, NY matters when bitter winter cold snaps and humid, sticky summers push your heating and cooling equipment hard in both directions. Easy Home Service helps you connect with <strong><a href="https://easyhomeservice.com/hvac">local HVAC contractors</a></strong> who know how to keep systems, old or new, running efficiently through every season.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            The borough's housing stock adds to the challenge:
+                            Reliable HVAC support helps you:
                         </p>
                         <ul>
-                            <li>Older homes in areas like Ridgewood and Woodside often run on outdated heating systems or aging ductwork</li>
-                            <li>Newer apartments and condos across Long Island City and Astoria bring tighter mechanical spaces and modern systems that still need regular upkeep</li>
-                            <li>Every home type needs a system built to handle both extremes without driving energy bills up</li>
+                            <li><Strong>Stay warm in winter</strong> with dependable heating repair, maintenance and replacement.</li>
+                            <li><Strong>Stay cool in summer</strong> with AC repair, installation and seasonal tune-ups.</li>
+                            <li><Strong>Keep energy bills in check</strong> with a system that performs efficiently in both extremes.</li>
                         </ul>
                          <p class="ehs-hvac-intro-description">
                             That's where reliable HVAC services in Queens come in. Easy Home Service connects you with local professionals who know how to keep heating and cooling systems, old or new, running efficiently through every season.
@@ -65,9 +65,9 @@
             <div class="row justify-content-center text-center">
 
                     <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Heating, Cooling & HVAC Maintenance in Queens</h2>
+                        <h2 class="ehs-hvac-section-title">Heating and Cooling in Queens, NY: Repair, Installation and Maintenance</h2>
                         <p class="ehs-hvac-solutions-subtitle">
-                           Easy Home Service helps Queens homeowners connect with local HVAC professionals for heating, cooling, installation, replacement, and ongoing maintenance.
+                           Whether you need a repair, a new system or a seasonal tune-up, Easy Home Service helps you find local HVAC professionals for heating and cooling in Queens, NY.
                         </p>
 
                 </div>
@@ -81,7 +81,7 @@
                         </div>
                         <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
                         <p class="ehs-hvac-solutions-card-text">
-                            From furnace and boiler issues to heat pump concerns, local professionals can help with heating repair, maintenance, installation, and replacement. Get help keeping your Queens home warm and comfortable through cold winter weather.
+                            From furnace and boiler problems to heat pump concerns, local technicians can help with <strong><a href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">emergency heating repair</a></strong>, maintenance, installation and replacement, so your Queens home stays warm through the coldest weeks of winter.
                         </p>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                         </div>
                         <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
                         <p class="ehs-hvac-solutions-card-text">
-                           When your AC struggles to cool your home, airflow feels weak, or your system needs seasonal attention, connect with professionals for cooling services. Get help with AC repair, maintenance, installation, and replacement for Queens homes.
+                            If your AC struggles to cool the house, airflow feels weak or the system needs seasonal attention, you can connect with professionals for AC repair, air conditioning maintenance, replacement and new <strong><a href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system">central air or ductless installation</a></strong>.
                         </p>
                     </div>
                 </div>
@@ -103,9 +103,9 @@
                         <div class="ehs-hvac-solutions-icon">
                             <i class="fa-solid fa-broom"></i>
                         </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Installation & Maintenance</h3>
+                        <h3 class="ehs-hvac-solutions-card-title">HVAC Installation and Maintenance</h3>
                         <p class="ehs-hvac-solutions-card-text">
-                            Whether you're replacing an aging system, upgrading your home's efficiency, or preparing your HVAC system for another season, professionals can help with installation, replacement, tune-ups, filter changes, and routine maintenance tailored to your home's needs.
+                            Replacing an aging system, upgrading for better efficiency or preparing for another season? Local pros handle HVAC installation in Queens, NY, replacement, tune-ups, filter changes and routine maintenance matched to your home.
                         </p>
                     </div>
                 </div>
@@ -127,16 +127,16 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                           Common HVAC Problems in Queens
+                           Common HVAC Problems in Queens Homes
                         </h2>
                         
                         <p class="ehs-hvac-signs-intro">
-                            Queens' older housing stock and shifting seasons create a few recurring HVAC issues homeowners run into again and again:
+                           Queens' older housing stock and changing seasons create the same issues again and again:
                         </p>
 
                         <ul class="ehs-hvac-signs-list">
                             <li class="ehs-hvac-signs-item">
-                              <strong>Aging boilers and heating systems </strong> in older homes across Ridgewood, Woodside, and Elmhurst, Aging heating systems: Older equipment may cause uneven heating, unusual noises, ignition problems, or repeated breakdowns.
+                              <strong>Aging boilers and heating systems </strong> in older homes across Ridgewood, Woodside and Elmhurst, aging equipment can cause uneven heating, unusual noises, ignition problems and repeated breakdowns. A timely furnace repair in Queens, NY or boiler repair can prevent a mid-winter failure.
                             </li>
                             <li class="ehs-hvac-signs-item">
                               <strong>Summer AC strain: </strong> High humidity and extended cooling periods can contribute to weak airflow, frozen coils, or reduced cooling performance.
@@ -395,8 +395,8 @@
             <div class="row justify-content-center text-center">
               <div class="col-12 col-lg-12">
                 <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title"> HVAC Solutions for Every System in Your Queens Home</h2>
-                  <p>Beyond general repairs and installations, Queens homeowners deal with a range of system-specific issues. Here's how Easy Home Service helps you find the right professional for each one.</p>
+                  <h2 class="ehs-hvac-section-title">HVAC Services Queens Homeowners Request Most</h2>
+                  <p>Whether you need seasonal maintenance or a fix for a specific heating or cooling problem, Easy Home Service connects you with local professionals for residential HVAC services.</p>
                 </div>
               </div>
             </div>
@@ -407,8 +407,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-microscope"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heat Pump Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Get help with heat pumps that struggle with uneven temperatures, constant cycling, poor heating or cooling, or ice buildup.</p>
+                  <h3 class="ehs-hvac-grid-card-title">AC Installation and Repair in Queens, NY</h3>
+                  <p class="ehs-hvac-grid-card-text">Get help when your <strong><a href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC blows warm air</a></strong>, struggles to cool or has weak airflow, or when it is time for a replacement or new AC installation in Queens, NY.</p>
                 </div>
               </div>
               <!-- 2. Boiler Services -->
@@ -417,8 +417,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-wind"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Furnace Installation & Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Find help for furnaces that won't start, blow cold air, cycle frequently, or need repair, installation, or replacement.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Furnace Repair and Installation in Queens, NY</h3>
+                  <p class="ehs-hvac-grid-card-text">Connect with a pro when your furnace will not start, blows cold air, cycles frequently or needs replacement. Fast furnace repair in Queens, NY can head off a bigger breakdown.</p>
                 </div>
               </div>
               <!-- 3. Air Conditioning -->
@@ -427,8 +427,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-filter"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Air Duct Cleaning & Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Address poor airflow, dust buildup, blocked vents, and leaking or damaged ductwork that can reduce system performance.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Heat Pump Services in Queens, NY</h3>
+                  <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/heat-pump-repair">Heat pump repair</a></strong>, tune-ups and installation for uneven temperatures, frequent cycling or poor heating and cooling.</p>
                 </div>
               </div>
               <!-- 4. Heat Pump Services -->
@@ -437,8 +437,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-sun"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Installation & Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Get help when your AC isn't cooling properly, needs repairs, or is ready for replacement or a new installation.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Boiler Repair and Installation</h3>
+                  <p class="ehs-hvac-grid-card-text">Help with cold radiators, strange noises, leaks, ignition problems, repairs and boiler replacement.</p>
                 </div>
               </div>
               <!-- 5. Ductwork & Airflow -->
@@ -447,8 +447,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-droplet"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Boiler Installation & Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Find professionals for boiler problems such as cold radiators, unusual noises, leaks, ignition issues, repairs, and replacement.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Air Duct Cleaning and Ductwork Repair</h3>
+                  <p class="ehs-hvac-grid-card-text">Fix weak airflow, leaking or damaged ducts, blocked vents and dust buildup that affects how conditioned air moves through your home.</p>
                 </div>
               </div>
               <!-- 6. Ventilation & Indoor Air Quality -->
@@ -458,7 +458,7 @@
                    <i class="fa-solid fa-broom"></i>
                   </div>
                   <h3 class="ehs-hvac-grid-card-title">Indoor Air Quality Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Improve indoor air with solutions for excess humidity, odors, airborne particles, filtration, and ventilation concerns.</p>
+                  <p class="ehs-hvac-grid-card-text">Address humidity, odors, airborne particles, filtration and ventilation to improve comfort and air quality.</p>
                 </div>
               </div>
             </div>
@@ -575,7 +575,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service connects you with local technicians who handle AC repair, AC installation, furnace repair, heating system service, ductless mini-split installation, and full HVAC system replacements throughout Queens.
+                                        Easy Home Service connects you with local technicians for AC repair and installation, furnace repair, boiler service, heat pump services, ductless mini-split installation, air duct cleaning, maintenance and full HVAC system replacement throughout Queens.
                                     </div>
                                 </div>
                             </div>
@@ -588,7 +588,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       Many of the technicians in our network offer same-day service for urgent heating or cooling issues, including nights and weekends during extreme weather.
+                                      Availability depends on the technician and your location. Many professionals in our network can respond quickly to urgent heating or cooling problems, and some offer evening or weekend visits. Submit your request and mark it urgent to be matched with available pros.
                                     </div>
                                 </div>
                             </div>
@@ -596,12 +596,12 @@
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can HVAC technicians work with older Queens buildings?</span>
+                                    <span class="ehs-hvac-faq-question">Can HVAC technicians work in older Queens buildings?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Technicians we connect with regularly work in pre-war buildings, co-ops, row houses, and other older housing common throughout Queens, and know how to adapt installations and repairs to fit those spaces.
+                                        Yes. Technicians we connect you with regularly service pre-war buildings, co-ops and row houses, and they know how to adapt repairs and installations to older layouts, tight mechanical spaces and legacy boilers.
                                     </div>
                                 </div>
                             </div>
@@ -614,7 +614,7 @@
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            For many homes without existing ductwork, ductless mini-split systems are a practical way to add cooling or heating to specific rooms without major construction. A local technician can assess whether it's the right fit for your space.
+           For many homes without existing ductwork, ductless mini-splits are a practical way to add cooling or heating to specific rooms without major construction. A local technician can confirm whether it fits your space and electrical setup.
         </div>
     </div>
 </div>
@@ -627,7 +627,7 @@
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Our network covers HVAC needs across Queens, including Flushing, Astoria, Jamaica, Long Island City, Forest Hills, Elmhurst, Ridgewood, Woodside, Rego Park, Bayside, Corona, and surrounding areas.
+            Our network covers Flushing, Astoria, Jamaica, Long Island City, Forest Hills, Elmhurst, Ridgewood, Woodside, Rego Park, Bayside, Corona and surrounding Queens neighborhoods.
         </div>
     </div>
 </div>
@@ -640,7 +640,7 @@
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            There's no cost to submit a request. You only pay the technician you choose to hire, based on the pricing they provide for your job.
+           There is no cost to submit a request. You only pay the technician you choose to hire, based on the price they quote for your job.
         </div>
     </div>
 </div>
@@ -648,12 +648,12 @@
 <!-- FAQ 7 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">What HVAC problems are common during Queens winters?</span>
+        <span class="ehs-hvac-faq-question">How much does HVAC installation cost in Queens, NY?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Queens winters can bring heating breakdowns, frozen pipes, uneven heating, and furnace or boiler problems. Homeowners may need heating repair, maintenance, or replacement when systems struggle during extended periods of cold weather.
+            Costs vary by system type, home size, ductwork condition and efficiency level. Heat pumps, central AC and boiler replacements are priced differently. Request free quotes to compare real prices from local technicians for your specific home.
         </div>
     </div>
 </div>
@@ -661,12 +661,12 @@
 <!-- FAQ 8 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">How can I prepare my HVAC system for a Queens summer?</span>
+        <span class="ehs-hvac-faq-question">What HVAC problems are common during Queens winters?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Before hot and humid weather arrives, homeowners can schedule AC maintenance, replace clogged filters, check airflow, and address unusual noises or weak cooling. A professional can also inspect the system for problems that could cause a summer breakdown.
+            Cold winters can cause heating breakdowns, uneven heating, pilot or ignition failures and furnace or boiler problems. Homeowners may need heating repair, maintenance or replacement when equipment struggles during extended cold weather.
         </div>
     </div>
 </div>
@@ -674,12 +674,12 @@
 <!-- FAQ 9 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">Why does my Queens apartment have uneven heating or cooling?</span>
+        <span class="ehs-hvac-faq-question">How can I prepare my HVAC system for a Queens summer?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Uneven temperatures can result from restricted airflow, ductwork issues, insulation, equipment problems, or the layout of an apartment. An HVAC professional can evaluate the system and identify factors affecting comfort from room to room.
+            Before hot, humid weather arrives, schedule AC maintenance, replace clogged filters, check airflow and address unusual noises or weak cooling. A technician can also inspect for issues that could cause a summer breakdown.
         </div>
     </div>
 </div>
@@ -687,16 +687,44 @@
 <!-- FAQ 10 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">When should Queens homeowners replace an HVAC system instead of repairing it?</span>
+        <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Replacement may be worth considering when an HVAC system has frequent breakdowns, rising operating costs, declining performance, or significant repair needs. A professional can assess the equipment and explain whether repair or replacement is appropriate.
+            We connect homeowners with trusted professionals for a wide range of home services, including:
+                 <ul>
+                <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+<li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+<li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+<li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+<li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
+<li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
+<li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
+<li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
+<li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
+            </ul>
+            No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
         </div>
     </div>
 </div>
-                        </div>
+            
+<!-- FAQ 11 -->
+<div class="ehs-hvac-faq-item">
+    <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+        <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
+        <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+    </button>
+    <div class="ehs-hvac-faq-body">
+        <div class="ehs-hvac-faq-content">
+            We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup. 
+        </div>
+    </div>
+</div>
+
+
+
+</div>
 
                         <div class="ehs-hvac-faq-action">
                             <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Queens</a>

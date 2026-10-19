@@ -99,7 +99,6 @@ if (
     $email === '' ||
     $company === '' ||
     $zip === '' ||
-    $state === '' ||
     $leadType === ''
 ) {
     sendResponse(false, 'Please complete all required fields.', null, 422, $isAjax);

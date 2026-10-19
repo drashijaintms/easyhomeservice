@@ -11,7 +11,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in The Bronx, NY
+                            HVAC Services in The Bronx for Reliable Heating & AC Repair
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
                             Whether it's a struggling boiler, an unreliable furnace, or a cooling system that can't keep up, Easy Home Service helps Bronx homeowners connect with local HVAC professionals for heating, cooling, ventilation, and system upgrades suited to their home.
@@ -32,10 +32,10 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                          HVAC Problems Bronx Homeowners Deal With
+                          HVAC Problems in Bronx Homes and Buildings
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            From walk-up apartments and classic brownstones to single-family homes across the borough, Bronx properties come with different heating, cooling, and ventilation demands, and older buildings in particular can be tough on aging systems. A pre-war brownstone might rely on a boiler that's overdue for service, while a single-family home could need central air that actually keeps pace with summer heat.
+                            From walk-up apartments and classic brownstones to single-family homes across the borough, Bronx properties come with different <strong><a href="https://easyhomeservice.com/hvac/heating-services">heating</a></strong>, <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning</a></strong>, and <strong><a href="https://easyhomeservice.com/hvac/ventilation">ventilation</a></strong> demands, and older buildings in particular can be tough on aging systems. A pre-war brownstone might rely on a boiler that's overdue for service, while a single-family home could need central air that actually keeps pace with summer heat.
                         </p>
                         <p class="ehs-hvac-intro-description">
                             Whether you're facing an urgent breakdown or planning ahead for an upgrade, finding the right local professional makes the process easier. Explore options for HVAC repair in the Bronx, new equipment installation, routine maintenance, or indoor air quality improvements, all based on your home's layout and your comfort goals.
@@ -58,7 +58,7 @@
             <div class="row justify-content-center text-center">
 
                     <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Heating, Cooling, and Ventilation Working Together</h2>
+                        <h2 class="ehs-hvac-section-title">Bronx HVAC Services We Can Connect You With</h2>
                         <p class="ehs-hvac-solutions-subtitle">
                            Choose the HVAC service that matches your home’s current needs.
                         </p>
@@ -155,7 +155,7 @@
                     <div class="ehs-hvac-challenges-container">
                         
                         <h2 class="ehs-hvac-section-title">
-                            DOES YOUR HVAC PROBLEM LOOK LIKE THIS?
+                            HVAC Warning Signs in Bronx Homes: What’s Causing Them? 
                         </h2>
 
                         <p class="ehs-hvac-challenges-intro">
@@ -163,46 +163,42 @@
                         </p>
 
                         <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Uneven Temperatures</h3>
+                            <h3 class="ehs-hvac-challenges-subtitle">No Heat or Not Enough Heat</h3>
                             <p class="ehs-hvac-challenges-text">
-                                One bedroom feels cold while another is warm. This may involve airflow, equipment performance, ductwork, system sizing, or how your heating and cooling are distributed through the home.
+                                A boiler, furnace, or heat pump that stops heating, or heats poorly, needs prompt attention in cold weather. Describe the equipment type and any symptoms (strange noises, a pilot or ignition problem, radiators staying cold) when you reach out.
+                            </p>
+                            <p class="ehs-hvac-challenges-text">
+                                Safety first: If you smell gas, leave the building and call 911 from outside. If a carbon monoxide alarm sounds or anyone feels dizzy or nauseous, get to fresh air and call 911.
                             </p>
                         </div>
 
-                        <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Weak Airflow</h3>
-                            <p class="ehs-hvac-challenges-text">
-                                Air may be coming through vents, but not strongly enough to maintain consistent comfort. Filters, ductwork, blower components, vents, or other system issues could be involved.
-                            </p>
-                        </div>
-
-                        <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">No Heat</h3>
-                            <p class="ehs-hvac-challenges-text">
-                                A boiler, furnace, or heat pump may stop producing enough heat when your home needs it. Loss of heat can require timely attention, particularly during colder weather.
-                            </p>
-                        </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Poor Cooling</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Your AC may run continuously, struggle to lower indoor temperatures, or leave parts of the home uncomfortable. The cause can range from maintenance needs to system performance concerns.
+                               The AC runs constantly but never catches up, or some rooms stay hot. This can come from a dirty coil or filter, low refrigerant, an undersized system, or poor airflow. For rooms that are hard to cool, such as top-floor units or additions without ducts, a ductless system may be an option worth discussing.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
+
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Humidity Problems</h3>
                             <p class="ehs-hvac-challenges-text">
-                               A home that feels too damp or excessively dry can become uncomfortable even when the thermostat setting seems correct. Cooling, ventilation, and airflow can all play a role.
+                                The home feels clammy or overly dry even when the thermostat reads correctly. Cooling performance, ventilation, and airflow all affect humidity, so the fix depends on which one is out of balance.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Stale Air</h3>
+                        <div class="ehs-hvac-challenges-block">
+                            <h3 class="ehs-hvac-challenges-subtitle">Stale Air and Lingering Odors</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Closed-off rooms, lingering odors, and stuffy spaces can signal that your home needs better air movement or ventilation.
+                                Closed rooms feel stuffy, or odors linger. That usually points to limited ventilation or air movement, which can be addressed with ventilation or indoor air quality upgrades.
                             </p>
                         </div>
+                                               
+                                                
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
-                                If you are facing an unexpected breakdown and searching for emergency HVAC services in the Bronx, quickly connecting with a local professional can help you discuss available options for your home.
+                                What to tell the professional: Note your equipment type (boiler, furnace, heat pump, central AC, or window units), roughly how old it is, which rooms are affected, and when the problem started. That lets them recommend the right service faster.
+                            </p>
+                            <p class="ehs-hvac-challenges-callout-text">
+                                If your system has stopped working entirely, tell us it’s urgent when you submit your request. Availability varies by professional.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
@@ -401,7 +397,7 @@
                     <i class="fa-solid fa-microscope"></i>
                   </div>
                   <h3 class="ehs-hvac-grid-card-title">Furnace Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Uneven heating, unusual noises, or frequent cycling can indicate a furnace problem. A local HVAC professional can inspect the system and determine whether repair, maintenance, or replacement makes sense.</p>
+                  <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">Uneven heating</a></strong>, unusual noises, or frequent cycling can indicate a <strong><a href="https://easyhomeservice.com/blog/furnace-replacement-cost-new-york">furnace problem</a></strong>. A local HVAC professional can inspect the system and determine whether repair, maintenance, or replacement makes sense.</p>
                 </div>
               </div>
               <!-- 2. Boiler Services -->
@@ -421,7 +417,7 @@
                     <i class="fa-solid fa-filter"></i>
                   </div>
                   <h3 class="ehs-hvac-grid-card-title">Air Conditioning Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Weak airflow, warm air, or rising cooling costs can make summer uncomfortable. A qualified professional can evaluate your AC system and help address performance issues or replacement needs.</p>
+                  <p class="ehs-hvac-grid-card-text">Weak airflow, warm air, or rising cooling costs can make summer uncomfortable. A <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">qualified professional</a></strong> can evaluate your AC system and help address performance issues or replacement needs.</p>
                 </div>
               </div>
               <!-- 4. Heat Pump Services -->
@@ -451,7 +447,7 @@
                    <i class="fa-solid fa-broom"></i>
                   </div>
                   <h3 class="ehs-hvac-grid-card-title">Ventilation & Indoor Air Quality</h3>
-                  <p class="ehs-hvac-grid-card-text">Indoor comfort involves more than temperature. If your home feels stale or has persistent dust, moisture, or airflow concerns, a professional can evaluate ventilation and indoor air quality solutions.</p>
+                  <p class="ehs-hvac-grid-card-text">Indoor comfort involves more than temperature. If your home feels stale or has persistent dust, moisture, or airflow concerns, a professional can evaluate ventilation and <strong><a href="https://easyhomeservice.com/blog/indoor-air-quality-services-texas">indoor air quality solutions</a></strong>.</p>
                 </div>
               </div>
             </div>
@@ -475,7 +471,7 @@
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            When your heating or cooling system is not keeping up, you should not have to spend time figuring out which service or professional to call. Whether you need a quick repair, seasonal maintenance, or are planning a new HVAC system, getting the right help starts with understanding what your home needs.
+                            When your heating or cooling system is not keeping up, you should not have to spend time figuring out which service or professional to call. Whether you need a quick repair, seasonal maintenance, or are <strong><a href="https://easyhomeservice.com/blog/hvac-upgrade">planning a new HVAC system</a></strong>, getting the right help starts with understanding what your home needs.
                         </p>
 
                         <!-- Situation 1 -->
@@ -572,12 +568,12 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">How do I know whether I need HVAC repair or replacement?</span>
+                                    <span class="ehs-hvac-faq-question">What HVAC services are available in The Bronx?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider the system’s age, repair history, current performance, and the nature of the problem. A local HVAC professional can evaluate your equipment and discuss the available options.
+                                        Homeowners in The Bronx can get help with AC repair, heating services, furnace and boiler repair, HVAC installation, equipment replacement, routine maintenance, heat pump services, ductless systems, ventilation work, and indoor air quality improvements.
                                     </div>
                                 </div>
                             </div>
@@ -585,12 +581,12 @@
                             <!-- FAQ 2 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">Can I find HVAC installation help for my Bronx home?</span>
+        <span class="ehs-hvac-faq-question">How do I know if my HVAC system needs repair?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Yes. You can connect with a local professional to discuss new HVAC installation, replacement equipment, additions, or upgrades based on your home's layout and comfort needs.
+           You may need repairs if you notice unusual noises, weak airflow, uneven temperatures between rooms, frequent cycling, poor cooling, insufficient heat, or a system that suddenly stops working.
         </div>
     </div>
 </div>
@@ -598,12 +594,12 @@
 <!-- FAQ 3 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">What types of residential HVAC services can I explore?</span>
+        <span class="ehs-hvac-faq-question"> Can I get AC repaired in The Bronx, NY?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            You can discuss heating, cooling, ventilation, indoor air quality, repair, maintenance, replacement, and installation needs with a local HVAC professional.
+            Yes. Homeowners in The Bronx can contact HVAC professionals for AC troubleshooting, repairs, maintenance, installation, or complete system replacement.
         </div>
     </div>
 </div>
@@ -611,12 +607,12 @@
 <!-- FAQ 4 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">What should I do if I have no heat or cooling?</span>
+        <span class="ehs-hvac-faq-question">Can I find furnace and boiler repair in The Bronx?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Explain the problem and your equipment when requesting a connection. If you need emergency HVAC services in the Bronx, timely professional assistance can help you discuss available next steps.
+            Yes. Local HVAC technicians in The Bronx can help with furnace and boiler problems, including insufficient heating, system breakdowns, routine maintenance, and equipment replacement.
         </div>
     </div>
 </div>
@@ -624,12 +620,12 @@
 <!-- FAQ 5 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">Are there HVAC companies in the Bronx for different system types?</span>
+        <span class="ehs-hvac-faq-question">When should I replace my HVAC system?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Yes. Homeowners can look for local professionals with experience relevant to their equipment, including boilers, furnaces, central AC, ductless systems, and heat pumps.
+           Consider replacing your HVAC system if it is aging, requires repeated repairs, operates inefficiently, or no longer keeps your home comfortable. A qualified technician can assess its condition and explain suitable options.
         </div>
     </div>
 </div>
@@ -637,16 +633,75 @@
 <!-- FAQ 6 -->
 <div class="ehs-hvac-faq-item">
     <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-        <span class="ehs-hvac-faq-question">How do I choose among HVAC contractors in Bronx, NY?</span>
+        <span class="ehs-hvac-faq-question">Can I get HVAC installation in The Bronx, NY?</span>
         <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
     </button>
     <div class="ehs-hvac-faq-body">
         <div class="ehs-hvac-faq-content">
-            Start by discussing your specific home, equipment, and service needs. Comparing relevant experience, available options, and the proposed scope can help you make an informed decision.
+            Yes. You can work with an HVAC professional to plan the installation or replacement of heating and cooling equipment based on your home's size, layout, and comfort requirements.
         </div>
     </div>
 </div>
-
+<!-- FAQ 7 -->
+<div class="ehs-hvac-faq-item">
+    <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+        <span class="ehs-hvac-faq-question">How often should HVAC systems be maintained?</span>
+        <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+    </button>
+    <div class="ehs-hvac-faq-body">
+        <div class="ehs-hvac-faq-content">
+            Maintenance frequency depends on your equipment and how often it is used. Regular professional checkups can help identify developing problems, maintain airflow, and keep heating and cooling equipment operating properly.
+        </div>
+    </div>
+</div>
+<!-- FAQ 8 -->
+<div class="ehs-hvac-faq-item">
+    <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+        <span class="ehs-hvac-faq-question">How can I find an HVAC contractor in The Bronx, NY?</span>
+        <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+    </button>
+    <div class="ehs-hvac-faq-body">
+        <div class="ehs-hvac-faq-content">
+            Describe your HVAC problem, home layout, and existing equipment when requesting assistance. Discuss the contractor's experience, available solutions, service costs, and warranty terms before deciding how to proceed.
+        </div>
+    </div>
+</div>
+<!-- FAQ 9 -->
+<div class="ehs-hvac-faq-item">
+    <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+        <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
+        <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+    </button>
+    <div class="ehs-hvac-faq-body">
+        <div class="ehs-hvac-faq-content">
+            We connect homeowners with trusted professionals for a wide range of home services, including:
+            <ul>
+                <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+<li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+<li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+<li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+<li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
+<li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
+<li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
+<li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
+<li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
+            </ul>
+            No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
+        </div>
+    </div>
+</div>
+<!-- FAQ 10 -->
+<div class="ehs-hvac-faq-item">
+    <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+        <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
+        <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+    </button>
+    <div class="ehs-hvac-faq-body">
+        <div class="ehs-hvac-faq-content">
+            We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
+        </div>
+    </div>
+</div>
                         </div>
 
                         <div class="ehs-hvac-faq-action">

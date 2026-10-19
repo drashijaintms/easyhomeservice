@@ -29,7 +29,7 @@
     align-items: center;
     padding: 50px 0 50px;
     overflow: hidden;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     height: 85vh;
 }
 
@@ -348,7 +348,7 @@
     line-height: 1.1;
     margin-bottom: 4px;
     letter-spacing: -0.5px;
-    font-family: 'Inter', 'DM Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 .ehs-stat-icon {
@@ -400,7 +400,7 @@
 .ehs-contractor-coverage {
     padding: 50px 0;
     background-color: #ffffff;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* Quote Form Card on Left */
@@ -658,7 +658,7 @@
     height: 480vh; /* Scroll track for 6 card transitions */
     padding: 0;
     margin: 0;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .ehs-quality-sticky-viewport {
@@ -820,6 +820,7 @@
 .ehs-quality-btn-wrap {
     display: flex;
     justify-content: center;
+    margin-bottom: 15px;
 }
 
 .ehs-quality-btn {
@@ -855,7 +856,7 @@
     background-color: #ffffff;
     position: relative;
     overflow: hidden;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* Top intro row */
@@ -1363,7 +1364,7 @@
     background-position: right;
     padding: 50px 0;
     overflow: hidden;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .ehs-services-content {
@@ -1472,7 +1473,7 @@
 .ehs-contractor-top-verticals {
     background-color: #141f42;
     padding: 50px 0;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
@@ -1547,7 +1548,7 @@
     background: linear-gradient(108deg, #edf5fc 0%, #edf5fc 49%, #141f42 49%, #141f42 100%);
     padding: 0px 0 50px;
     overflow: hidden;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* Background watermark rings on right */
@@ -1707,7 +1708,7 @@
     color: #22c55e;
     line-height: 1.1;
     margin-bottom: 8px;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     letter-spacing: -0.5px;
 }
 
@@ -1727,7 +1728,7 @@
 .ehs-contractor-better-leads {
     padding: 40px 0;
     background-color: #ffffff;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     position: relative;
     overflow: hidden;
 }
@@ -1869,7 +1870,7 @@
 .ehs-contractor-partner-features {
     padding: 50px 0;
     background-color: #edf5fc;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     text-align: center;
 }
 
@@ -1990,7 +1991,7 @@
 .ehs-contractor-blogs {
     padding: 50px 0;
     background-color: #ffffff;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     position: relative;
     overflow: hidden;
 }
@@ -2025,10 +2026,10 @@
     position: relative;
     z-index: 2;
 }
-
+/* 
 .ehs-blog-header-left {
     max-width: 600px;
-}
+} */
 
 .ehs-blog-title {
     font-size: 2.75rem;
@@ -2191,7 +2192,7 @@
 .ehs-contractor-testimonials-cta {
     padding: 50px 0;
     background-color: #edf5fc;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     position: relative;
     overflow: hidden;
 }
@@ -2504,7 +2505,7 @@
 .ehs-contractor-states-served {
     padding: 35px 0 35px;
     background-color: #ffffff;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     text-align: center;
 }
 
@@ -2606,7 +2607,7 @@
 .ehs-contractor-cities-served {
     padding: 35px 0 35px;
     background-color: #edf5fc;
-    font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     text-align: center;
 }
 

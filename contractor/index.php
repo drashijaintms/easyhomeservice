@@ -5,12 +5,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
     exit;
 }
 ?>
-<?php include '../header.php';?>
+<?php include __DIR__ . '/../header.php';?>
 <!-- Unique Stylesheet for Contractor Page -->
-<link rel="stylesheet" href="css/contractor.css">
-
-<!-- Unique Stylesheet for Contractor Page -->
-<link rel="stylesheet" href="css/contractor.css">
+<link rel="stylesheet" href="/contractor/css/contractor.css">
 
 <!-- HERO SECTION START -->
 <section class="ehs-contractor-hero">
@@ -232,66 +229,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
                                 <input type="text" id="quoteZip" name="zip" class="form-control ehs-form-input" placeholder="12345" required maxlength="5" pattern="[0-9]{5}" inputmode="numeric" oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 5);" title="Please enter a valid 5-digit US Zip Code">
                             </div>
 
-                            <!-- Service Area / State -->
-                            <div class="col-sm-6 col-12">
-                                <label class="ehs-form-label" for="quoteState">Service Area / State</label>
-                                <select id="quoteState" name="state" class="form-select ehs-form-select" required>
-                                    <option value="" selected disabled>Select state</option>
-                                    <option value="AL">Alabama</option>
-                                    <option value="AK">Alaska</option>
-                                    <option value="AZ">Arizona</option>
-                                    <option value="AR">Arkansas</option>
-                                    <option value="CA">California</option>
-                                    <option value="CO">Colorado</option>
-                                    <option value="CT">Connecticut</option>
-                                    <option value="DE">Delaware</option>
-                                    <option value="FL">Florida</option>
-                                    <option value="GA">Georgia</option>
-                                    <option value="HI">Hawaii</option>
-                                    <option value="ID">Idaho</option>
-                                    <option value="IL">Illinois</option>
-                                    <option value="IN">Indiana</option>
-                                    <option value="IA">Iowa</option>
-                                    <option value="KS">Kansas</option>
-                                    <option value="KY">Kentucky</option>
-                                    <option value="LA">Louisiana</option>
-                                    <option value="ME">Maine</option>
-                                    <option value="MD">Maryland</option>
-                                    <option value="MA">Massachusetts</option>
-                                    <option value="MI">Michigan</option>
-                                    <option value="MN">Minnesota</option>
-                                    <option value="MS">Mississippi</option>
-                                    <option value="MO">Missouri</option>
-                                    <option value="MT">Montana</option>
-                                    <option value="NE">Nebraska</option>
-                                    <option value="NV">Nevada</option>
-                                    <option value="NH">New Hampshire</option>
-                                    <option value="NJ">New Jersey</option>
-                                    <option value="NM">New Mexico</option>
-                                    <option value="NY">New York</option>
-                                    <option value="NC">North Carolina</option>
-                                    <option value="ND">North Dakota</option>
-                                    <option value="OH">Ohio</option>
-                                    <option value="OK">Oklahoma</option>
-                                    <option value="OR">Oregon</option>
-                                    <option value="PA">Pennsylvania</option>
-                                    <option value="RI">Rhode Island</option>
-                                    <option value="SC">South Carolina</option>
-                                    <option value="SD">South Dakota</option>
-                                    <option value="TN">Tennessee</option>
-                                    <option value="TX">Texas</option>
-                                    <option value="UT">Utah</option>
-                                    <option value="VT">Vermont</option>
-                                    <option value="VA">Virginia</option>
-                                    <option value="WA">Washington</option>
-                                    <option value="WV">West Virginia</option>
-                                    <option value="WI">Wisconsin</option>
-                                    <option value="WY">Wyoming</option>
-                                </select>
-                            </div>
-
                             <!-- Lead Type Interested In -->
-                            <div class="col-12">
+                            <div class="col-sm-6 col-12">
                                 <label class="ehs-form-label" for="quoteLeadType">Lead Type Interested In</label>
                                   <select id="quoteLeadType" name="lead_type" class="form-select ehs-form-select" required>
                                     <option value="" selected disabled>Select lead type</option>
@@ -346,7 +285,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
                         We understand that contractors need more than just traffic they need real opportunities. That's why we focus on delivering homeowner leads with stronger intent and better project potential.
                     </p>
                 </div>
-                
+                                <!-- CTA Button (Always visible) -->
+                <div class="ehs-quality-btn-wrap">
+                    <a href="#partner" class="ehs-quality-btn">
+                        <span>Become a Partner</span>
+                        <i class="fa-solid fa-arrow-right ms-2"></i>
+                    </a>
+                </div>
                 <!-- Stacking Cards Stage -->
                 <div class="ehs-quality-cards-stage">
                     
@@ -430,13 +375,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
 
                 </div>
 
-                <!-- CTA Button (Always visible) -->
-                <div class="ehs-quality-btn-wrap">
-                    <a href="#partner" class="ehs-quality-btn">
-                        <span>Become a Partner</span>
-                        <i class="fa-solid fa-arrow-right ms-2"></i>
-                    </a>
-                </div>
+
 
             </div>
         </div>
@@ -1065,9 +1004,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
         <div class="ehs-blog-header-row">
             <div class="ehs-blog-header-left">
                 <h2 class="ehs-blog-title">
-                    Our Latest Blog <span class="ehs-highlight-green">Posts</span>
+                    Contractor Growth & Marketing <span class="ehs-highlight-green">Resources</span>
                 </h2>
-                <p class="ehs-blog-subtitle">Contractor Growth & Marketing Resources</p>
             </div>
         </div>
 
@@ -2293,4 +2231,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<?php include '../footer.php';?>
+<?php include __DIR__ . '/../footer.php';?>

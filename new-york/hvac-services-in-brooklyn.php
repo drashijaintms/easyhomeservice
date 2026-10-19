@@ -11,10 +11,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                           Find the Right HVAC Professional in Brooklyn, NY
+                           Find the Right HVAC Services in Brooklyn, NY
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Brooklyn homeowners can find local HVAC professionals for heating, air conditioning, repairs, installation, maintenance, ductwork and system replacement. Easy Home Service helps you take the next step toward finding the right professional for your home. 
+                             Looking for reliable HVAC services in Brooklyn, NY? Easy Home Service connects homeowners with local HVAC pros for AC repair, heating, boiler service, ductwork and installation. Tell us what you need and get matched today. 
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,13 +32,13 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                           Local HVAC Solutions for Brooklyn Homeowners
+                          Reliable HVAC Services in Brooklyn, NY
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            When your home is too hot, too cold, or your HVAC system is not working as expected, finding the right help matters. Easy Home Service helps Brooklyn homeowners connect with local HVAC professionals for residential heating and cooling needs. Whether you need air conditioning repair, furnace service, boiler help, heat pump support, or a complete system replacement, you can start by describing what your home needs. Local professionals can help with common HVAC concerns such as poor airflow, uneven temperatures, unusual system noises, thermostat problems, high energy use, and equipment that struggles to keep up. 
+                            When your home is too hot, too cold, or your HVAC system is not working as expected, finding the right HVAC professional in Brooklyn matters. Easy Home Service helps Brooklyn homeowners connect with local HVAC professionals for residential heating and cooling needs. Whether you need air conditioning repair, furnace service, boiler help, heat pump support, or a <strong><a href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">complete system replacement</a></strong>, you can start by describing what your home needs. Local professionals can help with common HVAC concerns such as poor airflow, uneven temperatures, unusual system noises, thermostat problems, high energy use, and equipment that struggles to keep up.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            For homeowners comparing repair and replacement options, connecting with a professional can make it easier to understand the available solutions for your system and home. If you are searching for HVAC services in Brooklyn, NY, use Easy Home Service to find a local HVAC professional who can help address your specific heating or cooling concern. Get connected and take the next step toward a more comfortable home. without complicated online searches for local HVAC help.
+                            For homeowners comparing repair and replacement options, connecting with a professional can make it easier to understand the available solutions for your system and home. If you are searching for HVAC services in Brooklyn, NY, use Easy Home Service to find a local <strong><a href="https://easyhomeservice.com/hvac">HVAC professional</a></strong> who can help address your specific heating or cooling concern. Get connected and take the next step toward a more comfortable home. without complicated online searches for local HVAC help.
                         </p>
                         
                         <div class="ehs-hvac-intro-action">
@@ -58,7 +58,7 @@
             <div class="row justify-content-center text-center">
 
                     <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">HVAC Services for Every Brooklyn Home</h2>
+                        <h2 class="ehs-hvac-section-title">HVAC Repair, Installation & Maintenance in Brooklyn</h2>
                         <!--<p class="ehs-hvac-solutions-subtitle">-->
                         <!--    Whatever the season, homeowners across Trenton can connect with professionals who specialize in these areas.-->
                         <!--</p>-->
@@ -72,7 +72,7 @@
                         <div class="ehs-hvac-solutions-icon">
                             <i class="fa-solid fa-wind"></i>
                         </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Repairs & Troubleshooting</h3>
+                        <h3 class="ehs-hvac-solutions-card-title">HVAC Repair & Troubleshooting</h3>
                         <p class="ehs-hvac-solutions-card-text">
                              Weak airflow, strange noises, a system that won't turn on. A local pro can diagnose the issue and get your heating or cooling back on track.
                         </p>
@@ -84,7 +84,7 @@
                         <div class="ehs-hvac-solutions-icon">
                            <i class="fa-solid fa-filter"></i>
                         </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Installation & Replacement</h3>
+                        <h3 class="ehs-hvac-solutions-card-title">HVAC Installation & Replacement</h3>
                         <p class="ehs-hvac-solutions-card-text">
                             Upgrading equipment, replacing an aging system, or adding a heat pump or ductless mini-split. Pros can help you find the right setup for your space.
                         </p>
@@ -96,7 +96,7 @@
                         <div class="ehs-hvac-solutions-icon">
                             <i class="fa-solid fa-broom"></i>
                         </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Maintenance & Inspection</h3>
+                        <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance & Inspection</h3>
                         <p class="ehs-hvac-solutions-card-text">
                             Seasonal tune-ups and inspections catch small issues before they become expensive repairs, keeping your system running efficiently year-round.
                         </p>
@@ -120,7 +120,7 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                            Signs Your System Needs a Repair
+                            Signs You Need HVAC Repair in Brooklyn 
                         </h2>
                         
                         <p class="ehs-hvac-signs-intro">
@@ -140,7 +140,7 @@
                             <li class="ehs-hvac-signs-item">Energy bills have climbed for no clear reason</li>
                         </ul>
                         <p class="ehs-hvac-signs-intro">
-                            Whether it is HVAC repair, heating repair, AC repair, or boiler repair, get it looked at before the problem gets bigger or more expensive. 
+                            Whether it is <strong><a href="https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair">emergency HVAC repair</a></strong>, <strong><a href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">heating repair</a></strong>, AC repair, or boiler repair, get it looked at before the problem gets bigger or more expensive. 
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
@@ -169,14 +169,14 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating</h3>
                             <p class="ehs-hvac-challenges-text">
-                                NYC requires heat from October 1 through May 31, with minimum indoor temperatures homes must meet. A broken furnace, boiler, or heat pump in January is not just uncomfortable, it needs solving fast. Local pros handle furnace repair, boiler repair, heating replacement, and heating maintenance.
+                                NYC requires heat from October 1 through May 31, with minimum indoor temperatures homes must meet. A broken furnace, boiler, or heat pump in January is not just uncomfortable, it needs solving fast. Local pros handle furnace repair, boiler repair, heating replacement, and <strong><a href="https://easyhomeservice.com/blog/heating-system-maintenance-checklist">heating system maintenance</a></strong>.
                             </p>
                         </div>
 
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Cooling </h3>
                             <p class="ehs-hvac-challenges-text">
-                                Brooklyn summers bring real heat and humidity. Central air, window units, and ductless mini-splits all come into play when the AC can't keep up. Whether it's AC repair, a full AC installation, AC replacement, or a pre-season AC maintenance visit, the right pro will tell you what your setup can handle.
+                                Brooklyn summers bring real heat and humidity. Central air, window units, and ductless mini-splits all come into play when the AC can't keep up. Whether it's AC repair, a full AC installation, AC replacement, or a pre-season <strong><a href="https://easyhomeservice.com/blog/air-conditioner-maintenance-cost">AC maintenance</a></strong> visit, the right pro will tell you what your setup can handle.
                             </p>
                         </div>
 
@@ -189,13 +189,13 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Maintenance & Inspection Routine</h3>
                             <p class="ehs-hvac-challenges-text">
-                              HVAC maintenance and HVAC inspection visits catch small issues before they turn into repairs. A seasonal check on airflow, filters, and equipment condition keeps a system running longer and more efficiently.
+                              HVAC maintenance and <strong><a href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">HVAC inspection visits</a></strong> catch small issues before they turn into repairs. A seasonal check on airflow, filters, and equipment condition keeps a system running longer and more efficiently.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Ductwork </h3>
                             <p class="ehs-hvac-challenges-text">
-                              Weak airflow, uneven temperatures, and rising energy bills often trace back to the ducts. Duct repair, duct installation, and duct sealing all affect how well a system actually performs, regardless of how new the equipment is.
+                              Weak airflow, uneven temperatures, and rising <strong><a href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">energy bills</a></strong> often trace back to the ducts. Duct repair, duct installation, and duct sealing all affect how well a system actually performs, regardless of how new the equipment is.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -296,52 +296,7 @@
         </div>
     </section>
 
-    <!-- 7. NEED HELP DECIDING SECTION -->
-    <!--<section class="ehs-hvac-deciding-section">-->
-    <!--    <div class="container">-->
-    <!--        <div class="row justify-content-center">-->
-    <!--            <div class="col-12 col-lg-8">-->
-    <!--                <div class="ehs-hvac-deciding-container">-->
-                        
-    <!--                    <h2 class="ehs-hvac-section-title">-->
-    <!--                        Need Help Deciding What HVAC Help You Need?-->
-    <!--                    </h2>-->
-
-    <!--                    <p class="ehs-hvac-deciding-intro">-->
-    <!--                        Not sure whether your Trenton home needs a repair, maintenance visit, or a larger HVAC project? Start with what you are noticing. Consider questions like:-->
-    <!--                    </p>-->
-
-    <!--                    <ul class="ehs-hvac-deciding-list">-->
-    <!--                        <li class="ehs-hvac-deciding-item">-->
-    <!--                            Is your home heating or cooling unevenly?-->
-    <!--                        </li>-->
-    <!--                        <li class="ehs-hvac-deciding-item">-->
-    <!--                            Is your HVAC system running more often than usual?-->
-    <!--                        </li>-->
-    <!--                        <li class="ehs-hvac-deciding-item">-->
-    <!--                            Are energy bills increasing without a clear reason?-->
-    <!--                        </li>-->
-    <!--                        <li class="ehs-hvac-deciding-item">-->
-    <!--                            Is your equipment aging or requiring repeated repairs?-->
-    <!--                        </li>-->
-    <!--                        <li class="ehs-hvac-deciding-item">-->
-    <!--                            Could ductwork or airflow be affecting comfort?-->
-    <!--                        </li>-->
-    <!--                    </ul>-->
-
-    <!--                    <p class="ehs-hvac-deciding-outro">-->
-    <!--                        You do not need to diagnose the problem yourself. Easy Home Service helps you take the next step toward connecting with a local HVAC professional who can discuss your home's needs and options.-->
-    <!--                    </p>-->
-
-    <!--                    <div>-->
-    <!--                        <a href="#get-quote" class="ehs-hvac-deciding-btn">Get A Quote Now</a>-->
-    <!--                    </div>-->
-
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--</section>-->
+ 
 
     <!-- 8. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
@@ -460,7 +415,50 @@
         </div>
       </div>
     </section>
+    <style>
+        .ehs-hvac-deciding-section-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--ehs-text-heading);
+    margin-bottom: 12px;
+}
+.ehs-hvac-deciding-section-text
+Specificity: (0,1,0)
+ {
+    font-size: 15px;
+    color: var(--ehs-text-body);
+    margin-bottom: 0;
+}
+        </style>
+<section class="ehs-hvac-deciding-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-8">
+                <div class="ehs-hvac-deciding-container">
+                        
+                    <h2 class="ehs-hvac-section-title">
+                        What Brooklyn Homeowners Should Know Before Choosing HVAC Service
+                    </h2>
+<div class="my-4">
+                    <h3 class="ehs-hvac-deciding-section-title">Systems That Suit Brooklyn Homes</h3>
+                                <p class="ehs-hvac-deciding-section-text">Not every system fits every building. Brownstones with limited ductwork often do well with ductless mini-splits, while larger homes may suit central air with properly sized ducts. Condo and co-op owners must also consider building rules, board approvals, shared risers, and exterior unit restrictions. We review layout, ceiling height, and existing equipment before recommending any equipment or repair, so the solution fits how your home is actually built.
+</p></div>
+                               <div class="my-4"><h3 class="ehs-hvac-deciding-section-title">Preparing for Brooklyn’s Seasons</h3>
+                                <p class="ehs-hvac-deciding-section-text">Timing matters. <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">Scheduling an AC services</a></strong> in spring helps catch refrigerant, drainage, and electrical issues before the first heat wave. A boiler or furnace inspection in early fall gives time to repair worn parts before cold nights arrive. Booking early also means shorter waits, since repair demand climbs sharply whenever temperatures swing to extremes across the city. Our team can review thermostat settings and filters during the visit.</p></div>
+                               <div class="my-4"><h3 class="ehs-hvac-deciding-section-title">Efficiency and Available Incentives</h3>
+                                <p class="ehs-hvac-deciding-section-text">Upgrading aging equipment can lower energy use, and heat pumps in particular have drawn attention across <strong><a href="https://easyhomeservice.com/new-york/hvac-services-in-new-york">New York</a></strong>. Utility and state incentive programs may reduce project costs, though eligibility and amounts change over time. We can explain how a new system compares with your current one, and point you toward current program details before you commit to a purchase. We never push upgrades that will not truly help.</p></div>
+                                <div class="my-4"><h3 class="ehs-hvac-deciding-section-title">Choosing a Brooklyn HVAC Contractor</h3>
+                                <p class="ehs-hvac-deciding-section-text">Ask any contractor about experience, service costs, and written warranties before work begins.. Gas and refrigerant work in New York City carries specific requirements, so verify credentials rather than assuming them. Request itemized estimates, compare scope rather than price alone, and choose a company that answers questions patiently. Reliable service should feel transparent from the first call through the final inspection. Easy Home Service gladly welcomes those questions openly.
+</p></div>
+                    <div>
+                        <a href="#get-quote" class="ehs-hvac-deciding-btn">Get A Quote Now</a>
+                    </div>
 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
    <?php include '../state-cities.php';?>
     <!-- 11. FAQ ACCORDION SECTION -->
     <section class="ehs-hvac-faq-section">

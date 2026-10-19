@@ -41,10 +41,6 @@ echo '<link rel="alternate" hreflang="x-default" href="' . get_hreflang_url() . 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin> 
 <link rel="preconnect" href="https://b-js.ringba.com" crossorigin>
-<link rel="preload" href="/css/DMSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/css/DMSans-Medium.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/css/DMSans-SemiBold.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/css/DMSans-Bold.woff2" as="font" type="font/woff2" crossorigin>
 
 <link rel="stylesheet" href="<?= asset('css/bootstrap.min.css') ?>">
 <link rel="stylesheet" href="<?= asset('css/style.css') ?>">
@@ -54,14 +50,8 @@ echo '<link rel="alternate" hreflang="x-default" href="' . get_hreflang_url() . 
 <link rel="stylesheet" href="<?= asset('css/bootstrap-icons.min.css') ?>">
 <link rel="stylesheet" href="<?= asset('css/font-awesome/6.5.1/css/all.min.css') ?>">
 
-<link
-  rel="preload"
-  as="style"
-  href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
-  onload="this.onload=null;this.rel='stylesheet'">
-<noscript>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap">
-</noscript>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap">
 <?php
  if (basename($_SERVER['PHP_SELF']) == 'gutter-test.php') {
     ?>
