@@ -10,7 +10,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            Residential HVAC Ductwork Services for Better Home Comfort
+                            HVAC Ductwork Services for Better Home Comfort
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
                             Improve your home’s airflow, energy efficiency, and indoor comfort with reliable HVAC Ductwork Services. Connect with local professionals for duct inspection, repair, installation, and replacement tailored to your home’s needs.
@@ -43,7 +43,7 @@
                             Older ductwork can deteriorate over time, while improperly designed systems may create problems even when the ducts themselves are relatively new. Renovations, HVAC replacements, and changes to a home's layout can also affect how air moves through the existing system.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            A professional evaluation can help identify whether the issue calls for HVAC ductwork repair, duct replacement, sealing, modification, or another HVAC service. Addressing the actual source of the problem can help improve airflow and allow the heating or cooling system to operate more effectively.
+                            A professional evaluation can help identify whether the issue calls for <a href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">HVAC ductwork repair</a>, duct replacement, sealing, modification, or another <a href="https://easyhomeservice.com/hvac">HVAC service</a>. Addressing the actual source of the problem can help improve airflow and allow the <a href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">heating or cooling</a> system to operate more effectively.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -62,7 +62,7 @@
             <div class="row justify-content-center text-center">
 
                     <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Comfort Solutions for Every Trenton Home</h2>
+                        <h2 class="ehs-hvac-section-title">Residential HVAC Ductwork Services</h2>
                         <p class="ehs-hvac-solutions-subtitle">
                             Whatever the season, homeowners across Trenton can connect with professionals who specialize in these areas.
                         </p>
@@ -78,7 +78,7 @@
                         </div>
                         <h3 class="ehs-hvac-solutions-card-title">Ductwork Installation</h3>
                         <p class="ehs-hvac-solutions-card-text">
-                            New or upgraded ductwork can help distribute conditioned air more effectively throughout your home. Connect with professionals for residential ductwork installation designed around your home’s layout and HVAC system.
+                            New or upgraded ductwork can help distribute conditioned air more effectively throughout your home. Connect with professionals for <a href="https://easyhomeservice.com/blog/residential-hvac-ductwork-installation-benefits-costs-installation-guide">residential ductwork installation</a> designed around your home’s layout and HVAC system.
                         </p>
                     </div>
                 </div>
@@ -187,37 +187,38 @@
                     <div class="ehs-hvac-challenges-container">
                         
                         <h2 class="ehs-hvac-section-title">
-                            HVAC Ductwork Problems Homeowners Commonly Face
+                             HVAC Ductwork Problems Homeowners Commonly Face
                         </h2>
 
                         <p class="ehs-hvac-challenges-intro">
-                            Your ductwork has to move conditioned air efficiently throughout the home. Problems with the distribution system can affect comfort even when the furnace, heat pump, or air conditioner itself is operating.
+                            Your ductwork distributes heated and cooled air throughout your home. Issues with residential HVAC ductwork can affect indoor comfort, airflow, and system performance, even when your furnace, <a href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump</a>, or air conditioner is working properly.
                         </p>
 
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Leaking Ductwork</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Gaps at joints, seams, and connections can allow conditioned air to escape before it reaches the rooms where it is needed. Leaky ducts are especially important to check when ductwork runs through unconditioned areas.
+                               Gaps around duct joints, seams, and connections can allow conditioned air to escape before reaching living spaces. Duct sealing can help address accessible leaks, while professional <a href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">residential ductwork repair</a> may be needed for loose or damaged connections.
                             </p>
                         </div>
 
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Damaged or Disconnected Ducts</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Flexible ducts can become crushed, punctured, or disconnected, while older metal ductwork may develop damaged sections or loose connections. These problems can reduce airflow and create noticeable temperature differences.
+                               Crushed flexible ducts, punctures, disconnected sections, and loose metal duct connections can restrict airflow and cause uneven temperatures. Depending on the damage, HVAC duct repair or duct replacement may be appropriate.
                             </p>
                         </div>
 
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Poor Duct Insulation</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Ducts located in attics, crawl spaces, garages, or other unconditioned areas can lose or gain heat when insulation is inadequate. Duct insulation can be an important part of improving air distribution efficiency.
+                                Ducts running through attics, crawl spaces, garages, or other unconditioned areas can gain or lose heat when insulation is inadequate. Proper HVAC duct insulation can help reduce unwanted heat transfer and support more efficient air distribution.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Improper Airflow</h3>
+                            <h3 class="ehs-hvac-challenges-subtitle">Uneven Airflow Between Rooms</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Blocked ducts, undersized sections, poorly positioned returns, and unbalanced supply airflow can make certain rooms uncomfortable. A professional can evaluate the distribution system and determine whether repair, balancing, sealing, or replacement is appropriate.
+                                Some rooms may receive too little conditioned air because of blocked ducts, unsuitable duct sizing, or unbalanced airflow. A professional assessment can determine whether airflow balancing, duct sealing, or other adjustments are needed to improve comfort. Choosing the right solution depends on the ductwork's condition and the wider HVAC system. <a href="https://easyhomeservice.com/blog/residential-hvac-ductwork-installation-benefits-costs-installation-guide">Explore residential HVAC ductwork installation, benefits, and costs</a> to understand your options.
+
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -380,10 +381,7 @@
                                             Not Sure What Your Ductwork Needs?
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
-                                            You do not necessarily need to replace your entire duct system because one room has weak airflow or your energy bills have increased. The right solution depends on the condition, layout, insulation, and performance of the existing ductwork.
-                                        </p>
-                                        <p class="ehs-hvac-cta-text">
-                                           Easy Home Service helps you connect with local professionals who can evaluate your home's ductwork and airflow and help determine the appropriate next step.
+                                            Get help finding the right professional for your home’s ductwork needs, whether you’re dealing with air leaks, poor airflow, or damaged ducts. Tell us what you’ve noticed, and take the next step toward better indoor comfort.
                                         </p>
                                         <div class="ehs-hvac-cta-action">
                                             <a href="#get-quote" class="ehs-hvac-cta-btn">Get Started</a>
@@ -423,8 +421,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                    <i class="fa-solid fa-screwdriver-wrench"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">New Ductwork Installation</h3>
-                  <p class="ehs-hvac-grid-card-text">For homes, additions, renovations, or spaces that need a new air distribution system.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Air Duct Sealing</h3>
+                  <p class="ehs-hvac-grid-card-text">Seal gaps around duct joints and connections to help reduce conditioned air loss and improve air distribution throughout your home.</p>
                 </div>
               </div>
               <!-- 2. Boiler Services -->
@@ -433,8 +431,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-arrows-rotate"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork Replacement</h3>
-                  <p class="ehs-hvac-grid-card-text">Replace aging, damaged, poorly sized, or extensively deteriorated duct systems.</p>
+                  <h3 class="ehs-hvac-grid-card-title">HVAC Duct Insulation</h3>
+                  <p class="ehs-hvac-grid-card-text">Limit unwanted heat gain or loss in ductwork running through attics, crawl spaces, and other unconditioned areas with suitable duct insulation.</p>
                 </div>
               </div>
               <!-- 3. Air Conditioning -->
@@ -443,8 +441,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-shield-halved"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Duct Sealing</h3>
-                  <p class="ehs-hvac-grid-card-text">Address leaks around duct joints, seams, connections, and other areas where conditioned air may escape.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Airflow Balancing</h3>
+                  <p class="ehs-hvac-grid-card-text">Address <a href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">uneven temperatures</a> and inconsistent airflow between rooms with professional airflow assessment and balancing solutions tailored to your HVAC system.</p>
                 </div>
               </div>
               <!-- 4. Heat Pump Services -->
@@ -453,8 +451,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-temperature-half"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Duct Insulation</h3>
-                  <p class="ehs-hvac-grid-card-text">Improve protection for ductwork located in attics, crawl spaces, garages, and other unconditioned areas.</p>
+                  <h3 class="ehs-hvac-grid-card-title">Air Duct Cleaning</h3>
+                  <p class="ehs-hvac-grid-card-text">Dust and debris can accumulate inside ductwork over time. Connect with professionals who can assess whether <a href="https://easyhomeservice.com/blog/air-duct-cleaning-columbus-cincinnati-ohio">air duct cleaning</a> is appropriate for your <a href="https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation">home's ventilation system</a>.</p>
                 </div>
               </div>
               <!-- 5. Ductwork & Airflow -->
@@ -463,8 +461,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-wrench"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Supply & Return Duct Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Address damaged supply ducts and return air ducts that affect airflow throughout the home.</p>
+                  <h3 class="ehs-hvac-grid-card-title">HVAC Ductwork Replacement</h3>
+                  <p class="ehs-hvac-grid-card-text">Extensively damaged, deteriorated, or improperly sized ducts may require replacement. Find professionals who can evaluate your existing system and recommend suitable options.</p>
                 </div>
               </div>
               <!-- 6. Ventilation & Indoor Air Quality -->
@@ -473,8 +471,8 @@
                   <div class="ehs-hvac-grid-icon-wrap">
                     <i class="fa-solid fa-scale-balanced"></i>
                   </div>
-                  <h3 class="ehs-hvac-grid-card-title">Airflow Balancing</h3>
-                  <p class="ehs-hvac-grid-card-text">Evaluate airflow distribution when some rooms consistently receive more or less conditioned air than others.</p>
+                  <h3 class="ehs-hvac-grid-card-title">HVAC Ventilation Services</h3>
+                  <p class="ehs-hvac-grid-card-text">Support fresh-air circulation and indoor comfort with <a href="https://easyhomeservice.com/hvac/ventilation">ventilation services</a> that address your home's air exchange and distribution needs.</p>
                 </div>
               </div>
             </div>
@@ -494,18 +492,18 @@
                     <div class="ehs-hvac-situations-container">
                         
                         <h2 class="ehs-hvac-section-title">
-                           Ductwork Help for Different Homeowner Situations
+                           Residential HVAC Ductwork: Common Problems, Solutions & Maintenance
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            Every homeowner ends up looking into ductwork services for a different reason. Whether you are dealing with an older duct system, preparing for a change in season, or trying to solve a comfort problem that will not go away, Easy Home Service can help you take the next step toward finding a local HVAC professional who understands your situation and your home.
+                            Your home's ductwork plays an important role in delivering heated and cooled air throughout your living spaces. When ducts are damaged, poorly sealed, or incorrectly sized, your HVAC system may struggle to maintain comfortable temperatures. Understanding common ductwork problems can help you identify when professional service may be needed.
                         </p>
 
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Older Homes</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Signs Your Home Needs Ductwork Repair</h3>
                             <p class="ehs-hvac-situations-text">
-                                Living in a home with original or aging ductwork? Older duct systems can be undersized, poorly insulated, or disconnected in places that are hard to spot without a proper inspection. 
+                                Uneven temperatures, weak airflow, unusual whistling noises, and <a href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">rising energy</a> bills can indicate ductwork problems. You may also notice excessive dust around vents or rooms that never reach the temperature set on your thermostat. These symptoms can have several causes, so a professional inspection can help determine whether the issue comes from the ducts, HVAC equipment, or another part of the system.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                                 Find Help for Older Ductwork &rarr;
@@ -514,9 +512,9 @@
 
                         <!-- Situation 2 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Buying a Home</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">How Duct Leakage Affects Heating and Cooling</h3>
                             <p class="ehs-hvac-situations-text">
-                                Purchasing a property with an HVAC system you do not know much about yet? A professional can evaluate the ductwork's condition before you plan any repairs or upgrades. 
+                               Leaks around duct joints and connections allow conditioned air to escape before it reaches the intended rooms. This can reduce comfort and increase energy use, particularly when ducts run through attics, crawl spaces, or garages. Professional duct sealing and repairs can help limit air loss and improve air distribution throughout your home.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                                 Explore Ductwork Help for Home Buyers &rarr;
@@ -525,9 +523,9 @@
 
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Rising Energy Bills</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Why Proper Ductwork Design Matters</h3>
                             <p class="ehs-hvac-situations-text">
-                               Noticed your heating or cooling costs creeping up without an obvious reason? Leaking or damaged ductwork is a common, often overlooked cause that is worth ruling out before assuming the equipment itself is at fault. 
+                               Duct sizing and layout affect how effectively an HVAC system distributes air. Undersized ducts, excessive bends, and poorly planned connections may restrict airflow or create pressure imbalances. Proper residential ductwork installation considers the home's layout, <a href="https://easyhomeservice.com/hvac/heating-services">heating</a> and <a href="https://easyhomeservice.com/hvac/air-conditioning">cooling</a> requirements, and existing equipment to support reliable performance.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                                 Get Ready for Summer &rarr;
@@ -536,9 +534,9 @@
 
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">One Room Is Always Uncomfortable</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Maintaining Your HVAC Ductwork</h3>
                             <p class="ehs-hvac-situations-text">
-                                A bedroom, addition, or upper floor that stays too hot or too cold no matter the season may point to a duct run that needs attention, added insulation, or resizing. 
+                               <a href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">Routine HVAC inspections</a> can help identify loose connections, damaged insulation, airflow restrictions, and other developing problems. Homeowners should also <a href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">replace HVAC air filters</a> according to manufacturer recommendations and keep supply and return vents unobstructed. Duct cleaning may be appropriate when significant dust or debris accumulates, but it does not replace necessary sealing or repairs.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                                 Get Help for Uneven Comfort &rarr;
@@ -547,23 +545,12 @@
 
                         <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Preparing for a New Season </h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Find Residential Ductwork Services for Your Home</h3>
                             <p class="ehs-hvac-situations-text">
-                                Getting ready for summer heat or winter cold? Having ductwork checked before peak season can help you avoid mid-season surprises, uneven comfort, and unplanned emergency repairs.
+                               Whether you need <a href="https://easyhomeservice.com/blog/residential-hvac-ductwork-installation-benefits-costs-installation-guide">ductwork installation</a>, air duct repair, duct sealing, or an assessment of uneven airflow, choosing the right service can help address your home's specific needs. <a href="https://easyhomeservice.com/">Easy Home Service</a> helps homeowners connect with <a href="https://easyhomeservice.com/blog/how-to-find-home-service-professionals">home service professionals</a> for residential HVAC projects. Explore the available ductwork services to find suitable assistance for improving your home's heating and cooling air distribution.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                                 Prepare Your Ductwork for the Season &rarr;
-                            </a>
-                        </div>
-
-                        <!-- Situation 6 -->
-                        <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Home Renovations & Additions</h3>
-                            <p class="ehs-hvac-situations-text">
-                                Adding a room or remodeling your layout? Ductwork often needs to be extended, resized, or rerouted to keep airflow balanced throughout the whole home. 
-                            </p>
-                            <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Find Ductwork Help for Renovations &rarr;
                             </a>
                         </div>
 
@@ -616,7 +603,7 @@
                             </button>
                             <div class="ehs-hvac-faq-body">
                                 <div class="ehs-hvac-faq-content">
-                                    Weak airflow, uneven room temperatures, unusual airflow sounds, visible damage, disconnected sections, higher energy bills, and poorly insulated ducts can indicate that your ductwork should be evaluated.
+                                    Weak airflow, uneven room temperatures, unusual airflow sounds, visible damage, disconnected sections, <a href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">Higher energy bills</a>, and poorly insulated ducts can indicate that your ductwork should be evaluated.
                                 </div>
                             </div>
                         </div>
@@ -733,7 +720,7 @@
                             </button>
                             <div class="ehs-hvac-faq-body">
                                 <div class="ehs-hvac-faq-content">
-                                    Easy Home Service helps homeowners connect with local professionals for HVAC ductwork installation, ductwork repair, ductwork replacement, duct sealing, duct insulation, air duct cleaning, duct inspection, supply and return duct repairs, and airflow-related services.
+                                    Easy Home Service helps homeowners connect with local professionals for HVAC ductwork installation, <a href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">ductwork repair</a>, ductwork replacement, duct sealing, duct insulation, air duct cleaning, duct inspection, supply and return duct repairs, and airflow-related services.
                                 </div>
                             </div>
                         </div>

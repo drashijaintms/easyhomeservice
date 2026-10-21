@@ -331,6 +331,152 @@ SCHEMA
 SCHEMA
     ],
 
+      'ductwork' => [
+        'meta' => [
+            'title'       => 'HVAC Ductwork Services for Repair and Installation',
+            'description' => 'Need HVAC ductwork services? Connect with local professionals for duct repair, installation, replacement, sealing, and insulation to improve home airflow.',
+            'image'       => 'https://easyhomeservice.com/images/hvac_bnr_mob.webp',
+            'image_alt'   => 'HVAC technician arriving to perform residential ductwork service'
+        ],
+
+        'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/hvac/ductwork#service",
+      "name": "Ductwork Repair & Installation Services",
+      "serviceType": "HVAC Ductwork Services",
+      "description": "For ductwork replacement, insulation, sealing, and repair, compare local HVAC professionals. Get a free quotation right now by telling us what you're experiencing.",
+      "url": "https://easyhomeservice.com/hvac/ductwork",
+      "provider": {
+        "@type": "Organization",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United States"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/hvac/ductwork#webpage",
+      "url": "https://easyhomeservice.com/hvac/ductwork",
+      "name": "Ductwork Repair & Installation Services | Easy Home Service",
+      "headline": "HVAC Ductwork Services for Better Home Comfort",
+      "description": "For ductwork replacement, insulation, sealing, and repair, compare local HVAC professionals. Get a free quotation right now by telling us what you're experiencing.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      },
+      "mainEntity": {
+        "@id": "https://easyhomeservice.com/hvac/ductwork#service"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/hvac/ductwork#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC",
+          "item": "https://easyhomeservice.com/hvac/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ductwork",
+          "item": "https://easyhomeservice.com/hvac/ductwork"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://easyhomeservice.com/hvac/ductwork#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is HVAC ductwork?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC ductwork is the network of ducts that distributes heated and cooled air from your HVAC system to different areas of your home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When does HVAC ductwork need repair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ductwork may need repair when you notice weak airflow, uneven temperatures, unusual noises, visible damage, or higher-than-normal energy bills."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should HVAC ductwork be replaced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ductwork does not have a fixed replacement schedule. Its condition, age, material, insulation, and installation quality determine when replacement may be necessary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can leaking ducts increase energy costs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Leaking ducts can allow conditioned air to escape, making your HVAC system work harder and potentially increasing energy consumption."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is duct sealing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Duct sealing involves closing leaks and gaps around duct joints and connections to help prevent conditioned air from escaping."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I repair or replace my ductwork?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minor leaks or isolated damage may be repaired, while severely damaged, deteriorated, or poorly designed ductwork may require replacement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can new ductwork improve airflow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Properly sized and installed ductwork can help improve air distribution and address certain airflow problems throughout your home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does HVAC ductwork need insulation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Duct insulation can help reduce heat transfer, particularly when ducts run through unconditioned spaces such as attics, crawl spaces, or garages."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+SCHEMA
+    ],
 
 
    
