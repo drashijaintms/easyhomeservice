@@ -728,7 +728,7 @@
                     </div>
 
                     <div class="ehs-hvac-faq-action">
-                        <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
+                        <a href="#get-quote" class="ehs-hvac-faq-btn">Get Help With Your HVAC Ductwork</a>
                     </div>
 
                 </div>
