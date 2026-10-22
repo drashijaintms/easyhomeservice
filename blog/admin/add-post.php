@@ -3,8 +3,8 @@ session_start();
 include('includes/config.php');
 
 // Show errors during development (remove/adjust on prod)
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
+ini_set('display_errors', '0');
+error_reporting(0);
 
 if (empty($_SESSION['login'])) { 
     header('location:index.php');

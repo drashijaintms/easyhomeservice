@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php
 include "dbconnect.php";
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
+error_reporting(0);
+ini_set('display_errors', '0');
+ini_set('display_startup_errors', '0');
 
 // Get the permalink from the URL parameters
 $permalink = $_GET['permalink'] ?? '';
