@@ -2,7 +2,6 @@
 # BASIC HARDENING
 ############################################################
 Options -Indexes
-DirectorySlash Off
 
 RewriteEngine On
 
@@ -1178,11 +1177,8 @@ RewriteRule ^windows(/.*)?$ /window [R=301,L]
 
 
 ############################################################
-# PHP HANDLER (CPANEL)
+# PHP HANDLER IS SET ONCE AT THE END OF THIS FILE
 ############################################################
-<IfModule mime_module>
-AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
-</IfModule>
 
 
 ############################################################
@@ -1261,8 +1257,4 @@ AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
 </IfModule>
 
 # php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php83” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
-</IfModule>
-# php -- END cPanel-generated handler, do not edit
+# PHP Selector shows PHP 8.2 (current).

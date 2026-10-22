@@ -4,9 +4,9 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 $servername = "localhost";
-$username = "easyhomeservice_mainblog";
-$password = "easyhomeservice_mainblog";
-$dbname = "easyhomeservice_mainblog";
+$username = "qqoophoh_easyhomeservice_blog";
+$password = "qqoophoh_easyhomeservice_blog";
+$dbname = "qqoophoh_easyhomeservice_blog";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

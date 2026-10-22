@@ -15,7 +15,7 @@ $(window).on('load', function () {
 // ✅ DATABASE CONNECTION
 try {
     mysqli_report(MYSQLI_REPORT_OFF);
-    $conn = @new mysqli("localhost", "easyhomeservice_mainblog", "easyhomeservice_mainblog", "easyhomeservice_mainblog");
+    $conn = @new mysqli("localhost", "qqoophoh_easyhomeservice_blog", "qqoophoh_easyhomeservice_blog", "qqoophoh_easyhomeservice_blog");
 
     if (!$conn || $conn->connect_error) {
         return;

@@ -15,6 +15,10 @@ $base_url = '/';
 if (!isset($pagenm)) {
     $pagenm = '';
 }
+
+error_reporting(0);
+ini_set('display_errors', '0');
+ini_set('display_startup_errors', '0');
 ?>
 <?php 
 include $_SERVER['DOCUMENT_ROOT'].'/includes/schema-dates.php';

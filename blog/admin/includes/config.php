@@ -1,8 +1,8 @@
 <?php
 define('DB_SERVER','localhost');
-define('DB_USER','easyhomeservice_mainblog');
-define('DB_PASS','easyhomeservice_mainblog');
-define('DB_NAME','easyhomeservice_mainblog');
+define('DB_USER','qqoophoh_easyhomeservice_blog');
+define('DB_PASS','qqoophoh_easyhomeservice_blog');
+define('DB_NAME','qqoophoh_easyhomeservice_blog');
 
 $con = mysqli_connect(DB_SERVER, DB_USER, DB_PASS, DB_NAME);
 
