@@ -158,6 +158,7 @@
                         
                         <h2 class="ehs-hvac-section-title">
                           Common HVAC Problems in Oklahoma City Homes
+                        </h2>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">AC Blowing Warm Air</h3>
                             <p class="ehs-hvac-challenges-text">
@@ -415,7 +416,6 @@
     margin-bottom: 12px;
 }
 .ehs-hvac-deciding-section-text
-Specificity: (0,1,0)
  {
     font-size: 15px;
     color: var(--ehs-text-body);
@@ -785,11 +785,9 @@ document.addEventListener("DOMContentLoaded", function () {
       win.window.focus();
     } else if (type == 'modal') {
       var html = '';
-      html += ' < div id = "app_common_modal" > ';
-      html += ' < div class = "app_modal_body" > < a href = "javascript:void(0);"
-      id = "app_common_modal_close" > X < /a> < iframe src = "' + page_url + '"
-      frameborder = "0" > < /iframe> < /div>';
-      html += ' < /div>';
+      html += '<div id="app_common_modal">';
+      html += '<div class="app_modal_body"><a href="javascript:void(0);" id="app_common_modal_close">X</a><iframe src="' + page_url + '" frameborder="0"></iframe></div>';
+      html += '</div>';
       if (!$('#app_common_modal').length) {
         $('body').append(html);
       }
