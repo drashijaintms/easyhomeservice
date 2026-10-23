@@ -38,7 +38,7 @@
                             Why Homeowners in Queens Need Reliable HVAC Services
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            Finding dependable HVAC services in Queens, NY matters when bitter winter cold snaps and humid, sticky summers push your heating and cooling equipment hard in both directions. Easy Home Service helps you connect with <strong><a href="https://easyhomeservice.com/hvac">local HVAC contractors</a></strong> who know how to keep systems, old or new, running efficiently through every season.
+                            Finding dependable HVAC services in Queens, NY matters when bitter winter cold snaps and humid, sticky summers push your heating and cooling equipment hard in both directions. Easy Home Service helps you connect with <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">local HVAC contractors</a></strong> who know how to keep systems, old or new, running efficiently through every season.
                         </p>
                         <p class="ehs-hvac-intro-description">
                             Reliable HVAC support helps you:
@@ -90,7 +90,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    From furnace and boiler problems to heat pump concerns, local technicians can help with <strong><a href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">emergency heating repair</a></strong>, maintenance, installation and replacement, so your Queens home stays warm through the coldest weeks of winter.
+                                    From furnace and boiler problems to heat pump concerns, local technicians can help with <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">emergency heating repair</a></strong>, maintenance, installation and replacement, so your Queens home stays warm through the coldest weeks of winter.
                                 </p>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    If your AC struggles to cool the house, airflow feels weak or the system needs seasonal attention, you can connect with professionals for AC repair, air conditioning maintenance, replacement and new <strong><a href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system">central air or ductless installation</a></strong>.
+                                    If your AC struggles to cool the house, airflow feels weak or the system needs seasonal attention, you can connect with professionals for AC repair, air conditioning maintenance, replacement and new <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system">central air or ductless installation</a></strong>.
                                 </p>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">AC Installation and Repair in Queens, NY</h3>
-                                <p class="ehs-hvac-grid-card-text">Get help when your <strong><a href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC blows warm air</a></strong>, struggles to cool or has weak airflow, or when it is time for a replacement or new AC installation in Queens, NY.</p>
+                                <p class="ehs-hvac-grid-card-text">Get help when your <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC blows warm air</a></strong>, struggles to cool or has weak airflow, or when it is time for a replacement or new AC installation in Queens, NY.</p>
                             </div>
                         </div>
                         <!-- 2. Furnace Repair and Installation in Queens, NY -->
@@ -394,7 +394,7 @@
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heat Pump Services in Queens, NY</h3>
-                                <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/heat-pump-repair">Heat pump repair</a></strong>, tune-ups and installation for uneven temperatures, frequent cycling or poor heating and cooling.</p>
+                                <p class="ehs-hvac-grid-card-text"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">Heat pump repair</a></strong>, tune-ups and installation for uneven temperatures, frequent cycling or poor heating and cooling.</p>
                             </div>
                         </div>
                         <!-- 4. Boiler Repair and Installation -->
@@ -655,23 +655,23 @@
                                         We connect homeowners with trusted professionals for a wide range of home services, including:
                                         <ul>
 
-                                            <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
 
                                         </ul>
                                         No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
@@ -686,7 +686,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
+                                        We proudly offer hvac repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
                                     </div>
                                 </div>
                             </div>

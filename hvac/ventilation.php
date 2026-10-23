@@ -16,7 +16,7 @@
     <div class="inner__banner__left">
       <img src="/images/mobileventilation.jpg" class="inner_banner_mob showMob" width="600" height="400" alt="Professional home ventilation services improving indoor airflow">
       <h1 class="banner_heading">Connect With Trusted Experts for Ventilation Services</h1>
-      <p class="inner__banner__text">Easy Home Service connects homeowners with trusted ventilation contractors across the United States. As part of our <strong><a href="https://easyhomeservice.com/hvac">HVAC services</a></strong>, we help improve indoor air quality, airflow, and home comfort with reliable ventilation installation, repair, and maintenance solutions.</p>
+      <p class="inner__banner__text">Easy Home Service connects homeowners with trusted ventilation contractors across the United States. As part of our <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC services</a></strong>, we help improve indoor air quality, airflow, and home comfort with reliable ventilation installation, repair, and maintenance solutions.</p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">
@@ -39,7 +39,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Home Ventilation Services We Help You Find</h2>
-    <p class="common_text">Fresh, clean indoor air starts with an effective home ventilation system. Easy Home Service helps homeowners connect with local ventilation professionals for residential <strong><a href="https://easyhomeservice.com/blog/whole-house-ventilation-installation">ventilation installation</a></strong>, repair, maintenance, ductwork, airflow improvement, and exhaust fan solutions across the United States.</p> <?php include '../gallery.php';?>
+    <p class="common_text">Fresh, clean indoor air starts with an effective home ventilation system. Easy Home Service helps homeowners connect with local ventilation professionals for residential <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-ventilation-installation">ventilation installation</a></strong>, repair, maintenance, ductwork, airflow improvement, and exhaust fan solutions across the United States.</p> <?php include '../gallery.php';?>
   </div>
 </div>
 <div class="roofing_section_2">
@@ -62,7 +62,7 @@
               <div class="col-lg-6">
                 <h3>Ventilation Installation Services</h3>
                 <p>Every home doesn't have the same airflow and that's why the process of ventilation must be understood in the space prior to adding new equipment. When you're finishing a basement, renovating an older property or increasing the flow of air in troublesome areas the proper system will be a big difference.</p>
-                <p>An appropriately planned ventilation system will help eliminate stale indoor air, regulate moisture levels, and also bring clean air to the outdoors when it is needed. It also helps reduce cold and hot areas, allowing rooms to feel more cosy throughout the year, while also enhancing the overall efficiency of your <strong><a href="https://easyhomeservice.com/hvac/heating-services">Heating Services</a></strong> and <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">Air Conditioning Services</a></strong>.</p>
+                <p>An appropriately planned ventilation system will help eliminate stale indoor air, regulate moisture levels, and also bring clean air to the outdoors when it is needed. It also helps reduce cold and hot areas, allowing rooms to feel more cosy throughout the year, while also enhancing the overall efficiency of your <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">Heating Services</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">Air Conditioning Services</a></strong>.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>
                 </div>
@@ -92,7 +92,7 @@
               <div class="col-lg-6">
                 <h3>Ventilation Maintenance Services</h3>
                 <p>The ventilation system usually runs silently in the background, making it easy to ignore until something seems out of place. Regular maintenance of the ventilation system assists in keeping air flowing as it should by inspecting vents, fans and filters as well as other crucial components for wear or accumulation.</p>
-                <p>The smallest issues can be identified before they become costly repairs, and regular service ensures that airflow is balanced across the seasons. Homeowners who stay on top of maintenance usually experience fewer comfort issues, better indoor air quality, and improved long-term system performance, especially when paired with professional <strong><a href="https://easyhomeservice.com/hvac/indoor-air-quality"></a>Indoor Air Quality Services</strong>.</p>
+                <p>The smallest issues can be identified before they become costly repairs, and regular service ensures that airflow is balanced across the seasons. Homeowners who stay on top of maintenance usually experience fewer comfort issues, better indoor air quality, and improved long-term system performance, especially when paired with professional <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/indoor-air-quality">Indoor Air Quality Services</a></strong>.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>
                 </div>

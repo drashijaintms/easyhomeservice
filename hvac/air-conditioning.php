@@ -68,7 +68,7 @@
 
       <p>
         When your air conditioner stops cooling properly, prompt
-        <a href="https://easyhomeservice.com/blog/local-air-conditioning-repair"><strong>air conditioning repair</strong></a>
+        <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/local-air-conditioning-repair"><strong>air conditioning repair</strong></a>
         can help restore comfort and prevent a minor issue from becoming a larger system problem. Easy Home Service connects homeowners with local professionals who can diagnose and address common AC problems, including systems that run constantly without cooling, weak airflow, unusual noises, short cycling, and units that will not turn on.
       </p>
 
@@ -102,7 +102,7 @@
 
       <p>
         Professionals can assist with central AC installation,
-        <a href="https://easyhomeservice.com/blog/ductless-air-conditioner-installation-cost"><strong>ductless mini-split installation</strong></a>,
+        <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/ductless-air-conditioner-installation-cost"><strong>ductless mini-split installation</strong></a>,
         new AC systems, system sizing, and air conditioning replacement. Choosing the right equipment and having it installed correctly can help reduce uneven cooling, unnecessary energy use, and premature system wear.
       </p>
 
@@ -128,7 +128,7 @@
 
       <p>
         Regular
-        <a href="https://easyhomeservice.com/blog/air-conditioner-maintenance-cost"><strong>AC maintenance</strong></a>
+        <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/air-conditioner-maintenance-cost"><strong>AC maintenance</strong></a>
         can help homeowners identify potential problems before they lead to an unexpected breakdown. Seasonal maintenance gives a local professional an opportunity to inspect the system, check its operation, and address components that may affect cooling performance and efficiency.
       </p>
 
@@ -162,12 +162,12 @@
 
       <p>
         A professional can consider factors such as system age, repair history, home size, energy efficiency, ductwork, and cooling requirements when recommending a replacement. Depending on the home and existing setup, options may include a new
-        <a href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system"><strong>central air conditioning</strong></a>
+        <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system"><strong>central air conditioning</strong></a>
         system or a ductless mini-split system.
       </p>
 
       <p>
-        Replacing an aging system at the right time can help improve cooling performance, reduce recurring repair needs, and provide a system better suited to the home's current needs. Knowing the average <strong><a href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">HVAC system lifespan</a></strong> and key repair-versus-replacement indicators can help homeowners make a more informed choice.
+        Replacing an aging system at the right time can help improve cooling performance, reduce recurring repair needs, and provide a system better suited to the home's current needs. Knowing the average <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">HVAC system lifespan</a></strong> and key repair-versus-replacement indicators can help homeowners make a more informed choice.
       </p>
 
       <div class="d-flex justify-content-center">

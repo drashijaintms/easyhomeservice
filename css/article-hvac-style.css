@@ -49,6 +49,21 @@ main *,
     margin-bottom: 20px;
 }
 
+/* ==========================================================================
+   INTERNAL CONTENT LINKS (Used across all article pages & services)
+   ========================================================================== */
+.ehs-hvac-internal-link {
+    font-weight: 700;
+    color: var(--ehs-text-heading);
+    text-decoration: underline;
+    transition: color 0.2s ease-in-out;
+}
+
+.ehs-hvac-internal-link:hover,
+.ehs-hvac-internal-link:focus {
+    color: var(--ehs-primary-green);
+}
+
 /* --------------------------------------------------------------------------
    1. HERO SECTION
    -------------------------------------------------------------------------- */

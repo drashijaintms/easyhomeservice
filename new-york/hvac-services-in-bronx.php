@@ -38,7 +38,7 @@
                             HVAC Problems in Bronx Homes and Buildings
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            From walk-up apartments and classic brownstones to single-family homes across the borough, Bronx properties come with different <strong><a href="https://easyhomeservice.com/hvac/heating-services">heating</a></strong>, <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning</a></strong>, and <strong><a href="https://easyhomeservice.com/hvac/ventilation">ventilation</a></strong> demands, and older buildings in particular can be tough on aging systems. A pre-war brownstone might rely on a boiler that's overdue for service, while a single-family home could need central air that actually keeps pace with summer heat.
+                            From walk-up apartments and classic brownstones to single-family homes across the borough, Bronx properties come with different <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">heating</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a></strong> demands, and older buildings in particular can be tough on aging systems. A pre-war brownstone might rely on a boiler that's overdue for service, while a single-family home could need central air that actually keeps pace with summer heat.
                         </p>
                         <p class="ehs-hvac-intro-description">
                             Whether you're facing an urgent breakdown or planning ahead for an upgrade, finding the right local professional makes the process easier. Explore options for HVAC repair in the Bronx, new equipment installation, routine maintenance, or indoor air quality improvements, all based on your home's layout and your comfort goals.
@@ -368,7 +368,7 @@
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Furnace Services</h3>
-                                <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">Uneven heating</a></strong>, unusual noises, or frequent cycling can indicate a <strong><a href="https://easyhomeservice.com/blog/furnace-replacement-cost-new-york">furnace problem</a></strong>. A local HVAC professional can inspect the system and determine whether repair, maintenance, or replacement makes sense.</p>
+                                <p class="ehs-hvac-grid-card-text"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">Uneven heating</a></strong>, unusual noises, or frequent cycling can indicate a <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-replacement-cost-new-york">furnace problem</a></strong>. A local HVAC professional can inspect the system and determine whether repair, maintenance, or replacement makes sense.</p>
                             </div>
                         </div>
                         <!-- 2. Boiler Services -->
@@ -390,7 +390,7 @@
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Air Conditioning Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Weak airflow, warm air, or rising cooling costs can make summer uncomfortable. A <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">qualified professional</a></strong> can evaluate your AC system and help address performance issues or replacement needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Weak airflow, warm air, or rising cooling costs can make summer uncomfortable. A <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">qualified professional</a></strong> can evaluate your AC system and help address performance issues or replacement needs.</p>
                             </div>
                         </div>
                         <!-- 4. Heat Pump Services -->
@@ -423,7 +423,7 @@
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ventilation & Indoor Air Quality</h3>
-                                <p class="ehs-hvac-grid-card-text">Indoor comfort involves more than temperature. If your home feels stale or has persistent dust, moisture, or airflow concerns, a professional can evaluate ventilation and <strong><a href="https://easyhomeservice.com/blog/indoor-air-quality-services-texas">indoor air quality solutions</a></strong>.</p>
+                                <p class="ehs-hvac-grid-card-text">Indoor comfort involves more than temperature. If your home feels stale or has persistent dust, moisture, or airflow concerns, a professional can evaluate ventilation and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/indoor-air-quality-services-texas">indoor air quality solutions</a></strong>.</p>
                             </div>
                         </div>
 
@@ -449,7 +449,7 @@
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            When your heating or cooling system is not keeping up, you should not have to spend time figuring out which service or professional to call. Whether you need a quick repair, seasonal maintenance, or are <strong><a href="https://easyhomeservice.com/blog/hvac-upgrade">planning a new HVAC system</a></strong>, getting the right help starts with understanding what your home needs.
+                            When your heating or cooling system is not keeping up, you should not have to spend time figuring out which service or professional to call. Whether you need a quick repair, seasonal maintenance, or are <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-upgrade">planning a new HVAC system</a></strong>, getting the right help starts with understanding what your home needs.
                         </p>
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
@@ -647,23 +647,23 @@
                                         We connect homeowners with trusted professionals for a wide range of home services, including:
                                         <ul>
 
-                                            <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
 
-                                            <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
 
                                         </ul>
                                         No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
@@ -678,7 +678,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
+                                        We proudly offer hvac repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
                                     </div>
                                 </div>
                             </div>

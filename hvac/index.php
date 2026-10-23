@@ -29,13 +29,13 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading"> Expert Residential HVAC Services We Help You Find</h2>
-    <p class="common_text">A comfortable home starts with a dependable heating and cooling system. Easy Home Service is built for homeowners to connect with experienced residential HVAC services experts who deliver reliable solutions for AC repairs, <strong><a href="https://easyhomeservice.com/hvac/heating-services">heating services</a></strong>, <strong><a href="https://easyhomeservice.com/hvac/ventilation">ventilation</a></strong>, and full system installations across the nation. Whether you are dealing with sudden breakdowns, planning a system upgrade, or need emergency HVAC service, we simplify the process of finding the right professionals. We help you keep your indoor comfort stays consistent, no matter the weather outside.</p> <?php include '../gallery.php';?>
+    <p class="common_text">A comfortable home starts with a dependable heating and cooling system. Easy Home Service is built for homeowners to connect with experienced residential HVAC services experts who deliver reliable solutions for AC repairs, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">heating services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a></strong>, and full system installations across the nation. Whether you are dealing with sudden breakdowns, planning a system upgrade, or need emergency HVAC service, we simplify the process of finding the right professionals. We help you keep your indoor comfort stays consistent, no matter the weather outside.</p> <?php include '../gallery.php';?>
   </div>
 </div>
 <div class="roofing_section_2">
   <div class="container">
     <h2 class="common_heading">Specialized HVAC Repair Services</h2>
-    <p class="common_text">Your home’s comfort really comes down to one thing: a heating and cooling system you can count on, no matter what the weather decides to do. Easy Home Service makes that simple by connecting you with residential HVAC services near you in USA. They deliver fast, accurate, and affordable heating, ventilation, and <strong><a href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning services</a></strong>.  Sudden temperature swings, unexpected breakdowns, or weak airflow, whatever the problem, our experts keep your home comfortable through every season.</p>
+    <p class="common_text">Your home’s comfort really comes down to one thing: a heating and cooling system you can count on, no matter what the weather decides to do. Easy Home Service makes that simple by connecting you with residential HVAC services near you in USA. They deliver fast, accurate, and affordable heating, ventilation, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning services</a></strong>.  Sudden temperature swings, unexpected breakdowns, or weak airflow, whatever the problem, our experts keep your home comfortable through every season.</p>
     <div class="row">
       <div class="col-lg-12">
         <!-- Rounded Tab Buttons -->
@@ -80,7 +80,7 @@
             <div class="row d-flex justify-content-evenly align-items-start px-2 gy-4">
               <div class="col-lg-6">
                 <h3>Heating Repair Services</h3>
-                <p>If your heating stops working, is more than just an inconvenience. It's a problem that has to be fixed right away. Our HVAC technicians provide <strong><a href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">emergency heating repair services</a></strong> that will bring warm air back into your home in a short time.</p>
+                <p>If your heating stops working, is more than just an inconvenience. It's a problem that has to be fixed right away. Our HVAC technicians provide <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">emergency heating repair services</a></strong> that will bring warm air back into your home in a short time.</p>
                 <p>If the furnace isn't starting or if the heating system has stopped blowing cool air, or the heating system is constantly switching off and on, they can identify the problem quickly and repair the issue right in the very first attempt. From odd smells and noises, to thermostat malfunctions and failures of the heat pump, they ensure that your heating system remains reliable and efficient through the winter seasons.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>

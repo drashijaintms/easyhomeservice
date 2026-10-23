@@ -41,7 +41,7 @@
                             Staten Island homes vary widely in age, size, layout, and heating and cooling systems, so the right HVAC solution depends on the specific needs of each property. The borough has many single-family homes, along with older properties and newer developments, creating different comfort challenges from one neighborhood to another.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            A home with aging ductwork may need airflow improvements, while another may require AC repair, furnace service, boiler maintenance, or a <strong><a href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">HVAC system needs replacement</a></strong>. Larger homes may benefit from zoning or equipment designed to manage different temperatures across multiple areas, while homes without existing ductwork may be better suited to ductless systems. Staten Island's humid summers and cold winters also make dependable year-round heating and cooling important.
+                            A home with aging ductwork may need airflow improvements, while another may require AC repair, furnace service, boiler maintenance, or a <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">HVAC system needs replacement</a></strong>. Larger homes may benefit from zoning or equipment designed to manage different temperatures across multiple areas, while homes without existing ductwork may be better suited to ductless systems. Staten Island's humid summers and cold winters also make dependable year-round heating and cooling important.
                         </p>
                         <p class="ehs-hvac-intro-description">
                             Whether your system is struggling to keep up, driving up energy costs, or simply reaching the end of its service life, choosing the right service starts with understanding your home's requirements. Easy Home Service helps Staten Island homeowners connect with local HVAC professionals for repairs, maintenance, installation, replacement, and other HVAC services.
@@ -135,7 +135,7 @@
                         </p>
                         <ul class="ehs-hvac-signs-list">
 
-                            <li class="ehs-hvac-signs-item"><strong><a href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">Uneven heating or cooling</a></strong> between rooms.</li>
+                            <li class="ehs-hvac-signs-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">Uneven heating or cooling</a></strong> between rooms.</li>
 
                             <li class="ehs-hvac-signs-item"><strong>Weak or inconsistent airflow </strong> from vents.</li>
 
@@ -143,7 +143,7 @@
 
                             <li class="ehs-hvac-signs-item"><strong>Unusual noises, odors, or frequent cycling</strong></li>
 
-                            <li class="ehs-hvac-signs-item"><strong><a href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">Rising energy bills</a></strong> without a clear change in usage.</li>
+                            <li class="ehs-hvac-signs-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">Rising energy bills</a></strong> without a clear change in usage.</li>
 
                             <li class="ehs-hvac-signs-item"><strong>Poor indoor air quality or excess humidity</strong></li>
 
@@ -151,7 +151,7 @@
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
-                            The right <strong><a href="https://easyhomeservice.com/hvac">HVAC solution</a></strong> depends on your home and system. Connect with local HVAC professionals for repair, maintenance, replacement, or installation.
+                            The right <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC solution</a></strong> depends on your home and system. Connect with local HVAC professionals for repair, maintenance, replacement, or installation.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
@@ -188,9 +188,9 @@
 
                                 <li class="ehs-hvac-challenges-list-item">Furnace repair and replacement</li>
 
-                                <li class="ehs-hvac-challenges-list-item"><strong><a href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">Boiler repair and replacement</a></strong></li>
+                                <li class="ehs-hvac-challenges-list-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">Boiler repair and replacement</a></strong></li>
 
-                                <li class="ehs-hvac-challenges-list-item"><strong><a href="https://easyhomeservice.com/blog/heating-system-maintenance-checklist">Heating system maintenance</a></strong></li>
+                                <li class="ehs-hvac-challenges-list-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heating-system-maintenance-checklist">Heating system maintenance</a></strong></li>
 
                                 <li class="ehs-hvac-challenges-list-item">Heat pump heating</li>
 
@@ -212,7 +212,7 @@
 
                                 <li class="ehs-hvac-challenges-list-item">AC replacement</li>
 
-                                <li class="ehs-hvac-challenges-list-item"><strong><a href="https://easyhomeservice.com/blog/air-conditioner-maintenance-cost">AC maintenance</a></strong></li>
+                                <li class="ehs-hvac-challenges-list-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/air-conditioner-maintenance-cost">AC maintenance</a></strong></li>
 
                                 <li class="ehs-hvac-challenges-list-item">Ductless cooling</li>
 
@@ -235,7 +235,7 @@
 
                                 <li class="ehs-hvac-challenges-list-item">Ductwork</li>
 
-                                <li class="ehs-hvac-challenges-list-item"><strong><a href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">Air filtration</a></strong></li>
+                                <li class="ehs-hvac-challenges-list-item"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">Air filtration</a></strong></li>
 
                                 <li class="ehs-hvac-challenges-list-item">Humidity control</li>
 
@@ -362,7 +362,7 @@
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title"> Furnace Repair and Services</h3>
-                                <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">Need furnace repair</a></strong> in Staten Island? Connect with local HVAC professionals who can assess heating problems, investigate unusual noises or inconsistent warmth, and help you explore maintenance, repair, or replacement options.</p>
+                                <p class="ehs-hvac-grid-card-text"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">Need furnace repair</a></strong> in Staten Island? Connect with local HVAC professionals who can assess heating problems, investigate unusual noises or inconsistent warmth, and help you explore maintenance, repair, or replacement options.</p>
                             </div>
                         </div>
                         <!-- 2. Boiler Repair and Services -->
@@ -373,7 +373,7 @@
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Boiler Repair and Services</h3>
-                                <p class="ehs-hvac-grid-card-text">If your boiler is leaking, making unusual noises, or struggling to heat your home, connect with a professional to evaluate the issue and discuss <strong><a href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">boiler repair or replacement</a></strong> and maintenance options.</p>
+                                <p class="ehs-hvac-grid-card-text">If your boiler is leaking, making unusual noises, or struggling to heat your home, connect with a professional to evaluate the issue and discuss <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">boiler repair or replacement</a></strong> and maintenance options.</p>
                             </div>
                         </div>
                         <!-- 3. AC Installation and Repair -->
@@ -384,7 +384,7 @@
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">AC Installation and Repair</h3>
-                                <p class="ehs-hvac-grid-card-text">Whether you need a new cooling system or your existing <strong><a href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC is blowing warm air</a></strong>, local HVAC professionals can assess your home's cooling requirements and discuss AC installation, repair, and replacement.</p>
+                                <p class="ehs-hvac-grid-card-text">Whether you need a new cooling system or your existing <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC is blowing warm air</a></strong>, local HVAC professionals can assess your home's cooling requirements and discuss AC installation, repair, and replacement.</p>
                             </div>
                         </div>
                         <!-- 4. Heat Pump Repair and Services -->
@@ -395,7 +395,7 @@
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heat Pump Repair and Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Heat pumps provide heating and cooling through one system. If your equipment is not maintaining comfortable temperatures, connect with professionals who can evaluate <strong><a href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump repair</a></strong>, maintenance, or replacement needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Heat pumps provide heating and cooling through one system. If your equipment is not maintaining comfortable temperatures, connect with professionals who can evaluate <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump repair</a></strong>, maintenance, or replacement needs.</p>
                             </div>
                         </div>
                         <!-- 5. Ductless HVAC Services -->
@@ -406,7 +406,7 @@
                                     <i class="fa-solid fa-droplet"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ductless HVAC Services</h3>
-                                <p class="ehs-hvac-grid-card-text"><strong><a href="https://easyhomeservice.com/blog/ductless-air-conditioner-installation-cost">Ductless mini-split systems</a></strong> can suit homes or rooms where conventional ductwork is impractical. Explore installation, repair, and maintenance options based on your property's layout and heating and cooling requirements.</p>
+                                <p class="ehs-hvac-grid-card-text"><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/ductless-air-conditioner-installation-cost">Ductless mini-split systems</a></strong> can suit homes or rooms where conventional ductwork is impractical. Explore installation, repair, and maintenance options based on your property's layout and heating and cooling requirements.</p>
                             </div>
                         </div>
                         <!-- 6. Ventilation and Indoor Air Quality -->
@@ -417,7 +417,7 @@
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ventilation and Indoor Air Quality</h3>
-                                <p class="ehs-hvac-grid-card-text">Persistent humidity, stuffy rooms, dust, and inconsistent airflow can affect indoor comfort. Connect with HVAC professionals who can evaluate ventilation, <strong><a href="https://easyhomeservice.com/hvac/ductwork">ductwork</a></strong>, filtration, and humidity-control options.</p>
+                                <p class="ehs-hvac-grid-card-text">Persistent humidity, stuffy rooms, dust, and inconsistent airflow can affect indoor comfort. Connect with HVAC professionals who can evaluate ventilation, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a></strong>, filtration, and humidity-control options.</p>
                             </div>
                         </div>
 
@@ -651,23 +651,23 @@
                                     We connect homeowners with trusted professionals for a wide range of home services, including:
                                     <ul>
 
-                                        <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong> Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong> Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong> Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong> Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong> Interior and exterior painting, wall repairs, and color customization.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong> Customized solutions for stylish homes and recurring maintenance.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong> Small repairs, installations, and home improvements.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong> Installation, refinishing, and flooring upgrades.</li>
 
-                                        <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
+                                        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong> Replacement, repair, and energy-efficient solutions.</li>
 
                                     </ul>
                                     No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
@@ -683,7 +683,7 @@
                             </button>
                             <div class="ehs-hvac-faq-body">
                                 <div class="ehs-hvac-faq-content">
-                                    We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
+                                    We proudly offer hvac repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.
                                 </div>
                             </div>
 

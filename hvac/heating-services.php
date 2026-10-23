@@ -36,7 +36,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Expert Residential Heating Services We Help You Find</h2>
-    <p class="common_text">A warm, comfortable home isn't optional once winter sets in, it's a necessity. Easy Home Service exists to make finding qualified heating contractors simple. If you're looking for broader <strong><a href="https://easyhomeservice.com/hvac">HVAC services</a></strong> beyond heating, you can also explore our complete range of residential HVAC solutions. We connect you with technicians who understand furnaces, boilers, heat pumps, and everything in between, so you're never stuck waiting on hold or guessing whether the person on the other end actually knows what they're doing.
+    <p class="common_text">A warm, comfortable home isn't optional once winter sets in, it's a necessity. Easy Home Service exists to make finding qualified heating contractors simple. If you're looking for broader <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC services</a></strong> beyond heating, you can also explore our complete range of residential HVAC solutions. We connect you with technicians who understand furnaces, boilers, heat pumps, and everything in between, so you're never stuck waiting on hold or guessing whether the person on the other end actually knows what they're doing.
 </p> <?php include '../gallery.php';?>
   </div>
 </div>
@@ -59,7 +59,7 @@
               <div class="col-lg-6">
                 <h3>Heating Repair Services</h3>
                 <p>A heating system that won't turn on, blows cold air, or cycles on and off constantly is more than an annoyance, it's a sign something needs attention now. Easy Home Service connects you with heating repair technicians who diagnose the real problem instead of guessing at it.</p>
-                <p>From ignition failures and faulty flame sensors to <strong><a href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">furnace problems</a></strong>, blower motor issues, cracked heat exchangers, and tripped limit switches, local heating professionals can diagnose and repair residential heating systems.</p>
+                <p>From ignition failures and faulty flame sensors to <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">furnace problems</a></strong>, blower motor issues, cracked heat exchangers, and tripped limit switches, local heating professionals can diagnose and repair residential heating systems.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>
                 </div>
@@ -73,7 +73,7 @@
             <div class="row d-flex justify-content-evenly align-items-start px-2 gy-4">
               <div class="col-lg-6">
                 <h3>Heating Installation Services</h3>
-                <p>Sometimes repair isn't the answer, and that's where heating installation comes in. Whether you're replacing an aging furnace, <strong><a href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">upgrading or replacing an older boiler</a></strong>, or installing a heat pump for the first time, local heating professionals can help size the system correctly for your home instead of pushing whatever's on the truck.</p>
+                <p>Sometimes repair isn't the answer, and that's where heating installation comes in. Whether you're replacing an aging furnace, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">upgrading or replacing an older boiler</a></strong>, or installing a heat pump for the first time, local heating professionals can help size the system correctly for your home instead of pushing whatever's on the truck.</p>
                 <p>Proper heating installation affects everything that comes after it: your comfort, your energy bills, and how long the equipment lasts. Easy Home Service helps you connect with installers who walk you through your options, explain efficiency ratings in plain language, and install the system correctly the first time.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>
@@ -88,7 +88,7 @@
             <div class="row d-flex justify-content-evenly align-items-start px-2 gy-4">
               <div class="col-lg-6">
                 <h3>Heating Maintenance Services</h3>
-                <p>Most heating breakdowns don't happen out of nowhere. They build up over a season, or several, of skipped filter changes, dusty burners, and ignored warning signs. A routine <strong><a href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">HVAC inspection</a></strong> can help identify these problems before they lead to an unexpected breakdown. Our heating maintenance services are built to catch those issues early.</p>
+                <p>Most heating breakdowns don't happen out of nowhere. They build up over a season, or several, of skipped filter changes, dusty burners, and ignored warning signs. A routine <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">HVAC inspection</a></strong> can help identify these problems before they lead to an unexpected breakdown. Our heating maintenance services are built to catch those issues early.</p>
                 <p>A seasonal tune-up from one of our heating contractors typically includes cleaning components, checking gas or electrical connections, inspecting the heat exchanger, calibrating the thermostat, and testing safety controls. Homeowners who keep up with heating maintenance tend to see fewer emergency repairs and lower energy bills, which makes it one of the more cost-effective things you can do for your home all winter.</p>
                 <div class="d-flex justify-content-center">
                   <a href="/hvac-steps" class="hvac-btn">Get Quote Now</a>
