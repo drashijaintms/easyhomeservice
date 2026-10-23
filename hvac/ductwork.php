@@ -70,7 +70,7 @@
                         <div class="ehs-hvac-solutions-header">
                             <h2 class="ehs-hvac-section-title">Residential HVAC Ductwork Services</h2>
                             <p class="ehs-hvac-solutions-subtitle">
-                                Whatever the season, homeowners across Trenton can connect with professionals who specialize in these areas.
+                               Whatever the season, homeowners can connect with qualified professionals for ductwork installation, repair, replacement, and maintenance to help support efficient airflow throughout their homes. 
                             </p>
                         </div>
                     </div>
