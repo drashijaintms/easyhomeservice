@@ -55,7 +55,7 @@ main *,
 .ehs-hvac-internal-link {
     font-weight: 700;
     color: var(--ehs-text-heading);
-    text-decoration: underline;
+    text-decoration: none;
     transition: color 0.2s ease-in-out;
 }
 
