@@ -1,7 +1,6 @@
 <meta name="robots" content="nofollow,noindex">
 <?php include'../header.php' ?>
 <link rel="stylesheet" href="/css/article-hvac-style.css">
-
 <main>
 
     <!-- 1. HERO SECTION -->
@@ -11,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                          HVAC Services in Columbus, OH
+                            HVAC Services in Columbus, OH
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                             Find reliable HVAC Services in Columbus, OH for heating, cooling, repairs, installation, maintenance, and system replacement tailored to Ohio’s changing seasons.
+                            Find reliable HVAC Services in Columbus, OH for heating, cooling, repairs, installation, maintenance, and system replacement tailored to Ohio’s changing seasons.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,18 +31,18 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                        Local HVAC Solutions for Columbus Homeowners
+                            Local HVAC Solutions for Columbus Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                           Columbus homeowners need HVAC systems that can handle humid summers, freezing winter temperatures, and rapid seasonal changes. Easy Home Service helps homeowners connect with local HVAC professionals for heating and cooling needs, whether a system requires immediate repair, routine maintenance, installation, or replacement.</p>
+                            Columbus homeowners need HVAC systems that can handle humid summers, freezing winter temperatures, and rapid seasonal changes. Easy Home Service helps homeowners connect with local HVAC professionals for heating and cooling needs, whether a system requires immediate repair, routine maintenance, installation, or replacement.</p>
                         <p class="ehs-hvac-intro-description">
-                          From furnaces and heat pumps to central air conditioners and ductwork, professional HVAC support can help address comfort problems before they become larger concerns. Older homes may also require careful attention to airflow, insulation, duct performance, and equipment sizing when improving heating or cooling.
+                            From furnaces and heat pumps to central air conditioners and ductwork, professional HVAC support can help address comfort problems before they become larger concerns. Older homes may also require careful attention to airflow, insulation, duct performance, and equipment sizing when improving heating or cooling.
                         </p>
-                                                <p class="ehs-hvac-intro-description">
-                         When searching for HVAC Services in Columbus, homeowners can compare service options based on the work their property actually needs. Whether your furnace struggles during a January cold spell or your AC cannot keep up with summer humidity, the right professional can assess the system and recommend appropriate solutions.
+                        <p class="ehs-hvac-intro-description">
+                            When searching for HVAC Services in Columbus, homeowners can compare service options based on the work their property actually needs. Whether your furnace struggles during a January cold spell or your AC cannot keep up with summer humidity, the right professional can assess the system and recommend appropriate solutions.
                         </p>
-                                                <p class="ehs-hvac-intro-description">
-                         Easy Home Service makes it easier to find professionals for residential HVAC repair, installation, maintenance, and replacement projects throughout Columbus and surrounding communities.
+                        <p class="ehs-hvac-intro-description">
+                            Easy Home Service makes it easier to find professionals for residential HVAC repair, installation, maintenance, and replacement projects throughout Columbus and surrounding communities.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -58,65 +57,55 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">HVAC Services Available for Columbus Homes</h2>
-                        <!-- <p class="ehs-hvac-solutions-subtitle">
-                            From heating during freezing winter weather to cooling through hot summer days, homeowners across New York City can connect with professionals who specialize in these essential HVAC services.
-                        </p> -->
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">HVAC Services Available for Columbus Homes</h2>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Furnace repair, installation, replacement, heat pump service, boilers, radiators, baseboard heating, and thermostat support help Columbus homeowners stay comfortable through cold Ohio winters.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Central AC repair, installation, replacement, ductless mini-splits, refrigerant service, and seasonal tune-ups address cooling concerns during Columbus summers.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Airflow & Indoor Air Quality</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Ductwork repair, sealing, cleaning, ventilation, filtration, humidification, and dehumidification can help improve airflow and overall indoor comfort.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                            Furnace repair, installation, replacement, heat pump service, boilers, radiators, baseboard heating, and thermostat support help Columbus homeowners stay comfortable through cold Ohio winters.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                         Central AC repair, installation, replacement, ductless mini-splits, refrigerant service, and seasonal tune-ups address cooling concerns during Columbus summers.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Airflow & Indoor Air Quality</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                          Ductwork repair, sealing, cleaning, ventilation, filtration, humidification, and dehumidification can help improve airflow and overall indoor comfort.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
     <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
@@ -124,23 +113,31 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                           Why Columbus Homeowners May Need Professional HVAC Support
+                            Why Columbus Homeowners May Need Professional HVAC Support
                         </h2>
-                        
+
                         <p class="ehs-hvac-signs-intro">
                             HVAC problems can appear gradually or become obvious when your system is working harder than usual. San Diego homeowners may want professional attention when they notice:
 
                         </p>
-                      
                         <ul class="ehs-hvac-signs-list">
+
                             <li class="ehs-hvac-signs-item"><strong>Cold winter temperatures:</strong> A dependable heating system matters when Columbus temperatures drop and furnaces operate for extended periods.</li>
-<li class="ehs-hvac-signs-item"><strong>Hot, humid summers:</strong> Air conditioners may work harder during humid weather, making cooling performance and maintenance important.</li>
-<li class="ehs-hvac-signs-item"><strong>Older housing:</strong> Many Columbus homes have older heating and cooling equipment that may need repairs, upgrades, or replacement planning.</li>
-<li class="ehs-hvac-signs-item"><strong>Uneven room temperatures:</strong> Weak airflow, duct problems, insulation issues, or equipment limitations can leave some rooms warmer or colder than others.</li>
-<li class="ehs-hvac-signs-item"><strong>Seasonal system strain:</strong> Switching between heating and cooling can reveal problems that were not noticeable during milder weather.</li>
-<li class="ehs-hvac-signs-item"><strong>Rising energy use:</strong> Unexpected increases in heating or cooling costs may indicate restricted airflow, aging equipment, thermostat problems, or inefficient operation.</li>
-<li class="ehs-hvac-signs-item"><strong>Emergency breakdowns:</strong> A failed furnace during winter or non-functioning AC during summer can require prompt professional attention.</li>
-<li class="ehs-hvac-signs-item"><strong>Replacement decisions:</strong> When repair costs become frequent, a professional assessment can help homeowners compare continued repairs with replacement options.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Hot, humid summers:</strong> Air conditioners may work harder during humid weather, making cooling performance and maintenance important.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Older housing:</strong> Many Columbus homes have older heating and cooling equipment that may need repairs, upgrades, or replacement planning.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Uneven room temperatures:</strong> Weak airflow, duct problems, insulation issues, or equipment limitations can leave some rooms warmer or colder than others.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Seasonal system strain:</strong> Switching between heating and cooling can reveal problems that were not noticeable during milder weather.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Rising energy use:</strong> Unexpected increases in heating or cooling costs may indicate restricted airflow, aging equipment, thermostat problems, or inefficient operation.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Emergency breakdowns:</strong> A failed furnace during winter or non-functioning AC during summer can require prompt professional attention.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Replacement decisions:</strong> When repair costs become frequent, a professional assessment can help homeowners compare continued repairs with replacement options.</li>
+
                         </ul>
                         <p class="ehs-hvac-signs-intro">
                             These symptoms can have different causes, including airflow restrictions, dirty filters, ductwork concerns, thermostat problems, drainage issues, electrical components, or equipment wear. A professional inspection can help determine what requires attention rather than assuming every symptom has the same solution.
@@ -153,53 +150,50 @@
             </div>
         </div>
     </section>
-
     <!-- 5. HVAC CHALLENGES -->
     <section class="ehs-hvac-challenges-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-challenges-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                           Common HVAC Problems Columbus Homeowners Experience
+                            Common HVAC Problems Columbus Homeowners Experience
                         </h2>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Furnace Running Without Enough Heat</h3>
                             <p class="ehs-hvac-challenges-text">
-                              A furnace may operate normally but fail to provide sufficient warmth because of airflow restrictions, thermostat problems, dirty components, or equipment issues. Professional troubleshooting can identify the underlying cause.
+                                A furnace may operate normally but fail to provide sufficient warmth because of airflow restrictions, thermostat problems, dirty components, or equipment issues. Professional troubleshooting can identify the underlying cause.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">AC Blowing Warm Air</h3>
                             <p class="ehs-hvac-challenges-text">
                                 Warm air from an air conditioner can result from airflow restrictions, refrigerant problems, electrical faults, or component failure. Prompt inspection can prevent continued strain on the system.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Uneven Heating or Cooling</h3>
                             <p class="ehs-hvac-challenges-text">
                                 Bedrooms, upper floors, additions, and rooms farther from the HVAC equipment can sometimes feel noticeably different. Ductwork, airflow balance, insulation, and equipment capacity may all need evaluation.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Frequent System Cycling</h3>
                             <p class="ehs-hvac-challenges-text">
-                               A furnace or AC that repeatedly starts and stops may have airflow restrictions, thermostat issues, incorrect sizing, or mechanical problems. Repeated cycling should not be ignored.
+                                A furnace or AC that repeatedly starts and stops may have airflow restrictions, thermostat issues, incorrect sizing, or mechanical problems. Repeated cycling should not be ignored.
                             </p>
                         </div>
-                          <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Weak Airflow</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Low airflow from vents can make the entire home feel uncomfortable. Dirty filters, blocked ducts, blower problems, or duct leakage can contribute to reduced air delivery.
+                                Low airflow from vents can make the entire home feel uncomfortable. Dirty filters, blocked ducts, blower problems, or duct leakage can contribute to reduced air delivery.
                             </p>
                         </div>
-                          <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Unusual HVAC Noises</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Grinding, rattling, buzzing, squealing, or banging sounds can indicate loose components or mechanical problems. The type and timing of the sound can help a technician determine where to investigate.
+                                Grinding, rattling, buzzing, squealing, or banging sounds can indicate loose components or mechanical problems. The type and timing of the sound can help a technician determine where to investigate.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -208,13 +202,11 @@
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
@@ -227,7 +219,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
@@ -244,12 +235,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -265,12 +254,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -287,7 +274,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Bottom CTA Action -->
             <div class="ehs-hvac-steps-action">
                 <a href="#get-quote" class="ehs-hvac-steps-btn">Get A Quote Now</a>
@@ -300,9 +286,7 @@
         </div>
     </section>
 
- 
-
-    <!-- 8. DARK CTA SECTION -->
+    <!-- 7. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
         <div class="container">
             <div class="row justify-content-center">
@@ -314,7 +298,7 @@
                                 <div class="col-12 col-md-8">
                                     <div class="ehs-hvac-cta-content">
                                         <h2 class="ehs-hvac-cta-title">
-                                        Find HVAC Professionals for Your Columbus Home
+                                            Find HVAC Professionals for Your Columbus Home
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
                                             Need help with heating, cooling, or indoor comfort? Easy Home Service can help you connect with HVAC professionals for your Columbus project.
@@ -337,89 +321,88 @@
             </div>
         </div>
     </section>
-
-    <!-- 9. 6-CARD SERVICES GRID -->
+    <!-- 8. 6-CARD SERVICES GRID -->
     <section class="ehs-hvac-grid-section">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-              <div class="col-12 col-lg-12">
-                <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title">HVAC Repair, Installation & Maintenance Options in Columbus</h2>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="ehs-hvac-grid-header">
+                                <h2 class="ehs-hvac-section-title">HVAC Repair, Installation & Maintenance Options in Columbus</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 justify-content-center">
+                        <!-- 1. Furnace Repair & Replacement -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Furnace Repair & Replacement</h3>
+                                <p class="ehs-hvac-grid-card-text">Professional furnace service can address heating failures, unusual noises, short cycling, airflow problems, and inconsistent temperatures. If an older furnace requires repeated repairs, homeowners can also discuss replacement options based on system condition, home requirements, and long-term plans.</p>
+                            </div>
+                        </div>
+                        <!-- 2. Air Conditioning Service -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Air Conditioning Service</h3>
+                                <p class="ehs-hvac-grid-card-text">Columbus summers can bring periods of significant heat and humidity. AC professionals can troubleshoot cooling failures, inspect components, address airflow concerns, and provide installation or replacement services when an existing system is no longer suitable.</p>
+                            </div>
+                        </div>
+                        <!-- 3. Heat Pump Services -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Heat Pump Services</h3>
+                                <p class="ehs-hvac-grid-card-text">Heat pumps provide both heating and cooling, making them an option for homeowners considering an alternative to traditional heating and cooling equipment. Proper sizing, installation, repair, and maintenance are important for dependable operation.</p>
+                            </div>
+                        </div>
+                        <!-- 4. Ductwork & Airflow Services -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-sun"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductwork & Airflow Services</h3>
+                                <p class="ehs-hvac-grid-card-text">Leaking, damaged, poorly connected, or restricted ductwork can affect how conditioned air moves through a home. Professionals can inspect ducts, identify airflow concerns, perform repairs, and recommend sealing or replacement where appropriate.</p>
+                            </div>
+                        </div>
+                        <!-- 5. Thermostat & Comfort Control -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-droplet"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Thermostat & Comfort Control</h3>
+                                <p class="ehs-hvac-grid-card-text">A malfunctioning thermostat can affect temperature consistency and system operation. HVAC professionals can diagnose thermostat problems, install replacement controls, and help homeowners choose compatible options for their equipment.</p>
+                            </div>
+                        </div>
+                        <!-- 6. Seasonal HVAC Maintenance -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Seasonal HVAC Maintenance</h3>
+                                <p class="ehs-hvac-grid-card-text">Heating and cooling equipment benefits from periodic inspection and maintenance. Seasonal service can include filter checks, component inspection, airflow evaluation, safety checks, and other manufacturer-recommended maintenance tasks.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ehs-hvac-grid-action">
+                        <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="row g-4 justify-content-center">
-              <!-- 1. Furnace & Heating Repair -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-microscope"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Furnace Repair & Replacement</h3>
-                  <p class="ehs-hvac-grid-card-text">Professional furnace service can address heating failures, unusual noises, short cycling, airflow problems, and inconsistent temperatures. If an older furnace requires repeated repairs, homeowners can also discuss replacement options based on system condition, home requirements, and long-term plans.</p>
-                </div>
-              </div>
-              <!-- 2. Boiler Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-wind"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Air Conditioning Service</h3>
-                  <p class="ehs-hvac-grid-card-text">Columbus summers can bring periods of significant heat and humidity. AC professionals can troubleshoot cooling failures, inspect components, address airflow concerns, and provide installation or replacement services when an existing system is no longer suitable.</p>
-                </div>
-              </div>
-              <!-- 3. Air Conditioning -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-filter"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heat Pump Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Heat pumps provide both heating and cooling, making them an option for homeowners considering an alternative to traditional heating and cooling equipment. Proper sizing, installation, repair, and maintenance are important for dependable operation.</p>
-                </div>
-              </div>
-              <!-- 4. Heat Pump Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-sun"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork & Airflow Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Leaking, damaged, poorly connected, or restricted ductwork can affect how conditioned air moves through a home. Professionals can inspect ducts, identify airflow concerns, perform repairs, and recommend sealing or replacement where appropriate.</p>
-                </div>
-              </div>
-              <!-- 5. Ductwork & Airflow -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-droplet"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Thermostat & Comfort Control</h3>
-                  <p class="ehs-hvac-grid-card-text">A malfunctioning thermostat can affect temperature consistency and system operation. HVAC professionals can diagnose thermostat problems, install replacement controls, and help homeowners choose compatible options for their equipment.</p>
-                </div>
-              </div>
-              <!-- 6. Ventilation & Indoor Air Quality -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                   <i class="fa-solid fa-broom"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Seasonal HVAC Maintenance</h3>
-                  <p class="ehs-hvac-grid-card-text">Heating and cooling equipment benefits from periodic inspection and maintenance. Seasonal service can include filter checks, component inspection, airflow evaluation, safety checks, and other manufacturer-recommended maintenance tasks.</p>
-                </div>
-              </div>
-            </div>
-            <div class="ehs-hvac-grid-action">
-              <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
-    <style>
+<style>
         .ehs-hvac-deciding-section-title {
     font-size: 17px;
     font-weight: 600;
@@ -434,19 +417,16 @@
     margin-bottom: 0;
 }
         </style>
-<!-- 10. HOMEOWNER SITUATIONS -->
+    <!-- 9. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          More HVAC Services for Columbus Homeowners
+                            More HVAC Services for Columbus Homeowners
                         </h2>
-
-                        
-
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Emergency HVAC Repairs</h3>
@@ -454,60 +434,57 @@
                                 Heating or cooling failures can happen when you least expect them. Professional emergency HVAC support can help homeowners address urgent furnace, AC, thermostat, electrical, or airflow problems and determine whether immediate repair is appropriate.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                               Find AC and Heating Solutions &rarr;
+                            Find AC and Heating Solutions &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 2 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Boiler & Radiator Services</h3>
                             <p class="ehs-hvac-situations-text">
-                               While furnaces and heat pumps are common choices, some Columbus properties use boilers, radiators, or other hydronic heating systems. Qualified professionals can inspect these systems, diagnose performance concerns, and provide repair, installation, or replacement services.
+                                While furnaces and heat pumps are common choices, some Columbus properties use boilers, radiators, or other hydronic heating systems. Qualified professionals can inspect these systems, diagnose performance concerns, and provide repair, installation, or replacement services.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Explore Ductwork, Ventilation, and Airflow &rarr;
+                            Explore Ductwork, Ventilation, and Airflow &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Ductless Mini-Split Systems</h3>
                             <p class="ehs-hvac-situations-text">
-                               Ductless mini-splits can provide targeted heating and cooling for spaces where extending existing ductwork is impractical. They can be considered for additions, converted spaces, older properties, or rooms requiring independent temperature control.
+                                Ductless mini-splits can provide targeted heating and cooling for spaces where extending existing ductwork is impractical. They can be considered for additions, converted spaces, older properties, or rooms requiring independent temperature control.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Choosing a Service Based on the Problem &rarr;
+                            Choosing a Service Based on the Problem &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Indoor Air Quality Services</h3>
                             <p class="ehs-hvac-situations-text">
-                              Indoor comfort involves more than temperature. HVAC professionals can help address concerns involving filtration, ventilation, humidity, and air circulation. Available solutions may include air cleaners, filtration systems, humidifiers, dehumidifiers, and ventilation equipment.
+                                Indoor comfort involves more than temperature. HVAC professionals can help address concerns involving filtration, ventilation, humidity, and air circulation. Available solutions may include air cleaners, filtration systems, humidifiers, dehumidifiers, and ventilation equipment.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
-                                                <!-- Situation 4 -->
+                        <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">HVAC System Installation</h3>
                             <p class="ehs-hvac-situations-text">
                                 Installing new HVAC equipment requires more than selecting a model. Home size, existing ductwork, insulation, layout, equipment compatibility, and heating or cooling requirements can influence the appropriate system. Professional installation helps ensure the equipment is properly connected and configured.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
-                                                <!-- Situation 4 -->
+                        <!-- Situation 6 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">HVAC Replacement Planning</h3>
                             <p class="ehs-hvac-situations-text">
-                              An aging system does not always need immediate replacement, but repeated breakdowns, declining performance, or expensive repairs can make replacement worth considering. A professional evaluation can help Columbus homeowners compare repair and replacement options before making a decision.
+                                An aging system does not always need immediate replacement, but repeated breakdowns, declining performance, or expensive repairs can make replacement worth considering. A professional evaluation can help Columbus homeowners compare repair and replacement options before making a decision.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
                         <!-- Bottom Bar Callout -->
@@ -517,26 +494,24 @@
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   <?php include '../state-cities.php';?>
-    <!-- 11. FAQ ACCORDION SECTION -->
+    <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
     <section class="ehs-hvac-faq-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-faq-container text-center">
-                        
+
                         <h2 class="ehs-hvac-section-title">
                             Frequently Asked Question
                         </h2>
-
                         <div class="ehs-hvac-faq-list text-start">
-                            
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
@@ -545,11 +520,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       Common HVAC needs include furnace repair and replacement, AC repair and installation, heat pump service, thermostat replacement, ductwork repair, maintenance, indoor air quality services, and emergency heating or cooling repairs.
+                                        Common HVAC needs include furnace repair and replacement, AC repair and installation, heat pump service, thermostat replacement, ductwork repair, maintenance, indoor air quality services, and emergency heating or cooling repairs.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -558,11 +532,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      Many homeowners schedule heating maintenance before winter and AC maintenance before summer. Seasonal inspections can help identify airflow, safety, electrical, mechanical, or performance concerns before periods of heavier use.
+                                        Many homeowners schedule heating maintenance before winter and AC maintenance before summer. Seasonal inspections can help identify airflow, safety, electrical, mechanical, or performance concerns before periods of heavier use.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -571,11 +544,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       Uneven heating can result from blocked vents, dirty filters, duct leakage, poor airflow, insulation problems, thermostat placement, equipment limitations, or an improperly balanced system. An HVAC professional can evaluate the home and system together.
+                                        Uneven heating can result from blocked vents, dirty filters, duct leakage, poor airflow, insulation problems, thermostat placement, equipment limitations, or an improperly balanced system. An HVAC professional can evaluate the home and system together.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -584,11 +556,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Replacement may be worth considering when a furnace is aging, requires frequent repairs, has declining performance, or faces a major component failure. A professional can assess the equipment and compare repair and replacement considerations.
+                                        Replacement may be worth considering when a furnace is aging, requires frequent repairs, has declining performance, or faces a major component failure. A professional can assess the equipment and compare repair and replacement considerations.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -597,11 +568,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Possible causes include restricted airflow, dirty filters, refrigerant issues, thermostat problems, duct leakage, or inadequate equipment performance. Professional diagnosis can determine why the system is not maintaining the desired temperature.
+                                        Possible causes include restricted airflow, dirty filters, refrigerant issues, thermostat problems, duct leakage, or inadequate equipment performance. Professional diagnosis can determine why the system is not maintaining the desired temperature.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -610,7 +580,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Heat pumps can provide both heating and cooling and may be suitable for many Columbus properties. The home's layout, insulation, existing system, equipment sizing, and homeowner preferences should be considered before installation.
+                                        Heat pumps can provide both heating and cooling and may be suitable for many Columbus properties. The home's layout, insulation, existing system, equipment sizing, and homeowner preferences should be considered before installation.
                                     </div>
                                 </div>
                             </div>
@@ -622,8 +592,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     The decision depends on the system's age, condition, repair history, operating performance, and expected future costs. An HVAC professional can inspect the equipment and explain the available repair and replacement options.
-
+                                        The decision depends on the system's age, condition, repair history, operating performance, and expected future costs. An HVAC professional can inspect the equipment and explain the available repair and replacement options.
                                     </div>
                                 </div>
                             </div>
@@ -635,7 +604,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Regular maintenance, clean filters, properly sealed ductwork, appropriate thermostat settings, good insulation, and correctly sized equipment can support efficient HVAC operation. A professional assessment can identify areas where improvements may be useful.
+                                        Regular maintenance, clean filters, properly sealed ductwork, appropriate thermostat settings, good insulation, and correctly sized equipment can support efficient HVAC operation. A professional assessment can identify areas where improvements may be useful.
                                     </div>
                                 </div>
                             </div>
@@ -647,7 +616,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Check whether the thermostat is set correctly and whether the HVAC filter is heavily clogged. If the system still does not operate, contact an HVAC professional for diagnosis, particularly during prolonged cold weather.
+                                        Check whether the thermostat is set correctly and whether the HVAC filter is heavily clogged. If the system still does not operate, contact an HVAC professional for diagnosis, particularly during prolonged cold weather.
                                     </div>
                                 </div>
                             </div>
@@ -659,26 +628,20 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                    Look for professionals who provide the specific service your home requires, explain the recommended work clearly, and can assess your existing equipment before proposing repairs, installation, or replacement.
+                                        Look for professionals who provide the specific service your home requires, explain the recommended work clearly, and can assess your existing equipment before proposing repairs, installation, or replacement.
                                     </div>
                                 </div>
                             </div>
-
                         </div>
-
                         <div class="ehs-hvac-faq-action">
                             <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 </main>
-
-
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -738,8 +701,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 </script>
-<?php include'../promise.php' ?> 
-<?php include'../footer.php' ?> 
+<?php include'../promise.php' ?>
+<?php include'../footer.php' ?>
 <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="js/bookmarkscroll.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>

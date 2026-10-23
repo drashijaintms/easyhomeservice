@@ -1,7 +1,6 @@
 <meta name="robots" content="nofollow,noindex">
 <?php include'../header.php' ?>
 <link rel="stylesheet" href="/css/article-hvac-style.css">
-
 <main>
 
     <!-- 1. HERO SECTION -->
@@ -11,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                          HVAC Services in Austin, TX
+                            HVAC Services in Austin, TX
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                             Get dependable HVAC services in Austin for cooling, heating, repairs, maintenance, and system replacements tailored to Central Texas homes and weather year-round today. 
+                            Get dependable HVAC services in Austin for cooling, heating, repairs, maintenance, and system replacements tailored to Central Texas homes and weather year-round today.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,14 +31,13 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                        Local HVAC Solutions for Austin Homeowners
+                            Local HVAC Solutions for Austin Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
                             Austin homeowners depend heavily on air conditioning through long, hot seasons, while heating still matters when winter cold snaps arrive. HVAC performance can also vary between older houses, newer construction, additions, and homes with different insulation or ductwork layouts. Easy Home Service helps homeowners find professionals for HVAC Services in Austin, including HVAC repair, installation, maintenance, replacement, and related comfort needs. Whether an air conditioner struggles during a high-temperature stretch, a heat pump stops maintaining indoor comfort, or airflow feels weak in one part of the house, the right service starts with an accurate assessment.</p>
                         <p class="ehs-hvac-intro-description">
-                         Austin’s climate can put sustained demand on cooling equipment, making timely attention important when performance changes. The City of Austin also requires homes to maintain indoor temperatures within specified limits under its property maintenance code. Local professionals can evaluate equipment condition, airflow, controls, ductwork, refrigerant-related concerns, and other factors before recommending a practical solution. From routine tune-ups to major system replacement, homeowners can use Easy Home Service to connect with qualified HVAC professionals suited to their project and property for their individual home.
+                            Austin’s climate can put sustained demand on cooling equipment, making timely attention important when performance changes. The City of Austin also requires homes to maintain indoor temperatures within specified limits under its property maintenance code. Local professionals can evaluate equipment condition, airflow, controls, ductwork, refrigerant-related concerns, and other factors before recommending a practical solution. From routine tune-ups to major system replacement, homeowners can use Easy Home Service to connect with qualified HVAC professionals suited to their project and property for their individual home.
                         </p>
-
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
                         </div>
@@ -53,65 +51,55 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">HVAC Services Available in Austin</h2>
-                        <!-- <p class="ehs-hvac-solutions-subtitle">
-                            From heating during freezing winter weather to cooling through hot summer days, homeowners across New York City can connect with professionals who specialize in these essential HVAC services.
-                        </p> -->
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">HVAC Services Available in Austin</h2>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">AC Repair & Cooling Service</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Connect with HVAC professionals for air conditioner troubleshooting, repairs, tune-ups, and cooling system concerns during Austin’s demanding warm-weather season.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">HVAC Installation & Replacement</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Find professionals who can evaluate your home, existing equipment, ductwork, comfort requirements, and system capacity when installing or replacing an HVAC system.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Heating & Heat Pump Service</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Get help with furnace and heat pump repair, installation, maintenance, and replacement when Austin’s colder weather makes reliable indoor heating necessary.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">AC Repair & Cooling Service</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                            Connect with HVAC professionals for air conditioner troubleshooting, repairs, tune-ups, and cooling system concerns during Austin’s demanding warm-weather season.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">HVAC Installation & Replacement</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                          Find professionals who can evaluate your home, existing equipment, ductwork, comfort requirements, and system capacity when installing or replacing an HVAC system.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Heating & Heat Pump Service</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                         Get help with furnace and heat pump repair, installation, maintenance, and replacement when Austin’s colder weather makes reliable indoor heating necessary.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
     <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
@@ -119,17 +107,19 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                          Why Austin Homeowners May Need Professional HVAC Service
+                            Why Austin Homeowners May Need Professional HVAC Service
                         </h2>
-                       
-                      
                         <ul class="ehs-hvac-signs-list">
-                            <li class="ehs-hvac-signs-item"><strong>Cooling readiness:</strong> Austin’s cooling season can place demand on AC equipment. Inspections can identify airflow restrictions, electrical concerns, drainage issues, refrigerant-related problems, or worn components before a minor symptom becomes a larger service need.</li>
-                            <li class="ehs-hvac-signs-item"><strong>Heating support:</strong> Although Austin winters are generally milder than summers, cold weather can make a failed furnace, heat pump, or heating system uncomfortable. Service can cover troubleshooting, repair, maintenance, installation, and replacement.</li>
-                            <li class="ehs-hvac-signs-item"><strong>Airflow and comfort:</strong> Rooms that stay warmer or cooler than the thermostat setting may point to ductwork, insulation, zoning, equipment, or airflow concerns. A professional assessment can help determine the issue.</li>
-                            <li class="ehs-hvac-signs-item"><strong>System planning:</strong> Repeated repairs, aging equipment, rising operating costs, or comfort requirements may make replacement worth evaluating. Proper sizing and system selection matter locally.</li>
-                            <li class="ehs-hvac-signs-item"><strong>Seasonal maintenance:</strong> Maintenance can include equipment inspection, filter review, condensate drainage checks, electrical components, controls, and system condition.</li>
 
+                            <li class="ehs-hvac-signs-item"><strong>Cooling readiness:</strong> Austin’s cooling season can place demand on AC equipment. Inspections can identify airflow restrictions, electrical concerns, drainage issues, refrigerant-related problems, or worn components before a minor symptom becomes a larger service need.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Heating support:</strong> Although Austin winters are generally milder than summers, cold weather can make a failed furnace, heat pump, or heating system uncomfortable. Service can cover troubleshooting, repair, maintenance, installation, and replacement.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Airflow and comfort:</strong> Rooms that stay warmer or cooler than the thermostat setting may point to ductwork, insulation, zoning, equipment, or airflow concerns. A professional assessment can help determine the issue.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>System planning:</strong> Repeated repairs, aging equipment, rising operating costs, or comfort requirements may make replacement worth evaluating. Proper sizing and system selection matter locally.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Seasonal maintenance:</strong> Maintenance can include equipment inspection, filter review, condensate drainage checks, electrical components, controls, and system condition.</li>
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
@@ -143,69 +133,63 @@
             </div>
         </div>
     </section>
-
     <!-- 5. HVAC CHALLENGES -->
     <section class="ehs-hvac-challenges-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-challenges-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          Complete HVAC Support for Austin Homes
+                            Complete HVAC Support for Austin Homes
                         </h2>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Air Conditioning Repair and Service</h3>
                             <p class="ehs-hvac-challenges-text">
-                             Austin’s extended cooling season means an underperforming AC can become noticeable quickly. Professionals can diagnose warm air, weak airflow, unusual sounds, short cycling, drainage concerns, or poor temperature control and determine whether repair is appropriate for the equipment’s condition and operating needs.
+                                Austin’s extended cooling season means an underperforming AC can become noticeable quickly. Professionals can diagnose warm air, weak airflow, unusual sounds, short cycling, drainage concerns, or poor temperature control and determine whether repair is appropriate for the equipment’s condition and operating needs.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">HVAC Installation and Replacement</h3>
                             <p class="ehs-hvac-challenges-text">
                                 When equipment is outdated, repeatedly unreliable, or no longer suitable for a home’s needs, replacement can be evaluated. A professional can consider system type, capacity, ductwork, home layout, and comfort requirements rather than choosing equipment by size alone.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heat Pump Services</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Heat pumps can provide both heating and cooling, making them a practical option for homeowners considering a versatile HVAC system. Service may include installation, repair, performance checks, and replacement planning.
+                                Heat pumps can provide both heating and cooling, making them a practical option for homeowners considering a versatile HVAC system. Service may include installation, repair, performance checks, and replacement planning.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Ductwork and Airflow Solutions</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Leaky, damaged, poorly configured, or restricted ductwork can affect comfort throughout a house. HVAC professionals can inspect ducts, airflow paths, registers, and related components to identify opportunities for repair, sealing, or improvement.
+                                Leaky, damaged, poorly configured, or restricted ductwork can affect comfort throughout a house. HVAC professionals can inspect ducts, airflow paths, registers, and related components to identify opportunities for repair, sealing, or improvement.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating Services</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Austin’s winters are usually shorter and milder than its summers, but heating equipment still needs to work when cold weather arrives. Service can include furnace and heat pump repair, replacement, installation, and seasonal inspections.
+                                Austin’s winters are usually shorter and milder than its summers, but heating equipment still needs to work when cold weather arrives. Service can include furnace and heat pump repair, replacement, installation, and seasonal inspections.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Maintenance and Tune-Ups</h3>
                             <p class="ehs-hvac-challenges-text">
-                              Regular service helps homeowners monitor equipment condition and address developing issues. A professional tune-up can review filters, controls, electrical components, airflow, condensate drainage, and other system-specific items.
+                                Regular service helps homeowners monitor equipment condition and address developing issues. A professional tune-up can review filters, controls, electrical components, airflow, condensate drainage, and other system-specific items.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
                                 Ready to address an HVAC problem? Explore HVAC services in Jacksonville and connect with a professional for your home’s specific needs.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
@@ -218,7 +202,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
@@ -235,12 +218,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -256,12 +237,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -278,7 +257,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Bottom CTA Action -->
             <div class="ehs-hvac-steps-action">
                 <a href="#get-quote" class="ehs-hvac-steps-btn">Get A Quote Now</a>
@@ -291,9 +269,7 @@
         </div>
     </section>
 
- 
-
-    <!-- 8. DARK CTA SECTION -->
+    <!-- 7. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
         <div class="container">
             <div class="row justify-content-center">
@@ -305,7 +281,7 @@
                                 <div class="col-12 col-md-8">
                                     <div class="ehs-hvac-cta-content">
                                         <h2 class="ehs-hvac-cta-title">
-                                       Find HVAC Help for Your Austin Home
+                                            Find HVAC Help for Your Austin Home
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
                                             Need HVAC repair, maintenance, installation, or replacement? Connect with a local professional through Easy Home Service.
@@ -328,89 +304,88 @@
             </div>
         </div>
     </section>
-
-    <!-- 9. 6-CARD SERVICES GRID -->
+    <!-- 8. 6-CARD SERVICES GRID -->
     <section class="ehs-hvac-grid-section">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-              <div class="col-12 col-lg-12">
-                <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title">HVAC Service Options for Austin Homeowners</h2>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="ehs-hvac-grid-header">
+                                <h2 class="ehs-hvac-section-title">HVAC Service Options for Austin Homeowners</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 justify-content-center">
+                        <!-- 1. AC Repair -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">AC Repair</h3>
+                                <p class="ehs-hvac-grid-card-text">Get professional help when your air conditioner blows warm air, struggles to maintain the thermostat setting, cycles unusually, or develops other performance problems.</p>
+                            </div>
+                        </div>
+                        <!-- 2. AC Installation -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">AC Installation</h3>
+                                <p class="ehs-hvac-grid-card-text">Explore professional installation options when building a new home, replacing an aging cooling system, or changing your home’s cooling requirements.</p>
+                            </div>
+                        </div>
+                        <!-- 3. Furnace Repair -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Furnace Repair</h3>
+                                <p class="ehs-hvac-grid-card-text">Find HVAC professionals who can inspect furnaces experiencing startup problems, inadequate heating, unusual operation, or repeated cycling.</p>
+                            </div>
+                        </div>
+                        <!-- 4. Heat Pump Service -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-sun"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Heat Pump Service</h3>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals for heat pump installation, repair, maintenance, and replacement for systems providing both heating and cooling.</p>
+                            </div>
+                        </div>
+                        <!-- 5. Ductwork Service -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-droplet"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductwork Service</h3>
+                                <p class="ehs-hvac-grid-card-text">Address damaged, restricted, disconnected, or poorly performing ductwork that may contribute to uneven temperatures or reduced airflow.</p>
+                            </div>
+                        </div>
+                        <!-- 6. HVAC Maintenance -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance</h3>
+                                <p class="ehs-hvac-grid-card-text">Schedule professional maintenance to review important system components, operating performance, airflow, drainage, controls, and other equipment-specific concerns.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ehs-hvac-grid-action">
+                        <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="row g-4 justify-content-center">
-              <!-- 1. Furnace & Heating Repair -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-microscope"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Get professional help when your air conditioner blows warm air, struggles to maintain the thermostat setting, cycles unusually, or develops other performance problems.</p>
-                </div>
-              </div>
-              <!-- 2. Boiler Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-wind"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Installation</h3>
-                  <p class="ehs-hvac-grid-card-text">Explore professional installation options when building a new home, replacing an aging cooling system, or changing your home’s cooling requirements.</p>
-                </div>
-              </div>
-              <!-- 3. Air Conditioning -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-filter"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Furnace Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Find HVAC professionals who can inspect furnaces experiencing startup problems, inadequate heating, unusual operation, or repeated cycling.</p>
-                </div>
-              </div>
-              <!-- 4. Heat Pump Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-sun"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heat Pump Service</h3>
-                  <p class="ehs-hvac-grid-card-text">Connect with professionals for heat pump installation, repair, maintenance, and replacement for systems providing both heating and cooling.</p>
-                </div>
-              </div>
-              <!-- 5. Ductwork & Airflow -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-droplet"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork Service</h3>
-                  <p class="ehs-hvac-grid-card-text">Address damaged, restricted, disconnected, or poorly performing ductwork that may contribute to uneven temperatures or reduced airflow.</p>
-                </div>
-              </div>
-              <!-- 6. Ventilation & Indoor Air Quality -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                   <i class="fa-solid fa-broom"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance</h3>
-                  <p class="ehs-hvac-grid-card-text">Schedule professional maintenance to review important system components, operating performance, airflow, drainage, controls, and other equipment-specific concerns.</p>
-                </div>
-              </div>
-            </div>
-            <div class="ehs-hvac-grid-action">
-              <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
-    <style>
+<style>
         .ehs-hvac-deciding-section-title {
     font-size: 17px;
     font-weight: 600;
@@ -425,19 +400,16 @@
     margin-bottom: 0;
 }
         </style>
-<!-- 10. HOMEOWNER SITUATIONS -->
+    <!-- 9. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                        HVAC Services Designed Around Austin’s Climate and Homes
+                            HVAC Services Designed Around Austin’s Climate and Homes
                         </h2>
-
-                        
-
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">HVAC Solutions for Austin’s Long Cooling Season</h3>
@@ -445,32 +417,29 @@
                                 Austin’s climate makes dependable cooling a major part of residential comfort. Local climate information describes long, hot summers, with typical highs in the 90s or higher and more than 100 days each year above 90°F. That sustained demand can expose weaknesses in aging equipment, restricted airflow, drainage, controls, or ductwork. HVAC professionals can inspect the complete HVAC system and recommend repair, maintenance, or replacement based on the actual condition of the equipment.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                               Find AC and Heating Solutions &rarr;
+                            Find AC and Heating Solutions &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 2 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Support for Older and Updated Homes</h3>
                             <p class="ehs-hvac-situations-text">
-                              Austin includes established neighborhoods alongside newer residential construction, so HVAC needs can differ significantly from one property to another. Older homes may require closer attention to ductwork, insulation, equipment compatibility, or uneven airflow, while newer homes may need correctly sized equipment and well-designed distribution. A professional evaluation helps connect the system’s performance with the home’s layout and comfort requirements.
+                                Austin includes established neighborhoods alongside newer residential construction, so HVAC needs can differ significantly from one property to another. Older homes may require closer attention to ductwork, insulation, equipment compatibility, or uneven airflow, while newer homes may need correctly sized equipment and well-designed distribution. A professional evaluation helps connect the system’s performance with the home’s layout and comfort requirements.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Explore Ductwork, Ventilation, and Airflow &rarr;
+                            Explore Ductwork, Ventilation, and Airflow &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Heating When Austin Temperatures Drop</h3>
                             <p class="ehs-hvac-situations-text">
-                               Austin generally has mild winters, but cold spells still make dependable heating important. Homeowners may need furnace or heat pump repairs when a system fails to start, cycles unusually, produces inadequate heat, or creates inconsistent room temperatures. Seasonal inspection can also help identify maintenance needs before colder weather arrives.
+                                Austin generally has mild winters, but cold spells still make dependable heating important. Homeowners may need furnace or heat pump repairs when a system fails to start, cycles unusually, produces inadequate heat, or creates inconsistent room temperatures. Seasonal inspection can also help identify maintenance needs before colder weather arrives.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Choosing a Service Based on the Problem &rarr;
+                            Choosing a Service Based on the Problem &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Indoor Air Quality and Ventilation</h3>
@@ -478,21 +447,20 @@
                                 Comfort is not only about temperature. Filters, ductwork, ventilation, humidity, and air circulation can influence how a home feels. Depending on the property and system, homeowners may seek duct cleaning, filtration, purification, ventilation, humidification, or dehumidification services.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
-                                                     <!-- Situation 3 -->
+                        <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Repair or Replacement Decisions</h3>
                             <p class="ehs-hvac-situations-text">
-                              A recurring breakdown does not automatically mean replacement is necessary. The equipment’s age, repair history, condition, efficiency, parts availability, sizing, and household comfort goals can all influence the decision. Easy Home Service helps Austin homeowners connect with professionals who can assess the situation and explain available service options without relying on a one-size-fits-all recommendation today.
+                                A recurring breakdown does not automatically mean replacement is necessary. The equipment’s age, repair history, condition, efficiency, parts availability, sizing, and household comfort goals can all influence the decision. Easy Home Service helps Austin homeowners connect with professionals who can assess the situation and explain available service options without relying on a one-size-fits-all recommendation today.
 
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Choosing a Service Based on the Problem &rarr;
+                            Choosing a Service Based on the Problem &rarr;
                             </a>
-                        </div>          
-                                                
+                        </div>
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
@@ -500,26 +468,24 @@
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   <?php include '../state-cities.php';?>
-    <!-- 11. FAQ ACCORDION SECTION -->
+    <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
     <section class="ehs-hvac-faq-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-faq-container text-center">
-                        
+
                         <h2 class="ehs-hvac-section-title">
                             Frequently Asked Question
                         </h2>
-
                         <div class="ehs-hvac-faq-list text-start">
-                            
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
@@ -528,11 +494,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       Austin homeowners can find professionals for AC repair, AC installation, furnace service, heat pump repair and installation, HVAC maintenance, ductwork, airflow concerns, system replacement, and related indoor comfort services.
+                                        Austin homeowners can find professionals for AC repair, AC installation, furnace service, heat pump repair and installation, HVAC maintenance, ductwork, airflow concerns, system replacement, and related indoor comfort services.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -541,11 +506,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      Austin experiences long, hot summers, and air conditioning systems can operate heavily during periods of high heat. Professional service can help identify performance problems, airflow restrictions, drainage issues, electrical concerns, and other system conditions.
+                                        Austin experiences long, hot summers, and air conditioning systems can operate heavily during periods of high heat. Professional service can help identify performance problems, airflow restrictions, drainage issues, electrical concerns, and other system conditions.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -554,11 +518,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       Common warning signs include warm air from an AC, weak airflow, unusual sounds, frequent cycling, inconsistent room temperatures, unexpected shutdowns, poor heating, or recurring system problems. A professional diagnosis can determine the likely cause.
+                                        Common warning signs include warm air from an AC, weak airflow, unusual sounds, frequent cycling, inconsistent room temperatures, unexpected shutdowns, poor heating, or recurring system problems. A professional diagnosis can determine the likely cause.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -567,11 +530,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                    The decision depends on factors such as equipment age, repair history, condition, operating performance, parts availability, system sizing, and your home’s comfort requirements. An HVAC professional can assess the system and explain whether repair or replacement is more appropriate.
+                                        The decision depends on factors such as equipment age, repair history, condition, operating performance, parts availability, system sizing, and your home’s comfort requirements. An HVAC professional can assess the system and explain whether repair or replacement is more appropriate.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -580,11 +542,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Yes. Although Austin generally has milder winters than summers, heating systems still need to operate during cold weather. Furnace and heat pump service can address repairs, maintenance, installation, and replacement needs.
+                                        Yes. Although Austin generally has milder winters than summers, heating systems still need to operate during cold weather. Furnace and heat pump service can address repairs, maintenance, installation, and replacement needs.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -593,13 +554,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      Yes. Uneven comfort can be related to ductwork, airflow, insulation, equipment capacity, zoning, thermostat placement, or other factors. A professional HVAC assessment can help identify the source.
-
+                                        Yes. Uneven comfort can be related to ductwork, airflow, insulation, equipment capacity, zoning, thermostat placement, or other factors. A professional HVAC assessment can help identify the source.
                                     </div>
                                 </div>
                             </div>
-
-                                                        <!-- FAQ 6 -->
+                            <!-- FAQ 7 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">How often should an HVAC system be maintained?</span>
@@ -607,11 +566,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      Maintenance timing depends on the equipment, manufacturer guidance, system age, usage, and property conditions. Many homeowners choose seasonal inspections so cooling and heating equipment can be evaluated before periods of heavier use.
+                                        Maintenance timing depends on the equipment, manufacturer guidance, system age, usage, and property conditions. Many homeowners choose seasonal inspections so cooling and heating equipment can be evaluated before periods of heavier use.
                                     </div>
                                 </div>
                             </div>
-                                                                                    <!-- FAQ 6 -->
+                            <!-- FAQ 8 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">How can I find an HVAC professional in Austin?</span>
@@ -619,7 +578,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      Easy Home Service helps homeowners connect with HVAC professionals for repair, installation, maintenance, replacement, ductwork, heating, and cooling projects in Austin.
+                                        Easy Home Service helps homeowners connect with HVAC professionals for repair, installation, maintenance, replacement, ductwork, heating, and cooling projects in Austin.
                                     </div>
                                 </div>
                             </div>
@@ -627,16 +586,12 @@
                         <div class="ehs-hvac-faq-action">
                             <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 </main>
-
-
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -696,8 +651,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 </script>
-<?php include'../promise.php' ?> 
-<?php include'../footer.php' ?> 
+<?php include'../promise.php' ?>
+<?php include'../footer.php' ?>
 <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="js/bookmarkscroll.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>

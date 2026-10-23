@@ -1,7 +1,6 @@
 <meta name="robots" content="nofollow,noindex">
 <?php include'../header.php' ?>
 <link rel="stylesheet" href="/css/article-hvac-style.css">
-
 <main>
 
     <!-- 1. HERO SECTION -->
@@ -11,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                           HVAC Services in Chicago
+                            HVAC Services in Chicago
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                             Reliable HVAC Services in Chicago for residential heating and cooling needs, helping Chicago homeowners with urgent repairs, planned replacements, maintenance, installation, and year-round indoor comfort.
+                            Reliable HVAC Services in Chicago for residential heating and cooling needs, helping Chicago homeowners with urgent repairs, planned replacements, maintenance, installation, and year-round indoor comfort.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,7 +31,7 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                          Residential HVAC Help for Chicago Homeowners
+                            Residential HVAC Help for Chicago Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
                             Chicago homeowners depend on their heating and cooling systems through demanding seasonal changes. A furnace that struggles during a cold spell, an air conditioner that cannot keep rooms comfortable, or uneven airflow can quickly become a household priority. Easy Home Service helps homeowners connect with HVAC professionals who can assess the situation and provide the appropriate residential service. Whether you are searching for HVAC repair, routine maintenance, a new system, or help understanding an unfamiliar problem, the goal is to make the next step easier. Chicago homes vary widely in age, construction, insulation, floor plan, ductwork, and existing equipment, so an HVAC solution should account for the property rather than rely on a one-size-fits-all approach. Homeowners can use Easy Home Service to explore service options for heating, cooling, ventilation, ductwork, heat pumps, and indoor air quality. From a seasonal tune-up to a system replacement decision, a clear description of the problem and the home can help you connect with a suitable professional and move forward with greater confidence. Clear communication helps contractors prepare for visits.</p>
@@ -49,65 +48,55 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Service Value</h2>
-                        <!-- <p class="ehs-hvac-solutions-subtitle">
-                            From heating during freezing winter weather to cooling through hot summer days, homeowners across New York City can connect with professionals who specialize in these essential HVAC services.
-                        </p> -->
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">Service Value</h2>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Heating & Cooling Support</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Connect with HVAC professionals for residential heating, air conditioning, maintenance, repair, and replacement needs.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Home-Specific Solutions</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Your home's age, layout, equipment, insulation, and ductwork can help shape the right service approach.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Clear Next Steps</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Describe your HVAC concern and receive service information that helps you understand what to discuss with a professional.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Heating & Cooling Support</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                            Connect with HVAC professionals for residential heating, air conditioning, maintenance, repair, and replacement needs.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Home-Specific Solutions</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Your home's age, layout, equipment, insulation, and ductwork can help shape the right service approach.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Clear Next Steps</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Describe your HVAC concern and receive service information that helps you understand what to discuss with a professional.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
     <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
@@ -117,29 +106,33 @@
                         <h2 class="ehs-hvac-section-title">
                             Know When Your HVAC System Needs Attention
                         </h2>
-                        
-                        <!-- <p class="ehs-hvac-signs-intro">
-                            HVAC systems vary from home to home. A New York City apartment, brownstone, condominium, townhouse, or single-family home may use different heating and cooling equipment depending on the building's age, layout, existing infrastructure, and comfort requirements.
-                        </p> -->
+
                         <p class="ehs-hvac-signs-intro">
                             Common HVAC services include:
                         </p>
-
                         <ul class="ehs-hvac-signs-list">
+
                             <li class="ehs-hvac-signs-item"><strong>Slower heating:</strong> A furnace that takes longer than usual to heat your home may need professional attention.</li>
-<li class="ehs-hvac-signs-item"><strong>Frequent cycling:</strong> Repeatedly turning on and off can indicate an issue with the heating or cooling system.</li>
-<li class="ehs-hvac-signs-item"><strong>Unusual sounds:</strong> New or unfamiliar noises from your HVAC equipment should not be ignored.</li>
-<li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Rooms that remain noticeably colder or warmer than others may point to equipment or airflow problems.</li>
-<li class="ehs-hvac-signs-item"><strong>Difficulty maintaining temperature:</strong> If your system struggles to reach or maintain the thermostat setting, a professional assessment can help identify the cause.</li>
-<li class="ehs-hvac-signs-item"><strong>Water leaks:</strong> Moisture or water around an air conditioning system can indicate a problem that needs attention.</li>
-<li class="ehs-hvac-signs-item"><strong>Weak airflow:</strong> Reduced airflow from vents can be associated with equipment, filter, or ductwork concerns.</li>
-<li class="ehs-hvac-signs-item"><strong>Unusual odors:</strong> Persistent or unfamiliar smells coming from the HVAC system can be a reason to arrange an inspection.</li>
-<li class="ehs-hvac-signs-item"><strong>Frequent shutdowns:</strong> A system that repeatedly stops operating may need troubleshooting.</li>
-<li class="ehs-hvac-signs-item"><strong>Older equipment:</strong> Aging HVAC equipment can raise questions about whether continued repairs or replacement makes more sense.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Frequent cycling:</strong> Repeatedly turning on and off can indicate an issue with the heating or cooling system.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Unusual sounds:</strong> New or unfamiliar noises from your HVAC equipment should not be ignored.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Rooms that remain noticeably colder or warmer than others may point to equipment or airflow problems.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Difficulty maintaining temperature:</strong> If your system struggles to reach or maintain the thermostat setting, a professional assessment can help identify the cause.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Water leaks:</strong> Moisture or water around an air conditioning system can indicate a problem that needs attention.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Weak airflow:</strong> Reduced airflow from vents can be associated with equipment, filter, or ductwork concerns.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Unusual odors:</strong> Persistent or unfamiliar smells coming from the HVAC system can be a reason to arrange an inspection.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Frequent shutdowns:</strong> A system that repeatedly stops operating may need troubleshooting.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Older equipment:</strong> Aging HVAC equipment can raise questions about whether continued repairs or replacement makes more sense.</li>
+
                         </ul>
-                        <!-- <p class="ehs-hvac-signs-intro">
-                            The right service depends on the condition of the equipment and the symptoms you are experiencing. A professional evaluation can help determine whether your system needs a repair, maintenance, adjustment, or replacement. 
-                        </p> -->
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
@@ -148,48 +141,43 @@
             </div>
         </div>
     </section>
-
     <!-- 5. HVAC CHALLENGES -->
     <section class="ehs-hvac-challenges-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-challenges-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
                             Repair, Replacement, or a New HVAC System?
                         </h2>
 
                         <p class="ehs-hvac-challenges-intro">
-                          Repair is not always the same decision as replacement. A professional evaluation can help determine whether an HVAC problem involves a repairable component, aging equipment, airflow restrictions, ductwork, controls, or a broader system issue. 
+                            Repair is not always the same decision as replacement. A professional evaluation can help determine whether an HVAC problem involves a repairable component, aging equipment, airflow restrictions, ductwork, controls, or a broader system issue.
                         </p>
 
                         <p class="ehs-hvac-challenges-intro">
-                          Chicago homes can present different challenges because properties vary in age, layout, insulation, available mechanical space, existing duct design, and the type of heating or cooling equipment already installed. Those details matter when considering HVAC installation or replacement. A new system should be selected around the home's requirements, compatible equipment, installation conditions, and the homeowner's comfort priorities rather than simply choosing a model by name.
+                            Chicago homes can present different challenges because properties vary in age, layout, insulation, available mechanical space, existing duct design, and the type of heating or cooling equipment already installed. Those details matter when considering HVAC installation or replacement. A new system should be selected around the home's requirements, compatible equipment, installation conditions, and the homeowner's comfort priorities rather than simply choosing a model by name.
                         </p>
 
-                       <p class="ehs-hvac-challenges-intro">
-                          If replacement is being considered, homeowners can ask for a clear explanation of the proposed system, expected scope of work, equipment specifications, and what is included in installation. Easy Home Service can help homeowners begin the process of finding professionals for repair, replacement, or residential HVAC installation, so the service request starts with the home's actual needs.
+                        <p class="ehs-hvac-challenges-intro">
+                            If replacement is being considered, homeowners can ask for a clear explanation of the proposed system, expected scope of work, equipment specifications, and what is included in installation. Easy Home Service can help homeowners begin the process of finding professionals for repair, replacement, or residential HVAC installation, so the service request starts with the home's actual needs.
                         </p>
 
-                       <p class="ehs-hvac-challenges-intro">
-                          A thoughtful assessment can help identify whether related airflow or ductwork concerns should be addressed as part of the project. For older homes, discussing system compatibility and installation constraints upfront can reduce surprises during planning. Homeowners can then compare recommendations based on the property's needs, project scope, and long-term service considerations. 
+                        <p class="ehs-hvac-challenges-intro">
+                            A thoughtful assessment can help identify whether related airflow or ductwork concerns should be addressed as part of the project. For older homes, discussing system compatibility and installation constraints upfront can reduce surprises during planning. Homeowners can then compare recommendations based on the property's needs, project scope, and long-term service considerations.
                         </p>
-                      
-
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
                                 You don't need to know exactly what's wrong. Just tell us what you've noticed, poor cooling, weak airflow, strange sounds, or rising energy bills, and we'll help match you with the right professional.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
@@ -202,7 +190,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
@@ -219,12 +206,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -240,12 +225,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -262,7 +245,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Bottom CTA Action -->
             <div class="ehs-hvac-steps-action">
                 <a href="#get-quote" class="ehs-hvac-steps-btn">Get A Quote Now</a>
@@ -275,9 +257,7 @@
         </div>
     </section>
 
- 
-
-    <!-- 8. DARK CTA SECTION -->
+    <!-- 7. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
         <div class="container">
             <div class="row justify-content-center">
@@ -289,7 +269,7 @@
                                 <div class="col-12 col-md-8">
                                     <div class="ehs-hvac-cta-content">
                                         <h2 class="ehs-hvac-cta-title">
-                                        Need heating, cooling, repair, maintenance, or replacement help?
+                                            Need heating, cooling, repair, maintenance, or replacement help?
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
                                             Tell Easy Home Service what is happening in your home and start your request today.
@@ -312,89 +292,78 @@
             </div>
         </div>
     </section>
-
-    <!-- 9. 6-CARD SERVICES GRID -->
+    <!-- 8. 6-CARD SERVICES GRID -->
     <section class="ehs-hvac-grid-section">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-              <div class="col-12 col-lg-12">
-                <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title">Residential HVAC Services</h2>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="ehs-hvac-grid-header">
+                                <h2 class="ehs-hvac-section-title">Residential HVAC Services</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 justify-content-center">
+                        <!-- 1. AC Repair & Cooling Service -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">AC Repair & Cooling Service</h3>
+                                <p class="ehs-hvac-grid-card-text"> Warm air, weak airflow, or an air conditioner that will not keep up. Get help with residential AC repair, service, and urgent cooling problems.</p>
+                            </div>
+                        </div>
+                        <!-- 2. Furnace & Heating Repair -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Furnace & Heating Repair</h3>
+                                <p class="ehs-hvac-grid-card-text">Uneven heat, strange noises, or a furnace that fails to start. Connect with professionals for heating repair, including urgent no-heat situations.</p>
+                            </div>
+                        </div>
+                        <!-- 3. HVAC Installation & Replacement -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Installation & Replacement</h3>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals who can evaluate your home and discuss new HVAC system options.</p>
+                            </div>
+                        </div>
+                        <!-- 4. Ductwork Services -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-sun"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductwork Services</h3>
+                                <p class="ehs-hvac-grid-card-text">Address concerns involving duct repair, installation, sealing, airflow, or other residential ductwork needs.</p>
+                            </div>
+                        </div>
+                        <!-- 5. Heat Pumps & Air Quality -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-droplet"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Heat Pumps & Air Quality</h3>
+                                <p class="ehs-hvac-grid-card-text">Explore heat pump services, ventilation, and indoor air quality solutions based on your home's requirements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ehs-hvac-grid-action">
+                        <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="row g-4 justify-content-center">
-              <!-- 1. Furnace & Heating Repair -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-microscope"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Repair & Cooling Service</h3>
-                  <p class="ehs-hvac-grid-card-text"> Warm air, weak airflow, or an air conditioner that will not keep up. Get help with residential AC repair, service, and urgent cooling problems.</p>
-                </div>
-              </div>
-              <!-- 2. Boiler Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-wind"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Furnace & Heating Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Uneven heat, strange noises, or a furnace that fails to start. Connect with professionals for heating repair, including urgent no-heat situations.</p>
-                </div>
-              </div>
-              <!-- 3. Air Conditioning -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-filter"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">HVAC Installation & Replacement</h3>
-                  <p class="ehs-hvac-grid-card-text">Connect with professionals who can evaluate your home and discuss new HVAC system options.</p>
-                </div>
-              </div>
-              <!-- 4. Heat Pump Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-sun"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Address concerns involving duct repair, installation, sealing, airflow, or other residential ductwork needs.</p>
-                </div>
-              </div>
-              <!-- 5. Ductwork & Airflow -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-droplet"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heat Pumps & Air Quality</h3>
-                  <p class="ehs-hvac-grid-card-text">Explore heat pump services, ventilation, and indoor air quality solutions based on your home's requirements.</p>
-                </div>
-              </div>
-              <!-- 6. Ventilation & Indoor Air Quality -->
-              <!-- <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                   <i class="fa-solid fa-broom"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ventilation & Indoor Air Quality</h3>
-                  <p class="ehs-hvac-grid-card-text">Connect with professionals for ventilation, filtration, humidity control, and related indoor air quality needs.</p>
-                </div>
-              </div> -->
-            </div>
-            <div class="ehs-hvac-grid-action">
-              <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
-    <style>
+<style>
         .ehs-hvac-deciding-section-title {
     font-size: 17px;
     font-weight: 600;
@@ -409,70 +378,53 @@
     margin-bottom: 0;
 }
         </style>
-<!-- 10. HOMEOWNER SITUATIONS -->
+    <!-- 9. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          Finding Residential HVAC Services in Chicago
+                            Finding Residential HVAC Services in Chicago
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            Finding residential HVAC services in Chicago does not always start with knowing exactly what is wrong. You may know that the furnace is not heating evenly, the air conditioner is struggling, airflow feels weak, or the system simply seems less dependable than before. That is enough to begin a service request. 
+                            Finding residential HVAC services in Chicago does not always start with knowing exactly what is wrong. You may know that the furnace is not heating evenly, the air conditioner is struggling, airflow feels weak, or the system simply seems less dependable than before. That is enough to begin a service request.
                         </p>
-
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
-                            
                             <p class="ehs-hvac-situations-text">
                                 Easy Home Service helps homeowners connect with HVAC professionals who can evaluate the situation and explain appropriate service options. When comparing contractors, look for evidence of relevant experience with your type of equipment and home. Ask whether the professional carries the appropriate licensing and insurance for the work being performed, and request a written estimate that clearly describes the scope of work, equipment or parts involved, and any important exclusions.
                             </p>
-                           
                         </div>
-
                         <!-- Situation 2 -->
-                                               <div class="ehs-hvac-situations-block">
-                            
+                        <div class="ehs-hvac-situations-block">
                             <p class="ehs-hvac-situations-text">
-                                For larger repairs or replacement projects, discuss warranties, installation responsibilities, maintenance recommendations, and what happens if additional issues are discovered. It can also help to describe your home's age, system type, symptoms, comfort concerns, and any recent repairs when submitting a request. These details give a contractor useful context before the visit. Whether you need heating repair, AC service, maintenance, ductwork, a heat pump, or a new HVAC system, you do not have to diagnose the problem yourself. Start with the symptoms, share the relevant details, and compare the service information you receive. 
+                                For larger repairs or replacement projects, discuss warranties, installation responsibilities, maintenance recommendations, and what happens if additional issues are discovered. It can also help to describe your home's age, system type, symptoms, comfort concerns, and any recent repairs when submitting a request. These details give a contractor useful context before the visit. Whether you need heating repair, AC service, maintenance, ductwork, a heat pump, or a new HVAC system, you do not have to diagnose the problem yourself. Start with the symptoms, share the relevant details, and compare the service information you receive.
                             </p>
-                           
                         </div>
-
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
-                            
                             <p class="ehs-hvac-situations-text">
                                 Use Easy Home Service to start your Chicago HVAC service request and take the next step toward addressing your home's heating and cooling needs. A clear service request can help the professional understand priorities and prepare for an evaluation. If you are unsure which service category fits, describe what you are experiencing rather than guessing at the cause.
 
                             </p>
-                           
                         </div>
-                        
-                     
-                    
-
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                              Start Your Chicago HVAC Service Request
+                                Start Your Chicago HVAC Service Request
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   <?php include '../state-cities.php';?>
-   
+    <?php include '../state-cities.php';?>
 </main>
-
-
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -532,8 +484,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 </script>
-<?php include'../promise.php' ?> 
-<?php include'../footer.php' ?> 
+<?php include'../promise.php' ?>
+<?php include'../footer.php' ?>
 <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="js/bookmarkscroll.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>

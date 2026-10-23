@@ -1,7 +1,6 @@
 <meta name="robots" content="nofollow,noindex">
 <?php include'../header.php' ?>
 <link rel="stylesheet" href="/css/article-hvac-style.css">
-
 <main>
 
     <!-- 1. HERO SECTION -->
@@ -11,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                           HVAC Services in Phoenix, AZ for Residential Heating and Cooling
+                            HVAC Services in Phoenix, AZ for Residential Heating and Cooling
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                             Phoenix homeowners can find qualified professionals for HVAC Services in Phoenix, including AC repair, heating, installation, maintenance, ductwork, and system replacement through Easy Home Service today.
+                            Phoenix homeowners can find qualified professionals for HVAC Services in Phoenix, including AC repair, heating, installation, maintenance, ductwork, and system replacement through Easy Home Service today.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,13 +31,12 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                        Residential HVAC Services in Phoenix for Year-Round Home Comfort
+                            Residential HVAC Services in Phoenix for Year-Round Home Comfort
                         </h2>
                         <p class="ehs-hvac-intro-description">
                             Phoenix homeowners depend on reliable heating and cooling systems to maintain comfortable indoor spaces throughout weather conditions. Easy Home Service helps homeowners find and connect with HVAC professionals who provide residential heating and cooling services in Phoenix, including air conditioning repair, heating repair, HVAC installation, maintenance, ductwork, and system replacement. Whether an AC unit is blowing warm air, airflow feels weak, temperatures vary between rooms, or an older system requires frequent attention, homeowners can describe their needs and look for professional help.</p>
-                            <p class="ehs-hvac-intro-description">
-                           Homeowners planning air conditioner installation in Phoenix can seek professionals who can evaluate their property and discuss available options. Regular HVAC maintenance may help identify developing equipment or airflow concerns before they become larger service issues. When heating or cooling equipment stops working, homeowners can seek repair professionals familiar with HVAC systems. Easy Home Service is a platform rather than an HVAC contractor, helping homeowners find and connect with professionals based on the service they need. This approach allows homeowners to compare their service requirements and take the next step toward HVAC assistance.</p>
-                            
+                        <p class="ehs-hvac-intro-description">
+                            Homeowners planning air conditioner installation in Phoenix can seek professionals who can evaluate their property and discuss available options. Regular HVAC maintenance may help identify developing equipment or airflow concerns before they become larger service issues. When heating or cooling equipment stops working, homeowners can seek repair professionals familiar with HVAC systems. Easy Home Service is a platform rather than an HVAC contractor, helping homeowners find and connect with professionals based on the service they need. This approach allows homeowners to compare their service requirements and take the next step toward HVAC assistance.</p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
                         </div>
@@ -52,152 +50,127 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">HVAC Repair and Maintenance Services for Phoenix Homeowners</h2>
-                        <!-- <p class="ehs-hvac-solutions-subtitle">
-                            From heating during freezing winter weather to cooling through hot summer days, homeowners across New York City can connect with professionals who specialize in these essential HVAC services.
-                        </p> -->
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">HVAC Repair and Maintenance Services for Phoenix Homeowners</h2>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Air Conditioning Repair in Phoenix, AZ</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Get connected with HVAC professionals for residential AC problems, including poor cooling, weak airflow, unusual operation, inconsistent temperatures, and other air conditioning concerns.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance Services in Phoenix</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Find professionals for residential HVAC maintenance and system inspections when you want to address routine service needs or investigate developing performance concerns.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">HVAC Replacement Services in Phoenix</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                When an older HVAC system becomes unreliable or no longer meets your home's comfort requirements, connect with professionals who can discuss replacement options.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Air Conditioning Repair in Phoenix, AZ</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                            Get connected with HVAC professionals for residential AC problems, including poor cooling, weak airflow, unusual operation, inconsistent temperatures, and other air conditioning concerns.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance Services in Phoenix</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Find professionals for residential HVAC maintenance and system inspections when you want to address routine service needs or investigate developing performance concerns.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">HVAC Replacement Services in Phoenix</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           When an older HVAC system becomes unreliable or no longer meets your home's comfort requirements, connect with professionals who can discuss replacement options.
-
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
+
+    <!-- 4. COMFORT SOLUTIONS SECTION -->
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Air Conditioning Repair Services in Phoenix, AZ</h2>
-                        <p class="ehs-hvac-solutions-subtitle">
-                            Phoenix’s intense summer heat makes dependable air conditioning especially important for homeowners. When an AC system struggles to maintain the thermostat setting, runs for unusually long periods, produces weak airflow, or sends warm air through the vents, professional evaluation can help identify the underlying issue. Homeowners may also notice water around indoor equipment, unusual sounds, frequent cycling, or rooms that remain warmer than others. These symptoms can involve the air conditioner, thermostat, airflow, ductwork, electrical components, drainage, or other equipment. Easy Home Service helps homeowners find and connect with HVAC professionals who can assess these concerns and provide appropriate residential AC repair services in Phoenix, AZ. Homeowners considering AC replacement can likewise connect with professionals to discuss equipment condition, installation requirements, and available options for their property. The goal is to help homeowners take the next step with relevant HVAC service information.
-                        </p>
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">Air Conditioning Repair Services in Phoenix, AZ</h2>
+                            <p class="ehs-hvac-solutions-subtitle">
+                                Phoenix’s intense summer heat makes dependable air conditioning especially important for homeowners. When an AC system struggles to maintain the thermostat setting, runs for unusually long periods, produces weak airflow, or sends warm air through the vents, professional evaluation can help identify the underlying issue. Homeowners may also notice water around indoor equipment, unusual sounds, frequent cycling, or rooms that remain warmer than others. These symptoms can involve the air conditioner, thermostat, airflow, ductwork, electrical components, drainage, or other equipment. Easy Home Service helps homeowners find and connect with HVAC professionals who can assess these concerns and provide appropriate residential AC repair services in Phoenix, AZ. Homeowners considering AC replacement can likewise connect with professionals to discuss equipment condition, installation requirements, and available options for their property. The goal is to help homeowners take the next step with relevant HVAC service information.
+                            </p>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Residential AC Repair</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Professional help for Phoenix homeowners experiencing cooling problems, airflow concerns, or inconsistent indoor temperatures.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Phoenix AC Installation</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Connect with HVAC professionals to discuss new air conditioner installation options for residential properties.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">AC Replacement for Phoenix Homes</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Find professionals who can evaluate existing equipment and discuss residential air conditioner replacement options.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Residential AC Repair</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                            Professional help for Phoenix homeowners experiencing cooling problems, airflow concerns, or inconsistent indoor temperatures.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Phoenix AC Installation</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Connect with HVAC professionals to discuss new air conditioner installation options for residential properties.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">AC Replacement for Phoenix Homes</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Find professionals who can evaluate existing equipment and discuss residential air conditioner replacement options.
-
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
-
-
-
-    <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
+    <!-- 5. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                           Phoenix HVAC Installation, Replacement and Maintenance
+                            Phoenix HVAC Installation, Replacement and Maintenance
                         </h2>
-                        
-                        <!-- <p class="ehs-hvac-signs-intro">
-                            HVAC systems vary from home to home. A New York City apartment, brownstone, condominium, townhouse, or single-family home may use different heating and cooling equipment depending on the building's age, layout, existing infrastructure, and comfort requirements.
-                        </p> -->
+
                         <p class="ehs-hvac-signs-intro">
                             Phoenix homes can have different HVAC requirements depending on property size, equipment type, ductwork configuration, insulation, occupancy, and comfort needs. For homeowners searching for residential HVAC services in Phoenix, professional assistance can cover both cooling and heating equipment. Air conditioning repair may address poor cooling, weak airflow, unusual operation, or other performance concerns. HVAC maintenance services in Phoenix can involve inspections and system checks intended to identify developing issues and keep equipment operating as expected. When an existing system is outdated, repeatedly needs repairs, or no longer provides consistent comfort, homeowners may explore HVAC replacement services in Phoenix. New construction, remodeling, or major equipment changes may require professional HVAC installation in Phoenix, including evaluation of the home's existing setup. Ductwork services can also be important when airflow is inconsistent or conditioned air is not distributed effectively between rooms. For colder periods, homeowners can seek furnace repair, heat pump service, or heating system replacement. Easy Home Service helps homeowners find and connect with HVAC professionals for these residential needs. Homeowners can describe their specific concern, service requirement, or project and use that information to seek an appropriate professional for their Phoenix property before scheduling service or discussing repair, installation, maintenance, or replacement options with a qualified HVAC professional.
                         </p>
-
-                       
-                        <!-- <p class="ehs-hvac-signs-intro">
-                            The right service depends on the condition of the equipment and the symptoms you are experiencing. A professional evaluation can help determine whether your system needs a repair, maintenance, adjustment, or replacement. 
-                        </p> -->
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
@@ -206,71 +179,65 @@
             </div>
         </div>
     </section>
+
+    <!-- 6. COMFORT SOLUTIONS SECTION -->
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Heating and Cooling Services for Phoenix Residential HVAC Systems</h2>
-                        <p class="ehs-hvac-solutions-subtitle">
-                            Phoenix homeowners may need different HVAC services depending on the season and condition of their equipment. While air conditioning is an important part of residential comfort, heating systems still require attention when temperatures become cooler.
-                        </p>
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">Heating and Cooling Services for Phoenix Residential HVAC Systems</h2>
+                            <p class="ehs-hvac-solutions-subtitle">
+                                Phoenix homeowners may need different HVAC services depending on the season and condition of their equipment. While air conditioning is an important part of residential comfort, heating systems still require attention when temperatures become cooler.
+                            </p>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Furnace Repair and Heating Services in Phoenix</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Homeowners experiencing delayed heating, unusual furnace operation, inconsistent temperatures, or repeated heating problems can seek furnace repair services in Phoenix. Professionals can evaluate the equipment and discuss appropriate repair or replacement options.
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Heat Pump Repair in Phoenix, AZ</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Heat pumps provide heating and cooling functions and may require professional service when performance changes. Homeowners can seek heat pump repair in Phoenix, AZ for equipment concerns involving comfort, airflow, temperature control, or unusual operation.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Ductwork Services in Phoenix, AZ</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Ductwork affects how conditioned air moves throughout a home. Homeowners experiencing weak airflow or inconsistent room temperatures can seek residential ductwork services in Phoenix, AZ and discuss potential airflow concerns with an HVAC professional.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Furnace Repair and Heating Services in Phoenix</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Homeowners experiencing delayed heating, unusual furnace operation, inconsistent temperatures, or repeated heating problems can seek furnace repair services in Phoenix. Professionals can evaluate the equipment and discuss appropriate repair or replacement options.
-
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Heat Pump Repair in Phoenix, AZ</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Heat pumps provide heating and cooling functions and may require professional service when performance changes. Homeowners can seek heat pump repair in Phoenix, AZ for equipment concerns involving comfort, airflow, temperature control, or unusual operation.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Ductwork Services in Phoenix, AZ</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                          Ductwork affects how conditioned air moves throughout a home. Homeowners experiencing weak airflow or inconsistent room temperatures can seek residential ductwork services in Phoenix, AZ and discuss potential airflow concerns with an HVAC professional.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
-
-    <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
+    <!-- 7. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
             <div class="row justify-content-center text-center">
@@ -282,7 +249,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
@@ -299,12 +265,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -320,12 +284,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -342,7 +304,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Bottom CTA Action -->
             <div class="ehs-hvac-steps-action">
                 <a href="#get-quote" class="ehs-hvac-steps-btn">Get A Quote Now</a>
@@ -354,8 +315,6 @@
             </div>
         </div>
     </section>
-
- 
 
     <!-- 8. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
@@ -369,7 +328,7 @@
                                 <div class="col-12 col-md-8">
                                     <div class="ehs-hvac-cta-content">
                                         <h2 class="ehs-hvac-cta-title">
-                                        Find HVAC Professionals for Your Phoenix Home
+                                            Find HVAC Professionals for Your Phoenix Home
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
                                             Need AC repair, heating service, HVAC maintenance, installation, ductwork, or system replacement? Describe your HVAC needs and use Easy Home Service to find and connect with a professional for your Phoenix home.
@@ -392,89 +351,88 @@
             </div>
         </div>
     </section>
-
     <!-- 9. 6-CARD SERVICES GRID -->
     <section class="ehs-hvac-grid-section">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-              <div class="col-12 col-lg-12">
-                <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title">HVAC Services for Phoenix Homeowners</h2>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="ehs-hvac-grid-header">
+                                <h2 class="ehs-hvac-section-title">HVAC Services for Phoenix Homeowners</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 justify-content-center">
+                        <!-- 1. AC Repair Services in Phoenix -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title"> AC Repair Services in Phoenix</h3>
+                                <p class="ehs-hvac-grid-card-text">Connect with HVAC professionals for air conditioning problems, including warm air, weak airflow, inconsistent cooling, unusual operation, and other residential AC concerns.</p>
+                            </div>
+                        </div>
+                        <!-- 2. AC Installation Services in Phoenix -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">AC Installation Services in Phoenix</h3>
+                                <p class="ehs-hvac-grid-card-text">Find professionals who can discuss new residential air conditioning installation based on your home's existing HVAC setup and service requirements.</p>
+                            </div>
+                        </div>
+                        <!-- 3. Heating Repair Services in Phoenix -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Heating Repair Services in Phoenix</h3>
+                                <p class="ehs-hvac-grid-card-text">Seek professional help for furnace, heat pump, and other residential heating concerns when your home needs heating repair or service.</p>
+                            </div>
+                        </div>
+                        <!-- 4. HVAC Maintenance Services in Phoenix -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-sun"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance Services in Phoenix</h3>
+                                <p class="ehs-hvac-grid-card-text">Find HVAC professionals for routine maintenance and system evaluations designed around the needs of your residential heating and cooling equipment.</p>
+                            </div>
+                        </div>
+                        <!-- 5. HVAC Replacement Services in Phoenix -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-droplet"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Replacement Services in Phoenix</h3>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals to discuss replacing aging, unreliable, or unsuitable HVAC equipment and explore options for your home.</p>
+                            </div>
+                        </div>
+                        <!-- 6. Ductwork Services in Phoenix, AZ -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductwork Services in Phoenix, AZ</h3>
+                                <p class="ehs-hvac-grid-card-text">Seek professional ductwork assistance when airflow problems, uneven temperatures, or other concerns may involve the home's air distribution system.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ehs-hvac-grid-action">
+                        <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="row g-4 justify-content-center">
-              <!-- 1. Furnace & Heating Repair -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-microscope"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title"> AC Repair Services in Phoenix</h3>
-                  <p class="ehs-hvac-grid-card-text">Connect with HVAC professionals for air conditioning problems, including warm air, weak airflow, inconsistent cooling, unusual operation, and other residential AC concerns.</p>
-                </div>
-              </div>
-              <!-- 2. Boiler Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-wind"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Installation Services in Phoenix</h3>
-                  <p class="ehs-hvac-grid-card-text">Find professionals who can discuss new residential air conditioning installation based on your home's existing HVAC setup and service requirements.</p>
-                </div>
-              </div>
-              <!-- 3. Air Conditioning -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-filter"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heating Repair Services in Phoenix</h3>
-                  <p class="ehs-hvac-grid-card-text">Seek professional help for furnace, heat pump, and other residential heating concerns when your home needs heating repair or service.</p>
-                </div>
-              </div>
-              <!-- 4. Heat Pump Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-sun"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance Services in Phoenix</h3>
-                  <p class="ehs-hvac-grid-card-text">Find HVAC professionals for routine maintenance and system evaluations designed around the needs of your residential heating and cooling equipment.</p>
-                </div>
-              </div>
-              <!-- 5. Ductwork & Airflow -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-droplet"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">HVAC Replacement Services in Phoenix</h3>
-                  <p class="ehs-hvac-grid-card-text">Connect with professionals to discuss replacing aging, unreliable, or unsuitable HVAC equipment and explore options for your home.</p>
-                </div>
-              </div>
-              <!-- 6. Ventilation & Indoor Air Quality -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                   <i class="fa-solid fa-broom"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork Services in Phoenix, AZ</h3>
-                  <p class="ehs-hvac-grid-card-text">Seek professional ductwork assistance when airflow problems, uneven temperatures, or other concerns may involve the home's air distribution system.</p>
-                </div>
-              </div>
-            </div>
-            <div class="ehs-hvac-grid-action">
-              <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
-    <style>
+<style>
         .ehs-hvac-deciding-section-title {
     font-size: 17px;
     font-weight: 600;
@@ -489,76 +447,59 @@
     margin-bottom: 0;
 }
         </style>
-<!-- 10. HOMEOWNER SITUATIONS -->
+    <!-- 10. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          Find HVAC Professionals for Residential HVAC Services in Phoenix
+                            Find HVAC Professionals for Residential HVAC Services in Phoenix
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
                             Finding the right HVAC professional can be important when a Phoenix home's heating or cooling system needs attention. Homeowners may begin searching for HVAC services in Phoenix when an air conditioner stops cooling effectively, indoor airflow changes, a furnace develops a problem, or an older system becomes difficult to maintain. The appropriate service can depend on the equipment, symptoms, property, and work required.
                         </p>
-
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
-                            
                             <p class="ehs-hvac-situations-text">
-                               For cooling concerns, homeowners can seek air conditioning repair in Phoenix, AC installation services, preventive maintenance, ductwork evaluation, or air conditioner replacement. Common concerns may include warm air, inconsistent temperatures, weak airflow, unusual noises, frequent cycling, drainage problems, or equipment that struggles to maintain the thermostat setting. During cooler weather, homeowners may need furnace repair, heat pump repair, heating maintenance, or heating system replacement.
+                                For cooling concerns, homeowners can seek air conditioning repair in Phoenix, AC installation services, preventive maintenance, ductwork evaluation, or air conditioner replacement. Common concerns may include warm air, inconsistent temperatures, weak airflow, unusual noises, frequent cycling, drainage problems, or equipment that struggles to maintain the thermostat setting. During cooler weather, homeowners may need furnace repair, heat pump repair, heating maintenance, or heating system replacement.
                             </p>
-                           
                         </div>
-
                         <!-- Situation 2 -->
-                                               <div class="ehs-hvac-situations-block">
-                            
+                        <div class="ehs-hvac-situations-block">
                             <p class="ehs-hvac-situations-text">
-                               Phoenix homeowners planning a larger HVAC project can also seek professionals for residential HVAC installation, HVAC replacement, and ductwork services in Phoenix, AZ. A professional can evaluate the existing setup and discuss the work that may be appropriate for the home.
+                                Phoenix homeowners planning a larger HVAC project can also seek professionals for residential HVAC installation, HVAC replacement, and ductwork services in Phoenix, AZ. A professional can evaluate the existing setup and discuss the work that may be appropriate for the home.
                             </p>
-                           
                         </div>
-
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
-                            
                             <p class="ehs-hvac-situations-text">
-                              Easy Home Service provides a platform that helps homeowners find and connect with HVAC professionals. It does not present itself as the contractor performing the work. Instead, homeowners can explain what they need and use the platform to seek professionals for relevant residential HVAC services.
+                                Easy Home Service provides a platform that helps homeowners find and connect with HVAC professionals. It does not present itself as the contractor performing the work. Instead, homeowners can explain what they need and use the platform to seek professionals for relevant residential HVAC services.
 
                             </p>
-                           
                         </div>
-                          <div class="ehs-hvac-situations-block">
-                            
+                        <!-- Situation 4 -->
+                        <div class="ehs-hvac-situations-block">
                             <p class="ehs-hvac-situations-text">
-                              Whether the need involves emergency HVAC repair in Phoenix, routine maintenance, AC replacement, heating service, or a new installation, homeowners can start by describing the problem and project requirements. Clear information about the home's equipment and symptoms can help homeowners communicate their needs when connecting with an HVAC professional. This can make the search process more focused for homeowners.
+                                Whether the need involves emergency HVAC repair in Phoenix, routine maintenance, AC replacement, heating service, or a new installation, homeowners can start by describing the problem and project requirements. Clear information about the home's equipment and symptoms can help homeowners communicate their needs when connecting with an HVAC professional. This can make the search process more focused for homeowners.
                             </p>
-                           
                         </div>
-                     
-                    
-
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                              Start Your Houston HVAC Service Request
+                                Start Your Houston HVAC Service Request
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   <?php include '../state-cities.php';?>
-   
+    <?php include '../state-cities.php';?>
 </main>
-
-
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -618,8 +559,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 </script>
-<?php include'../promise.php' ?> 
-<?php include'../footer.php' ?> 
+<?php include'../promise.php' ?>
+<?php include'../footer.php' ?>
 <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="js/bookmarkscroll.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>

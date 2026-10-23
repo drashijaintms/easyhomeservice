@@ -1,7 +1,6 @@
 <meta name="robots" content="nofollow,noindex">
 <?php include'../header.php' ?>
 <link rel="stylesheet" href="/css/article-hvac-style.css">
-
 <main>
 
     <!-- 1. HERO SECTION -->
@@ -11,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                          HVAC Services in San Francisco
+                            HVAC Services in San Francisco
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                             Get dependable HVAC services in San Francisco for heating, cooling, ventilation, repairs, installations, maintenance, and year-round indoor comfort tailored to local residential homes.
+                            Get dependable HVAC services in San Francisco for heating, cooling, ventilation, repairs, installations, maintenance, and year-round indoor comfort tailored to local residential homes.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -32,17 +31,16 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                        Local HVAC Solutions for San Francisco Homeowners
+                            Local HVAC Solutions for San Francisco Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                           San Francisco homes experience a distinct mix of coastal fog, cool marine air, mild winters, and occasional warm spells. That means HVAC needs can vary significantly between neighborhoods and even between rooms. Older houses, apartments, and remodeled properties may have different heating, ventilation, insulation, and ductwork requirements. Easy Home Service helps homeowners find HVAC professionals for practical solutions based on their property, equipment, and comfort concerns.</p>
+                            San Francisco homes experience a distinct mix of coastal fog, cool marine air, mild winters, and occasional warm spells. That means HVAC needs can vary significantly between neighborhoods and even between rooms. Older houses, apartments, and remodeled properties may have different heating, ventilation, insulation, and ductwork requirements. Easy Home Service helps homeowners find HVAC professionals for practical solutions based on their property, equipment, and comfort concerns.</p>
                         <p class="ehs-hvac-intro-description">
-                          HVAC services in San Francisco can include furnace and heat pump repair, AC installation, thermostat service, ductwork, ventilation, air filtration, seasonal maintenance, and complete system replacement. Local professionals can evaluate airflow, equipment condition, controls, and system sizing before recommending work for the home. For homes without traditional central cooling, options such as ductless mini-splits or heat pumps may be considered when appropriate for the property.
+                            HVAC services in San Francisco can include furnace and heat pump repair, AC installation, thermostat service, ductwork, ventilation, air filtration, seasonal maintenance, and complete system replacement. Local professionals can evaluate airflow, equipment condition, controls, and system sizing before recommending work for the home. For homes without traditional central cooling, options such as ductless mini-splits or heat pumps may be considered when appropriate for the property.
                         </p>
-                         <p class="ehs-hvac-intro-description">
-                          Whether you are dealing with a cold bedroom, weak airflow, an aging furnace, poor indoor air circulation, or a cooling system that struggles during a warm spell, choosing the right service can help restore dependable comfort throughout your home and improve everyday living conditions.
-                        </p>                       
-                                              
+                        <p class="ehs-hvac-intro-description">
+                            Whether you are dealing with a cold bedroom, weak airflow, an aging furnace, poor indoor air circulation, or a cooling system that struggles during a warm spell, choosing the right service can help restore dependable comfort throughout your home and improve everyday living conditions.
+                        </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
                         </div>
@@ -56,65 +54,55 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-            <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-
-                    <div class="ehs-hvac-solutions-header">
-                        <h2 class="ehs-hvac-section-title">Core HVAC Services</h2>
-                        <!-- <p class="ehs-hvac-solutions-subtitle">
-                            From heating during freezing winter weather to cooling through hot summer days, homeowners across New York City can connect with professionals who specialize in these essential HVAC services.
-                        </p> -->
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="ehs-hvac-solutions-header">
+                            <h2 class="ehs-hvac-section-title">Core HVAC Services</h2>
+                        </div>
                     </div>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-wind"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Get help with furnace repair, heat pump service, thermostat problems, heating maintenance, and heating system replacement for comfortable indoor temperatures during San Francisco’s cooler months.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-filter"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Find professionals for AC repair, central air conditioning, ductless mini-split systems, cooling maintenance, refrigerant concerns, and replacement when your home needs dependable temperature control.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="ehs-hvac-solutions-card">
+                            <div class="ehs-hvac-solutions-icon">
+                                <i class="fa-solid fa-broom"></i>
+                            </div>
+                            <h3 class="ehs-hvac-solutions-card-title">Ventilation & Air Quality</h3>
+                            <p class="ehs-hvac-solutions-card-text">
+                                Improve indoor airflow with ductwork services, ventilation solutions, filtration, air purification, exhaust fans, humidifiers, and dehumidifiers suited to your property.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="ehs-hvac-solutions-action">
+                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
                 </div>
             </div>
 
-            <div class="row g-4 justify-content-center">
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-wind"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                           Get help with furnace repair, heat pump service, thermostat problems, heating maintenance, and heating system replacement for comfortable indoor temperatures during San Francisco’s cooler months.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                           <i class="fa-solid fa-filter"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                         Find professionals for AC repair, central air conditioning, ductless mini-split systems, cooling maintenance, refrigerant concerns, and replacement when your home needs dependable temperature control.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-4">
-                    <div class="ehs-hvac-solutions-card">
-                        <div class="ehs-hvac-solutions-icon">
-                            <i class="fa-solid fa-broom"></i>
-                        </div>
-                        <h3 class="ehs-hvac-solutions-card-title">Ventilation & Air Quality</h3>
-                        <p class="ehs-hvac-solutions-card-text">
-                          Improve indoor airflow with ductwork services, ventilation solutions, filtration, air purification, exhaust fans, humidifiers, and dehumidifiers suited to your property.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="ehs-hvac-solutions-action">
-                <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
-            </div>
-        </div>    
-        </div>
-            
         </div>
     </section>
-
     <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
@@ -122,20 +110,25 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                           Common HVAC Problems San Francisco Homeowners Face
+                            Common HVAC Problems San Francisco Homeowners Face
                         </h2>
-                        
+
                         <p class="ehs-hvac-signs-intro">
                             HVAC problems can appear gradually or become obvious when your system is working harder than usual. San Diego homeowners may want professional attention when they notice:
 
                         </p>
-                      
                         <ul class="ehs-hvac-signs-list">
-                           <li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Rooms exposed to coastal winds, limited insulation, or different sun patterns can feel warmer or colder than the rest of the home. An HVAC professional can investigate airflow, ductwork, thermostat placement, and performance.</li>
-<li class="ehs-hvac-signs-item"><strong>Heating that struggles:</strong> A furnace or heat pump may run frequently without maintaining the desired temperature. Dirty filters, airflow restrictions, worn components, incorrect settings, or age can contribute.</li>
-<li class="ehs-hvac-signs-item"><strong>Unexpected cooling needs:</strong> Mild summers can still make poorly ventilated or sun-exposed rooms uncomfortable. A suitable AC or heat pump system can provide targeted cooling when needed.</li>
-<li class="ehs-hvac-signs-item"><strong>Poor indoor air movement:</strong> Older properties may have limited mechanical ventilation or aging ducts. Insufficient airflow can cause stuffiness, odors, inconsistent temperatures, and discomfort.</li>
-<li class="ehs-hvac-signs-item"><strong>Aging systems:</strong> Frequent repairs, unusual sounds, short cycling, rising costs, or unreliable operation can indicate a system needs evaluation.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Rooms exposed to coastal winds, limited insulation, or different sun patterns can feel warmer or colder than the rest of the home. An HVAC professional can investigate airflow, ductwork, thermostat placement, and performance.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Heating that struggles:</strong> A furnace or heat pump may run frequently without maintaining the desired temperature. Dirty filters, airflow restrictions, worn components, incorrect settings, or age can contribute.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Unexpected cooling needs:</strong> Mild summers can still make poorly ventilated or sun-exposed rooms uncomfortable. A suitable AC or heat pump system can provide targeted cooling when needed.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Poor indoor air movement:</strong> Older properties may have limited mechanical ventilation or aging ducts. Insufficient airflow can cause stuffiness, odors, inconsistent temperatures, and discomfort.</li>
+
+                            <li class="ehs-hvac-signs-item"><strong>Aging systems:</strong> Frequent repairs, unusual sounds, short cycling, rising costs, or unreliable operation can indicate a system needs evaluation.</li>
+
                         </ul>
                         <p class="ehs-hvac-signs-intro">
                             These symptoms can have different causes, including airflow restrictions, dirty filters, ductwork concerns, thermostat problems, drainage issues, electrical components, or equipment wear. A professional inspection can help determine what requires attention rather than assuming every symptom has the same solution.
@@ -148,50 +141,45 @@
             </div>
         </div>
     </section>
-
     <!-- 5. HVAC CHALLENGES -->
     <section class="ehs-hvac-challenges-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-challenges-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          HVAC Services Available in San Francisco
+                            HVAC Services Available in San Francisco
                         </h2>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating and Heat Pump Service</h3>
                             <p class="ehs-hvac-challenges-text">
-                              San Francisco’s cool, damp periods make dependable heating important, particularly in older homes with aging furnaces, wall heaters, or inefficient equipment. Professionals can inspect heating components, troubleshoot controls, repair faults, and assess whether a heat pump could suit the property and needs.
+                                San Francisco’s cool, damp periods make dependable heating important, particularly in older homes with aging furnaces, wall heaters, or inefficient equipment. Professionals can inspect heating components, troubleshoot controls, repair faults, and assess whether a heat pump could suit the property and needs.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Air Conditioning and Cooling</h3>
                             <p class="ehs-hvac-challenges-text">
                                 Although the city is known for mild summers, occasional warm weather can expose weaknesses in an existing cooling system. Service can include AC repair, central air conditioning, ductless mini-split installation, refrigerant diagnostics, thermostat issues, and replacement planning options when needed.
                             </p>
                         </div>
-
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Ductwork and Airflow</h3>
                             <p class="ehs-hvac-challenges-text">
                                 Leaky, damaged, undersized, or poorly configured ducts can make some rooms uncomfortable while increasing system workload. HVAC professionals can inspect ducts, identify airflow restrictions, seal accessible leaks, and recommend improvements.
                             </p>
                         </div>
-                                                <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Ventilation and Indoor Air Quality</h3>
                             <p class="ehs-hvac-challenges-text">
-                              Homes can benefit from appropriate ventilation, filtration, and humidity management. Services may include exhaust fans, air cleaners, filters, humidifiers, and dehumidifiers, depending on the building and household needs.
+                                Homes can benefit from appropriate ventilation, filtration, and humidity management. Services may include exhaust fans, air cleaners, filters, humidifiers, and dehumidifiers, depending on the building and household needs.
                             </p>
                         </div>
-                          <div class="ehs-hvac-challenges-block">
+                        <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Maintenance and System Evaluation</h3>
                             <p class="ehs-hvac-challenges-text">
-                               Routine inspections can identify worn parts, clogged filters, airflow problems, and control issues before they become larger concerns. Maintenance can help homeowners understand equipment condition and plan repairs or replacement. Professional attention can support reliable operation across seasons and household needs.
+                                Routine inspections can identify worn parts, clogged filters, airflow problems, and control issues before they become larger concerns. Maintenance can help homeowners understand equipment condition and plan repairs or replacement. Professional attention can support reliable operation across seasons and household needs.
                             </p>
-                        </div>
-
                         </div>
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
@@ -199,13 +187,11 @@
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
@@ -218,7 +204,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
@@ -235,12 +220,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -256,12 +239,10 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
                     <i class="fa-solid fa-arrow-right"></i>
                 </div>
-
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
@@ -278,7 +259,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Bottom CTA Action -->
             <div class="ehs-hvac-steps-action">
                 <a href="#get-quote" class="ehs-hvac-steps-btn">Get A Quote Now</a>
@@ -291,9 +271,7 @@
         </div>
     </section>
 
- 
-
-    <!-- 8. DARK CTA SECTION -->
+    <!-- 7. DARK CTA SECTION -->
     <section class="ehs-hvac-cta-dark-section">
         <div class="container">
             <div class="row justify-content-center">
@@ -305,7 +283,7 @@
                                 <div class="col-12 col-md-8">
                                     <div class="ehs-hvac-cta-content">
                                         <h2 class="ehs-hvac-cta-title">
-                                        Need HVAC Help in San Francisco?
+                                            Need HVAC Help in San Francisco?
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
                                             Connect with the right local HVAC professional for repair, installation, maintenance, heating, cooling, or replacement needs.
@@ -328,89 +306,88 @@
             </div>
         </div>
     </section>
-
-    <!-- 9. 6-CARD SERVICES GRID -->
+    <!-- 8. 6-CARD SERVICES GRID -->
     <section class="ehs-hvac-grid-section">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-lg-8">
-            <div class="row justify-content-center text-center">
-              <div class="col-12 col-lg-12">
-                <div class="ehs-hvac-grid-header">
-                  <h2 class="ehs-hvac-section-title">More HVAC Services for Local Homes</h2>
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="ehs-hvac-grid-header">
+                                <h2 class="ehs-hvac-section-title">More HVAC Services for Local Homes</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row g-4 justify-content-center">
+                        <!-- 1. Furnace Repair & Replacement -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-microscope"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Furnace Repair & Replacement</h3>
+                                <p class="ehs-hvac-grid-card-text">Get professional help when a furnace stops heating properly, cycles frequently, makes unusual sounds, or needs replacement.</p>
+                            </div>
+                        </div>
+                        <!-- 2. Heat Pump Installation & Repair -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Heat Pump Installation & Repair</h3>
+                                <p class="ehs-hvac-grid-card-text">Explore heat pump solutions for homes seeking combined heating and cooling, with equipment selected according to property requirements.</p>
+                            </div>
+                        </div>
+                        <!-- 3. AC Repair & Installation -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">AC Repair & Installation</h3>
+                                <p class="ehs-hvac-grid-card-text">Address weak cooling, unusual operation, refrigerant concerns, or outdated equipment with appropriate AC service.</p>
+                            </div>
+                        </div>
+                        <!-- 4. Ductless Mini-Split Services -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-sun"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductless Mini-Split Services</h3>
+                                <p class="ehs-hvac-grid-card-text">Consider mini-split installation or repair for targeted temperature control where conventional ductwork may not be practical.</p>
+                            </div>
+                        </div>
+                        <!-- 5. Ductwork Repair & Sealing -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-droplet"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">Ductwork Repair & Sealing</h3>
+                                <p class="ehs-hvac-grid-card-text">Resolve airflow problems associated with damaged, disconnected, poorly configured, or leaking ductwork.</p>
+                            </div>
+                        </div>
+                        <!-- 6. HVAC Maintenance & Tune-Ups -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance & Tune-Ups</h3>
+                                <p class="ehs-hvac-grid-card-text">Schedule professional inspections to identify developing equipment, airflow, filter, thermostat, and control issues.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ehs-hvac-grid-action">
+                        <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
+                    </div>
                 </div>
-              </div>
             </div>
-            <div class="row g-4 justify-content-center">
-              <!-- 1. Furnace & Heating Repair -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-microscope"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Furnace Repair & Replacement</h3>
-                  <p class="ehs-hvac-grid-card-text">Get professional help when a furnace stops heating properly, cycles frequently, makes unusual sounds, or needs replacement.</p>
-                </div>
-              </div>
-              <!-- 2. Boiler Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-wind"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Heat Pump Installation & Repair</h3>
-                  <p class="ehs-hvac-grid-card-text">Explore heat pump solutions for homes seeking combined heating and cooling, with equipment selected according to property requirements.</p>
-                </div>
-              </div>
-              <!-- 3. Air Conditioning -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-filter"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">AC Repair & Installation</h3>
-                  <p class="ehs-hvac-grid-card-text">Address weak cooling, unusual operation, refrigerant concerns, or outdated equipment with appropriate AC service.</p>
-                </div>
-              </div>
-              <!-- 4. Heat Pump Services -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-sun"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductless Mini-Split Services</h3>
-                  <p class="ehs-hvac-grid-card-text">Consider mini-split installation or repair for targeted temperature control where conventional ductwork may not be practical.</p>
-                </div>
-              </div>
-              <!-- 5. Ductwork & Airflow -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                    <i class="fa-solid fa-droplet"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">Ductwork Repair & Sealing</h3>
-                  <p class="ehs-hvac-grid-card-text">Resolve airflow problems associated with damaged, disconnected, poorly configured, or leaking ductwork.</p>
-                </div>
-              </div>
-              <!-- 6. Ventilation & Indoor Air Quality -->
-              <div class="col-12 col-md-6 col-lg-4">
-                <div class="ehs-hvac-grid-card">
-                  <div class="ehs-hvac-grid-icon-wrap">
-                   <i class="fa-solid fa-broom"></i>
-                  </div>
-                  <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance & Tune-Ups</h3>
-                  <p class="ehs-hvac-grid-card-text">Schedule professional inspections to identify developing equipment, airflow, filter, thermostat, and control issues.</p>
-                </div>
-              </div>
-            </div>
-            <div class="ehs-hvac-grid-action">
-              <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
-    <style>
+<style>
         .ehs-hvac-deciding-section-title {
     font-size: 17px;
     font-weight: 600;
@@ -425,70 +402,64 @@
     margin-bottom: 0;
 }
         </style>
-<!-- 10. HOMEOWNER SITUATIONS -->
+    <!-- 9. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
-                        
+
                         <h2 class="ehs-hvac-section-title">
-                          Choosing HVAC Solutions for San Francisco Homes
+                            Choosing HVAC Solutions for San Francisco Homes
                         </h2>
-
-                        
-
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Match the System to the Property</h3>
                             <p class="ehs-hvac-situations-text">
-                               San Francisco has a varied housing, from older homes and apartments to remodeled residences and newer construction. HVAC equipment should be evaluated alongside space, electrical capacity, ductwork, insulation, ventilation, and the home’s comfort pattern. A professional assessment is especially useful when replacing an older system or adding cooling where none previously existed.
+                                San Francisco has a varied housing, from older homes and apartments to remodeled residences and newer construction. HVAC equipment should be evaluated alongside space, electrical capacity, ductwork, insulation, ventilation, and the home’s comfort pattern. A professional assessment is especially useful when replacing an older system or adding cooling where none previously existed.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                               Find AC and Heating Solutions &rarr;
+                            Find AC and Heating Solutions &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 2 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Consider Heat Pumps for Heating and Cooling</h3>
                             <p class="ehs-hvac-situations-text">
-                               Heat pumps can provide both heating and cooling from one system and are increasingly relevant to California homeowners. San Francisco has also identified heat pump adoption as part of its building decarbonization efforts. Equipment selection still depends on the property, installation requirements, electrical setup, and homeowner priorities.
+                                Heat pumps can provide both heating and cooling from one system and are increasingly relevant to California homeowners. San Francisco has also identified heat pump adoption as part of its building decarbonization efforts. Equipment selection still depends on the property, installation requirements, electrical setup, and homeowner priorities.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Explore Ductwork, Ventilation, and Airflow &rarr;
+                            Explore Ductwork, Ventilation, and Airflow &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Pay Attention to Ventilation and Air Quality</h3>
                             <p class="ehs-hvac-situations-text">
-                               San Francisco’s coastal environment and occasional wildfire smoke events make ventilation and filtration important considerations. City documents note that many existing buildings have limited mechanical ventilation or heat and air quality measures. Filtration, ventilation, and air sealing can be evaluated alongside HVAC performance.
+                                San Francisco’s coastal environment and occasional wildfire smoke events make ventilation and filtration important considerations. City documents note that many existing buildings have limited mechanical ventilation or heat and air quality measures. Filtration, ventilation, and air sealing can be evaluated alongside HVAC performance.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Choosing a Service Based on the Problem &rarr;
+                            Choosing a Service Based on the Problem &rarr;
                             </a>
                         </div>
-
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Plan Around Local Weather Patterns</h3>
                             <p class="ehs-hvac-situations-text">
-                              San Francisco’s marine climate produces relatively mild temperatures, cool summers, and differences influenced by terrain and proximity to the coast. Cooling demand can rise during warm periods, while heating remains relevant during cool months. Professional service can help homeowners choose equipment and maintenance priorities for conditions.
+                                San Francisco’s marine climate produces relatively mild temperatures, cool summers, and differences influenced by terrain and proximity to the coast. Cooling demand can rise during warm periods, while heating remains relevant during cool months. Professional service can help homeowners choose equipment and maintenance priorities for conditions.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
-                                                <!-- Situation 4 -->
+                        <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Repair, Maintain, or Replace?</h3>
                             <p class="ehs-hvac-situations-text">
                                 A repair may make sense when equipment is otherwise dependable and the fault is limited. Replacement deserves consideration when a system is repeatedly failing, difficult to support, poorly matched to the home, or approaching the end of its service life. An HVAC professional can evaluate the system and explain practical options without assuming replacement is necessary.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                                Connect With an HVAC Professional &rarr;
+                            Connect With an HVAC Professional &rarr;
                             </a>
                         </div>
                         <!-- Bottom Bar Callout -->
@@ -498,26 +469,24 @@
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-   <?php include '../state-cities.php';?>
-    <!-- 11. FAQ ACCORDION SECTION -->
+    <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
     <section class="ehs-hvac-faq-section">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-faq-container text-center">
-                        
+
                         <h2 class="ehs-hvac-section-title">
                             Frequently Asked Question
                         </h2>
-
                         <div class="ehs-hvac-faq-list text-start">
-                            
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
@@ -526,11 +495,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      HVAC services in San Francisco can include heating repair, AC repair, heat pump installation, furnace service, ductwork, ventilation, thermostat repair, maintenance, indoor air quality solutions, and complete HVAC system replacement.
+                                        HVAC services in San Francisco can include heating repair, AC repair, heat pump installation, furnace service, ductwork, ventilation, thermostat repair, maintenance, indoor air quality solutions, and complete HVAC system replacement.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -539,11 +507,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                      San Francisco generally has mild temperatures, but warmer periods can still make certain homes uncomfortable. Cooling needs depend on the property's location, insulation, sun exposure, ventilation, occupancy, and individual comfort preferences.
+                                        San Francisco generally has mild temperatures, but warmer periods can still make certain homes uncomfortable. Cooling needs depend on the property's location, insulation, sun exposure, ventilation, occupancy, and individual comfort preferences.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -552,11 +519,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                       The appropriate system depends on the home's existing equipment, ductwork, electrical capacity, insulation, available space, and heating and cooling requirements. A professional evaluation can help determine suitable repair, replacement, or heat pump options.
+                                        The appropriate system depends on the home's existing equipment, ductwork, electrical capacity, insulation, available space, and heating and cooling requirements. A professional evaluation can help determine suitable repair, replacement, or heat pump options.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -565,11 +531,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Heat pumps can provide both heating and cooling and may be suitable for many California homes. However, equipment selection should consider the property's electrical system, installation requirements, existing HVAC setup, and household needs.
+                                        Heat pumps can provide both heating and cooling and may be suitable for many California homes. However, equipment selection should consider the property's electrical system, installation requirements, existing HVAC setup, and household needs.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -578,11 +543,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Many homeowners schedule professional HVAC maintenance at least once a year, while systems with heavier use or recurring issues may require more frequent attention. Filters should also be checked and replaced according to the equipment and household conditions.
+                                        Many homeowners schedule professional HVAC maintenance at least once a year, while systems with heavier use or recurring issues may require more frequent attention. Filters should also be checked and replaced according to the equipment and household conditions.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
@@ -591,7 +555,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                    Uneven temperatures can result from ductwork problems, restricted airflow, insulation differences, thermostat placement, equipment limitations, drafts, or room orientation. An HVAC professional can assess the system and identify potential causes.
+                                        Uneven temperatures can result from ductwork problems, restricted airflow, insulation differences, thermostat placement, equipment limitations, drafts, or room orientation. An HVAC professional can assess the system and identify potential causes.
                                     </div>
                                 </div>
                             </div>
@@ -603,7 +567,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Repair may be appropriate when the equipment is otherwise reliable and the problem is limited. Replacement may deserve consideration when repairs become frequent, performance declines, equipment is poorly matched, or the system is nearing the end of its service life.
+                                        Repair may be appropriate when the equipment is otherwise reliable and the problem is limited. Replacement may deserve consideration when repairs become frequent, performance declines, equipment is poorly matched, or the system is nearing the end of its service life.
                                     </div>
                                 </div>
                             </div>
@@ -615,25 +579,20 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                     Easy Home Service helps homeowners connect with professionals for HVAC repair, installation, maintenance, heating, cooling, ductwork, and replacement needs. You can request a quote based on your home's specific requirements.
+                                        Easy Home Service helps homeowners connect with professionals for HVAC repair, installation, maintenance, heating, cooling, ductwork, and replacement needs. You can request a quote based on your home's specific requirements.
                                     </div>
                                 </div>
                             </div>
                         </div>
-
                         <div class="ehs-hvac-faq-action">
                             <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 </main>
-
-
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -693,8 +652,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 </script>
-<?php include'../promise.php' ?> 
-<?php include'../footer.php' ?> 
+<?php include'../promise.php' ?>
+<?php include'../footer.php' ?>
 <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="js/bookmarkscroll.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>

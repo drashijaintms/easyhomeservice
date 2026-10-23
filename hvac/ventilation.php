@@ -109,7 +109,7 @@
 </div> 
 <?php include '../how-works.php';?>
 <?php include '../section-include/inner-section/inner-section.php';?>
-<!-- Kansas -->
+<!-- Blog Section -->
 <div class="roofing_section_2 blog-section py-5 bg-light">
   <div class="container">
     <div class="text-center">
