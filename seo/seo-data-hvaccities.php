@@ -130,7 +130,7 @@ SCHEMA
 
 'hvac-services-in-san-antonio' => [
     'meta' => [
-        'title'       => 'HVAC Services in San Antonio, TX | AC & Heating Repairn',
+        'title'       => 'HVAC Services in San Antonio, TX | AC & Heating Repair',
         'description' => 'For reliable heating, cooling, AC repair, installation, replacement, maintenance, and year-round home comfort, choose HVAC services in San Antonio.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in San Antonio, TX'

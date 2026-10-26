@@ -87,7 +87,8 @@ Your information is 100% secure & confidential.
 const ENABLE_OTP = <?php echo isset($ENABLE_OTP) && $ENABLE_OTP ? 'true' : 'false'; ?>;
 window.requestStarted = false;
 const ENABLE_MAPBOX = true;
-const ENABLE_EMAIL_VERIFY = true;
+// const ENABLE_EMAIL_VERIFY = true;
+const ENABLE_EMAIL_VERIFY = false; // Bypassed email verification as requested
 
 if(ENABLE_MAPBOX) {
     const mapboxGLScript = document.createElement('script');
@@ -726,20 +727,22 @@ let current="service";
 let history_steps=[];
 let geocoder = null;
 let formData = {};
-// Get ZIP code from the URL
+// Get ZIP code from the URL (supports 'zip' or 'zipcode')
 const urlParams = new URLSearchParams(window.location.search);
-const urlZip = urlParams.get("zip");
+const urlZip = urlParams.get("zip") || urlParams.get("zipcode");
 
-// Accept only a valid 5-digit ZIP code
-if (urlZip && /^\d{5}$/.test(urlZip)) {
-    formData["zipcode"] = urlZip;
-}
 if (!sessionStorage.getItem(getStorageKey())) {
     window.history.replaceState({ current, history: history_steps, formData }, "", "");
 } else {
     loadState();
     current = "service";
     history_steps = [];
+}
+
+// Accept only a valid 5-digit ZIP code from URL and ensure it autofills
+if (urlZip && /^\d{5}$/.test(urlZip)) {
+    formData["zipcode"] = urlZip;
+    setCookie("saved_zipcode", urlZip, 30);
 }
 
 window.onpopstate = function(event) {
@@ -1021,8 +1024,30 @@ function initMapboxGeocoder(){
         $('.mapboxgl-ctrl-geocoder--input').addClass('text-card');
         if(formData["address"]){
             $('.mapboxgl-ctrl-geocoder--input').val(formData["address"]);
+            $('#address').val(formData["address"]);
+        }
+        if(formData["city"] && $('#city').length && !$('#city').val()){
+            $('#city').val(formData["city"]);
+        }
+        if(formData["state"] && $('#state').length && !$('#state').val()){
+            $('#state').val(formData["state"]);
+        }
+        if(formData["zipcode"] && $('#zipcode').length && !$('#zipcode').val()){
+            $('#zipcode').val(formData["zipcode"]);
         }
     },100);
+
+    // Sync typed text in geocoder input directly to #address and formData so selecting from dropdown is not mandatory
+    $(document).off('input', '.mapboxgl-ctrl-geocoder--input').on('input', '.mapboxgl-ctrl-geocoder--input', function() {
+        const typedVal = $(this).val();
+        $('#address').val(typedVal);
+        formData["address"] = typedVal;
+    });
+
+    $(document).off('click', '.mapboxgl-ctrl-geocoder--button').on('click', '.mapboxgl-ctrl-geocoder--button', function() {
+        $('#address').val('');
+        formData["address"] = '';
+    });
 
     geocoder.on('result', function(e){
         const place = e.result;
@@ -1056,15 +1081,20 @@ function initMapboxGeocoder(){
             if(match) zipcode = match[0];
         }
 
+        // Keep existing/URL zipcode if Mapbox did not return one
+        if(!zipcode && (formData["zipcode"] || $("#zipcode").val())){
+            zipcode = formData["zipcode"] || $("#zipcode").val();
+        }
+
         $("#address").val(place.place_name);
-        $("#city").val(city);
-        $("#state").val(state);
-        $("#zipcode").val(zipcode);
+        if(city) $("#city").val(city);
+        if(state) $("#state").val(state);
+        if(zipcode) $("#zipcode").val(zipcode);
 
         formData["address"] = place.place_name;
-        formData["city"] = city;
-        formData["state"] = state;
-        formData["zipcode"] = zipcode;
+        if(city) formData["city"] = city;
+        if(state) formData["state"] = state;
+        if(zipcode) formData["zipcode"] = zipcode;
         updateCurrentState();
     });
 }
@@ -1105,19 +1135,26 @@ function initEmailValidation(){
         }
 
         if (email.includes('@') && email.match(/\.[a-z]{2,}$/i)) {
+            /*
+            // Bypassed external API verification as requested:
             if(ENABLE_EMAIL_VERIFY) {
                 emailTimer = setTimeout(() => {
                     checkEmailValidity(email);
                 }, 800);
             } else {
+            */
                 isEmailValid = true;
                 $nextBtn.prop('disabled', false).css('opacity', '1');
                 $error.addClass('success-msg').show().text('✓ Email format valid');
                 setTimeout(() => $error.fadeOut(500), 1500);
+            /*
             }
+            */
         }
     });
 
+    /*
+    // Bypassed external email validation API call as requested (code preserved):
     function checkEmailValidity(email) {
         const simpleEmailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
@@ -1167,6 +1204,7 @@ function initEmailValidation(){
             }
         });
     }
+    */
 }
 
 function showError(message, containerId = 'radio-error'){
@@ -1214,21 +1252,27 @@ $(".next-btn-global").click(function(){
     }
 
     if(step.type==="address"){
-        const addr = $("#address").val();
-        const city = $("#city").val();
-        const state = $("#state").val();
-        const zip = $("#zipcode").val();
+        let addr = $("#address").val() ? $("#address").val().trim() : '';
+        if(!addr && ENABLE_MAPBOX && $('.mapboxgl-ctrl-geocoder--input').length) {
+            addr = $('.mapboxgl-ctrl-geocoder--input').val().trim();
+            $("#address").val(addr);
+        }
+        const city = $("#city").val() ? $("#city").val().trim() : '';
+        const state = $("#state").val() ? $("#state").val().trim() : '';
+        const zip = $("#zipcode").val() ? $("#zipcode").val().trim() : '';
 
         if(!addr || !city || !state || !zip){
             $('#address-error').text('Please fill all address fields').show();
-            if(!addr) $("#address").focus();
+            if(!addr) {
+                if(ENABLE_MAPBOX && $('.mapboxgl-ctrl-geocoder--input').length) {
+                    $('.mapboxgl-ctrl-geocoder--input').focus();
+                } else {
+                    $("#address").focus();
+                }
+            }
             else if(!city) $("#city").focus();
             else if(!state) $("#state").focus();
             else if(!zip) $("#zipcode").focus();
-
-            if(ENABLE_MAPBOX && !addr) {
-                $('.mapboxgl-ctrl-geocoder--input').focus();
-            }
             return;
         }
         formData["address"] = addr;
@@ -1258,6 +1302,8 @@ $(".next-btn-global").click(function(){
             return;
         }
 
+        /*
+        // Bypassed external email verification as requested:
         if(ENABLE_EMAIL_VERIFY) {
             const $nextBtn = $('.next-btn-global');
             if($nextBtn.prop('disabled')){
@@ -1265,6 +1311,7 @@ $(".next-btn-global").click(function(){
                 return;
             }
         }
+        */
 
         $("#question-options input").each(function(){
             formData[$(this).attr("name")] = $(this).val();

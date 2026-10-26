@@ -390,14 +390,14 @@
                                 <p class="ehs-hvac-grid-card-text">Get connected with professionals who can evaluate HVAC system concerns and recommend next steps.</p>
                             </div>
                         </div>
-                        <!-- 4. HVAC Installationn -->
+                        <!-- 4. HVAC Installation -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
 
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">HVAC Installationn</h3>
+                                <h3 class="ehs-hvac-grid-card-title">HVAC Installation</h3>
                                 <p class="ehs-hvac-grid-card-text">Explore professional help when adding a new HVAC system or upgrading an existing setup.</p>
                             </div>
                         </div>

@@ -794,16 +794,23 @@ $(document).ready(function() {
         }
         // Only start checking when user has typed something resembling an email
         if (email.includes('@') && email.match(/\.[a-z]{2,}$/i)) {
+            // Email verification bypassed as requested - enable Next button without API call
+            isEmailValid = true;
+            enableNext();
+            /*
             // Start debounce for API check
             emailTimer = setTimeout(() => {
                 checkEmailValidity(email);
             }, 800);
+            */
         } else {
             // Don't show "Rechecking…" yet for early typing (before valid email pattern)
             // Just quietly wait for them to type more
             return;
         }
     });
+    /*
+    // Bypassed external email validation API call as requested (code preserved):
     function checkEmailValidity(email) {
         const simpleEmailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
         // Only show checking message once we know it's a valid pattern
@@ -860,6 +867,7 @@ $(document).ready(function() {
             }
         });
     }
+    */
     function disableNext() {
         $nextBtn.prop('disabled', true).css({
             opacity: '0.6',
@@ -1742,6 +1750,8 @@ document.querySelectorAll('.custom-tab-btn').forEach(function(button) {
     // Preserve the zipcode exactly as provided
     if (currentParams.has("zip")) {
         newUrl.searchParams.set("zip", currentParams.get("zip"));
+    } else if (currentParams.has("zipcode")) {
+        newUrl.searchParams.set("zip", currentParams.get("zipcode"));
     }
 
     // Redirect without keeping the old URL in browser history
@@ -1853,3 +1863,17 @@ document.querySelectorAll('.custom-tab-btn').forEach(function(button) {
 </script>
 <script type="text/javascript" src="<?= asset('js/bookmarkscroll.js') ?>" defer></script>
 <script type="text/javascript" src="<?= asset('js/slick.js') ?>" defer></script>
+<script>
+// Autofill ZIP fields if zip or zipcode is present in the URL query string
+document.addEventListener("DOMContentLoaded", function () {
+    const params = new URLSearchParams(window.location.search);
+    const urlZip = params.get("zip") || params.get("zipcode");
+    if (urlZip && /^\d{5}$/.test(urlZip)) {
+        const zipInputs = document.querySelectorAll('input[name="zip"], input[name="zipcode"], .input_field_zip, #zipcode, .zipcode');
+        zipInputs.forEach(input => {
+            input.value = urlZip;
+            input.dataset.zipVerified = urlZip;
+        });
+    }
+});
+</script>

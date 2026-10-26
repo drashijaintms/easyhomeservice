@@ -7,6 +7,7 @@
     <section class="ehs-hvac-hero-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
@@ -19,8 +20,10 @@
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
 
@@ -28,28 +31,29 @@
     <section class="ehs-hvac-intro-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
                             Heating and Cooling Built for Louisville Homes
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            Louisville weather puts a heating and cooling system to work every season. Summers along the Ohio River Valley bring heat and heavy humidity, while winter swings between freezing mornings and mild afternoons. A system that struggles in either season costs you comfort and money.</p>
+                            Louisville weather puts a heating and cooling system to work every season. Summers along the Ohio River Valley bring heat and heavy humidity, while winter swings between freezing mornings and mild afternoons. A system that struggles in either season costs you comfort and money.
+                        </p>
                         <p class="ehs-hvac-intro-description">
                             Easy Home Service provides HVAC services in Louisville that cover installation, repair, maintenance, and indoor air quality for single-family homes, townhomes, and older properties in neighborhoods from the Highlands to St. Matthews. Our technicians explain what they find, outline your options in plain language, and recommend work that fits your home and budget.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Whether your air conditioner stopped cooling during a July heat wave or you want a furnace replacement before January arrives, we focus on clear communication and careful workmanship. Every visit starts with listening to your concerns, inspecting the equipment, and identifying the actual cause instead of guessing. You receive honest guidance so you can decide with confidence and get back to enjoying a comfortable home. Call or book online today to schedule your Louisville HVAC visit when convenient.
-                        </p>
-                        <p class="ehs-hvac-intro-description">
-                            Whether you need a repair today or are planning a system upgrade, Easy Home Service connects your home with practical HVAC options focused on comfort, performance, and long-term fit.
+                            Whether your air conditioner stopped cooling during a July heat wave or you want a furnace replacement before January arrives, we focus on clear communication and careful workmanship. Every visit starts with listening to your concerns, inspecting the equipment, and identifying the actual cause instead of guessing. You receive honest guidance so you can decide with confidence and get back to enjoying a comfortable home. Call or book online today to schedule your Louisville HVAC visit when convenient. 
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
 
@@ -57,91 +61,100 @@
     <section class="ehs-hvac-solutions-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
+
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
+
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">Our Core Heating and Cooling Services</h2>
+                            <h2 class="ehs-hvac-section-title">Our Core Heating and Cooling Service</h2>
                         </div>
                     </div>
-                </div>
-                <div class="row g-4 justify-content-center">
-                    <div class="col-12 col-md-4">
-                        <div class="ehs-hvac-solutions-card">
-                            <div class="ehs-hvac-solutions-icon">
-                                <i class="fa-solid fa-wind"></i>
+                    <div class="row g-4 justify-content-center">
+                        <div class="col-12 col-md-4">
+
+                            <div class="ehs-hvac-solutions-card">
+                                <div class="ehs-hvac-solutions-icon">
+                                    <i class="fa-solid fa-wind"></i>
+                                </div>
+                                <h3 class="ehs-hvac-solutions-card-title">Air Conditioning Service</h3>
+                                <p class="ehs-hvac-solutions-card-text">
+                                   From refrigerant checks to full cooling repairs, we keep your AC performing through Louisville's long, humid summers.
+                                </p>
                             </div>
-                            <h3 class="ehs-hvac-solutions-card-title">Air Conditioning Service</h3>
-                            <p class="ehs-hvac-solutions-card-text">
-                                From refrigerant checks to full cooling repairs, we keep your AC performing through Louisville's long, humid summers.
-                            </p>
                         </div>
-                    </div>
-                    <div class="col-12 col-md-4">
-                        <div class="ehs-hvac-solutions-card">
-                            <div class="ehs-hvac-solutions-icon">
-                                <i class="fa-solid fa-filter"></i>
+                        <div class="col-12 col-md-4">
+                            <div class="ehs-hvac-solutions-card">
+
+                                <div class="ehs-hvac-solutions-icon">
+                                    <i class="fa-solid fa-filter"></i>
+                                </div>
+                                <h3 class="ehs-hvac-solutions-card-title">Heating Service</h3>
+                                <p class="ehs-hvac-solutions-card-text">
+                                   Furnace and heat pump diagnostics and repair help your home stay warm when temperatures drop below freezing.
+                                </p>
                             </div>
-                            <h3 class="ehs-hvac-solutions-card-title">Heating Service</h3>
-                            <p class="ehs-hvac-solutions-card-text">
-                                Furnace and heat pump diagnostics and repair help your home stay warm when temperatures drop below freezing.
-                            </p>
                         </div>
-                    </div>
-                    <div class="col-12 col-md-4">
-                        <div class="ehs-hvac-solutions-card">
-                            <div class="ehs-hvac-solutions-icon">
-                                <i class="fa-solid fa-broom"></i>
+                        <div class="col-12 col-md-4">
+                            <div class="ehs-hvac-solutions-card">
+
+                                <div class="ehs-hvac-solutions-icon">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
+                                <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance</h3>
+                                <p class="ehs-hvac-solutions-card-text">
+                                     Seasonal tune-ups clean, test, and inspect key components so small issues are caught before the busiest seasons.
+                                </p>
                             </div>
-                            <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance</h3>
-                            <p class="ehs-hvac-solutions-card-text">
-                                Seasonal tune-ups clean, test, and inspect key components so small issues are caught before the busiest seasons.
-                            </p>
                         </div>
+
                     </div>
-                </div>
-                <div class="ehs-hvac-solutions-action">
-                    <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
+                    <div class="ehs-hvac-solutions-action">
+                        <a href="#get-quote" class="ehs-hvac-solutions-btn">Get A Quote Now</a>
+                    </div>
                 </div>
             </div>
-
         </div>
     </section>
     <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
     <section class="ehs-hvac-signs-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
                             Why Louisville Homeowners Choose Easy Home Service
                         </h2>
+
+                        <p class="ehs-hvac-signs-intro">
+                           Choosing the right HVAC professional can make home maintenance less stressful. Easy Home Service helps Albuquerque homeowners explore suitable service options for their heating and cooling concerns.
+                        </p>
                         <ul class="ehs-hvac-signs-list">
-
                             <li class="ehs-hvac-signs-item"><strong>Local climate awareness:</strong> We size and recommend equipment for Kentucky's humid summers and variable winters, so your home stays comfortable without overworking the system.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Clear, upfront estimates:</strong> You review the scope and price of recommended work before it begins, so you always know what to expect.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Honest recommendations:</strong> We repair what can be repaired and discuss replacement only when the numbers and the equipment's condition make it sensible.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Built for older homes:</strong> Louisville's historic neighborhoods often have unusual ductwork, limited space, and aging equipment, and our team plans installations around those realities.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Energy-conscious solutions:</strong> We discuss efficiency ratings, proper sizing, and sealed ductwork so your system uses energy wisely and keeps monthly utility costs more manageable.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Respect for your home:</strong> Technicians protect floors, keep work areas tidy, and walk you through completed work before they leave, answering any questions you may have.</li>
-
                         </ul>
+                        <p class="ehs-hvac-signs-intro">
+                            Easy Home Service makes it easier to begin your search for home service professionals. Review available options and choose a solution that fits your household’s requirements.
+                        </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
     <!-- 5. HVAC CHALLENGES -->
     <section class="ehs-hvac-challenges-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-challenges-container">
 
@@ -174,19 +187,22 @@
                         </div>
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
-                                Ready to address an HVAC problem? Explore HVAC services in Jacksonville and connect with a professional for your home’s specific needs.
+                                Easy Home Service helps Elizabeth homeowners connect with local HVAC professionals based on the type of assistance they need. Whether you are dealing with a repair, maintenance concern, installation project, replacement decision, or airflow issue, you can start by identifying your needs and exploring professional options.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
     <!-- 6. HOW IT WORKS (3 SIMPLE STEPS) -->
     <section class="ehs-hvac-steps-section">
         <div class="container">
             <div class="row justify-content-center text-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-steps-header">
                         <h2 class="ehs-hvac-section-title">
@@ -194,11 +210,13 @@
                         </h2>
                     </div>
                 </div>
+
             </div>
             <div class="row justify-content-center align-items-stretch g-4 ehs-hvac-steps-row">
                 <!-- Step 1 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
+
                         <div class="ehs-hvac-step-img-wrap">
                             <img src="../images/ductwork/step-1.png" alt="Tell Us About Your Project" class="ehs-hvac-step-img">
                             <span class="ehs-hvac-step-badge">01</span>
@@ -210,6 +228,7 @@
                             </p>
                         </div>
                     </div>
+
                 </div>
                 <!-- Arrow 1 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
@@ -218,6 +237,7 @@
                 <!-- Step 2 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
+
                         <div class="ehs-hvac-step-img-wrap">
                             <img src="../images/ductwork/step-2.png" alt="Connect with Local Contractors" class="ehs-hvac-step-img">
                             <span class="ehs-hvac-step-badge">02</span>
@@ -229,6 +249,7 @@
                             </p>
                         </div>
                     </div>
+
                 </div>
                 <!-- Arrow 2 (Desktop) -->
                 <div class="col-auto d-none d-lg-flex ehs-hvac-step-arrow">
@@ -237,6 +258,7 @@
                 <!-- Step 3 -->
                 <div class="col-12 col-md-6 col-lg-3 col-xl-3 ehs-hvac-step-col">
                     <div class="ehs-hvac-step-card">
+
                         <div class="ehs-hvac-step-img-wrap">
                             <img src="../images/ductwork/step-3.png" alt="Start Your Home Improvement Project" class="ehs-hvac-step-img">
                             <span class="ehs-hvac-step-badge">03</span>
@@ -248,6 +270,7 @@
                             </p>
                         </div>
                     </div>
+
                 </div>
             </div>
             <!-- Bottom CTA Action -->
@@ -259,6 +282,7 @@
                     <span class="ehs-hvac-steps-line"></span>
                 </div>
             </div>
+
         </div>
     </section>
 
@@ -266,8 +290,10 @@
     <section class="ehs-hvac-cta-dark-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-xl-8">
                     <div class="ehs-hvac-cta-outer-box">
+
                         <div class="ehs-hvac-cta-card">
                             <div class="row align-items-center g-0">
                                 <!-- Left: Text & CTA Button -->
@@ -277,12 +303,13 @@
                                             Ready for a More Comfortable Home?
                                         </h2>
                                         <p class="ehs-hvac-cta-text">
-                                            Don't wait for a small comfort issue to become a costly breakdown. Talk with Easy Home Service about your heating and cooling needs today.
+                                           Don't wait for a small comfort issue to become a costly breakdown. Talk with Easy Home Service about your heating and cooling needs today.
                                         </p>
                                         <div class="ehs-hvac-cta-action">
                                             <a href="#get-quote" class="ehs-hvac-cta-btn">Get Started</a>
                                         </div>
                                     </div>
+
                                 </div>
                                 <!-- Right: Technician with AC unit -->
                                 <div class="col-12 col-md-4 ehs-hvac-cta-img-col">
@@ -290,10 +317,13 @@
                                         <img src="../images/ductwork/cta-img.png" alt="HVAC Professional" class="ehs-hvac-cta-img">
                                     </div>
                                 </div>
+
                             </div>
                         </div>
+
                     </div>
                 </div>
+
             </div>
         </div>
     </section>
@@ -301,18 +331,22 @@
     <section class="ehs-hvac-grid-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
+
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
+
                         <div class="col-12 col-lg-12">
                             <div class="ehs-hvac-grid-header">
                                 <h2 class="ehs-hvac-section-title">HVAC Services We Offer Across Louisville</h2>
                             </div>
                         </div>
+
                     </div>
                     <div class="row g-4 justify-content-center">
-                        <!-- 1. System Replacement and Installation -->
+                        <!-- 1. Heating Services -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
@@ -320,9 +354,10 @@
                                 <p class="ehs-hvac-grid-card-text">Replacing an aging furnace or air conditioner? We assess your home's size, layout, and ductwork before recommending equipment that fits.</p>
                             </div>
                         </div>
-                        <!-- 2. Heat Pump Services -->
+                        <!-- 2. Air Conditioning -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
@@ -330,19 +365,21 @@
                                 <p class="ehs-hvac-grid-card-text">Heat pumps heat and cool from one system, which suits Louisville's mixed climate. We handle installation, repair, and seasonal checkups.</p>
                             </div>
                         </div>
-                        <!-- 3. Ductless Mini-Split Systems -->
+                        <!-- 3. HVAC Repair -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title"> Ductless Mini-Split Systems</h3>
-                                <p class="ehs-hvac-grid-card-text"> Ideal for additions, sunrooms, and older homes without ductwork, mini-splits provide targeted comfort without major construction.</p>
+                                <h3 class="ehs-hvac-grid-card-title">Ductless Mini-Split Systems</h3>
+                                <p class="ehs-hvac-grid-card-text">Ideal for additions, sunrooms, and older homes without ductwork, mini-splits provide targeted comfort without major construction.</p>
                             </div>
                         </div>
-                        <!-- 4. Ductwork Sealing and Cleaning -->
+                        <!-- 4. HVAC Installationn -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
@@ -350,19 +387,21 @@
                                 <p class="ehs-hvac-grid-card-text">We inspect for leaks, disconnected sections, and buildup, helping conditioned air reach the rooms you actually use.</p>
                             </div>
                         </div>
-                        <!-- 5. Indoor Air Quality Solutions -->
+                        <!-- 5. HVAC Replacement -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-droplet"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title"> Indoor Air Quality Solutions</h3>
+                                <h3 class="ehs-hvac-grid-card-title">Indoor Air Quality Solutions</h3>
                                 <p class="ehs-hvac-grid-card-text">Upgraded filtration, air purifiers, humidifiers, and dehumidifiers can help ease the effects of pollen, dust, and seasonal humidity.</p>
                             </div>
                         </div>
-                        <!-- 6. Smart Thermostat Installation -->
+                        <!-- 6. Ductwork & Airflow -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="ehs-hvac-grid-card">
+
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
@@ -370,38 +409,31 @@
                                 <p class="ehs-hvac-grid-card-text">Programmable and Wi-Fi thermostats give you better control over schedules and comfort, with professional setup and a quick walkthrough.</p>
                             </div>
                         </div>
+
                     </div>
                     <div class="ehs-hvac-grid-action">
                         <a href="#get-quote" class="ehs-hvac-grid-btn">Get A Quote Now</a>
                     </div>
                 </div>
+
             </div>
         </div>
     </section>
-<style>
-        .ehs-hvac-deciding-section-title {
-    font-size: 17px;
-    font-weight: 600;
-    color: var(--ehs-text-heading);
-    margin-bottom: 12px;
-}
-.ehs-hvac-deciding-section-text
- {
-    font-size: 15px;
-    color: var(--ehs-text-body);
-    margin-bottom: 0;
-}
-        </style>
     <!-- 9. HOMEOWNER SITUATIONS -->
     <section class="ehs-hvac-situations-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-situations-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            How to Choose an HVAC Contractor in Louisville
+                          How to Choose an HVAC Contractor in Louisville
                         </h2>
+
+                        <!-- <p class="ehs-hvac-situations-intro">
+                            Elizabeth homes can face different heating, cooling, airflow, and indoor comfort concerns throughout the year. Older heating equipment, aging AC systems, uneven temperatures, and poor airflow can all affect how comfortable and efficient a home feels.
+                        </p> -->
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">How Our HVAC Process Works</h3>
@@ -409,7 +441,7 @@
                                 Every service call begins with a conversation about what you have noticed, followed by a thorough inspection of the equipment, airflow, thermostat, and ductwork. We explain the findings in plain language, present repair or replacement options with transparent pricing, and complete approved work carefully. Afterward, we review what was done and share maintenance tips so you know how to better protect your investment.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Find AC and Heating Solutions &rarr;
+                            HVAC filter replacement &rarr;
                             </a>
                         </div>
                         <!-- Situation 2 -->
@@ -419,7 +451,7 @@
                                 Louisville homes benefit from a tune-up in spring before cooling season and again in fall before furnaces run daily. Scheduling early avoids the rush that follows the first heat wave or cold snap. Routine maintenance helps catch worn capacitors, dirty coils, and loose connections while repairs are still manageable. It also supports efficient operation and may help extend the life of your equipment.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Explore Ductwork, Ventilation, and Airflow &rarr;
+                            HVAC ductwork &rarr;
                             </a>
                         </div>
                         <!-- Situation 3 -->
@@ -429,29 +461,31 @@
                                 Bigger is not always better. An oversized air conditioner cools quickly but shuts off before removing humidity, leaving homes damp and uncomfortable, while an undersized system runs constantly. Proper sizing improves comfort, humidity control, and efficiency. We consider square footage, insulation, window exposure, and duct condition when recommending equipment, so the system matches your Louisville home rather than a generic rule of thumb.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Choosing a Service Based on the Problem &rarr;
+                            whole-home humidifier / whole-home dehumidifier &rarr;
                             </a>
                         </div>
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Questions to Ask Any Contractor</h3>
                             <p class="ehs-hvac-situations-text">
-                                Before hiring anyone, confirm the company holds the required Kentucky licensing, carries insurance, and handles permits where local rules require them. Ask for written estimates, warranty details, and equipment model information. Also check whether utility rebates or manufacturer incentives may apply to your project, since these programs change and can reduce upfront costs. We are always happy to answer each of these questions.
+                               Before hiring anyone, confirm the company holds the required Kentucky licensing, carries insurance, and handles permits where local rules require them. Ask for written estimates, warranty details, and equipment model information. Also check whether utility rebates or manufacturer incentives may apply to your project, since these programs change and can reduce upfront costs. We are always happy to answer each of these questions.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Connect With an HVAC Professional &rarr;
+                            whole-home ventilation &rarr;
                             </a>
                         </div>
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Whatever is happening in your Jacksonville home, you can take the next step with Easy Home Service.
+                                Indoor air quality is closely connected to heating, cooling, ventilation, ductwork, and filtration. An HVAC inspection can help identify issues that may be contributing to poor airflow or indoor air concerns.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
     <?php include '../state-cities.php';?>
@@ -460,6 +494,7 @@
     <section class="ehs-hvac-faq-section">
         <div class="container">
             <div class="row justify-content-center">
+
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-faq-container text-center">
 
@@ -475,9 +510,10 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Most manufacturers and technicians recommend servicing twice a year: cooling equipment in spring and heating equipment in fall. With Louisville's humidity and pollen, regular checks keep coils, drains, and filters clean and help catch wear before it causes a breakdown.
+                                       Most manufacturers and technicians recommend servicing twice a year: cooling equipment in spring and heating equipment in fall. With Louisville's humidity and pollen, regular checks keep coils, drains, and filters clean and help catch wear before it causes a breakdown.
                                     </div>
                                 </div>
+
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
@@ -523,7 +559,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes, in many cases. Modern heat pumps perform well in mixed climates like Louisville's. Some homeowners pair a heat pump with a gas furnace for backup on the coldest days. The best setup depends on your home, ductwork, and energy costs.
+                                       Yes, in many cases. Modern heat pumps perform well in mixed climates like Louisville's. Some homeowners pair a heat pump with a gas furnace for backup on the coldest days. The best setup depends on your home, ductwork, and energy costs.
                                     </div>
                                 </div>
                             </div>
@@ -541,11 +577,13 @@
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
                         </div>
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
 </main>
