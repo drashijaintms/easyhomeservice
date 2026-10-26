@@ -1826,16 +1826,49 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['newsemail'])) {
 <script type="text/javascript" src="<?= asset('js/slick.js') ?>" defer></script>
 
 <script>
-// Autofill ZIP fields if zip or zipcode is present in the URL query string
+// Autofill ZIP fields and auto-lookup City/State if zip or zipcode is present in the URL query string
 document.addEventListener("DOMContentLoaded", function () {
     const params = new URLSearchParams(window.location.search);
     const urlZip = params.get("zip") || params.get("zipcode");
+    function fillCityState(zip) {
+        if (!zip || !/^\d{5}$/.test(zip)) return;
+        fetch("https://api.zippopotam.us/us/" + encodeURIComponent(zip))
+            .then(res => res.ok ? res.json() : null)
+            .then(data => {
+                if (data && data.places && data.places.length > 0) {
+                    const c = data.places[0]["place name"] || "";
+                    const s = data.places[0]["state abbreviation"] || "";
+                    if (c) {
+                        document.querySelectorAll('input[name="city"], #city').forEach(el => {
+                            if (!el.value) el.value = c;
+                        });
+                    }
+                    if (s) {
+                        document.querySelectorAll('input[name="state"], #state').forEach(el => {
+                            if (!el.value) el.value = s;
+                        });
+                    }
+                }
+            })
+            .catch(() => {});
+    }
+
     if (urlZip && /^\d{5}$/.test(urlZip)) {
         const zipInputs = document.querySelectorAll('input[name="zip"], input[name="zipcode"], .input_field_zip, #zipcode, .zipcode');
         zipInputs.forEach(input => {
             input.value = urlZip;
             input.dataset.zipVerified = urlZip;
         });
+        fillCityState(urlZip);
     }
+
+    document.addEventListener("input", function(e) {
+        if (e.target && e.target.matches('input[name="zip"], input[name="zipcode"], #zipcode, .input_field_zip, .zipcode')) {
+            const z = e.target.value.trim();
+            if (/^\d{5}$/.test(z)) {
+                fillCityState(z);
+            }
+        }
+    });
 });
 </script>

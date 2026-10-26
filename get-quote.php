@@ -740,10 +740,46 @@ if (!sessionStorage.getItem(getStorageKey())) {
 }
 
 // Accept only a valid 5-digit ZIP code from URL and ensure it autofills
+function lookupCityStateFromZip(zip) {
+    if (!zip || !/^\d{5}$/.test(zip)) return;
+    $.ajax({
+        url: 'https://api.zippopotam.us/us/' + encodeURIComponent(zip),
+        type: 'GET',
+        dataType: 'json',
+        success: function(data) {
+            if (data && data.places && data.places.length > 0) {
+                const place = data.places[0];
+                const city = place['place name'] || '';
+                const state = place['state abbreviation'] || '';
+                if (city) {
+                    formData['city'] = city;
+                    setCookie("saved_city", city, 30);
+                    if ($('#city').length && !$('#city').val()) $('#city').val(city);
+                }
+                if (state) {
+                    formData['state'] = state;
+                    setCookie("saved_state", state, 30);
+                    if ($('#state').length && !$('#state').val()) $('#state').val(state);
+                }
+                updateCurrentState();
+            }
+        }
+    });
+}
+
 if (urlZip && /^\d{5}$/.test(urlZip)) {
     formData["zipcode"] = urlZip;
     setCookie("saved_zipcode", urlZip, 30);
+    lookupCityStateFromZip(urlZip);
 }
+
+$(document).on('input', '#zipcode', function() {
+    const zipVal = $(this).val().trim();
+    formData["zipcode"] = zipVal;
+    if (/^\d{5}$/.test(zipVal)) {
+        lookupCityStateFromZip(zipVal);
+    }
+});
 
 window.onpopstate = function(event) {
     if (event.state) {
@@ -798,17 +834,17 @@ function renderStep(id){
         if(ENABLE_MAPBOX) {
             html=`
             <div id="geocoder-container"></div>
-            <input type="hidden" id="address" name="address">
-            <input type="text" id="city" name="city" class="text-card" placeholder="City" >
-            <input type="text" id="state" name="state" class="text-card" placeholder="State" >
+            <input type="hidden" id="address" name="address" value="${formData['address'] || ''}">
+            <input type="text" id="city" name="city" class="text-card" placeholder="City" value="${formData['city'] || ''}">
+            <input type="text" id="state" name="state" class="text-card" placeholder="State" value="${formData['state'] || ''}">
             <input type="text" id="zipcode" name="zipcode" class="text-card" placeholder="ZIP Code" maxlength="5" inputmode="numeric" oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 5);" value="${formData['zipcode'] || ''}" required>
             <div id="address-error" class="error-msg" style="display:none;"></div>
             `;
         } else {
             html=`
-            <input type="text" id="address" name="address" class="text-card" placeholder="Street Address" required>
-            <input type="text" id="city" name="city" class="text-card" placeholder="City" required>
-            <input type="text" id="state" name="state" class="text-card" placeholder="State (e.g., CA)" required>
+            <input type="text" id="address" name="address" class="text-card" placeholder="Street Address" value="${formData['address'] || ''}" required>
+            <input type="text" id="city" name="city" class="text-card" placeholder="City" value="${formData['city'] || ''}">
+            <input type="text" id="state" name="state" class="text-card" placeholder="State (e.g., CA)" value="${formData['state'] || ''}">
             <input type="text" id="zipcode" name="zipcode" class="text-card" placeholder="ZIP Code" maxlength="5" inputmode="numeric" oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 5);" value="${formData['zipcode'] || ''}" required>
             <div id="address-error" class="error-msg" style="display:none;"></div>
             `;
@@ -1252,16 +1288,15 @@ $(".next-btn-global").click(function(){
     }
 
     if(step.type==="address"){
-        let addr = $("#address").val() ? $("#address").val().trim() : '';
-        if(!addr && ENABLE_MAPBOX && $('.mapboxgl-ctrl-geocoder--input').length) {
-            addr = $('.mapboxgl-ctrl-geocoder--input').val().trim();
-            $("#address").val(addr);
-        }
-        const city = $("#city").val() ? $("#city").val().trim() : '';
-        const state = $("#state").val() ? $("#state").val().trim() : '';
-        const zip = $("#zipcode").val() ? $("#zipcode").val().trim() : '';
+        let geocoderVal = $('.mapboxgl-ctrl-geocoder--input').length ? $('.mapboxgl-ctrl-geocoder--input').val().trim() : '';
+        let addr = geocoderVal || ($("#address").val() ? $("#address").val().trim() : '') || (formData["address"] ? formData["address"].trim() : '');
+        $("#address").val(addr);
 
-        if(!addr || !city || !state || !zip){
+        let city = $("#city").val() ? $("#city").val().trim() : (formData["city"] ? formData["city"].trim() : '');
+        let state = $("#state").val() ? $("#state").val().trim() : (formData["state"] ? formData["state"].trim() : '');
+        const zip = $("#zipcode").val() ? $("#zipcode").val().trim() : (formData["zipcode"] ? formData["zipcode"].trim() : '');
+
+        if(!addr || !zip){
             $('#address-error').text('Please fill all address fields').show();
             if(!addr) {
                 if(ENABLE_MAPBOX && $('.mapboxgl-ctrl-geocoder--input').length) {
@@ -1269,12 +1304,12 @@ $(".next-btn-global").click(function(){
                 } else {
                     $("#address").focus();
                 }
+            } else {
+                $("#zipcode").focus();
             }
-            else if(!city) $("#city").focus();
-            else if(!state) $("#state").focus();
-            else if(!zip) $("#zipcode").focus();
             return;
         }
+
         formData["address"] = addr;
         formData["city"] = city;
         formData["state"] = state;
