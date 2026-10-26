@@ -1138,115 +1138,134 @@ function initMapboxGeocoder(){
     });
 }
 
-function initEmailValidation(){
-    let emailTimer;
-    let lastCheckedEmail = '';
-    let isEmailValid = false;
+// function initEmailValidation(){
+//     let emailTimer;
+//     let lastCheckedEmail = '';
+//     let isEmailValid = false;
+//     const $email = $('#email');
+//     const $error = $('#email-error');
+//     const $nextBtn = $('.next-btn-global');
+
+//     // Ensure Next button is enabled and visible
+//     $nextBtn.prop('disabled', false).css({'opacity': '1', 'pointer-events': 'auto', 'cursor': 'pointer'});
+
+//     if(ENABLE_EMAIL_VERIFY) {
+//         const currentEmail = $email.val().trim();
+//         if(currentEmail && formData["email_verified_at"] === currentEmail){
+//             isEmailValid = true;
+//             $nextBtn.prop('disabled', false).css('opacity', '1');
+//             $error.addClass('success-msg').show().text('✓ Email is Verified!');
+//             setTimeout(() => $error.fadeOut(500), 1500);
+//         } else {
+//             $nextBtn.prop('disabled', true).css('opacity', '0.6');
+//         }
+//     }
+
+//     $email.on('input', function() {
+//         clearTimeout(emailTimer);
+//         const email = $(this).val().trim();
+//         $error.text('').removeClass('error-msg success-msg').hide();
+//         isEmailValid = false;
+
+//         if(ENABLE_EMAIL_VERIFY) {
+//             $nextBtn.prop('disabled', true).css('opacity', '0.6');
+//         }
+
+//         if (email === '') {
+//             $error.text('');
+//             return;
+//         }
+
+//         if (email.includes('@') && email.match(/\.[a-z]{2,}$/i)) {
+//             /*
+//             // Bypassed external API verification as requested:
+//             if(ENABLE_EMAIL_VERIFY) {
+//                 emailTimer = setTimeout(() => {
+//                     checkEmailValidity(email);
+//                 }, 800);
+//             } else {
+//             */
+//                 isEmailValid = true;
+//                 $nextBtn.prop('disabled', false).css('opacity', '1');
+//                 $error.addClass('success-msg').show().text('✓ Email format valid');
+//                 setTimeout(() => $error.fadeOut(500), 1500);
+//             /*
+//             }
+//             */
+//         }
+//     });
+
+//     /*
+//     // Bypassed external email validation API call as requested (code preserved):
+//     function checkEmailValidity(email) {
+//         const simpleEmailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+//         if (!simpleEmailPattern.test(email)) {
+//             $error.addClass('error-msg').show().text('Please enter a valid email format.');
+//             return;
+//         }
+
+//         $error.show().text('Checking email validity...');
+//         lastCheckedEmail = email;
+
+//         $.ajax({
+//             url: 'https://easyhomeservice.com/check-email.php',
+//             type: 'GET',
+//             dataType: 'json',
+//             data: { email: email },
+//             success: function(response) {
+//                 if (response && response.success === false && 
+//                     typeof response.message === 'string' && 
+//                     response.message.includes('insufficient credits')) {
+//                     $error.text('').hide();
+//                     isEmailValid = true;
+//                     $('.next-btn-global').prop('disabled', false).css('opacity', '1');
+//                     return;
+//                 }
+
+//                 if (!response || response.success === false) {
+//                     $error.addClass('error-msg').show().text('Unable to verify email. Please try again.');
+//                     return;
+//                 }
+
+//                 if (response.valid === false || response.disposable === true || 
+//                     response.recent_abuse === true || 
+//                     (response.spam_trap_score && response.spam_trap_score > 0.5)) {
+//                     $error.addClass('error-msg').show().text('Please enter a valid, non-temporary email address.');
+//                 } else {
+//                     $error.addClass('success-msg').show().text('✓ Email is Verified!');
+//                     isEmailValid = true;
+//                     formData["email_verified_at"] = email;
+//                     updateCurrentState();
+//                     $('.next-btn-global').prop('disabled', false).css('opacity', '1');
+//                     setTimeout(() => $error.fadeOut(500), 1500);
+//                 }
+//             },
+//             error: function() {
+//                 $error.addClass('error-msg').show().text('Network error while verifying email.');
+//             }
+//         });
+//     }
+//     */
+// }
+
+function initEmailValidation() {
     const $email = $('#email');
     const $error = $('#email-error');
     const $nextBtn = $('.next-btn-global');
 
-    // Ensure Next button is enabled and visible
-    $nextBtn.prop('disabled', false).css({'opacity': '1', 'pointer-events': 'auto', 'cursor': 'pointer'});
-
-    if(ENABLE_EMAIL_VERIFY) {
-        const currentEmail = $email.val().trim();
-        if(currentEmail && formData["email_verified_at"] === currentEmail){
-            isEmailValid = true;
-            $nextBtn.prop('disabled', false).css('opacity', '1');
-            $error.addClass('success-msg').show().text('✓ Email is Verified!');
-            setTimeout(() => $error.fadeOut(500), 1500);
-        } else {
-            $nextBtn.prop('disabled', true).css('opacity', '0.6');
-        }
-    }
-
-    $email.on('input', function() {
-        clearTimeout(emailTimer);
-        const email = $(this).val().trim();
-        $error.text('').removeClass('error-msg success-msg').hide();
-        isEmailValid = false;
-
-        if(ENABLE_EMAIL_VERIFY) {
-            $nextBtn.prop('disabled', true).css('opacity', '0.6');
-        }
-
-        if (email === '') {
-            $error.text('');
-            return;
-        }
-
-        if (email.includes('@') && email.match(/\.[a-z]{2,}$/i)) {
-            /*
-            // Bypassed external API verification as requested:
-            if(ENABLE_EMAIL_VERIFY) {
-                emailTimer = setTimeout(() => {
-                    checkEmailValidity(email);
-                }, 800);
-            } else {
-            */
-                isEmailValid = true;
-                $nextBtn.prop('disabled', false).css('opacity', '1');
-                $error.addClass('success-msg').show().text('✓ Email format valid');
-                setTimeout(() => $error.fadeOut(500), 1500);
-            /*
-            }
-            */
-        }
+    // Email verification is disabled.
+    // Keep the Next button enabled.
+    $nextBtn.prop('disabled', false).css({
+        'opacity': '1',
+        'pointer-events': 'auto',
+        'cursor': 'pointer'
     });
 
-    /*
-    // Bypassed external email validation API call as requested (code preserved):
-    function checkEmailValidity(email) {
-        const simpleEmailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-
-        if (!simpleEmailPattern.test(email)) {
-            $error.addClass('error-msg').show().text('Please enter a valid email format.');
-            return;
-        }
-
-        $error.show().text('Checking email validity...');
-        lastCheckedEmail = email;
-
-        $.ajax({
-            url: 'https://easyhomeservice.com/check-email.php',
-            type: 'GET',
-            dataType: 'json',
-            data: { email: email },
-            success: function(response) {
-                if (response && response.success === false && 
-                    typeof response.message === 'string' && 
-                    response.message.includes('insufficient credits')) {
-                    $error.text('').hide();
-                    isEmailValid = true;
-                    $('.next-btn-global').prop('disabled', false).css('opacity', '1');
-                    return;
-                }
-
-                if (!response || response.success === false) {
-                    $error.addClass('error-msg').show().text('Unable to verify email. Please try again.');
-                    return;
-                }
-
-                if (response.valid === false || response.disposable === true || 
-                    response.recent_abuse === true || 
-                    (response.spam_trap_score && response.spam_trap_score > 0.5)) {
-                    $error.addClass('error-msg').show().text('Please enter a valid, non-temporary email address.');
-                } else {
-                    $error.addClass('success-msg').show().text('✓ Email is Verified!');
-                    isEmailValid = true;
-                    formData["email_verified_at"] = email;
-                    updateCurrentState();
-                    $('.next-btn-global').prop('disabled', false).css('opacity', '1');
-                    setTimeout(() => $error.fadeOut(500), 1500);
-                }
-            },
-            error: function() {
-                $error.addClass('error-msg').show().text('Network error while verifying email.');
-            }
-        });
-    }
-    */
+    // Clear any previous verification messages.
+    $error.removeClass('error-msg success-msg')
+          .text('')
+          .hide();
 }
 
 function showError(message, containerId = 'radio-error'){
@@ -1342,6 +1361,20 @@ $(".next-btn-global").click(function(){
             if(firstInvalid) firstInvalid.focus();
             return;
         }
+        
+const email = $('#email').val().trim();
+const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+if (!emailPattern.test(email)) {
+    $('#email-error')
+        .addClass('error-msg')
+        .text('Please enter a valid email address.')
+        .show();
+
+    $('#email').focus();
+    return;
+}
+
 
         /*
         // Bypassed external email verification as requested:
