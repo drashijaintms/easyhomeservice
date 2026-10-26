@@ -718,8 +718,13 @@ $(document).ready(function() {
     const $error = $('#email-error');
     const $nextBtn = $email.closest('.step').find('.next-btn'); // find Next button
 
-    // Initially disable Next button
-    disableNext();
+    // Check if email is already present/valid on step load
+    if ($email.val() && $email.val().includes('@') && $email.val().match(/\.[a-z]{2,}$/i)) {
+        isEmailValid = true;
+        enableNext();
+    } else {
+        disableNext();
+    }
 
     $email.on('input', function() {
         clearTimeout(emailTimer);

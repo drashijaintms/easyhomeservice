@@ -1030,6 +1030,9 @@ function renderStep(id){
         $(".next-btn-global").css("width", "");
     }
 
+    // Ensure Next button is enabled and clickable on every step
+    $(".next-btn-global").prop('disabled', false).css({'opacity': '1', 'pointer-events': 'auto', 'cursor': 'pointer'});
+
     if(step.type==="address" && ENABLE_MAPBOX){
         setTimeout(initMapboxGeocoder, 100);
     }
@@ -1142,6 +1145,9 @@ function initEmailValidation(){
     const $email = $('#email');
     const $error = $('#email-error');
     const $nextBtn = $('.next-btn-global');
+
+    // Ensure Next button is enabled and visible
+    $nextBtn.prop('disabled', false).css({'opacity': '1', 'pointer-events': 'auto', 'cursor': 'pointer'});
 
     if(ENABLE_EMAIL_VERIFY) {
         const currentEmail = $email.val().trim();
