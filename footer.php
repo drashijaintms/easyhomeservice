@@ -1546,7 +1546,11 @@ jQuery(document).ready(function($) {
         </div>
     </div>
 </footer>
-<?php include 'gallery-sec/home.php';?>
+<?php 
+if (file_exists(__DIR__ . '/gallery-sec/home.php')) {
+    include __DIR__ . '/gallery-sec/home.php';
+}
+?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/sticky-cta.php'; ?>
 <script>
 $(document).ready(function () {
