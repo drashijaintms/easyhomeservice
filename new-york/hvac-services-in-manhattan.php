@@ -14,7 +14,7 @@
                             HVAC Services in Manhattan
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Connect with trusted local HVAC professionals for AC repair, heating, installation, and maintenance in Manhattan apartments, condos, co-ops, brownstones, and townhouses.
+                            Finding reliable HVAC services in Manhattan starts with understanding your home's heating and cooling system. Easy Home Service connects you with local professionals for AC repair, heating service, HVAC installation, and routine maintenance. Describe your project to explore options suited to your home and equipment.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -41,7 +41,7 @@
                             Manhattan homeowners face unique heating and cooling challenges. Compact apartments, older co-ops, brownstones with original ductwork, and high-rise condos all demand specialized care. When your AC fails during a heatwave or your heating system struggles in winter, you need fast, reliable HVAC Services in Manhattan from qualified local professionals.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service connects you with experienced HVAC technicians who understand the city’s building codes, space constraints, and common system types. Whether you need emergency AC repair, furnace or boiler service, new system installation, seasonal maintenance, duct cleaning, or improved indoor air quality, the right local pro is just a request away.
+                            Easy Home Service connects you with experienced HVAC technicians who understand the city’s building codes, space constraints, and common system types. Whether you need emergency <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/local-air-conditioning-repair">AC repair</a>, furnace or <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/boiler-installation-ohio-cost-repair-replacement-guide">boiler service</a>, new system installation, seasonal maintenance, duct cleaning, or improved indoor air quality, the right local pro is just a request away.
                         </p>
                         <p class="ehs-hvac-intro-description">
                             Many Manhattan residences rely on older window units, through-wall systems, or central setups that require careful handling. Local professionals know how to work efficiently in elevators, tight stairwells, and shared building spaces while respecting co-op and condo rules.From routine filter changes and tune-ups to full system replacements and air purification upgrades, you can request the exact service you need. Compare options, review profiles, and schedule help that fits your building and timeline.
@@ -197,7 +197,7 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Installation, Maintenance & Air Quality</h3>
                             <p class="ehs-hvac-challenges-text">
-                                New system installs and replacements must fit tight layouts and building rules. Seasonal maintenance, filter changes, duct cleaning, and sealing help systems last longer and run more efficiently. Indoor air quality solutions reduce dust, odors, and allergens that often build up in older Manhattan residences.
+                                New system installs and replacements must fit tight layouts and building rules. Seasonal maintenance, filter changes, duct cleaning, and sealing help systems last longer and run more efficiently. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/indoor-air-quality-services-texas">Indoor air quality</a> solutions reduce dust, odors, and allergens that often build up in older Manhattan residences.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -377,7 +377,7 @@
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heating System Service</h3>
-                                <p class="ehs-hvac-grid-card-text">Restore reliable heat with boiler, furnace, radiator, and heat pump repairs suited to co-ops, brownstones, townhouses, and older Manhattan buildings.</p>
+                                <p class="ehs-hvac-grid-card-text">Restore reliable heat with boiler, furnace, radiator, and <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-vs-furnace-in-ohio">heat pump</a> repairs suited to co-ops, brownstones, townhouses, and older Manhattan buildings.</p>
                             </div>
                         </div>
                         <!-- 3. New System Installation -->
@@ -453,7 +453,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Older Apartments & Brownstones</h3>
                             <p class="ehs-hvac-situations-text">
-                                Living with original or aging systems? Older ductwork, boilers, radiators, and window units often struggle with modern comfort demands and can hide problems that only a local professional will spot quickly.
+                                Living with original or aging systems? Older <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">ductwork</a>, boilers, radiators, and window units often struggle with modern comfort demands and can hide problems that only a local professional will spot quickly.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             HVAC filter replacement &rarr;
@@ -540,79 +540,54 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">What HVAC systems are most common in Manhattan homes?</span>
+                                    <span class="ehs-hvac-faq-question">How much does HVAC repair cost in Manhattan?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Apartments often use window or through-wall units. Condos and co-ops frequently rely on central air or shared boiler systems. Brownstones and townhouses may have older radiators, furnaces, or modern mini-splits. Local professionals understand these differences and how to service them within the city’s unique building constraints.
+                                        HVAC repair costs change based on the equipment that is being fixed, the issue that is causing the problem, the parts that are needed, the time that the technician spends working on it and how quickly the repair is needed. Getting a checkup can help find out what repair is required.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How fast can I get help during an emergency?</span>
+                                    <span class="ehs-hvac-faq-question">Do HVAC professionals service Manhattan apartments and condos?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Response times vary by professional and demand, especially during summer heatwaves or winter cold snaps. Providing clear details about the issue and your building type helps match you more quickly with available local technicians who can respond efficiently.
+                                        Yes. HVAC professionals can work on systems that're common in Manhattan apartments, condos, co‑ops, brownstones and townhouses. Access to the building and rules, from the management can differ.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Will technicians follow co-op and condo rules?</span>
+                                    <span class="ehs-hvac-faq-question">Do you provide AC repair in Manhattan?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Experienced local HVAC professionals are familiar with Manhattan building requirements, including elevator access, quiet hours, work permits, and approval processes common in co-ops and condominiums.
+                                        Easy Home Service helps homeowners find HVAC experts who can deal with AC problems, fix them, do maintenance, install new units and replace old ones.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should I consider ductwork or indoor air quality service?</span>
+                                    <span class="ehs-hvac-faq-question">When should I replace my HVAC system?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        In older Manhattan buildings, leaking, dirty, or poorly balanced ducts often reduce comfort and efficiency. Addressing duct issues and improving filtration can lead to better airflow, fewer allergens, and more consistent temperatures throughout the home.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 5 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">What services can local professionals handle?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Homeowners commonly request AC repair, heating system service, new installations, seasonal maintenance, duct cleaning and sealing, and indoor air quality improvements. Local technicians are equipped to work with the systems and space limitations found across apartments, condos, co-ops, brownstones, and townhouses.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 6 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How does Easy Home Service work?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Easy Home Service is a platform that connects Manhattan homeowners with local HVAC professionals. You describe the service you need and get matched with technicians experienced in the borough's housing types and common heating and cooling challenges.
+                                        You should think about replacing your HVAC system when it is getting old and needs repairs. It doesn't work as well as it used to or can't keep your home comfortable anymore.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Manhattan</a>
                         </div>
                     </div>
 

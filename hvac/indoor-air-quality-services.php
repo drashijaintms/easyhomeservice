@@ -10,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            Helping You Find Reliable Indoor Air Quality Services for Your Home
+                            Indoor Air Quality Services for a Healthier, More Comfortable Home
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Indoor air quality services address the dust, allergens, humidity, and poor ventilation affecting the air inside your home. Easy Home Service connects homeowners with local HVAC professionals for testing, air purification, filtration, duct cleaning, and humidity control.
+                            Indoor air quality services address the dust, allergens, humidity, and poor ventilation affecting the air inside your home. Easy Home Service connects homeowners with local <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC professionals</a> for testing, air purification, filtration, duct cleaning, and humidity control.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -40,7 +40,7 @@
                             Dust, allergens, humidity swings, and weak ventilation rarely show up as one obvious problem. More often, they show up as a stuffy bedroom, a musty smell near the vents, or family members who seem to catch colds more than they should. Easy Home Service helps homeowners find local HVAC professionals who can start with an indoor air quality assessment, looking closely at airflow, filtration, humidity, and ventilation to understand what is actually happening inside a home.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Depending on what an indoor air quality testing service uncovers, the right fix can vary a lot from one house to the next. Some homes need better HVAC air filtration or a whole-house air purifier to cut down on dust and allergens. Others need a UV air purifier to address mold or bacteria, or a whole-house humidifier or dehumidifier to bring moisture levels back into a healthy range. A local HVAC professional can recommend duct cleaning, duct sealing, or ventilation upgrades based on what the assessment actually finds, rather than guessing at a fix.
+                            Depending on what an indoor air quality testing service uncovers, the right fix can vary a lot from one house to the next. Some homes need better HVAC air filtration or a whole-house air purifier to cut down on dust and allergens. Others need a UV air purifier to address mold or bacteria, or a whole-house humidifier or dehumidifier to bring moisture levels back into a healthy range. A local HVAC professional can recommend <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/air-duct-cleaning-columbus-cincinnati-ohio">duct cleaning</a>, duct sealing, or ventilation upgrades based on what the assessment actually finds, rather than guessing at a fix.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -86,7 +86,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">HVAC Air Filtration</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    The right HVAC filter can improve particle removal while maintaining appropriate airflow. A professional can evaluate your existing filter and recommend an appropriate filtration setup for your system.
+                                    The right <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">HVAC filter</a> can improve particle removal while maintaining appropriate airflow. A professional can evaluate your existing filter and recommend an appropriate filtration setup for your system.
                                 </p>
                             </div>
                         </div>
@@ -98,7 +98,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Duct Cleaning and Sealing</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    Dirty or leaking ductwork can contribute to dust buildup and inefficient airflow. Air duct cleaning and duct sealing can address different duct-related problems depending on the condition of the system.
+                                    Dirty or leaking ductwork can contribute to dust buildup and inefficient airflow. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/air-duct-cleaning-columbus-cincinnati-ohio">Air duct cleaning</a> and duct sealing can address different duct-related problems depending on the condition of the system.
                                 </p>
                             </div>
                         </div>
@@ -149,7 +149,7 @@
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
-                            If these issues continue despite normal cleaning and filter replacement, an indoor air quality assessment can help identify possible causes.
+                            If these issues continue despite normal cleaning and filter replacement, an <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">indoor air quality assessment</a> can help identify possible causes.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
@@ -190,7 +190,7 @@
 
                                 <li class="ehs-hvac-challenges-list-item">HEPA filter systems</li>
 
-                                <li class="ehs-hvac-challenges-list-item">Regular HVAC filter replacement</li>
+                                <li class="ehs-hvac-challenges-list-item"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">Regular HVAC filter replacement</a></li>
 
                                 <li class="ehs-hvac-challenges-list-item">Duct cleaning when appropriate</li>
 
@@ -199,19 +199,19 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Excess Humidity</h3>
                             <p class="ehs-hvac-challenges-text">
-                                High indoor humidity can contribute to condensation, musty odors, and an uncomfortable home environment. A professional assessment can determine whether better HVAC operation, ventilation, or a whole-home dehumidifier is appropriate.
+                                High indoor humidity can contribute to condensation, musty odors, and an uncomfortable home environment. A professional assessment can determine whether better HVAC operation, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a>, or a whole-home dehumidifier is appropriate.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Dry Indoor Air</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Homes with excessively dry air may experience static electricity, dry surfaces, or discomfort during heating season. Depending on the home's conditions, a whole-home humidifier may be worth considering.
+                                Homes with excessively dry air may experience static electricity, dry surfaces, or discomfort during heating season. Depending on the home's conditions, a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-humidifier-benefits-new-york">whole-home humidifier</a> may be worth considering.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Poor Ventilation and Airflow</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Inadequate ventilation can affect how fresh air moves through the home. A professional can evaluate airflow, exhaust ventilation, ductwork, and other HVAC components to determine what improvements may be appropriate.
+                                Inadequate <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a> can affect how fresh air moves through the home. A professional can evaluate airflow, exhaust ventilation, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a>, and other HVAC components to determine what improvements may be appropriate.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -461,7 +461,7 @@
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            Improving indoor air quality is not always about buying new equipment. Understanding the relationship between your HVAC system, air filters, ductwork, ventilation, and humidity can help you identify where improvement may be needed.
+                            Improving indoor air quality is not always about buying new equipment. Understanding the relationship between your <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/what-s-the-best-hvac-system-for-homes-in-usa">HVAC system</a>, air filters, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a>, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a>, and humidity can help you identify where improvement may be needed.
                         </p>
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
@@ -477,7 +477,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Check Your Ductwork</h3>
                             <p class="ehs-hvac-situations-text">
-                                Ducts can collect dust and develop leaks or insulation problems over time. If you notice excessive dust, poor airflow, or inconsistent temperatures, an evaluation of the HVAC ductwork may be useful.
+                                Ducts can collect dust and develop leaks or insulation problems over time. If you notice excessive dust, poor airflow, or inconsistent temperatures, an evaluation of the <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/residential-hvac-ductwork-installation-benefits-costs-installation-guide">HVAC ductwork</a> may be useful.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             HVAC ductwork &rarr;
@@ -506,7 +506,7 @@
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Indoor air quality is closely connected to heating, cooling, ventilation, ductwork, and filtration. An HVAC inspection can help identify issues that may be contributing to poor airflow or indoor air concerns.
+                                Indoor air quality is closely connected to heating, cooling, ventilation, ductwork, and filtration. An <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">HVAC inspection</a> can help identify issues that may be contributing to poor airflow or indoor air concerns.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
@@ -534,17 +534,64 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">How do I know if my indoor air quality is poor?</span>
+                                    <span class="ehs-hvac-faq-question">What are the best indoor air solutions for allergy sufferers?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Common warning signs include excessive dust, persistent odors, musty smells, unusual humidity, poor airflow, and recurring discomfort when you're inside the home. An indoor air quality assessment can help identify whether the issue is related to filtration, humidity, ventilation, ductwork, or another HVAC condition.
+                                        The best indoor air solutions for allergy sufferers include HEPA air purifiers, HVAC filters with a suitable MERV rating, humidity control, and regular dust removal. Reducing pet dander, mold, and pollen at their sources also helps minimize allergens.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Can you recommend effective home systems for maintaining clean and healthy air?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Effective home air quality systems include whole-house air purifiers, properly sized HVAC filters, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation">balanced ventilation systems</a>, and dehumidifiers or humidifiers. The right choice depends on your home's pollutant levels, ventilation, humidity, existing HVAC equipment, and household needs.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What are the best solutions for improving healthy indoor air quality?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        The most effective indoor air quality improvements combine source control, ventilation, and filtration. Remove pollutant sources, use exhaust fans where needed, maintain HVAC filters, control moisture, and consider professional air quality testing when persistent indoor air problems occur.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What should I look for when choosing an indoor air quality service provider?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Choose a provider that assesses ventilation, filtration, humidity, and potential pollutant sources before recommending equipment. Ask about testing methods, system compatibility, service costs, maintenance requirements, and whether proposed solutions address your specific indoor air quality concerns.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Can you recommend companies specializing in indoor air quality services?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Companies offering indoor air quality services may provide air purification, HVAC filtration, ventilation improvements, and humidity control. Easy Home Service helps homeowners explore home service providers and available solutions for improving indoor air quality based on their needs.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Is indoor air quality testing worth it?</span>
@@ -555,35 +602,8 @@
                                         It can be useful when you're experiencing persistent air quality concerns but aren't sure what is causing them. Testing and inspection can provide information about indoor conditions and help a professional determine which solutions are appropriate rather than recommending equipment without evaluating the home.
                                     </div>
                                 </div>
-
                             </div>
-                            <!-- FAQ 3 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do whole-home air purifiers really work?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Whole-home air purification systems are designed to treat air as it moves through the HVAC system. Their effectiveness depends on the equipment, installation, filtration technology, airflow, and condition of the HVAC system. A professional can help determine whether a whole-home purifier is appropriate for your home.
-                                    </div>
-                                </div>
-
-                            </div>
-                            <!-- FAQ 4 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How often should HVAC filters be replaced?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Many standard HVAC filters are replaced every 60 to 90 days, but the appropriate schedule varies by filter type, system usage, pets, household conditions, and indoor dust levels. Homes with higher particle loads may require more frequent replacement.
-                                    </div>
-                                </div>
-
-                            </div>
-                            <!-- FAQ 5 -->
+                            <!-- FAQ 7 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Can dirty air ducts make allergies worse?</span>
@@ -594,46 +614,55 @@
                                         Dust, pollen, pet hair, and other debris can accumulate inside ductwork. Whether duct cleaning is beneficial depends on the condition of the ducts and the source of the indoor air concern. A professional can inspect the ductwork before recommending cleaning.
                                     </div>
                                 </div>
-
-                            </div>
-                            <!-- FAQ 6 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Is UV light installation safe?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        HVAC UV light systems are installed within the HVAC equipment or duct system rather than in areas where occupants are directly exposed to the light. Proper equipment selection and installation are important, so homeowners should have a qualified professional determine whether a UV system is suitable for their HVAC setup.
-                                    </div>
-                                </div>
-
-                            </div>
-                            <!-- FAQ 7 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do I need a humidifier or dehumidifier?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        It depends on your home's humidity conditions. Excessively humid homes may benefit from dehumidification, while homes with very dry indoor air may benefit from humidification. Measuring indoor humidity and evaluating the HVAC system can help determine which option makes sense.
-                                    </div>
-                                </div>
-
                             </div>
                             <!-- FAQ 8 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How much do indoor air quality services cost?</span>
+                                    <span class="ehs-hvac-faq-question">How do I know if my indoor air quality is poor?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        The cost depends on the type of service required. Indoor air quality testing, air purification, filtration upgrades, duct cleaning, UV light installation, humidification, and dehumidification can all have different costs. Home size, existing HVAC equipment, installation requirements, and the solution selected also affect the final price.
+                                        Common warning signs include excessive dust, persistent odors, musty smells, unusual humidity, poor airflow, and recurring discomfort when you're inside the home. An indoor air quality assessment can help identify whether the issue is related to filtration, humidity, ventilation, ductwork, or another HVAC condition.
                                     </div>
                                 </div>
-
+                            </div>
+                            <!-- FAQ 9 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We connect homeowners with professionals for a wide range of home services, including:
+                                        <ul>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> – Leak repairs, pipe replacements, water heater fixes, and plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> – Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping &amp; Lawn Care</a></strong> – Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning &amp; Installation</a></strong> – Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> – Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Services</a></strong> – Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> – Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring Services</a></strong> – Flooring installation, refinishing, and upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Window Services</a></strong> – Window replacement, repairs, and energy-efficient solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing Services</a></strong> – Roof inspections, leak repairs, roof replacement, and new roof installation.</li>
+                                        </ul>
+                                        Whether you need routine maintenance, repairs, or major home improvements, we help you explore suitable service providers for your home.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 10 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We offer HVAC repair and replacement solutions across several U.S. states, including <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">Texas</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kansas/hvac-services-in-kansas">Kansas</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/washington/hvac-services-in-washington">Washington</a></strong>. Our service network covers HVAC repairs, system installation, replacement, and maintenance to help homeowners maintain comfortable indoor temperatures throughout the year.
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">

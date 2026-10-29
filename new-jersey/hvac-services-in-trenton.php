@@ -11,10 +11,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in Trenton, NJ: Connect With Local Professionals
+                            HVAC Services in Trenton, NJ
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            From Mill Hill rowhomes to West Trenton ranches, Easy Home Service helps Trenton homeowners find local HVAC professionals for heating, cooling, repair, installation, maintenance, replacement, and ductwork needs.
+                            From Mill Hill rowhomes to detached houses across the city, Easy Home Service helps Trenton, NJ homeowners find local HVAC professionals for heating, cooling, repair, installation, maintenance, replacement, and ductwork needs.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -44,7 +44,7 @@
                             Easy Home Service helps homeowners find and connect with local HVAC professionals in Trenton for a range of residential needs.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Whether you need heating services, air conditioning repair, HVAC maintenance, system replacement, or help with indoor comfort issues, you can start by identifying the service your home requires. Local HVAC professionals can assess your system, explain potential solutions, and help determine the appropriate next step. From older homes and townhouses to newer properties throughout Trenton, HVAC needs can vary based on the home's layout, equipment, and age. Get connected with HVAC professionals who understand local residential needs and can help you address heating and cooling concerns before they become bigger problems.
+                            HVAC needs vary with a home’s layout, equipment, and age, from older homes and townhouses to newer properties throughout Trenton. Request a quote to find HVAC services in Trenton, NJ before heating and cooling concerns turn into bigger problems.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -68,7 +68,7 @@
                         <div class="ehs-hvac-solutions-header">
                             <h2 class="ehs-hvac-section-title">Comfort Solutions for Every Trenton Home</h2>
                             <p class="ehs-hvac-solutions-subtitle">
-                                Whatever the season, homeowners across Trenton can connect with professionals who specialize in these areas.
+                                From winter heating issues to summer cooling needs, Trenton homeowners can connect with local professionals for residential HVAC services tailored to their home's requirements.
                             </p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    Furnace repair, boiler service, and heat pump troubleshooting for Trenton's cold, damp winters.
+                                    Get help with furnace repairs, boiler servicing, and <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump troubleshooting</a> to keep your home comfortable during Trenton's cold winter months.
                                 </p>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    Central air, ductless systems, and AC repair built for humid Delaware Valley summers.
+                                    Connect with professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system">central air conditioning</a>, ductless mini-split systems, and AC repair to address cooling problems during Trenton's hot, humid summers.
                                 </p>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Installation & Maintenance</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    New system installs, replacements, and seasonal tune-ups sized right for older Trenton homes.
+                                    Explore <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-installation-houston">HVAC system installation</a>, replacement, and seasonal maintenance options suited to your home's layout, existing equipment, and heating and cooling needs.
                                 </p>
                             </div>
                         </div>
@@ -197,8 +197,7 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating & Cooling Through Every Season</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Trenton homeowners rely on their HVAC systems throughout the year. Hot, humid summers can put extra demand on air conditioning, while colder winter temperatures require dependable heating. If your system struggles to keep up, runs constantly, or leaves certain rooms uncomfortable, it may be time to have the system evaluated by an HVAC professional.
-
+                                Trenton homeowners rely on their HVAC systems throughout the year. Hot, humid summers can put extra demand on air conditioning, while colder winter temperatures require dependable heating. If your system struggles to keep up, runs constantly, or leaves certain rooms uncomfortable, it may be time to have the system evaluated by an <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC professional</a>.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -374,7 +373,7 @@
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Furnace & Heating Repair</h3>
-                                <p class="ehs-hvac-grid-card-text">Connect with professionals for heating problems, furnace repair, maintenance, and replacement needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals for furnace problems, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">heating repair</a>, maintenance, and replacement needs.</p>
                             </div>
                         </div>
                         <!-- 2. Boiler Services -->
@@ -385,7 +384,7 @@
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Boiler Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Find professionals for boiler service, repair, maintenance, and replacement for homes using boiler-based heating.</p>
+                                <p class="ehs-hvac-grid-card-text">Find professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/boiler-repair-vs-replacement-nyc">boiler service</a>, repair, maintenance, and replacement for homes using boiler-based heating.</p>
                             </div>
                         </div>
                         <!-- 3. Air Conditioning -->
@@ -407,7 +406,7 @@
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heat Pump Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Find professionals for heat pump repair, maintenance, installation, and replacement.</p>
+                                <p class="ehs-hvac-grid-card-text">Find professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump repair</a>, maintenance, installation, and replacement.</p>
                             </div>
                         </div>
                         <!-- 5. Ductwork & Airflow -->
@@ -418,7 +417,7 @@
                                     <i class="fa-solid fa-droplet"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ductwork & Airflow</h3>
-                                <p class="ehs-hvac-grid-card-text">Get connected with professionals for ductwork repair, duct sealing, insulation, and airflow concerns.</p>
+                                <p class="ehs-hvac-grid-card-text">Get connected with professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">ductwork repair</a>, duct sealing, insulation, and airflow concerns.</p>
                             </div>
                         </div>
                         <!-- 6. Ventilation & Indoor Air Quality -->
@@ -429,7 +428,7 @@
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ventilation & Indoor Air Quality</h3>
-                                <p class="ehs-hvac-grid-card-text">Connect with professionals for ventilation, filtration, humidity control, and related indoor air quality needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a>, filtration, humidity control, and related indoor air quality needs.</p>
                             </div>
                         </div>
 
@@ -491,7 +490,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Preparing for Winter</h3>
                             <p class="ehs-hvac-situations-text">
-                                Before colder weather arrives, consider having your heating system evaluated if it has been unreliable, noisy, or difficult to keep up with your home's comfort needs.
+                                Before colder weather arrives, consider having your <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heating-system-maintenance-checklist">heating system</a> evaluated if it has been unreliable, noisy, or difficult to keep up with your home's comfort needs.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Prepare Your HVAC for Winter &rarr;
@@ -511,7 +510,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">One Room Is Always Uncomfortable</h3>
                             <p class="ehs-hvac-situations-text">
-                                A bedroom, addition, or upper floor that stays too hot	 or cold may involve airflow, ductwork, insulation, or equipment concerns. A professional can help identify where to start.
+                                A bedroom, addition, or upper floor that stays too hot or cold may involve airflow, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a>, insulation, or equipment concerns. A professional can help identify where to start.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Find Help for Uneven Home Comfort &rarr;
@@ -548,121 +547,60 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">What HVAC services are available in Trenton, NJ?</span>
+                                    <span class="ehs-hvac-faq-question">What are the best heating and air conditioning options for homes in Trenton, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Trenton homeowners can find professionals for heating, air conditioning, repair, installation, replacement, maintenance, heat pumps, ductless systems, and other residential HVAC needs.
+                                        In Trenton’s cold winters and humid summers, furnaces with central AC suit homes with ductwork. Cold-climate heat pumps provide heating and cooling in one system; <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/central-ac-vs-ductless-mini-split">ductless mini-splits</a> can suit homes without ducts. Ask a contractor to assess layout and insulation.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can I find HVAC services in Trenton?</span>
+                                    <span class="ehs-hvac-faq-question">How can I tell if my furnace needs repair in Trenton, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service helps Trenton homeowners connect with local HVAC professionals based on the heating or cooling service they need.
+                                        Common warning signs include cold air, weak airflow, unusual banging, frequent cycling, or rising energy bills. Check thermostat settings and the filter first. If you smell gas or a carbon monoxide alarm sounds, leave immediately and call 911 from outside.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do Trenton homes need both heating and cooling services?</span>
+                                    <span class="ehs-hvac-faq-question">What should I consider when choosing an HVAC contractor in Trenton, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Trenton experiences hot, humid summers and cold winters, so homeowners typically need both cooling and heating throughout the year.
+                                        When choosing an HVAC contractor in Trenton, ask for proof of insurance, written estimates, permit requirements, and available equipment options. Compare quotes, review customer feedback, and clarify labor costs, included services, and applicable warranty terms before approving the work.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should I contact an HVAC professional?</span>
+                                    <span class="ehs-hvac-faq-question">Should I repair or replace my HVAC system in Trenton, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider connecting with a professional when you notice uneven temperatures, rising energy bills, unusual noises, short cycling, weak airflow, high humidity, or other changes in HVAC performance.
+                                        Repair often makes sense when the system is relatively new and the fault is isolated. Consider <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-hvac-replacement">replacement</a> if breakdowns recur, comfort worsens, bills rise, or repairs become costly. Compare a written repair estimate with replacement quotes before deciding for your home.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can I find furnace and boiler professionals in Trenton?</span>
+                                    <span class="ehs-hvac-faq-question">Are there rebates or incentives for heat pumps in Trenton, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Homeowners can connect with professionals for furnace repair, boiler service, heat pump troubleshooting, maintenance, installation, and replacement.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 6 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can I find AC repair professionals in Trenton?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Yes. Homeowners can find local professionals for central air conditioning, ductless systems, AC repair, maintenance, installation, and replacement.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 7 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can HVAC professionals help with older Trenton homes?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Yes. HVAC professionals can evaluate heating and cooling systems in older homes and address issues involving equipment, ductwork, airflow, sizing, maintenance, and replacement.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 8 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">What HVAC systems are suitable for homes without ductwork?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Depending on the property and its heating and cooling requirements, homeowners may consider options such as ductless mini-split systems. A professional can evaluate the home and discuss suitable options.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 9 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does Easy Home Service provide HVAC repairs?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        No. Easy Home Service is a home-services connection platform. It helps homeowners find and connect with local HVAC professionals rather than performing HVAC repair, installation, or maintenance itself.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 10 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can I connect with an HVAC professional before an emergency?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Yes. Homeowners can connect with a local HVAC professional for maintenance, repair, installation, replacement, or other HVAC needs before a major system problem occurs.
+                                        Heat-pump incentives depend on current program funding and eligibility. Check the <a class="ehs-hvac-internal-link" href="https://www.njcleanenergy.com">NJ Clean Energy Program</a> and your utility before buying. The federal 25C home-improvement credit ended for equipment placed in service after December 31, 2025, so check other options. <a class="ehs-hvac-internal-link" href="https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb">IRS guidance</a>
                                     </div>
                                 </div>
                             </div>

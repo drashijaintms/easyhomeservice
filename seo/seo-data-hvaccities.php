@@ -383,4 +383,742 @@ SCHEMA
    
 
 
-    ];
+    
+    'hvac-services-in-trenton' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Trenton, NJ AC & Heating Repair',
+            'description' => 'Need HV HVAC services in Trenton Connect with local experts for AC repair, heating, furnace, boiler, heat pump, installation, maintenance, and emergency HVAC services.',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Trenton, NJ'
+        ],
+
+        'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton#webpage",
+      "url": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton",
+      "name": "HVAC Services in Trenton, NJ AC & Heating Repair",
+      "description": "Need HVAC services in Trenton? Connect with local experts for AC repair, heating, furnace, boiler, heat pump, installation, maintenance, and emergency HVAC services.",
+      "headline": "HVAC Services in Trenton, NJ",
+      "inLanguage": "en-US",
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton#breadcrumb"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton#service",
+      "name": "HVAC Services in Trenton, NJ",
+      "serviceType": [
+        "HVAC Repair",
+        "AC Repair",
+        "Heating Repair",
+        "Furnace Repair",
+        "Boiler Repair",
+        "Heat Pump Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Emergency HVAC Services"
+      ],
+      "description": "Professional HVAC services in Trenton, NJ, including AC repair, heating repair, furnace and boiler services, heat pump services, HVAC installation, replacement, maintenance, and emergency HVAC services.",
+      "areaServed": {
+        "@type": "City",
+        "name": "Trenton",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://easyhomeservice.com/#localbusiness",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "areaServed": {
+        "@type": "City",
+        "name": "Trenton",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "New Jersey",
+          "item": "https://easyhomeservice.com/new-jersey/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Trenton, NJ",
+          "item": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-trenton#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What HVAC services are available in Trenton, NJ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC services in Trenton include AC repair, heating repair, furnace and boiler services, heat pump services, HVAC installation, replacement, maintenance, and emergency HVAC repairs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my AC needs repair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common signs that your AC may need repair include poor cooling, weak airflow, unusual noises, frequent cycling, water leaks, unpleasant odors, or higher energy bills."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide emergency HVAC services in Trenton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, HVAC professionals can provide emergency assistance for urgent heating and cooling problems, including major system failures and loss of heating or cooling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I schedule HVAC maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC maintenance is generally recommended at least once a year. Scheduling AC maintenance before summer and heating maintenance before winter can help maintain reliable system performance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do HVAC companies repair furnaces and boilers in Trenton, NJ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, qualified HVAC technicians can diagnose and repair common furnace and boiler problems, including heating failures, unusual noises, ignition issues, and uneven heating."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I replace my HVAC system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC replacement may be considered when a system is older, requires frequent repairs, has declining efficiency, or no longer provides consistent heating or cooling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do HVAC professionals install heat pumps in Trenton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, qualified HVAC professionals can install and replace heat pump systems and help determine an appropriate system based on the property's heating and cooling requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I improve my HVAC system's efficiency?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular maintenance, replacing dirty air filters, sealing air leaks, improving insulation, and using a properly sized HVAC system can help improve heating and cooling efficiency."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+SCHEMA
+    ],
+
+
+    'hvac-services-in-manhattan' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Manhattan, NY | AC & Heating Repair',
+            'description' => 'Find local HVAC services in Manhattan for AC repair, heating, installation, and maintenance in replacement options for your home. Contact us today!',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Manhattan, NY'
+        ],
+
+        'schema' => <<<SCHEMA
+<!-- WebPage + Service + BreadcrumbList + FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#webpage",
+      "url": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan",
+      "name": "HVAC Services in Manhattan, NY | AC & Heating Repair",
+      "description": "Need HVAC services in Manhattan, NY? Talk to experts for AC repair, heating, furnace, boiler, heat pump, installation, maintenance and emergency HVAC services.",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://easyhomeservice.com/#website",
+        "url": "https://easyhomeservice.com/",
+        "name": "Easy Home Service"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#service"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#service",
+      "name": "HVAC Services in Manhattan, NY",
+      "serviceType": "HVAC Services",
+      "description": "HVAC services in Manhattan, NY including AC repair, heating, furnace, boiler, heat pump, HVAC installation, replacement, maintenance and emergency HVAC services.",
+      "areaServed": {
+        "@type": "City",
+        "name": "Manhattan",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New York"
+        }
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      },
+      "url": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "New York",
+          "item": "https://easyhomeservice.com/new-york/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Manhattan",
+          "item": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-manhattan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What HVAC services are available in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC professionals in Manhattan can provide AC repair, heating repair, furnace and boiler services, heat pump services, HVAC installation, replacement, maintenance and emergency HVAC services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide AC repair in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Easy Home Service can connect you with local HVAC professionals who provide AC repair, maintenance, installation and replacement services in Manhattan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do HVAC professionals provide heating and furnace services in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Local HVAC professionals can provide heating system, furnace and boiler inspection, repair, maintenance, installation and replacement services in Manhattan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer heat pump services in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. HVAC professionals can assist with heat pump installation, repair, replacement, maintenance and troubleshooting in Manhattan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does HVAC repair cost in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC repair costs vary depending on the equipment, type of problem, parts required, labor and service requirements. A professional assessment can help determine the cost."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can HVAC professionals service apartments and condos in Manhattan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. HVAC professionals may service HVAC systems in Manhattan apartments, condos, co-ops, brownstones and other residential properties, subject to building requirements."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+SCHEMA
+    ],
+
+
+    'hvac-services-in-newark' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Newark, NJ AC & Heating Repair',
+            'description' => 'Need HVAC services in Newark, NJ? Get expert AC, heating, furnace, boiler, heat pump, installation, maintenance, and emergency HVAC services',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Newark, NJ'
+        ],
+
+        'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark#webpage",
+      "url": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark",
+      "name": "HVAC Services in Newark, NJ AC & Heating Repair",
+      "headline": "Reliable HVAC Services Newark Homeowners Can Trust",
+      "description": "Need HVAC services in Newark, NJ? Get expert AC, heating, furnace, boiler, heat pump, installation, maintenance, and emergency HVAC services.",
+      "inLanguage": "en-US",
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark#breadcrumb"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark#service",
+      "name": "HVAC Services in Newark, NJ",
+      "serviceType": [
+        "AC Repair",
+        "Heating Repair",
+        "Furnace Repair",
+        "Boiler Repair",
+        "Heat Pump Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Emergency HVAC Services"
+      ],
+      "description": "HVAC services in Newark, NJ including AC repair, heating, furnace, boiler, heat pump, installation, replacement, maintenance, and emergency HVAC services.",
+      "areaServed": {
+        "@type": "City",
+        "name": "Newark",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      },
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://easyhomeservice.com/#localbusiness",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "areaServed": {
+        "@type": "City",
+        "name": "Newark",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "New Jersey",
+          "item": "https://easyhomeservice.com/new-jersey/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Newark, NJ",
+          "item": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-newark#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What HVAC services are available in Newark, NJ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "HVAC services in Newark include AC repair, heating repair, furnace and boiler services, heat pump services, HVAC installation, replacement, maintenance, and emergency HVAC services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if my AC needs repair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common signs include poor cooling, weak airflow, unusual noises, frequent cycling, water leaks, unpleasant odors, or increasing energy bills."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide emergency HVAC services in Newark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, local HVAC professionals can provide emergency services for urgent heating and cooling problems, including major system breakdowns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I schedule HVAC maintenance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Professional HVAC maintenance is generally recommended at least once a year. Scheduling cooling maintenance before summer and heating maintenance before winter can help maintain system performance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you repair furnaces and boilers in Newark, NJ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Qualified HVAC technicians can inspect and repair furnaces and boilers experiencing heating problems, unusual noises, ignition issues, or uneven heating."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I replace my HVAC system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Consider HVAC replacement when the system is older, needs frequent repairs, has declining efficiency, or struggles to maintain comfortable indoor temperatures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do HVAC professionals install heat pumps in Newark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. HVAC professionals can install, replace, repair, and maintain heat pump systems for residential heating and cooling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I improve my HVAC system's efficiency?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular maintenance, changing air filters, sealing air leaks, improving insulation, and using a properly sized HVAC system can help improve efficiency."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+SCHEMA
+    ],
+
+
+    'hvac-services-in-paterson' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Paterson, NJ AC & Heating Repair',
+            'description' => 'Get dependable HVAC services in Paterson, NJ, such as heating, boiler, heat pump, furnace, AC repair, installation, replacement, maintenance, and emergency assistance.',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Paterson, NJ'
+        ],
+
+        'schema' => <<<SCHEMA
+
+SCHEMA
+    ],
+
+
+    'hvac-services-in-elizabeth' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Elizabeth, NJ | AC & Heating Repair',
+            'description' => 'HVAC services for AC repair, heating, boilers, furnaces, heat pumps, system replacement, installation, and maintenance will keep your Elizabeth, NJ house pleasant.',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Elizabeth, NJ'
+        ],
+
+        'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-elizabeth#service",
+      "name": "HVAC Services in Elizabeth, NJ",
+      "serviceType": [
+        "HVAC Services",
+        "AC Repair",
+        "Heating Repair",
+        "Furnace Services",
+        "Boiler Services",
+        "Heat Pump Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance"
+      ],
+      "description": "HVAC services for AC repair, heating, boilers, furnaces, heat pumps, system replacement, installation, and maintenance for homes in Elizabeth, NJ.",
+      "url": "https://easyhomeservice.com/new-jersey/hvac-services-in-elizabeth",
+      "areaServed": {
+        "@type": "City",
+        "name": "Elizabeth",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-elizabeth#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "New Jersey",
+          "item": "https://easyhomeservice.com/new-jersey/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Elizabeth, NJ",
+          "item": "https://easyhomeservice.com/new-jersey/hvac-services-in-elizabeth"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-elizabeth#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the most common HVAC problems in Elizabeth, NJ homes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common HVAC issues include poor airflow, thermostat problems, uneven temperatures, refrigerant leaks, clogged filters, strange noises, and heating or cooling systems that stop working."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can I improve the efficiency of my HVAC system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Regular maintenance, replacing dirty air filters, keeping vents clear, checking ductwork, and using an appropriate thermostat setting can help improve HVAC efficiency."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a typical HVAC system last?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The lifespan of an HVAC system varies depending on the equipment, installation quality, usage, and maintenance. Regular professional maintenance can help support reliable system operation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I repair or replace my old HVAC system?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The decision depends on the system's age, condition, repair frequency, operating costs, and efficiency. An HVAC professional can inspect the equipment and explain the available options."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my home have uneven temperatures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Uneven temperatures can result from restricted airflow, ductwork problems, insulation issues, thermostat placement, or an HVAC system that is not properly sized for the home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can HVAC professionals help with thermostat problems?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. HVAC professionals can inspect thermostat settings, connections, compatibility, and related system components to determine why the thermostat may not be controlling the HVAC system properly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my air conditioner keep turning on and off?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frequent cycling can be related to thermostat issues, restricted airflow, equipment sizing, refrigerant problems, or other mechanical issues. A professional inspection can help identify the underlying cause."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes weak airflow from my vents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Weak airflow may be caused by a clogged filter, blocked vents, ductwork issues, blower problems, or other HVAC restrictions."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+SCHEMA
+    ],
+
+
+    'hvac-services-in-jersey-city' => [
+        'meta' => [
+            'title'       => 'HVAC Services in Jersey City, NJ | AC & Heating Repair',
+            'description' => 'Find HVAC services in Jersey City, NJ. Get AC repair, heating, furnaces, boilers, heat pumps, installation, replacement, maintenance and emergency service.',
+            'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+            'image_alt'   => 'HVAC technician providing HVAC services in Jersey City, NJ'
+        ],
+
+        'schema' => <<<SCHEMA
+<!-- WebPage + Service + BreadcrumbList + FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city#webpage",
+      "url": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city",
+      "name": "HVAC Services in Jersey City, NJ | AC & Heating Repair",
+      "headline": "HVAC Services in Jersey City, NJ",
+      "description": "Find HVAC services in Jersey City, NJ. Get AC repair, heating, furnaces, boilers, heat pumps, installation, replacement, maintenance and emergency service.",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://easyhomeservice.com/#website",
+        "url": "https://easyhomeservice.com/",
+        "name": "Easy Home Service"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city#breadcrumb"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city#service"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city#service",
+      "name": "HVAC Services in Jersey City, NJ",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "Furnace Services",
+        "Boiler Services",
+        "Heat Pump Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Emergency HVAC Services"
+      ],
+      "description": "HVAC services in Jersey City, NJ, including AC repair, heating, furnace and boiler services, heat pump services, installation, replacement, maintenance and emergency HVAC service.",
+      "areaServed": {
+        "@type": "City",
+        "name": "Jersey City",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New Jersey"
+        }
+      },
+      "provider": {
+        "@type": "Organization",
+        "name": "Easy Home Service",
+        "url": "https://easyhomeservice.com/"
+      },
+      "url": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "New Jersey",
+          "item": "https://easyhomeservice.com/new-jersey/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Jersey City, NJ",
+          "item": "https://easyhomeservice.com/new-jersey/hvac-services-in-jersey-city"
+        }
+      ]
+    }
+  ]
+}
+</script>
+SCHEMA
+    ],
+
+];

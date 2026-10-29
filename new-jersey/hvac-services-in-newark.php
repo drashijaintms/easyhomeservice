@@ -41,7 +41,7 @@
                             When your Newark home is too warm, too cold, or never quite comfortable, professional HVAC help makes all the difference. A struggling air conditioner, an unreliable furnace, or ductwork that leaves rooms uneven can turn simple day comfort into daily frustration, especially during Newark's humid summers and cold winters. Rather than guessing at a fix or waiting until a small problem becomes a costly breakdown, it helps to work with someone who knows residential systems inside and out.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service helps Newark homeowners connect with local HVAC professionals for the heating and cooling needs that matter most: repairs that stop a system from failing at the worst possible time, installations and replacements that improve efficiency, and ventilation work that keeps air quality where it should be. Whatever stage your project is at, you can find a professional suited to the job.
+                            Easy Home Service helps Newark homeowners connect with local HVAC professionals for the <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heating-and-cooling-columbus-ohio">heating and cooling</a> needs that matter most: repairs that stop a system from failing at the worst possible time, installations and replacements that improve efficiency, and ventilation work that keeps air quality where it should be. Whatever stage your project is at, you can find a professional suited to the job.
                         </p>
 
                         <p class="ehs-hvac-intro-description">
@@ -182,10 +182,10 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Cooling & AC Services</h3>
                             <p class="ehs-hvac-challenges-text">
-                                <strong>AC Repair Newark:</strong> Get help when your air conditioner is blowing warm air, struggling to cool rooms, making unusual noises, or repeatedly shutting down.
+                                <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/local-air-conditioning-repair">AC Repair</a> Newark:</strong> Get help when your air conditioner is blowing warm air, struggling to cool rooms, making unusual noises, or repeatedly shutting down.
                             </p>
                             <p class="ehs-hvac-challenges-text">
-                                <strong>AC Installation & Replacement:</strong> If your current cooling system is aging, unreliable, or no longer keeping your home comfortable, connect with a professional to discuss AC installation or replacement options.
+                                <strong>AC Installation & Replacement:</strong> If your current cooling system is aging, unreliable, or no longer keeping your home comfortable, connect with a professional to discuss <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-installation-houston">AC installation</a> or replacement options.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -206,13 +206,13 @@
                                 <strong>HVAC Installation & Replacement:</strong> When an existing system is reaching the end of its useful life or your home needs new heating and cooling equipment, professionals can help determine the appropriate installation or replacement path.
                             </p>
                             <p class="ehs-hvac-challenges-text">
-                                <strong>Heat Pump Services:</strong> Heat pumps can provide both heating and cooling. Homeowners can seek professional help for installation, replacement, or service based on their home's needs.
+                                <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">Heat Pump Services</a>:</strong> Heat pumps can provide both heating and cooling. Homeowners can seek professional help for installation, replacement, or service based on their home's needs.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Airflow, Ductwork & Ventilation</h3>
                             <p class="ehs-hvac-challenges-text">
-                                HVAC comfort depends on more than the equipment itself. Ductwork repair, ductwork installation, air duct cleaning, and ventilation services can help address airflow concerns throughout the home.
+                                HVAC comfort depends on more than the equipment itself. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">Ductwork repair</a>, ductwork installation, air duct cleaning, and ventilation services can help address airflow concerns throughout the home.
                             </p>
                             <p class="ehs-hvac-challenges-text">
                                 Homeowners experiencing uneven temperatures, weak airflow, or rooms that never seem comfortable may need professional attention to the ductwork or ventilation system.
@@ -538,127 +538,78 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">HVAC services are most common in Newark homes?</span>
+                                    <span class="ehs-hvac-faq-question">What HVAC services are available in Newark, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Newark homeowners commonly need AC repair, furnace and boiler service, heating system replacement, HVAC installation, ductwork repair, ventilation, and heat pump services. Seasonal temperature changes can place heavy demands on both heating and cooling systems throughout the year.
+                                        HVAC services in Newark include AC repair, heating repair, furnace and boiler services, heat pump installation and repair HVAC installation, replacement, maintenance and emergency HVAC services.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How does Newark weather affect HVAC systems?</span>
+                                    <span class="ehs-hvac-faq-question">How do I know if my AC needs repair?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Newark experiences hot, humid summers and cold winters, requiring HVAC systems to handle significant seasonal changes. Air conditioners work harder during summer heat, while furnaces and boilers face increased demand during freezing winter conditions.
+                                        You may need AC repair if you notice cooling, weak airflow, unusual noises, frequent cycling, water leaks, unpleasant odors or if your energy bills go up without a clear reason.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should Newark homeowners schedule furnace maintenance?</span>
+                                    <span class="ehs-hvac-faq-question">When should I replace my HVAC system?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Furnace maintenance is best scheduled before the colder months arrive, ideally during early fall. A professional can inspect the system, identify developing problems, and help ensure reliable heating before Newark's winter temperatures increase demand.
+                                        Think about replacing your HVAC system if it's old, requires frequent repairs, runs less efficiently or cannot keep your home at a comfortable temperature.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do Newark homes commonly need boiler repair?</span>
+                                    <span class="ehs-hvac-faq-question">How can I improve my HVAC systems efficiency?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes, some Newark homes use boiler-based heating systems, particularly older properties. Uneven heating, unusual noises, leaks, delayed heating, or frequent cycling can indicate a problem that requires professional boiler inspection or repair.
+                                        You can improve efficiency by doing maintenance, changing air filters, often sealing air leaks, improving insulation and making sure your HVAC system is the right size for your home.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Why does my Newark home have uneven temperatures between rooms?</span>
+                                    <span class="ehs-hvac-faq-question">How long does an HVAC system typically last?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Uneven temperatures can result from restricted airflow, ductwork problems, insulation issues, an improperly sized HVAC system, or inadequate ventilation. A local HVAC professional can evaluate the system and identify what may be causing inconsistent comfort.
+                                        The life of an HVAC system depends on the type of equipment how well it was installed, how much it is used and how often it is maintained. Regular checkups help keep it working well for longer.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should I replace my HVAC system in Newark?</span>
+                                    <span class="ehs-hvac-faq-question">How can I schedule HVAC service in Newark, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Replacement may make sense when an HVAC system is older, requires frequent repairs, struggles to maintain comfortable temperatures, or causes unusually high energy costs. A professional can evaluate the equipment and discuss whether repair or replacement is appropriate.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 7 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does Newark's humidity affect air conditioning performance?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        High summer humidity can make indoor spaces feel warmer even when the temperature seems reasonable. An appropriately maintained AC system helps manage both temperature and moisture, while ventilation or other solutions may address persistent indoor humidity concerns.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 8 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do older Newark homes need ductwork services?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Older Newark homes may have aging, damaged, poorly sealed, or inefficient ductwork. Problems can contribute to weak airflow, uneven temperatures, and energy loss. Professional ductwork inspection can help determine whether repair, sealing, cleaning, or replacement is needed.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 9 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Should I consider a heat pump for my Newark home?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Heat pumps can provide both heating and cooling from one system, making them an option for homeowners considering HVAC upgrades. Suitability depends on the home's layout, existing system, insulation, equipment capacity, and heating and cooling requirements.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 10 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can I get HVAC help during a Newark heating or cooling emergency?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        If your heating or cooling system suddenly stops working, especially during extreme temperatures, connect with a local HVAC professional. They can assess the problem, determine the required service, and help you address the issue without unnecessary delays.
+                                        Reach out to a HVAC service provider to talk about your heating or cooling needs and book an appointment, for inspection, repair, maintenance, installation or replacement.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Newark</a>
                         </div>
                     </div>
 

@@ -78,7 +78,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    Connect with local professionals for heating repair, maintenance, installation, and replacement when your home needs dependable warmth.
+                                    Connect with local professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">heating repair</a>, maintenance, installation, and replacement when your home needs dependable warmth.
                                 </p>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
 
                             <li class="ehs-hvac-signs-item">System replacement when equipment is aging or no longer meeting comfort needs</li>
 
-                            <li class="ehs-hvac-signs-item">HVAC installation for a new or upgraded system</li>
+                            <li class="ehs-hvac-signs-item"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-installation-houston">HVAC installation</a> for a new or upgraded system</li>
 
                             <li class="ehs-hvac-signs-item">Ductwork or airflow concerns that affect room-to-room comfort</li>
 
@@ -386,7 +386,7 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">HVAC Repair</h3>
+                                <h3 class="ehs-hvac-grid-card-title"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair">HVAC Repair</a></h3>
                                 <p class="ehs-hvac-grid-card-text">Get connected with professionals who can evaluate HVAC system concerns and recommend next steps.</p>
                             </div>
                         </div>
@@ -397,7 +397,7 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">HVAC Installation</h3>
+                                <h3 class="ehs-hvac-grid-card-title"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-installation-houston">HVAC Installation</a></h3>
                                 <p class="ehs-hvac-grid-card-text">Explore professional help when adding a new HVAC system or upgrading an existing setup.</p>
                             </div>
                         </div>
@@ -419,7 +419,7 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">Ductwork & Airflow</h3>
+                                <h3 class="ehs-hvac-grid-card-title"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">Ductwork</a> & Airflow</h3>
                                 <p class="ehs-hvac-grid-card-text">Find professionals who can evaluate ductwork, airflow, and distribution concerns affecting home comfort.</p>
                             </div>
                         </div>
@@ -539,127 +539,78 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">What HVAC services can I find in Elizabeth, NJ?</span>
+                                    <span class="ehs-hvac-faq-question">What are the common HVAC problems in Elizabeth, NJ homes?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        You can connect with local HVAC professionals for heating, air conditioning, HVAC repair, maintenance, installation, replacement, ductwork, and airflow-related needs.
+                                        The common HVAC problems in Elizabeth, NJ homes include poor airflow, thermostat problems, uneven temperatures, refrigerant leaks, clogged filters, strange noises and heating or cooling systems that stop working.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can I find an HVAC professional in Elizabeth?</span>
+                                    <span class="ehs-hvac-faq-question">How can I improve the efficiency of my HVAC system?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service helps Elizabeth homeowners connect with local HVAC professionals based on the type of service they need.
+                                        To improve the efficiency of your HVAC system make sure to do maintenance to replace dirty air filters, keep vents unblocked, check your ductwork for leaks or damage and use the right thermostat settings.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should I consider HVAC repair?</span>
+                                    <span class="ehs-hvac-faq-question">How long does a typical HVAC system last?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider looking for professional HVAC help when you notice weak airflow, uneven temperatures, unusual sounds, frequent cycling, reduced heating or cooling, or other changes in system performance.
+                                        A typical HVAC system can last between 10 to 15 years depending on the type of equipment, how well it was installed, how much it is used and how often it is maintained. Regular professional service helps catch problems and keeps the system running smoothly.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How do I know if my HVAC system needs replacement?</span>
+                                    <span class="ehs-hvac-faq-question">Should I repair or replace my old HVAC system?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        An aging system, repeated repair needs, declining performance, or difficulty maintaining comfortable temperatures may be reasons to discuss replacement options with an HVAC professional.
+                                        Deciding whether to repair or replace a HVAC system depends on the system’s age, how often it breaks down the cost of repairs, energy bills and the overall efficiency. An HVAC professional can inspect your system and give you a clear picture of your options.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can I find heating professionals in Elizabeth?</span>
+                                    <span class="ehs-hvac-faq-question">Why does my home have uneven temperatures?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. You can connect with local professionals for heating repair, maintenance, installation, and replacement needs.
+                                        Uneven temperatures in your home can happen because of airflow problems with ductwork, poor insulation, a thermostat that is not placed correctly or an HVAC system that is too small or too large for your home.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can I find air conditioning professionals in Elizabeth?</span>
+                                    <span class="ehs-hvac-faq-question">What should I check before calling an HVAC professional?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Elizabeth homeowners can connect with HVAC professionals for AC repair, maintenance, installation, and replacement.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 7 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do Elizabeth homeowners need HVAC maintenance?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Regular professional maintenance can help homeowners stay aware of equipment condition and address potential concerns before they affect home comfort.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 8 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can HVAC professionals help with airflow problems?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Yes. HVAC professionals can evaluate concerns such as weak airflow, uneven temperatures, and ductwork issues to determine what may be affecting comfort.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 9 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Should I repair or replace my HVAC system?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        The right choice depends on factors such as equipment age, condition, repair needs, performance, and your home's comfort requirements. A professional evaluation can help you compare your options.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 10 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can Easy Home Service help with HVAC needs in Elizabeth?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Easy Home Service helps homeowners find and connect with local HVAC professionals. It does not directly provide HVAC repair, installation, maintenance, or replacement services.
+                                        Before calling an HVAC professional, check your thermostat settings, make sure your HVAC system has power and look to see if the air filter is clean. If the issue stays it’s best to get help from a trained technician.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Elizabeth</a>
                         </div>
                     </div>
 

@@ -385,7 +385,7 @@ main *,
 .ehs-hvac-challenges-list-title {
     font-size: 16px;
     font-weight: 600;
-    color: #000;
+    color: var(--ehs-text-heading);
     margin-bottom: 12px;
 }
 

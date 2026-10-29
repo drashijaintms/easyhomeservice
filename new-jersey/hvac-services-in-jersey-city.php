@@ -11,7 +11,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            Find the Right HVAC Professional in Jersey City, NJ
+                            HVAC Services in Jersey City, NJ
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
                             Jersey City homeowners can connect with local HVAC professionals for heating, air conditioning, repairs, installation, maintenance, ductwork and system replacement. Easy Home Service helps you take the next step toward finding the right professional for your home.
@@ -96,7 +96,7 @@
                                 </div>
                                 <h3 class="ehs-hvac-solutions-card-title">Maintenance & Inspection</h3>
                                 <p class="ehs-hvac-solutions-card-text">
-                                    Seasonal maintenance and HVAC inspections can help identify smaller issues before they lead to larger repairs and help keep your heating and cooling equipment running efficiently.
+                                    Seasonal maintenance and HVAC inspections can help identify smaller issues before they lead to larger repairs and help keep your <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heating-and-cooling-columbus-ohio">heating and cooling</a> equipment running efficiently.
                                 </p>
                             </div>
                         </div>
@@ -187,7 +187,7 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Installation & Replacement</h3>
                             <p class="ehs-hvac-challenges-text">
-                                HVAC installation in Jersey City depends on more than selecting a new unit. System size, available space, electrical capacity, existing ductwork and the layout of the property can all affect the project. Older row homes, apartments, condos and newer residential buildings may each present different installation considerations.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-installation-houston">HVAC installation</a> in Jersey City depends on more than selecting a new unit. System size, available space, electrical capacity, existing ductwork and the layout of the property can all affect the project. Older row homes, apartments, condos and newer residential buildings may each present different installation considerations.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -369,7 +369,7 @@
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Furnace Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Having heating problems or considering a furnace upgrade? Connect with professionals who can evaluate furnace repair, maintenance, installation or replacement needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Having heating problems or considering a furnace upgrade? Connect with professionals who can evaluate <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">furnace repair</a>, maintenance, installation or replacement needs.</p>
                             </div>
                         </div>
                         <!-- 2. Boiler Services -->
@@ -423,7 +423,7 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">Ventilation & Indoor Air Quality</h3>
+                                <h3 class="ehs-hvac-grid-card-title">Ventilation & <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/indoor-air-quality-services-texas">Indoor Air Quality</a></h3>
                                 <p class="ehs-hvac-grid-card-text">Poor airflow, stuffy rooms, dust, humidity or allergens can all point to ventilation or air quality concerns. Connect with professionals who can evaluate your home's airflow and filtration needs.</p>
                             </div>
                         </div>
@@ -456,7 +456,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Start with the problem.</h3>
                             <p class="ehs-hvac-situations-text">
-                                Describe what you are experiencing, such as weak airflow, uneven temperatures, unusual sounds, frequent cycling or a system that is no longer keeping up. This gives a professional a better starting point for determining whether you may need HVAC repair in Jersey City or something more involved.
+                                Describe what you are experiencing, such as weak airflow, uneven temperatures, unusual sounds, frequent cycling or a system that is no longer keeping up. This gives a professional a better starting point for determining whether you may need <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair">HVAC repair</a> in Jersey City or something more involved.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             HVAC filter replacement &rarr;
@@ -523,79 +523,90 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">Do I need an emergency HVAC professional for my problem?</span>
+                                    <span class="ehs-hvac-faq-question">Can HVAC professionals help with mini-split systems?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        If your heating or cooling system has stopped working completely during extreme weather, you notice a potentially dangerous issue or the problem cannot wait, emergency HVAC services may be appropriate. Availability can vary by provider, location and time.
+                                        Yes. HVAC professionals can assist with mini-split installation, repair, maintenance and replacement. They are trained to handle these systems and ensure they work efficiently.
                                     </div>
                                 </div>
-
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How do I know if I need HVAC repair or a full replacement?</span>
+                                    <span class="ehs-hvac-faq-question">What causes heating or cooling in a home?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        If breakdowns are becoming frequent, the system is older, or performance has declined significantly, replacement may be worth considering. A professional can inspect the equipment and explain whether repair or replacement makes more sense.
+                                        Uneven heating or cooling can happen due to airflow problems, blocked vents, issues with the ductwork, poor insulation, thermostat malfunctions or an HVAC system that is not the size for the home.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Do Jersey City homes have different HVAC needs?</span>
+                                    <span class="ehs-hvac-faq-question">Is emergency HVAC service available in Jersey City?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Apartments, brownstones, row homes, condos, and newer buildings can have very different heating and cooling setups. Boilers, radiators, ductwork, mini-splits, and central systems may all require different considerations.
+                                        Yes many HVAC professionals in Jersey City offer emergency services for heating or cooling issues. Response times and availability can differ based on the company.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">What should I look for in HVAC contractors in Jersey City?</span>
+                                    <span class="ehs-hvac-faq-question">How can I choose an HVAC professional in Jersey City?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Start by looking for professionals with experience relevant to your system and the type of service you need. You can also ask about their recommended solution, experience with similar equipment, and the expected scope of the work.
+                                        Look for someone with experience, a range of services, proper licensing or certifications if needed, positive customer reviews, reliable service hours and expertise with the type of HVAC system you have.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How fast can I get matched with someone?</span>
+                                    <span class="ehs-hvac-faq-question">How much does HVAC repair cost, in Jersey City, NJ?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Typically within a couple of minutes after submitting your details, though availability can vary based on demand, location, and the type of HVAC service you need.
+                                        Repair costs vary depending on the system, the problem parts needed labor involved and how complicated the repair is. A professional inspection will give an idea of the expected cost.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does it cost anything to use Easy Home Service?</span>
+                                    <span class="ehs-hvac-faq-question">Should I replace my old furnace?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        No. Easy Home Service is free to use when you are looking to connect with a local HVAC professional. You only pay for the service you choose to book.
+                                        This depends on how old the furnace's current condition, how many repairs it has needed, its energy efficiency and how much a replacement would cost. An HVAC expert can assess it and help decide the best path.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 7 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How can I prepare my HVAC system for winter in Jersey City?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Schedule a heating maintenance check, replace or clean the air filter, make sure vents and registers are clear, check the thermostat settings and fix any noises or heating problems before winter begins.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Trenton</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Jersey City</a>
                         </div>
                     </div>
 

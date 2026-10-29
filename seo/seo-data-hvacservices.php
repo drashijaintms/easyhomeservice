@@ -478,6 +478,20 @@ SCHEMA
 SCHEMA
     ],
 
+            'indoor-air-quality-services' => [
+        'meta' => [
+            'title'       => 'Indoor Air Quality Services for a Healthier, More Comfortable Home',
+            'description' => 'Find indoor air quality services for testing, air purification, filtration, duct cleaning, and humidity control. Connect with local HVAC professionals for your home.',
+            'image'       => 'https://easyhomeservice.com/images/hvac_bnr_mob.webp',
+            'image_alt'   => 'Indoor air quality services for residential HVAC systems'
+        ],
+
+        'schema' => <<<SCHEMA
+
+SCHEMA
+    ],
+
+
 
    
 ];
