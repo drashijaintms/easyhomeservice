@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/designing-ada-compliant-bathroom" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/designing-ada-compliant-bathroom" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/Designing%20ADA%20Compliant%20Bathroom-5627.png"
              class="card-img-top mb-3" alt="Bathroom">
@@ -19,7 +19,7 @@
       </div>
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/bathroom-remodeling-trends-2025" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/bathroom-remodeling-trends-2025" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/20cefaaedbcc8debf3f25e5ff057bd5a.png"
              class="card-img-top mb-3" alt="Bathroom">

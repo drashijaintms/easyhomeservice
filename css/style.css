@@ -410,3 +410,27 @@ h3.common_text {
     object-fit: cover;
     display: block;
 }
+
+/* ==========================================================================
+   GLOBAL BRAND VARIABLES & INTERNAL CONTENT LINKS
+   ========================================================================== */
+:root {
+  --ehs-text-heading: #0e225a;
+  --ehs-primary-green: #04d36f;
+  --ehs-primary-green-hover: #03b65f;
+}
+
+.ehs-hvac-internal-link,
+.ehs-internal-link {
+  font-weight: 700;
+  color: var(--ehs-text-heading, #0e225a);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+.ehs-hvac-internal-link:hover,
+.ehs-hvac-internal-link:focus,
+.ehs-internal-link:hover,
+.ehs-internal-link:focus {
+  color: var(--ehs-primary-green, #04d36f);
+}

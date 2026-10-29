@@ -6,7 +6,7 @@
     <div class="inner__banner__left">
       <img src="/images/hvac_bnr_mob.webp" class="inner_banner_mob showMob" width="600" height="400" alt="hvac services experts, hvac services, commercial hvac repair near me" fetchpriority="high">
       <h1 class="banner_heading">Connect With HVAC Services in Alabama </h1>
-      <p class="inner__banner__text">Stay comfortable through Alabama’s hot, humid summers and mild winters with Easy Home Service. We connect you to trusted local <strong><a href="https://easyhomeservice.com/hvac">HVAC experts</a></strong> for fast AC repairs, heating services, installations, upgrades, and routine maintenance keeping your home comfortable, efficient, and reliable year-round.</p>
+      <p class="inner__banner__text">Stay comfortable through Alabama’s hot, humid summers and mild winters with Easy Home Service. We connect you to trusted local <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC experts</a></strong> for fast AC repairs, heating services, installations, upgrades, and routine maintenance keeping your home comfortable, efficient, and reliable year-round.</p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">

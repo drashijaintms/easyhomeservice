@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/upgrade-Your-bathroom-with-a-walk-in-tub" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/upgrade-Your-bathroom-with-a-walk-in-tub" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/714d466252c7db5e5ea798483234f36a.png"
              class="card-img-top mb-3" alt="Walk-In-Tubs">

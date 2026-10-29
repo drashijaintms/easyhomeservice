@@ -909,14 +909,14 @@ Get A Quote</h4>
                   <div class="acdn-para">
                     We cover a wide range of affordable home services providers, including:
                     <ul class="f-ul">
-                      <li><a href="https://easyhomeservice.com/bathtub">Bathtub</a> – Bathroom Remodeling &amp; Upgrades</li>
-                      <li><a href="https://easyhomeservice.com/cabinet">Cabinet</a> – Custom Cabinets &amp; Storage Solutions</li>
-                      <li><a href="https://easyhomeservice.com/carpentry">Carpentry</a> – Carpentry &amp; Woodwork Services</li>
-                      <li><a href="https://easyhomeservice.com/glassrepair">Glass Repair</a> – Glass Replacement &amp; Window Repair</li>
-                      <li><a href="https://easyhomeservice.com/plumbing">Plumbing</a> – Plumbing Installation &amp; Repairs</li>
-                      <li><a href="https://easyhomeservice.com/roofing">Roof</a> – Roofing Installation &amp; Maintenance</li>
-                      <li><a href="https://easyhomeservice.com/painting">Paint</a> – Interior &amp; Exterior Painting</li>
-                      <li><a href="https://easyhomeservice.com/electrical">Electric</a> – Electrical Repair &amp; Installation</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathtub">Bathtub</a> – Bathroom Remodeling &amp; Upgrades</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">Cabinet</a> – Custom Cabinets &amp; Storage Solutions</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/carpentry">Carpentry</a> – Carpentry &amp; Woodwork Services</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/glassrepair">Glass Repair</a> – Glass Replacement &amp; Window Repair</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing</a> – Plumbing Installation &amp; Repairs</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roof</a> – Roofing Installation &amp; Maintenance</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Paint</a> – Interior &amp; Exterior Painting</li>
+                      <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electric</a> – Electrical Repair &amp; Installation</li>
                     </ul>
                   </div>
                 </div>

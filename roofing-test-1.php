@@ -1085,7 +1085,7 @@ Get Quote</h4>
                     <div class="up-slide-dwn">
                 <div class="accordion acdn-heading accordion-close" id="hd-one">What types of roofing services do you provide?</div>
                 <div class="acdn-content" style="display:none;">
-                	<p class="acdn-para">Easy Home Service connects you with local roofing contractors for <a href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert" class="link-new">roof repair</a>, replacement, inspection, leak detection, and maintenance. Whether you have shingles, metal, tile, or flat roofing, we’ll match you with trusted local experts to get the job done.</p>
+                	<p class="acdn-para">Easy Home Service connects you with local roofing contractors for <a href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert" class="link-new ehs-hvac-internal-link">roof repair</a>, replacement, inspection, leak detection, and maintenance. Whether you have shingles, metal, tile, or flat roofing, we’ll match you with trusted local experts to get the job done.</p>
                 </div>
             </div>
 
@@ -1121,7 +1121,7 @@ Get Quote</h4>
             <div class="up-slide-dwn">
                 <div class="accordion acdn-heading accordion-close">What other home services can I book through Easy Home Service?</div>
                 <div class="acdn-content" style="display:none;">
-                	<p class="acdn-para">Besides roofing, you can also find professionals for <a href="https://easyhomeservice.com/plumbing" class="link-new">Plumbing</a>, <a href="https://easyhomeservice.com/hvac" class="link-new">HVAC</a>, <a href="https://easyhomeservice.com/handyman" class="link-new">Handyman</a>, <a href="https://easyhomeservice.com/electrical" class="link-new">Electrical work</a>, <a href="https://easyhomeservice.com/hvac" class="link-new">Pest Control</a>, <a href="https://easyhomeservice.com/window" class="link-new">Window</a>, <a href="https://easyhomeservice.com/gutter" class="link-new">Gutters</a>, <a href="https://easyhomeservice.com/bathroom" class="link-new">Bath</a>, <a href="https://easyhomeservice.com/solar" class="link-new">Solar</a> and more, all from one trusted platform.</p>
+                	<p class="acdn-para">Besides roofing, you can also find professionals for <a href="https://easyhomeservice.com/plumbing" class="link-new ehs-hvac-internal-link">Plumbing</a>, <a href="https://easyhomeservice.com/hvac" class="link-new ehs-hvac-internal-link">HVAC</a>, <a href="https://easyhomeservice.com/handyman" class="link-new ehs-hvac-internal-link">Handyman</a>, <a href="https://easyhomeservice.com/electrical" class="link-new ehs-hvac-internal-link">Electrical work</a>, <a href="https://easyhomeservice.com/hvac" class="link-new ehs-hvac-internal-link">Pest Control</a>, <a href="https://easyhomeservice.com/window" class="link-new ehs-hvac-internal-link">Window</a>, <a href="https://easyhomeservice.com/gutter" class="link-new ehs-hvac-internal-link">Gutters</a>, <a href="https://easyhomeservice.com/bathroom" class="link-new ehs-hvac-internal-link">Bath</a>, <a href="https://easyhomeservice.com/solar" class="link-new ehs-hvac-internal-link">Solar</a> and more, all from one trusted platform.</p>
                 </div>
             </div>
             

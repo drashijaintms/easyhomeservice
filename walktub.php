@@ -27,7 +27,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Transform Your Bathroom with Professional Walk-In Tub Experts</h2>
-    <p class="common_text">Upgrade your bathroom with a <strong><a href="https://easyhomeservice.com/walktub">dependable walk-in tub</a></strong> for seniors designed for safety, comfort and independence. Easy Home Service helps homeowners across the USA with expert walk-in tub installers for your bathroom. It improves usability, reduces fall risks, and enhances daily comfort.</p> 
+    <p class="common_text">Upgrade your bathroom with a <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">dependable walk-in tub</a></strong> for seniors designed for safety, comfort and independence. Easy Home Service helps homeowners across the USA with expert walk-in tub installers for your bathroom. It improves usability, reduces fall risks, and enhances daily comfort.</p> 
     <?php include 'gallery.php';?>
   </div>
 </div> 

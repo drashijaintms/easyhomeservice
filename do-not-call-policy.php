@@ -116,7 +116,7 @@ ul.policy-list li {
         <p class="policy-text">At <strong>Easy Home Service, LLC,</strong> we respect customer privacy and continuously review our DNC policy to stay compliant with TCPA regulations. If you believe you were contacted in violation of our policy or any laws, please contact us at <a href="mailto:info@easyhomeservice.com">info@easyhomeservice.com</a>.</p>
 
         <p class="policy-subtitle"><strong>REQUEST FOR DO NOT CALL POLICY</strong></p>
-        <p class="policy-text">Our "Do Not Call Policy" is available on our website at <a href="https://easyhomeservice.com">easyhomeservice.com</a>. Anyone requesting a copy of our "Do Not Call Policy" is entitled to receive it.</p>
+        <p class="policy-text">Our "Do Not Call Policy" is available on our website at <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">easyhomeservice.com</a>. Anyone requesting a copy of our "Do Not Call Policy" is entitled to receive it.</p>
         <p class="policy-subtitle"><strong>Note:</strong></p>
         <p class="policy-text">By submitting your information, you consent to be contacted via phone, SMS, or email for service-related communication. If you wish to opt out of phone calls or messages, you may do so by contacting us directly.</p>
       </div>

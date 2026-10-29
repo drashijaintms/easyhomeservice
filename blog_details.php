@@ -186,16 +186,16 @@ $pagenm = 'blog_details';
             <p class="blog_right_heading blog_right_heading_mar">Sed fringilla mauris sit amet nib ringilla mauris sit am nibh.</p>
             
             <ul class="blog_detls_right_choose_box">
-            	<li><a href="roofing.php">Roofing</a></li>
-                <li><a href="window.php">Windows</a></li>
-                <li><a href="solar.php">Solar</a></li>
-                <li><a href="hvac.php">HVAC</a></li>
-                <li><a href="bathroom.php">Bathroom</a></li>
-                <li><a href="kitchen.php">Kitchen</a></li>
-                <li><a href="gutter.php">Gutter</a></li>
-                <li><a href="flooring.php">Flooring</a></li>
-                <li><a href="siding.php">Siding</a></li>
-                <li><a href="walktub.php">Walk-In Tubs</a></li>
+            	<li><a class="ehs-hvac-internal-link" href="roofing.php">Roofing</a></li>
+                <li><a class="ehs-hvac-internal-link" href="window.php">Windows</a></li>
+                <li><a class="ehs-hvac-internal-link" href="solar.php">Solar</a></li>
+                <li><a class="ehs-hvac-internal-link" href="hvac.php">HVAC</a></li>
+                <li><a class="ehs-hvac-internal-link" href="bathroom.php">Bathroom</a></li>
+                <li><a class="ehs-hvac-internal-link" href="kitchen.php">Kitchen</a></li>
+                <li><a class="ehs-hvac-internal-link" href="gutter.php">Gutter</a></li>
+                <li><a class="ehs-hvac-internal-link" href="flooring.php">Flooring</a></li>
+                <li><a class="ehs-hvac-internal-link" href="siding.php">Siding</a></li>
+                <li><a class="ehs-hvac-internal-link" href="walktub.php">Walk-In Tubs</a></li>
             </ul>
             <div class="clearall"></div>
             <div id="sticky">

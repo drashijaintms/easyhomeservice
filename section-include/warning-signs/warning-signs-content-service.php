@@ -130,7 +130,7 @@ return [
                 "image" => "/images/warning/war-stairlift-3.png",
                 "alt" => "Slow stairlift operation",
                 "title" => "Slow Operation or Loss of Power",
-                "description" => 'If your chairlift feels sluggish or stops midway, it may need new batteries or <a href="/electrical">electrical work</a>.'
+                "description" => 'If your chairlift feels sluggish or stops midway, it may need new batteries or <a class="ehs-hvac-internal-link" href="/electrical">electrical work</a>.'
             ],
 
             [
@@ -163,7 +163,7 @@ return [
                 "image" => "/images/warning/war-brickstonefireplace-1.png",
                 "alt" => "Unusual odors or smoke indoors",
                 "title" => "Unusual Odors or Smoke Indoors",
-                "description" => 'An overpowering smell or smoke entering your home often signals blockages or <strong><a href="https://easyhomeservice.com/atticwholehousefan">ventilation</a></strong> issues, requiring you to get fireplace services.'
+                "description" => 'An overpowering smell or smoke entering your home often signals blockages or <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/atticwholehousefan">ventilation</a></strong> issues, requiring you to get fireplace services.'
             ],
 
             [
@@ -217,14 +217,14 @@ return [
             "image" => "/images/warning/war-appliancerepair-2.png",
             "alt" => "Heating or cooling problems",
             "title" => "Heating or Cooling Problems",
-            "description" => "If your oven, <strong><a href='https://easyhomeservice.com/hvac'>AC</a></strong> or refrigerator isn’t working properly, repair is needed immediately. If your oven, air conditioner, or fridge fails to function effectively, immediate repair is required."
+            "description" => "If your oven, <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'>AC</a></strong> or refrigerator isn’t working properly, repair is needed immediately. If your oven, air conditioner, or fridge fails to function effectively, immediate repair is required."
         ],
 
         [
             "image" => "/images/warning/war-appliancerepair-3.png",
             "alt" => "Water leaks from appliances",
             "title" => "Water Leaks or Moisture Buildup",
-            "description" => "Leaks from appliances can cause damage to <strong><a href='https://easyhomeservice.com/flooring'>floors</a></strong>, <strong><a href='https://easyhomeservice.com/cabinet'>cabinets</a></strong> and <strong><a href='https://easyhomeservice.com/wall'>walls</a></strong>. A home service appliance repair can check for the issue and resolve it quickly."
+            "description" => "Leaks from appliances can cause damage to <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/flooring'>floors</a></strong>, <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/cabinet'>cabinets</a></strong> and <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/wall'>walls</a></strong>. A home service appliance repair can check for the issue and resolve it quickly."
         ],
 
         [
@@ -376,7 +376,7 @@ return [
             "image" => "/images/warning/war-foundation-2.png",
             "alt" => "Sticking Doors & Windows",
             "title" => "Sticking Doors & Windows",
-            "description" => "Difficulty in opening or closing <strong><a href='https://easyhomeservice.com/door'>doors</a></strong> and <strong><a href='https://easyhomeservice.com/window'>windows</a></strong> may indicate foundation shifting."
+            "description" => "Difficulty in opening or closing <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/door'>doors</a></strong> and <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/window'>windows</a></strong> may indicate foundation shifting."
         ],
 
         [
@@ -397,7 +397,7 @@ return [
             "image" => "/images/warning/war-foundation-5.png",
             "alt" => "Water Seepage or Damp Areas",
             "title" => "Water Seepage or Damp Areas",
-            "description" => "Moisture in <strong><a href='https://easyhomeservice.com/basement'>basements</a></strong> and crawl spaces hint the requirement of foundation waterproofing services."
+            "description" => "Moisture in <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/basement'>basements</a></strong> and crawl spaces hint the requirement of foundation waterproofing services."
         ],
          [
             "image" => "/images/warning/war-foundation-6.png",

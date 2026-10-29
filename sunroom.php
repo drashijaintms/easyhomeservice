@@ -7,7 +7,7 @@
       <img src="images/sunroom-mob-banner.webp" class="inner_banner_mob showMob" width="600" height="400" alt="bnr mob inner">
       <h1 class="banner_heading">Work with Trusted Sunroom Service Provider Near You</h1>
       <p class="inner__banner__text">
-          Easy Home Service connects homeowners with reliable sunroom service providers across the US. From sunroom installation to <strong><a href="https://easyhomeservice.com/patiocovers">patio enclosure</a></strong> to sunroom upgrades, experts deliver solutions that enhance comfort & natural light.</p>
+          Easy Home Service connects homeowners with reliable sunroom service providers across the US. From sunroom installation to <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/patiocovers">patio enclosure</a></strong> to sunroom upgrades, experts deliver solutions that enhance comfort & natural light.</p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">

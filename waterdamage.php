@@ -29,7 +29,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Trust Our Professional Water Damage Restoration Services to Protect Your Home</h2>
-    <p class="common_text">If you are searching for a reliable residential water damage restoration company, <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with experienced professionals who deliver fast, dependable restoration solutions. No matter if it is emergency water damage repair or full restoration. Our trusted water damage restoration experts provide complete solutions for all types of water-related damage. Every project is handled by experienced professionals who provide full water damage repair and restoration services.  They thoroughly check the affected areas, like walls, ceilings, floors, basements, and attics, to make them safe and livable again.
+    <p class="common_text">If you are searching for a reliable residential water damage restoration company, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with experienced professionals who deliver fast, dependable restoration solutions. No matter if it is emergency water damage repair or full restoration. Our trusted water damage restoration experts provide complete solutions for all types of water-related damage. Every project is handled by experienced professionals who provide full water damage repair and restoration services.  They thoroughly check the affected areas, like walls, ceilings, floors, basements, and attics, to make them safe and livable again.
 
 </p>
              <?php include 'gallery.php';?>      

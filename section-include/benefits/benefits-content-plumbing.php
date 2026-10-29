@@ -1271,7 +1271,7 @@ return [
         [
             "icon" => "/images/home.png",
             "title" => "Prevent Costly Plumbing Damage",
-            "text" => "Easy Home Service connects you with experienced plumbing experts across Texas who focus on preventive repairs that save time and money by fixing leaks, clogs, and worn-out components before they become costly emergencies. Proactive repairs help safeguard your home against <strong><a href=\"https://easyhomeservice.com/waterdamage\">water damage</a></strong>.",
+            "text" => "Easy Home Service connects you with experienced plumbing experts across Texas who focus on preventive repairs that save time and money by fixing leaks, clogs, and worn-out components before they become costly emergencies. Proactive repairs help safeguard your home against <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/waterdamage\">water damage</a></strong>.",
             "alt" => ""
         ],
 

@@ -11,7 +11,7 @@ return [
         [
             "icon" => "/images/elevate.png",
             "title" => "All Your Home Comfort Fixes in One Visit",
-            "text" => "Alabama’s weather bring heavy humidity, intense summer heat, and frequent thunderstorms. Skilled HVAC professional can handle all issues in a single visit like <strong><a href=\"https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air\">AC blowing warm air</a></strong>, <strong><a href=\"https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes\">uneven cooling</a></strong>, furnace noise, thermostat issues, or poor airflow. Expect quick, clean, and convenient service that keeps your home comfortable through every season.",
+            "text" => "Alabama’s weather bring heavy humidity, intense summer heat, and frequent thunderstorms. Skilled HVAC professional can handle all issues in a single visit like <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air\">AC blowing warm air</a></strong>, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes\">uneven cooling</a></strong>, furnace noise, thermostat issues, or poor airflow. Expect quick, clean, and convenient service that keeps your home comfortable through every season.",
             "alt" => "best hvac companies"
         ],
 
@@ -41,14 +41,14 @@ return [
         [
             "icon" => "/images/elevate.webp",
             "title" => "All Your Home Comfort Fixes in One Visit",
-            "text" => "Alaska’s extreme cold and heavy snowfall can strain your heating system. Skilled HVAC experts fix everything in a single visit like furnace issues, <strong><a href=\"https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes\">uneven heating</a></strong>, frozen parts, heat pump failures, or thermostat problems. Expect fast, reliable service that keeps your home warm all winter.",
+            "text" => "Alaska’s extreme cold and heavy snowfall can strain your heating system. Skilled HVAC experts fix everything in a single visit like furnace issues, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes\">uneven heating</a></strong>, frozen parts, heat pump failures, or thermostat problems. Expect fast, reliable service that keeps your home warm all winter.",
             "alt" => "best hvac companies"
         ],
 
         [
             "icon" => "/images/energyefficiency.webp",
             "title" => "Smart Maintenance That Saves You Money",
-            "text" => "Regular tune-ups are essential in <strong><a href=\"https://easyhomeservice.com/blog/oil-furnace-heating-in-alaska\">Alaska’s climate</a></strong>. Cleaning key components boosts efficiency, prevents mid-winter breakdowns, and reduces energy costs. Early issue detection helps you avoid expensive emergency repairs.",
+            "text" => "Regular tune-ups are essential in <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/oil-furnace-heating-in-alaska\">Alaska’s climate</a></strong>. Cleaning key components boosts efficiency, prevents mid-winter breakdowns, and reduces energy costs. Early issue detection helps you avoid expensive emergency repairs.",
             "alt" => "best hvac installers near me"
         ],
 
@@ -124,7 +124,7 @@ return [
 
     "hvac-services-in-california" => [
     "heading" => "Expert Insights: How HVAC Services Solve Real California Problems",
-    "description" => "<strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installation, repair, and upgrades</a></strong> not only enhance indoor comfort but also contribute to energy savings and improve the overall efficiency of your home or business environment.",
+    "description" => "<strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installation, repair, and upgrades</a></strong> not only enhance indoor comfort but also contribute to energy savings and improve the overall efficiency of your home or business environment.",
 
     "cards" => [
 
@@ -235,7 +235,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe Installations and Repairs You Can Trust",
-            "text" => "Experienced Delaware HVAC professionals provide safe, efficient installations and repairs built for the state’s seasonal conditions. Proper <strong><a href=\"https://easyhomeservice.com/insulation\">insulation</a></strong> and ventilation ensure consistent comfort and long-term reliability.",
+            "text" => "Experienced Delaware HVAC professionals provide safe, efficient installations and repairs built for the state’s seasonal conditions. Proper <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/insulation\">insulation</a></strong> and ventilation ensure consistent comfort and long-term reliability.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -925,7 +925,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe, Energy-Efficient Installations",
-            "text" => "Authorised New Mexico <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe installation, and optimized efficiency, reducing energy costs and improving indoor comfort.",
+            "text" => "Authorised New Mexico <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe installation, and optimized efficiency, reducing energy costs and improving indoor comfort.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1255,7 +1255,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe, Energy-Efficient Installations",
-            "text" => "Expert Tennessee <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe installations, and optimized efficiency, lowering energy bills and improving indoor comfort.",
+            "text" => "Expert Tennessee <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe installations, and optimized efficiency, lowering energy bills and improving indoor comfort.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1315,7 +1315,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe, Energy-Efficient Installations",
-            "text" => "Utah <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, secure installations, and optimized efficiency, reducing energy costs and improving indoor comfort.",
+            "text" => "Utah <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, secure installations, and optimized efficiency, reducing energy costs and improving indoor comfort.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1345,7 +1345,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Energy-Efficient & Safe Installations",
-            "text" => "Professional Vermont <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel usage, and efficient performance, helping lower energy bills and improve reliability.",
+            "text" => "Professional Vermont <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel usage, and efficient performance, helping lower energy bills and improve reliability.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1375,7 +1375,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe & Energy-Efficient Installations",
-            "text" => "Professional Virginia <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe refrigerant handling, and compliance with local building standards.",
+            "text" => "Professional Virginia <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe refrigerant handling, and compliance with local building standards.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1405,7 +1405,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe & Efficient Installations",
-            "text" => "Professional Washington <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe electrical work, and compliance with state regulations.",
+            "text" => "Professional Washington <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe electrical work, and compliance with state regulations.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1435,7 +1435,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe & Efficient Installations",
-            "text" => "Professional West Virginia <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel use, and long-term performance.",
+            "text" => "Professional West Virginia <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel use, and long-term performance.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1465,7 +1465,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe & Energy-Efficient Installations",
-            "text" => "Professional Wisconsin <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel use, and long-term performance.",
+            "text" => "Professional Wisconsin <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong> ensure proper system sizing, safe fuel use, and long-term performance.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 
@@ -1495,7 +1495,7 @@ return [
         [
             "icon" => "/images/fresh.webp",
             "title" => "Safe Installations & Repairs You Can Count On",
-            "text" => "Wyoming homes need safely installed systems capable of handling strong winds, dry air, and extreme cold. With professional Wyoming <strong><a href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong>, every repair and installation is done correctly—safe refrigerant handling, proper ventilation, and efficient system setup for clean air and stable temperatures.",
+            "text" => "Wyoming homes need safely installed systems capable of handling strong winds, dry air, and extreme cold. With professional Wyoming <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC installers</a></strong>, every repair and installation is done correctly—safe refrigerant handling, proper ventilation, and efficient system setup for clean air and stable temperatures.",
             "alt" => "Elevate Value: Green HVAC Upgrades."
         ]
 

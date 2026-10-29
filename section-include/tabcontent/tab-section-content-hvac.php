@@ -37,7 +37,7 @@ return [
                 "content" => [
                     [
                         "type" => "paragraph",
-                        "text" => "Airborne allergens, high-humidity dust, and moisture accumulation make <strong><a href=\"https://easyhomeservice.com/hvac/ventilation\">Ventilation</a></strong> essential in Alabama homes. The services we offer for Ventilation and Indoor Air Quality Services in Alabama enhance the flow of air and balance ventilation systems as well as repair and replace damaged ductwork, exhaust fans, as well as ventilation components. Technicians clear obstructions, resolve issues with moisture and increase general air circulation to improve the quality of indoor air and comfort."
+                        "text" => "Airborne allergens, high-humidity dust, and moisture accumulation make <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac/ventilation\">Ventilation</a></strong> essential in Alabama homes. The services we offer for Ventilation and Indoor Air Quality Services in Alabama enhance the flow of air and balance ventilation systems as well as repair and replace damaged ductwork, exhaust fans, as well as ventilation components. Technicians clear obstructions, resolve issues with moisture and increase general air circulation to improve the quality of indoor air and comfort."
                     ],
                     [
                         "type" => "paragraph",
@@ -60,7 +60,7 @@ return [
                 "content" => [
                     [
                         "type" => "paragraph",
-                        "text" => "Although Alabama winters are typically mild, chilly snaps and humid conditions can impact heating systems, particularly in cities such as Birmingham, Huntsville, Montgomery, Mobile, and Tuscaloosa. Our skilled technicians offer reliable <strong><a href=\"https://easyhomeservice.com/hvac/heating-services\">Heating Repair Services</a></strong> in Alabama to ensure that your heating system functions effectively when temperatures fall."
+                        "text" => "Although Alabama winters are typically mild, chilly snaps and humid conditions can impact heating systems, particularly in cities such as Birmingham, Huntsville, Montgomery, Mobile, and Tuscaloosa. Our skilled technicians offer reliable <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac/heating-services\">Heating Repair Services</a></strong> in Alabama to ensure that your heating system functions effectively when temperatures fall."
                     ],
                     [
                         "type" => "paragraph",
@@ -84,7 +84,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "The extreme cold temperatures of Alaska and long winter months, heavy snowfalls, and freezing winds put an enormous strain on HVAC and heating systems. This is why <strong><a href=\"https://easyhomeservice.com/\">Easy Home Service</a></strong> connects you with reputable local experts across Alaska that provide quick, efficient, reliable as well as precise HVAC Services in Alaska. From furnace malfunctions to ventilation issues and indoor air quality issues, Our experts can ensure that your home is warm and safe all year long."
+            "text" => "The extreme cold temperatures of Alaska and long winter months, heavy snowfalls, and freezing winds put an enormous strain on HVAC and heating systems. This is why <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/\">Easy Home Service</a></strong> connects you with reputable local experts across Alaska that provide quick, efficient, reliable as well as precise HVAC Services in Alaska. From furnace malfunctions to ventilation issues and indoor air quality issues, Our experts can ensure that your home is warm and safe all year long."
         ]
     ],
     "tabs" => [
@@ -95,7 +95,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "While cooling needs are limited in many parts of Alaska, warmer summer days and insulated homes can still require reliable air conditioning. Easy Home Service connects you with experienced professionals for <strong><a href=\"https://easyhomeservice.com/blog/local-air-conditioning-repair\">local air conditioning repair</a></strong> in Alaska and other cooling needs. Whether your AC system has weak airflow, electrical issues, refrigerant leaks, or thermostat malfunctions, you can connect with local HVAC professionals for prompt and effective solutions to help maintain indoor comfort during warmer periods."
+                    "text" => "While cooling needs are limited in many parts of Alaska, warmer summer days and insulated homes can still require reliable air conditioning. Easy Home Service connects you with experienced professionals for <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/local-air-conditioning-repair\">local air conditioning repair</a></strong> in Alaska and other cooling needs. Whether your AC system has weak airflow, electrical issues, refrigerant leaks, or thermostat malfunctions, you can connect with local HVAC professionals for prompt and effective solutions to help maintain indoor comfort during warmer periods."
                 ]
             ],
             "image" => [
@@ -191,7 +191,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "High temperatures, dusty air, and tightly sealed homes make proper ventilation critical for Arizona residents. Our Ventilation and Indoor Air Quality Services in Arizona improve airflow, balance ventilation systems, and <strong><a href=\"https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair\">repair or replace damaged ductwork</a></strong>, exhaust fans, and other ventilation components. Technicians clear blockages, address dust and indoor pollutants, and enhance overall air circulation to maintain healthier indoor air."
+                    "text" => "High temperatures, dusty air, and tightly sealed homes make proper ventilation critical for Arizona residents. Our Ventilation and Indoor Air Quality Services in Arizona improve airflow, balance ventilation systems, and <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair\">repair or replace damaged ductwork</a></strong>, exhaust fans, and other ventilation components. Technicians clear blockages, address dust and indoor pollutants, and enhance overall air circulation to maintain healthier indoor air."
                 ],
                 [
                     "type" => "paragraph",
@@ -214,7 +214,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Arizona winters are generally mild, but sudden cold snaps and cooler nights can still affect heating systems, especially in cities like Phoenix, Tucson, Mesa, Chandler, and Scottsdale. Our experienced technicians offer dependable <strong><a href=\"https://easyhomeservice.com/hvac/heating-services\">Heating Repair</a></strong> Services in Arizona to ensure your system functions efficiently when temperatures drop."
+                    "text" => "Arizona winters are generally mild, but sudden cold snaps and cooler nights can still affect heating systems, especially in cities like Phoenix, Tucson, Mesa, Chandler, and Scottsdale. Our experienced technicians offer dependable <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac/heating-services\">Heating Repair</a></strong> Services in Arizona to ensure your system functions efficiently when temperatures drop."
                 ],
                 [
                     "type" => "paragraph",
@@ -600,7 +600,7 @@ return [
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Techs work to clear away blockages, control moisture levels, reduce dust and allergens, and enhance overall air circulation in homes. Proper <strong><a href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation </a></strong>regulates indoor temperatures, improves air quality, and helps <strong><a href=\"https://easyhomeservice.com/mold\">prevent mold growth</a></strong> - keeping your home healthy, comfortable, and energy efficient throughout the year."
+                    "text" => "Techs work to clear away blockages, control moisture levels, reduce dust and allergens, and enhance overall air circulation in homes. Proper <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation </a></strong>regulates indoor temperatures, improves air quality, and helps <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">prevent mold growth</a></strong> - keeping your home healthy, comfortable, and energy efficient throughout the year."
                 ]
             ],
             "image" => [
@@ -724,7 +724,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "Georgia experiences hot and humid summers, frequent thunderstorms, heavy pollen seasons and mild winter temperatures that place continuous strain on residential heating and cooling systems. Easy Home Service connects you with professional HVAC experts across Georgia, USA, who offer fast, reliable, and <a href=\"https://easyhomeservice.com/hvac\">precise HVAC services</a>. They offer AC repair, heater repairs, as well as indoor air quality issues - our <a href=\"https://easyhomeservice.com/handyman\">handyman specialists</a> are there for your comfort, safety and energy efficiency year-round!"
+            "text" => "Georgia experiences hot and humid summers, frequent thunderstorms, heavy pollen seasons and mild winter temperatures that place continuous strain on residential heating and cooling systems. Easy Home Service connects you with professional HVAC experts across Georgia, USA, who offer fast, reliable, and <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">precise HVAC services</a>. They offer AC repair, heater repairs, as well as indoor air quality issues - our <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/handyman\">handyman specialists</a> are there for your comfort, safety and energy efficiency year-round!"
         ]
     ],
     "tabs" => [
@@ -820,7 +820,7 @@ return [
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "If it's not cooling as it should or has poor airflow, leaks in refrigerant, or <a href=\"https://easyhomeservice.com/electrical\">electrical repairs</a> or compressor issues, or is struggling to control humidity levels. Our experts are renowned to provide quick and precise fixes. Their expertise will ensure that your house is comfortable, cool, and energy efficient, even during the hottest and humidest times of the year."
+                    "text" => "If it's not cooling as it should or has poor airflow, leaks in refrigerant, or <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/electrical\">electrical repairs</a> or compressor issues, or is struggling to control humidity levels. Our experts are renowned to provide quick and precise fixes. Their expertise will ensure that your house is comfortable, cool, and energy efficient, even during the hottest and humidest times of the year."
                 ]
             ],
             "image" => [
@@ -1206,7 +1206,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "Homeowners in Kansas are experiencing a range of temperature fluctuations throughout the winter. Severe wind, dust, thunderstorms, and freezing temperatures associated with winter put additional stress on home HVAC systems. Easy Home Service allows homeowners to connect with <a href=\"https://easyhomeservice.com/hvac\">local HVAC experts</a> providing high-quality service on an urgent basis. Experts can help homeowners address emergencies related to furnaces and air conditioning units, as well as concerns about indoor air quality and ventilation."
+            "text" => "Homeowners in Kansas are experiencing a range of temperature fluctuations throughout the winter. Severe wind, dust, thunderstorms, and freezing temperatures associated with winter put additional stress on home HVAC systems. Easy Home Service allows homeowners to connect with <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">local HVAC experts</a> providing high-quality service on an urgent basis. Experts can help homeowners address emergencies related to furnaces and air conditioning units, as well as concerns about indoor air quality and ventilation."
         ]
     ],
     "tabs" => [
@@ -1530,7 +1530,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "Maryland’s climate hot, humid summers and chilly winters, puts constant pressure on HVAC systems. Easy Home Service connects you with <a href=\"https://easyhomeservice.com/hvac\">experienced local HVAC professionals</a> across Maryland who provide accurate diagnostics, fast repairs, and long-lasting solutions. From emergency AC breakdowns in summer to furnace and heat pump failures in winter, our network ensures your home stays comfortable, efficient, and safe year-round."
+            "text" => "Maryland’s climate hot, humid summers and chilly winters, puts constant pressure on HVAC systems. Easy Home Service connects you with <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">experienced local HVAC professionals</a> across Maryland who provide accurate diagnostics, fast repairs, and long-lasting solutions. From emergency AC breakdowns in summer to furnace and heat pump failures in winter, our network ensures your home stays comfortable, efficient, and safe year-round."
         ]
     ],
     "tabs" => [
@@ -1545,7 +1545,7 @@ return [
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Technicians specialize in fixing refrigerant leaks, frozen coils, <strong><a href=\"https://easyhomeservice.com/electrical\">electrical issues</a></strong>, poor airflow, thermostat problems, and system inefficiencies to provide consistently comfortable temperatures while simultaneously lowering energy usage."
+                    "text" => "Technicians specialize in fixing refrigerant leaks, frozen coils, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/electrical\">electrical issues</a></strong>, poor airflow, thermostat problems, and system inefficiencies to provide consistently comfortable temperatures while simultaneously lowering energy usage."
                 ]
             ],
             "image" => [
@@ -1645,11 +1645,11 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Massachusetts homes require proper ventilation due to humidity, coastal moisture, seasonal allergens, dust, and indoor air circulation challenges. Our <strong><a href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation repair services</a></strong> in Massachusetts focus on improving airflow balance, repairing damaged ductwork, servicing exhaust fans, and improving heating and cooling systems in homes."
+                    "text" => "Massachusetts homes require proper ventilation due to humidity, coastal moisture, seasonal allergens, dust, and indoor air circulation challenges. Our <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation repair services</a></strong> in Massachusetts focus on improving airflow balance, repairing damaged ductwork, servicing exhaust fans, and improving heating and cooling systems in homes."
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Technicians remove blockages, reduce allergens, control indoor humidity, and enhance air circulation. Proper ventilation helps regulate indoor temperatures, improve air quality, <strong><a href=\"https://easyhomeservice.com/mold\">prevent mold growth</a></strong>, and protect HVAC equipment, ensuring a healthier, more energy-efficient home year-round."
+                    "text" => "Technicians remove blockages, reduce allergens, control indoor humidity, and enhance air circulation. Proper ventilation helps regulate indoor temperatures, improve air quality, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">prevent mold growth</a></strong>, and protect HVAC equipment, ensuring a healthier, more energy-efficient home year-round."
                 ]
             ],
             "image" => [
@@ -1726,11 +1726,11 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Home ventilation in Michigan homes is essential to controlling humidity, reducing allergens, and maintaining healthy air circulation. Our <a href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Repair Services</a> in Michigan focus on improving airflow, repairing ductwork, balancing ventilation, and managing indoor moisture balance."
+                    "text" => "Home ventilation in Michigan homes is essential to controlling humidity, reducing allergens, and maintaining healthy air circulation. Our <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Repair Services</a> in Michigan focus on improving airflow, repairing ductwork, balancing ventilation, and managing indoor moisture balance."
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "<a href=\"https://easyhomeservice.com/mold\">Mold remediation</a> professionals help ensure a healthier home environment year-round by protecting against mold growth, stale air quality, and HVAC system strain."
+                    "text" => "<a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">Mold remediation</a> professionals help ensure a healthier home environment year-round by protecting against mold growth, stale air quality, and HVAC system strain."
                 ]
             ],
             "image" => [
@@ -1946,11 +1946,11 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Missouri summers are hard to bear because of the heat and the humidity. Hence, air conditioning becomes a must if you want to be comfortable. Easy Home Service makes it possible for homeowners to <strong><a href=\"https://easyhomeservice.com/handyman\">hire professional repair services</a></strong> in Missouri, thus getting fast and effective cooling solutions."
+                    "text" => "Missouri summers are hard to bear because of the heat and the humidity. Hence, air conditioning becomes a must if you want to be comfortable. Easy Home Service makes it possible for homeowners to <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/handyman\">hire professional repair services</a></strong> in Missouri, thus getting fast and effective cooling solutions."
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Technicians fix refrigerant leaks, frozen coils, weak airflow, <strong><a href=\"https://easyhomeservice.com/electrical\">electrical issues</a></strong>, thermostat malfunctions, and general system inefficiencies so that your home remains cool and energy-efficient."
+                    "text" => "Technicians fix refrigerant leaks, frozen coils, weak airflow, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/electrical\">electrical issues</a></strong>, thermostat malfunctions, and general system inefficiencies so that your home remains cool and energy-efficient."
                 ]
             ],
             "image" => [
@@ -2363,7 +2363,7 @@ return [
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Technicians fix refrigerant leaks, frozen coils, weak airflow, <a href=\"https://easyhomeservice.com/electrical\">electrical issues</a>, thermostat malfunctions, and overall system inefficiencies, keeping your home cool and energy-efficient."
+                    "text" => "Technicians fix refrigerant leaks, frozen coils, weak airflow, <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/electrical\">electrical issues</a>, thermostat malfunctions, and overall system inefficiencies, keeping your home cool and energy-efficient."
                 ]
             ],
             "image" => [
@@ -2382,7 +2382,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Proper ventilation in New Jersey homes is essential for controlling humidity, eliminating allergens, and promoting healthy air circulation. <a href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Repair Services</a> at our location in New Jersey are what you need to resolve any issues with the system, but regular maintenance is even more important."
+                    "text" => "Proper ventilation in New Jersey homes is essential for controlling humidity, eliminating allergens, and promoting healthy air circulation. <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Repair Services</a> at our location in New Jersey are what you need to resolve any issues with the system, but regular maintenance is even more important."
                 ]
             ],
             "image" => [
@@ -2559,7 +2559,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Winters in New York can be harsh, with sudden snowstorms and freezing temperatures that demand a fully functioning heating system. Our professional <a href=\"https://easyhomeservice.com/hvac\">HVAC professionals</a> provide reliable Heating Repair Services in New York designed for the unique needs of local homes."
+                    "text" => "Winters in New York can be harsh, with sudden snowstorms and freezing temperatures that demand a fully functioning heating system. Our professional <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">HVAC professionals</a> provide reliable Heating Repair Services in New York designed for the unique needs of local homes."
                 ],
                 [
                     "type" => "paragraph",
@@ -2852,7 +2852,7 @@ return [
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Technicians help reduce allergens, control moisture, prevent <a href=\"https://easyhomeservice.com/mold\">mold growth</a>, and improve system performance, creating a healthier home environment year-round."
+                    "text" => "Technicians help reduce allergens, control moisture, prevent <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">mold growth</a>, and improve system performance, creating a healthier home environment year-round."
                 ]
             ],
             "image" => [
@@ -3381,7 +3381,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "HVAC Repair Services in Texas weather puts serious pressure on heating and cooling systems. That’s why Easy Home Service connects you with experts who specialize in fast, reliable repair services for heating, AC, and <a href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation</a> systems across the state."
+            "text" => "HVAC Repair Services in Texas weather puts serious pressure on heating and cooling systems. That’s why Easy Home Service connects you with experts who specialize in fast, reliable repair services for heating, AC, and <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation</a> systems across the state."
         ]
     ],
     "tabs" => [
@@ -3462,7 +3462,7 @@ return [
     "top_description" => [
         [
             "type" => "paragraph",
-            "text" => "Utah's intense summer heat, freezing winters, dry air, and elevation changes wreak havoc on HVAC systems. Easy Home Service helps you to get in touch with <a href=\"https://easyhomeservice.com/hvac\">local HVAC professionals</a> who provide correct diagnostics, quick repairs, and durable solutions. Our network can help you during emergency AC breakdowns due to summer heatwaves and also when your furnace fails during winter snowstorms, thus ensuring your comfort and efficiency throughout the year."
+            "text" => "Utah's intense summer heat, freezing winters, dry air, and elevation changes wreak havoc on HVAC systems. Easy Home Service helps you to get in touch with <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">local HVAC professionals</a> who provide correct diagnostics, quick repairs, and durable solutions. Our network can help you during emergency AC breakdowns due to summer heatwaves and also when your furnace fails during winter snowstorms, thus ensuring your comfort and efficiency throughout the year."
         ]
     ],
     "tabs" => [
@@ -3554,7 +3554,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "While summers are shorter, Vermont can still experience humid and warm conditions. Easy Home Service connects homeowners with <a href=\"https://easyhomeservice.com/hvac\">professional AC Repair Services</a> in Vermont to maintain indoor comfort."
+                    "text" => "While summers are shorter, Vermont can still experience humid and warm conditions. Easy Home Service connects homeowners with <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">professional AC Repair Services</a> in Vermont to maintain indoor comfort."
                 ],
                 [
                     "type" => "paragraph",
@@ -3577,11 +3577,11 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Sealed homes, wood-burning systems as well as moisture buildup and winter indoor living make air quality particularly crucial in Vermont. We offer <a href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Services</a> in Vermont to enhance airflow, cleanse the ductwork, balance ventilation systems, and lower the amount of allergens and pollutants."
+                    "text" => "Sealed homes, wood-burning systems as well as moisture buildup and winter indoor living make air quality particularly crucial in Vermont. We offer <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">Ventilation Services</a> in Vermont to enhance airflow, cleanse the ductwork, balance ventilation systems, and lower the amount of allergens and pollutants."
                 ],
                 [
                     "type" => "paragraph",
-                    "text" => "Expert technicians can help <a href=\"https://easyhomeservice.com/mold\">prevent mold</a>, manage moisture, and ensure that indoor air is healthy through the winter months."
+                    "text" => "Expert technicians can help <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">prevent mold</a>, manage moisture, and ensure that indoor air is healthy through the winter months."
                 ]
             ],
             "image" => [

@@ -44,8 +44,8 @@
         
         <div class="about_help_box">
             <div class="about_help_box_col">
-            	<a href="roofing">
-                	<div class="about_help_bx_iner">
+            	<a href="roofing" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon1.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Roofing</p>
                         <p class="common_text">Elevate your home's protection and aesthetic appeal with our expert roofing solutions – where quality meets durability, and style meets resilience.</p>
@@ -54,8 +54,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="window">
-                	<div class="about_help_bx_iner">
+            	<a href="window" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon2.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Windows</p>
                         <p class="common_text">Let natural light and elegant design seamlessly merge in your space with our premium window solutions, crafted to enhance both aesthetics and functionality.</p>
@@ -64,8 +64,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="solar">
-                	<div class="about_help_bx_iner">
+            	<a href="solar" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon3.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Solar</p>
                         <p class="common_text">With our state-of-the-art solar solutions, you can embrace the power of sustainability and light up your area while cutting down on carbon emissions.</p>
@@ -74,8 +74,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="hvac">
-                	<div class="about_help_bx_iner">
+            	<a href="hvac" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon4.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">HVAC</p>
                         <p class="common_text">Experience year-round comfort with our advanced HVAC systems, combining efficiency and technology to create the perfect climate for your home or business.</p>
@@ -84,8 +84,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="bathroom">
-                	<div class="about_help_bx_iner">
+            	<a href="bathroom" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon5.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Bathroom</p>
                         <p class="common_text">Elevate your bathroom experience into a luxurious haven with our meticulously crafted custom designs, ensuring a perfect blend of functionality and personal style.</p>
@@ -94,8 +94,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="kitchen">
-                	<div class="about_help_bx_iner">
+            	<a href="kitchen" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon6.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Kitchen</p>
                         <p class="common_text">Upgrade your kitchen with our custom solutions, merging innovative design, premium materials, and expert artistry for a perfect blend of function and style.</p>
@@ -104,8 +104,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="gutter">
-                	<div class="about_help_bx_iner">
+            	<a href="gutter" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon7.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Gutter</p>
                         <p class="common_text">Protect your home with our top-tier gutter systems, designed for efficiency and durability to manage water effectively while enhancing overall property safety and appeal.</p>
@@ -126,8 +126,8 @@
         
             
             <div class="about_help_box_col">
-            	<a href="siding">
-                	<div class="about_help_bx_iner">
+            	<a href="siding" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon9.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Siding</p>
                         <p class="common_text">Renew your home's exterior with our top-quality siding solutions, expertly crafted for both durability and modern aesthetics, leaving a lasting impression.</p>
@@ -136,8 +136,8 @@
             </div>
             
             <div class="about_help_box_col">
-            	<a href="walktub">
-                	<div class="about_help_bx_iner">
+            	<a href="walktub" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/s1_help_icon10.png" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Walk-In Tubs</p>
                         <p class="common_text">Enjoy ultimate comfort and safety with our stylish walk-in tubs, seamlessly blending accessibility with luxury for a tranquil bathing experience.</p>
@@ -148,8 +148,8 @@
             
             
                           <div class="about_help_box_col">
-            	<a href="handyman">
-                	<div class="about_help_bx_iner">
+            	<a href="handyman" class="ehs-hvac-internal-link">
+              <div class="about_help_bx_iner">
                         <img src="images/Handyman 200-01.svg" class="about_help_col_icon" width="200" height="200" alt="icon">
                         <p class="about_help_head">Handyman</p>
                         <p class="common_text">Reliable solutions for all your home repairs and improvements, delivered with expert craftsmanship by our skilled handyman team.</p>

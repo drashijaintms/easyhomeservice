@@ -31,7 +31,7 @@ The page you ara looking for was not found.
 </p>
 <p class="text-base font-normal text-gray-600 dark:text-gray-300">
 You may return to
-<a href="https://easyhomeservice.com" class="text-blue-600 hover:underline dark:text-blue-500">home page</a> or try
+<a href="https://easyhomeservice.com" class="text-blue-600 hover:underline dark:text-blue-500 ehs-hvac-internal-link">home page</a> or try
 using the search form.
 </p>
 </div>

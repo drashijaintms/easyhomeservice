@@ -228,14 +228,14 @@ return [
         [
             "icon" => "images/prevent.png",
             "title" => "Prevent Water Damage with Expert Gutter Services",
-            "text" => "Protect your home from basement flooding, <strong><a href=\"https://easyhomeservice.com/mold\">mold</a></strong>, and landscaping erosion. Our local gutter repair, installation, and replacement expert’s services ensure efficient water diversion, keeping your property safe and secure.",
+            "text" => "Protect your home from basement flooding, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">mold</a></strong>, and landscaping erosion. Our local gutter repair, installation, and replacement expert’s services ensure efficient water diversion, keeping your property safe and secure.",
             "alt" => "Prevent Water Damage to Your Property"
         ],
 
         [
             "icon" => "images/strengthen.png",
             "title" => "Extend the Lifespan of Your Home’s Exterior",
-            "text" => "Gutter repair experts prevent water from pooling around your home, protecting your <strong><a href=\"https://easyhomeservice.com/siding\">siding</a></strong>, paint, and landscaping and ensuring long lasting exterior durability.",
+            "text" => "Gutter repair experts prevent water from pooling around your home, protecting your <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/siding\">siding</a></strong>, paint, and landscaping and ensuring long lasting exterior durability.",
             "alt" => "Extend the Lifespan of Your Exterior"
         ]
 
@@ -288,7 +288,7 @@ return [
         [
             "icon" => "images/privacy.png",
             "title" => "Security, Savings & Confidence in Every Plan",
-            "text" => "Partnering with reputable commercial warranty companies gives you access to the best home appliances warranty options. A quality plan functions like the best home insurance for appliances, covering expensive components such as HVAC systems, <strong><a href=\"https://easyhomeservice.com/waterheater\">water heaters</a></strong>, and electrical parts.",
+            "text" => "Partnering with reputable commercial warranty companies gives you access to the best home appliances warranty options. A quality plan functions like the best home insurance for appliances, covering expensive components such as HVAC systems, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/waterheater\">water heaters</a></strong>, and electrical parts.",
             "alt" => "Security, Savings & Confidence in Every Plan"
         ],
 
@@ -491,7 +491,7 @@ return [
         [
             "icon" => "images/tailoredsolution.png",
             "title" => "Protect Your Property & Belongings",
-            "text" => "Immediate intervention by highly skilled water damage repair and restoration professionals limits <strong><a href=\"https://easyhomeservice.com/mold\">mold growth</a></strong>, structural deterioration, and the need for expensive repairs.",
+            "text" => "Immediate intervention by highly skilled water damage repair and restoration professionals limits <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">mold growth</a></strong>, structural deterioration, and the need for expensive repairs.",
             "alt" => ""
         ],
 
@@ -528,7 +528,7 @@ return [
         [
             "icon" => "images/privacy.png",
             "title" => "Better Comfort with Expert Interior Door Installation",
-            "text" => "Professional Interior door installation service improves <strong><a href=\"https://easyhomeservice.com/insulation\">insulation</a></strong>, reduces airflow between rooms, and ensures smooth daily operation.",
+            "text" => "Professional Interior door installation service improves <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/insulation\">insulation</a></strong>, reduces airflow between rooms, and ensures smooth daily operation.",
             "alt" => ""
         ],
 
@@ -581,7 +581,7 @@ return [
         [
             "icon" => "images/security.png",
             "title" => "Enhanced Home Security",
-            "text" => "Trusted locksmith professionals can repair damaged locks, change old locks, and install advanced locks, such as smart locks, for <strong><a href=\"https://easyhomeservice.com/homesecurity\">better home security</a></strong>. Thus, enhancing your house’s safety.",
+            "text" => "Trusted locksmith professionals can repair damaged locks, change old locks, and install advanced locks, such as smart locks, for <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/homesecurity\">better home security</a></strong>. Thus, enhancing your house’s safety.",
             "alt" => ""
         ],
 
@@ -911,7 +911,7 @@ return [
         [
             "icon" => "images/home.png",
             "title" => "Transform Your Home with Custom Carpentry Solutions",
-            "text" => "Professional carpentry services help upgrade the look of your home. Making storage and aesthetics handy. Our professional carpentry services provide custom carpentry solutions for your home. <strong><a href='https://easyhomeservice.com/carpentry-steps'>Just fill in the form</a></strong> with a service request and get a comparison from a range of specialists and avail the service.",
+            "text" => "Professional carpentry services help upgrade the look of your home. Making storage and aesthetics handy. Our professional carpentry services provide custom carpentry solutions for your home. <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/carpentry-steps'>Just fill in the form</a></strong> with a service request and get a comparison from a range of specialists and avail the service.",
             "alt" => ""
         ],
 
@@ -941,21 +941,21 @@ return [
         [
             "icon" => "images/elevateelegance.png",
             "title" => "Create High-Impact Spaces Without Full Renovation",
-            "text" => "Turn dull walls into statement features with the use of a wallpaper expert. Make use of our wallpaper services to change the look of your interiors in no time without spending an extra penny on costly <strong><a href='https://easyhomeservice.com/remodeling'>renovations</a></strong>.",
+            "text" => "Turn dull walls into statement features with the use of a wallpaper expert. Make use of our wallpaper services to change the look of your interiors in no time without spending an extra penny on costly <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/remodeling'>renovations</a></strong>.",
             "alt" => ""
         ],
 
         [
             "icon" => "images/repair.png",
             "title" => "Smarter Styling with Long-Term Value",
-            "text" => "Wallpaper installation services provide more than just visual enhancement; they provide depth, cover minor wall defects, and offer longer durability compared to <strong><a href='https://easyhomeservice.com/painting'>traditional paint</a></strong> jobs. Get the best wallpaper installation services for long-lasting, high-quality results.",
+            "text" => "Wallpaper installation services provide more than just visual enhancement; they provide depth, cover minor wall defects, and offer longer durability compared to <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/painting'>traditional paint</a></strong> jobs. Get the best wallpaper installation services for long-lasting, high-quality results.",
             "alt" => ""
         ],
 
         [
             "icon" => "images/increase.png",
             "title" => "Precision Finishes That Elevate Everyday Living",
-            "text" => "Get high-quality finishes on your <strong><a href='https://easyhomeservice.com/wall'>walls</a></strong> with correct alignment, crisp edges, and bubble-free application. Get the best wallpaper installation services from experts who will give your walls the best finish without breaking the bank.",
+            "text" => "Get high-quality finishes on your <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/wall'>walls</a></strong> with correct alignment, crisp edges, and bubble-free application. Get the best wallpaper installation services from experts who will give your walls the best finish without breaking the bank.",
             "alt" => ""
         ]
 
@@ -1233,7 +1233,7 @@ home value, and deliver long-lasting performance year-round. You save more since
 
 "waterheater" => [
     "heading" => "Why Portable Water Heater Services Are Essential for Your Home",
-    "description" => "Professional water heater services help ensure reliable hot water, improve efficiency and reduce unexpected cost, preventing breakdowns and costly <strong><a href='https://easyhomeservice.com/waterdamage'>water damage</a></strong> over time.",
+    "description" => "Professional water heater services help ensure reliable hot water, improve efficiency and reduce unexpected cost, preventing breakdowns and costly <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/waterdamage'>water damage</a></strong> over time.",
 
     "cards" => [
 
@@ -1393,7 +1393,7 @@ home value, and deliver long-lasting performance year-round. You save more since
         [
             "icon" => "images/privacy.png",
             "title" => "Lower Energy Costs & Better Efficiency",
-            "text" => "Upgrading to energy-efficient insulation minimizes heat loss and air leaks, helping reduce monthly utility bills while it helps to lower your bills and make your <strong><a href='https://easyhomeservice.com/hvac'>HVAC system</a></strong> more efficient.",
+            "text" => "Upgrading to energy-efficient insulation minimizes heat loss and air leaks, helping reduce monthly utility bills while it helps to lower your bills and make your <strong><a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'>HVAC system</a></strong> more efficient.",
             "alt" => ""
         ],
 

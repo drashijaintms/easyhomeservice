@@ -6,7 +6,7 @@
     <div class="inner__banner__left">
       <img src="/images/hvac_bnr_mob.webp" class="inner_banner_mob showMob" width="600" height="400" alt="hvac services experts, hvac services, commercial hvac repair near me">
       <h1 class="banner_heading">Connect With HVAC Services in New York </h1>
-      <p class="inner__banner__text">Stay comfortable year-round in New York with Easy Home Service. We connect you to trusted local <a href="https://easyhomeservice.com/hvac">HVAC professionals</a> across New York State for fast, reliable repairs, installations, and maintenance handling everything from freezing winters to intense summer heatwaves. </p>
+      <p class="inner__banner__text">Stay comfortable year-round in New York with Easy Home Service. We connect you to trusted local <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC professionals</a> across New York State for fast, reliable repairs, installations, and maintenance handling everything from freezing winters to intense summer heatwaves. </p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">

@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/historical-windows-a-look-at-architectural-styles-across-america" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/historical-windows-a-look-at-architectural-styles-across-america" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/window-blog/historical-windows-a-look-at-architectural-styles-across-america.jpg"
              class="card-img-top mb-3" alt="Window">
@@ -19,7 +19,7 @@
       </div>
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/best-window-replacement-in-maryland" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/best-window-replacement-in-maryland" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="images/window-blog/best-window-replacement.png"
              class="card-img-top mb-3" alt="Window">
@@ -38,7 +38,7 @@
       </div>
             <!-- Blog Card 3 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/storm-proof-your-home-why-storm-windows-maryland-are-a-game-changer" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/storm-proof-your-home-why-storm-windows-maryland-are-a-game-changer" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="images/window-blog/storm-proof-your-home.jpg"
              class="card-img-top mb-3" alt="Window">

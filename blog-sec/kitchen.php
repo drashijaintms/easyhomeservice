@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/kitchen-remodeling-expert" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/kitchen-remodeling-expert" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/9effb04b7d4c14383fa404bc80b8669f.png"
              class="card-img-top mb-3" alt="Kitchen">
@@ -19,7 +19,7 @@
       </div>
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/fdef171b608984509ee56cdc7dba9197.png"
              class="card-img-top mb-3" alt="Kitchen">

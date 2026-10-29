@@ -46,7 +46,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Explore Professional Hazardous Waste Removal Services For Your Home</h2>
-    <p class="common_text">Safe and timely removal of hazardous waste helps protect your home, health, and indoor environment. <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with verified professionals across the USA for reliable toxic material removal services, from indoor toxic inspection to safe removal and compliance. </p> 
+    <p class="common_text">Safe and timely removal of hazardous waste helps protect your home, health, and indoor environment. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with verified professionals across the USA for reliable toxic material removal services, from indoor toxic inspection to safe removal and compliance. </p> 
     <?php include 'gallery.php';?>
   </div>
 </div>

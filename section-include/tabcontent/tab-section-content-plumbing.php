@@ -3985,7 +3985,7 @@ return [
                     "type" => "list",
                     "items" => [
                         [ "title" => "Kitchen and bathroom drain cleaning" ],
-                        [ "title" => "<a href=\"https://easyhomeservice.com/sewerwatermain\">Sewer line inspections</a>" ],
+                        [ "title" => "<a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/sewerwatermain\">Sewer line inspections</a>" ],
                         [ "title" => "Root intrusion detection" ],
                         [ "title" => "Preventive drain maintenance" ],
                     ]
@@ -5522,7 +5522,7 @@ return [
             "content" => [
                 [
                     "type" => "paragraph",
-                    "text" => "Drain and sewer issues can quickly turn into major plumbing problems if left untreated. Our plumbing professionals use advanced tools to clear clogs, remove buildup, and inspect sewer lines, helping restore proper <a href=\"https://easyhomeservice.com/drainage\">drainage</a> and reduce the risk of future backups."
+                    "text" => "Drain and sewer issues can quickly turn into major plumbing problems if left untreated. Our plumbing professionals use advanced tools to clear clogs, remove buildup, and inspect sewer lines, helping restore proper <a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/drainage\">drainage</a> and reduce the risk of future backups."
                 ],
 
                 [

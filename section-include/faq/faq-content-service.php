@@ -4,7 +4,7 @@ return [
     'roofing' => [
     [
         'q' => 'What types of roofing services do you provide?',
-        'a' => 'Easy Home Service connects you with home roofing experts for <strong><a href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert">roof repair</a></strong>, replacement, inspection, leak detection, and maintenance. Whether you have shingles, metal, tile, or flat roofing, we’ll match you with trusted local experts to get the job done.'
+        'a' => 'Easy Home Service connects you with home roofing experts for <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert">roof repair</a></strong>, replacement, inspection, leak detection, and maintenance. Whether you have shingles, metal, tile, or flat roofing, we’ll match you with trusted local experts to get the job done.'
     ],
     [
         'q' => 'Do you offer emergency roofing services?',
@@ -24,7 +24,7 @@ return [
     ],
     [
         'q' => 'What other home services can I book through Easy Home Service?',
-        'a' => 'Besides roofing, you can also find professionals for <strong><a href="https://easyhomeservice.com/plumbing">Plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a href="https://easyhomeservice.com/handyman">Handyman</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">Electrical work</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">Pest Control</a></strong>, <strong><a href="https://easyhomeservice.com/window">Window</a></strong>, <strong><a href="https://easyhomeservice.com/gutter">Gutters</a></strong>, <strong><a href="https://easyhomeservice.com/bathroom">Bath</a></strong>, <strong><a href="https://easyhomeservice.com/solar">Solar</a></strong> and more, all from one trusted platform.'
+        'a' => 'Besides roofing, you can also find professionals for <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical work</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">Pest Control</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Window</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutters</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bath</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar</a></strong> and more, all from one trusted platform.'
     ],
     [
         'q' => 'How soon will a roofing professional contact me after I submit my request?',
@@ -53,7 +53,7 @@ return [
     ],
     [
         'q' => 'In which areas do you provide roofing services?',
-        'a' => 'Easy Home Service offers <strong><a href="https://easyhomeservice.com/">home services in USA</a></strong> to connect homeowners with trusted roofing professionals across the United States, including major states like Arizona, California, Florida, Maryland, Illinois, Ohio, North Carolina, Texas, Pennsylvania and New York. We’re constantly expanding our network to cover more regions and suburbs near you.'
+        'a' => 'Easy Home Service offers <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">home services in USA</a></strong> to connect homeowners with trusted roofing professionals across the United States, including major states like Arizona, California, Florida, Maryland, Illinois, Ohio, North Carolina, Texas, Pennsylvania and New York. We’re constantly expanding our network to cover more regions and suburbs near you.'
     ]
 ],
     
@@ -84,16 +84,16 @@ return [
     ],
     [
         'q' => 'What types of home services do you offer?',
-        'a' => 'We cover a wide range of affordable and <strong><a href="https://easyhomeservice.com/">trusted home service providers</a></strong>, including:
+        'a' => 'We cover a wide range of affordable and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">trusted home service providers</a></strong>, including:
         <ul class="f-ul">
-          <li><strong><a href="https://easyhomeservice.com/bathtub">Bathtub</a></strong> - Bathroom Remodeling &amp; Upgrades</li>
-          <li><strong><a href="https://easyhomeservice.com/cabinet">Cabinet</a></strong> - Custom Cabinets &amp; Storage Solutions</li>
-          <li><strong><a href="https://easyhomeservice.com/carpentry">Carpentry</a></strong> - Carpentry &amp; Woodwork Services</li>
-          <li><strong><a href="https://easyhomeservice.com/glassrepair">Glass Repair</a></strong> - Glass Replacement &amp; Window Repair</li>
-          <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing</a></strong> - Plumbing Installation &amp; Repairs</li>
-          <li><strong><a href="https://easyhomeservice.com/roofing">Roof</a></strong> - Roofing Installation &amp; Maintenance</li>
-          <li><strong><a href="https://easyhomeservice.com/painting">Paint</a></strong> - Interior &amp; Exterior Painting</li>
-          <li><strong><a href="https://easyhomeservice.com/electrical">Electric</a></strong> - Electrical Repair &amp; Installation</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathtub">Bathtub</a></strong> - Bathroom Remodeling &amp; Upgrades</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">Cabinet</a></strong> - Custom Cabinets &amp; Storage Solutions</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/carpentry">Carpentry</a></strong> - Carpentry &amp; Woodwork Services</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/glassrepair">Glass Repair</a></strong> - Glass Replacement &amp; Window Repair</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing</a></strong> - Plumbing Installation &amp; Repairs</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roof</a></strong> - Roofing Installation &amp; Maintenance</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Paint</a></strong> - Interior &amp; Exterior Painting</li>
+          <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electric</a></strong> - Electrical Repair &amp; Installation</li>
         </ul>'
     ],
     [
@@ -125,7 +125,7 @@ return [
     'solar' => [
     [
         'q' => 'How can I find a trusted solar professional near me?',
-        'a' => 'Easy <strong><a href="https://easyhomeservice.com/">Home Service</a></strong> gets you in touch with local, professional solar specialists. To select the best specialist for your solar installation or maintenance requirements, you may compare experts, read reviews, and obtain quotations.'
+        'a' => 'Easy <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">Home Service</a></strong> gets you in touch with local, professional solar specialists. To select the best specialist for your solar installation or maintenance requirements, you may compare experts, read reviews, and obtain quotations.'
     ],
     [
         'q' => 'How much can I save on electricity with solar panels?',
@@ -137,7 +137,7 @@ return [
     ],
     [
         'q' => 'How long do solar panels last and when might I need solar panel repair?',
-        'a' => 'Most solar panels last 25-30 years, but some components like inverters may need maintenance. Easy Home Service connects you with professionals for <strong><a href="https://easyhomeservice.com/blog/solar-panel-problems">solar panel repair</a></strong> and ongoing solar service to keep your system performing optimally'
+        'a' => 'Most solar panels last 25-30 years, but some components like inverters may need maintenance. Easy Home Service connects you with professionals for <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/solar-panel-problems">solar panel repair</a></strong> and ongoing solar service to keep your system performing optimally'
     ],
     [
         'q' => 'Are there tax incentives or rebates for solar installations?',
@@ -159,14 +159,14 @@ return [
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
                 <ul class="f-ul">
-                  <li><strong><a href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs.</li>
-                  <li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
-                  <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
-                  <li><strong><a href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
-                  <li><strong><a href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
-                  <li><strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation.</li>
-                  <li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
-                  <li><strong><a href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
                 </ul>
                 No matter the project, we help you find skilled experts to get it done efficiently and reliably'
     ],
@@ -207,17 +207,17 @@ return [
     ],
     [
         'q' => 'What types of home services do you offer?',
-        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a href="https://easyhomeservice.com/">home services</a></strong>, including:
+        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">home services</a></strong>, including:
                 <ul class="f-ul">
-                  <li><strong><a href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs.</li>
-                  <li><strong><a href="https://easyhomeservice.com/solar">Solar</a></strong> - Solar panel installation and energy solutions.</li>
-                  <li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
-                  <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
-                  <li><strong><a href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
-                  <li><strong><a href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
-                  <li><strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation.</li>
-                  <li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
-                  <li><strong><a href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar</a></strong> - Solar panel installation and energy solutions.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
+                  <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
                 </ul>
                 No matter the project, we help you find skilled experts to get it done efficiently and reliably'
     ],
@@ -234,7 +234,7 @@ return [
     'handyman' => [
     [
         'q' => 'What types of tasks can a handyman helper handle?',
-        'a' => 'Our handyman helpers can manage a variety of home tasks, including <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong> repairs, <strong><a href="https://easyhomeservice.com/carpentry">carpentry</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, furniture assembly, and general maintenance.'
+        'a' => 'Our handyman helpers can manage a variety of home tasks, including <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong> repairs, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/carpentry">carpentry</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, furniture assembly, and general maintenance.'
     ],
     [
         'q' => 'Do handyman experts provide emergency services?',
@@ -266,16 +266,16 @@ return [
     ],
     [
         'q' => 'What types of home services do you offer?',
-        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a href="https://easyhomeservice.com/">home services</a></strong>, including:
+        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">home services</a></strong>, including:
             <ul class="f-ul">
-              <li><strong><a href="https://easyhomeservice.com/solar">Solar</a></strong> - Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
-              <li><strong><a href="https://easyhomeservice.com/door">Door Services</a></strong> - Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
-              <li><strong><a href="https://easyhomeservice.com/homesecurity">Home Security</a></strong> - Smart security systems, camera setups, and complete home protection solutions.</li>
-              <li><strong><a href="https://easyhomeservice.com/atticwholehousefan">Ventilation</a></strong> - Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
-              <li><strong><a href="https://easyhomeservice.com/countertops">Countertops</a></strong> - Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
-              <li><strong><a href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock</a></strong> - Installation, patching, finishing, and wall restoration services.</li>
-              <li><strong><a href="https://easyhomeservice.com/furniture">Furniture Services</a></strong> - Assembly, repairs, installations, and custom furniture solutions.</li>
-              <li><strong><a href="https://easyhomeservice.com/painting">Painting</a></strong> - Interior and exterior painting, wall preparation, and full-home repainting.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar</a></strong> - Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">Door Services</a></strong> - Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">Home Security</a></strong> - Smart security systems, camera setups, and complete home protection solutions.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/atticwholehousefan">Ventilation</a></strong> - Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/countertops">Countertops</a></strong> - Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock</a></strong> - Installation, patching, finishing, and wall restoration services.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">Furniture Services</a></strong> - Assembly, repairs, installations, and custom furniture solutions.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting</a></strong> - Interior and exterior painting, wall preparation, and full-home repainting.</li>
             </ul>
             No matter the project, we help you find skilled experts to get it done efficiently and reliably'
     ],
@@ -320,16 +320,16 @@ return [
     ],
     [
         'q' => 'What types of home services do you offer?',
-        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a href="https://easyhomeservice.com/">residential home services</a></strong>, including::
+        'a' => 'We connect homeowners with trusted professionals for a wide range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">residential home services</a></strong>, including::
             <ul class="f-ul">
-              <li><strong><a href="https://easyhomeservice.com/solar">Solar</a></strong> - Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
-              <li><strong><a href="https://easyhomeservice.com/door">Door Services</a></strong> - Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
-              <li><strong><a href="https://easyhomeservice.com/homesecurity">Home Security</a></strong> - Smart security systems, camera setups, and complete home protection solutions.</li>
-              <li><strong><a href="https://easyhomeservice.com/atticwholehousefan">Ventilation</a></strong> - Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
-              <li><strong><a href="https://easyhomeservice.com/countertops">Countertops</a></strong> - Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
-              <li><strong><a href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock</a></strong> - Installation, patching, finishing, and wall restoration services.</li>
-              <li><strong><a href="https://easyhomeservice.com/furniture">Furniture Services</a></strong> - Assembly, repairs, installations, and custom furniture solutions.</li>
-              <li><strong><a href="https://easyhomeservice.com/painting">Painting</a></strong> - Interior and exterior painting, wall preparation, and full-home repainting.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar</a></strong> - Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">Door Services</a></strong> - Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">Home Security</a></strong> - Smart security systems, camera setups, and complete home protection solutions.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/atticwholehousefan">Ventilation</a></strong> - Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/countertops">Countertops</a></strong> - Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock</a></strong> - Installation, patching, finishing, and wall restoration services.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">Furniture Services</a></strong> - Assembly, repairs, installations, and custom furniture solutions.</li>
+              <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting</a></strong> - Interior and exterior painting, wall preparation, and full-home repainting.</li>
             </ul>
             No matter the project, we help you find skilled experts to get it done efficiently and reliably'
     ],
@@ -376,28 +376,28 @@ return [
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul class="f-ul">
-            <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-            <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-            <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-            <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-            <li><strong><a href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
-            <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
-            <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
-            <li><strong><a href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
-            <li><strong><a href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
         </ul>
         No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
     [
         'q' => 'In which areas do you provide HVAC repair and replacement services?',
-        'a' => 'We proudly offer hvac repair and replacement solutions across <strong><a href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.'
+        'a' => 'We proudly offer hvac repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>. Our network of skilled professionals provides complete hvac services, including hvac repair, installation, and hvac guard setup.'
     ],
 ],
     
     'walktub' => [
     [
         'q' => 'What types of walk-in tub services do you offer?',
-        'a' => 'We offer a comprehensive range of <strong><a href="https://easyhomeservice.com/">residential home services in USA</a></strong> and walk-in tub services, including installation, customization and maintenance. Our services are tailored to meet the specific needs and preferences of our clients. We aim to provide affordable walk-In tub installation and repair experts across the USA.'
+        'a' => 'We offer a comprehensive range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">residential home services in USA</a></strong> and walk-in tub services, including installation, customization and maintenance. Our services are tailored to meet the specific needs and preferences of our clients. We aim to provide affordable walk-In tub installation and repair experts across the USA.'
     ],
     [
         'q' => 'How do I choose the right walk-in tub for my needs?',
@@ -428,7 +428,7 @@ return [
 ],
 [
         'q' => 'What type of paint is best for modern homes?',
-        'a' => 'The best paint depends on the surface and climate. For most US homes, high-quality acrylic latex paint is recommended because it offers durability, weather resistance, and long-lasting color. Professional painters select the right finish for <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/drywallsheetrock">drywall</a></strong>, trim, or brick.'
+        'a' => 'The best paint depends on the surface and climate. For most US homes, high-quality acrylic latex paint is recommended because it offers durability, weather resistance, and long-lasting color. Professional painters select the right finish for <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drywallsheetrock">drywall</a></strong>, trim, or brick.'
 ],
 [
         'q' => 'How can I maintain my home’s paint for long-lasting results?',
@@ -453,23 +453,23 @@ return [
 
     [
         'q' => 'What types of home services do you offer?',
-        'a' => 'Easy Home Service helps homeowners in the USA find trusted and experienced professionals for carrying out all types of home improvement and <strong><a href="https://easyhomeservice.com/">residential home services</a></strong> . Besides painting your home, we also offer:
-        <ul><li><strong><a href="https://easyhomeservice.com/roofing">Roofing:</a></strong> Fixing, replacing, and maintaining roofs.</li>
-<li><strong><a href="https://easyhomeservice.com/solar">Solar:</a></strong> Installing solar panels and upgrading to be more energy-efficient. </li>
-<li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Simple changes or complete renovations. </li>
-<li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services:</a></strong> Small repairs, setting up of fixtures, and other general home improvement works. </li>
-<li><strong><a href="https://easyhomeservice.com/flooring">Flooring:</a></strong> Laying new floor, sanding old ones, and other changes. </li>
-<li><strong><a href="https://easyhomeservice.com/window">Windows Fixing:</a></strong> Replacing windows, and solutions to make them more energy efficient. </li>
-<li><strong><a href="https://easyhomeservice.com/hvac">HVAC:</a></strong> Installing, repairing, and maintaining heating and cooling systems. </li>
-<li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Completely redoing the kitchen or making selective changes. </li>
-<li><strong><a href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Immediate help with leaks, floods, and repair of damage caused by moisture.</li></ul>
+        'a' => 'Easy Home Service helps homeowners in the USA find trusted and experienced professionals for carrying out all types of home improvement and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">residential home services</a></strong> . Besides painting your home, we also offer:
+        <ul><li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing:</a></strong> Fixing, replacing, and maintaining roofs.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar:</a></strong> Installing solar panels and upgrading to be more energy-efficient. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Simple changes or complete renovations. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services:</a></strong> Small repairs, setting up of fixtures, and other general home improvement works. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring:</a></strong> Laying new floor, sanding old ones, and other changes. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows Fixing:</a></strong> Replacing windows, and solutions to make them more energy efficient. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC:</a></strong> Installing, repairing, and maintaining heating and cooling systems. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Completely redoing the kitchen or making selective changes. </li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Immediate help with leaks, floods, and repair of damage caused by moisture.</li></ul>
        Whether you want to paint the interior of your house, change its exterior, or organize big renovation works, we can find the most suitable professionals who are quality-conscious and dependable to give you the results you want.
         '
 ],
 [
         'q' => 'In which areas do you provide painting services?',
         'a' => 'Through our network of reliable professionals, we are delighted to provide interior and exterior painting services throughout the USA. This includes: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Ohio, Oklahoma, Oregon, Virginia, Washington, West Virginia, Wisconsin, and Wyoming.
-        <br>Regardless of your location in the United States, <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> will help you to locate dependable local painting contractors who can take care of your residential and small painting needs, thus saving you time and providing high-quality painting results.'
+        <br>Regardless of your location in the United States, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> will help you to locate dependable local painting contractors who can take care of your residential and small painting needs, thus saving you time and providing high-quality painting results.'
 ],
 [
         'q' => 'Which type of paint do you usually use and for why?',
@@ -485,19 +485,19 @@ return [
 ],
 [
         'q' => 'How can I request a home warranty service in my area?',
-        'a' => 'It’s simple! You can request home warranty service directly through our website or call our customer support at <strong><a href="tel:+18337196164">+18337196164</a></strong>. We connect you with expert technicians for home warranty services in the USA, in your area, making repairs fast and hassle-free.'
+        'a' => 'It’s simple! You can request home warranty service directly through our website or call our customer support at <strong><a class="ehs-hvac-internal-link" href="tel:+18337196164">+18337196164</a></strong>. We connect you with expert technicians for home warranty services in the USA, in your area, making repairs fast and hassle-free.'
 ],
 [
         'q' => 'What does a typical home warranty cover?',
-        'a' => 'The best home insurance for appliances plans include refrigerators, ovens, dishwashers, HVAC systems, plumbing, and <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong> components. Complete care home warranty plans may offer additional optional coverage.'
+        'a' => 'The best home insurance for appliances plans include refrigerators, ovens, dishwashers, HVAC systems, plumbing, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong> components. Complete care home warranty plans may offer additional optional coverage.'
 ],
 [
         'q' => 'Are home warranty plans available for new and old homes?',
-        'a' => 'Absolutely. Both new and older homes can benefit from home warranty services. Even If your home is brand new, a <strong><a href="https://easyhomeservice.com/homeinspection">home warranty inspection</a></strong> and coverage can protect your systems and appliances from unexpected failures.'
+        'a' => 'Absolutely. Both new and older homes can benefit from home warranty services. Even If your home is brand new, a <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">home warranty inspection</a></strong> and coverage can protect your systems and appliances from unexpected failures.'
 ],
 [
         'q' => 'What is the difference between a basic and a total protect home warranty plan?',
-        'a' => '<ul><li><strong>Basic Home Warranty:</strong>Covers essential systems and appliances such as <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, and <strong><a href="https://easyhomeservice.com/kitchen">kitchen</a></strong> appliances.</li><li><strong>Total Protect Home Warranty:</strong>Provides comprehensive coverage, including optional add-ons and extended protection for more appliances and systems.</li></ul>Easy Home Service can help you choose the plan that best fits your home and Budget.'
+        'a' => '<ul><li><strong>Basic Home Warranty:</strong>Covers essential systems and appliances such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen</a></strong> appliances.</li><li><strong>Total Protect Home Warranty:</strong>Provides comprehensive coverage, including optional add-ons and extended protection for more appliances and systems.</li></ul>Easy Home Service can help you choose the plan that best fits your home and Budget.'
 ],
 [
         'q' => 'Do I need a home warranty inspection before getting coverage?',
@@ -513,16 +513,16 @@ return [
 ],
 [
         'q' => 'What other home services do you offer besides home warranty?',
-        'a' => 'Besides assisting homeowners in comparing and selecting suitable home warranty plans, <strong><a href="https://easyhomeservice.com/">Easy Home Service</a></strong> also provides the platform to hire professionals for home improvement and property care solutions. Below is a list of some of the services::
-        <ul><li><strong><a href="https://easyhomeservice.com/homeinspection">Home Inspection:</a></strong> Pre-purchase inspections, maintenance inspections, and detailed property reports.</li>
-<li><strong><a href="https://easyhomeservice.com/roofing">Roofing Services:</a></strong> Roof repair, replacement, and preventive maintenance.</li>
-<li><strong><a href="https://easyhomeservice.com/hvac">HVAC Services:</a></strong> Heating and cooling system installation, repair, and seasonal maintenance.</li>
-<li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services:</a></strong> Leak detection, pipe repair, drain cleaning, and fixture installation.</li>
-<li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services:</a></strong> Panel upgrades, wiring repairs, and safety inspections.</li>
-<li><strong><a href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Emergency response, drying, and structural repairs after leaks or flooding.</li>
-<li><strong><a href="https://easyhomeservice.com/painting">Painting Services:</a></strong>  Interior and exterior residential painting.</li>
-<li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Modern upgrades and complete renovations.</li>
-<li><strong><a href="https://easyhomeservice.com/flooring">Flooring Installation:</a></strong> Hardwood, vinyl, tile, and refinishing services.</li>
+        'a' => 'Besides assisting homeowners in comparing and selecting suitable home warranty plans, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">Easy Home Service</a></strong> also provides the platform to hire professionals for home improvement and property care solutions. Below is a list of some of the services::
+        <ul><li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">Home Inspection:</a></strong> Pre-purchase inspections, maintenance inspections, and detailed property reports.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing Services:</a></strong> Roof repair, replacement, and preventive maintenance.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC Services:</a></strong> Heating and cooling system installation, repair, and seasonal maintenance.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services:</a></strong> Leak detection, pipe repair, drain cleaning, and fixture installation.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services:</a></strong> Panel upgrades, wiring repairs, and safety inspections.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Emergency response, drying, and structural repairs after leaks or flooding.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services:</a></strong>  Interior and exterior residential painting.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Modern upgrades and complete renovations.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring Installation:</a></strong> Hardwood, vinyl, tile, and refinishing services.</li>
 </ul>
        Whether you require a home warranty plan for protection or need professional help for repair and upgrades, Easy Home Service is eager to assist you in finding trusted specialists who will efficiently safeguard and enhance your home.
         '
@@ -562,9 +562,9 @@ return [
 ],
 [
         'q' => 'What other home services do you offer besides kitchen remodeling?',
-        'a' => 'In addition to offering professional kitchen remodeling services, Easy Home Service connects homeowners with <strong><a href="https://easyhomeservice.com/">trusted home service providers</a></strong> and repair solutions, such as:
+        'a' => 'In addition to offering professional kitchen remodeling services, Easy Home Service connects homeowners with <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">trusted home service providers</a></strong> and repair solutions, such as:
         <br>
-        <strong><a href="https://easyhomeservice.com/bathroom">Bathroom remodeling</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">hvac services</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">electrical services</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring installation</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/waterdamage">water damage</a></strong> restoration, <strong><a href="https://easyhomeservice.com/homeinspection">home inspection</a></strong> services, <strong><a href="https://easyhomeservice.com/">home warranty</a></strong> solutions etc. Whether you are looking to do a complete kitchen renovation or just upgrading other parts of your home, Easy Home Service offers you a convenient way to interact with highly trained professionals who stock quality, reliable results within your time and budget constraints.
+        <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom remodeling</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">hvac services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">water damage</a></strong> restoration, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">home inspection</a></strong> services, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">home warranty</a></strong> solutions etc. Whether you are looking to do a complete kitchen renovation or just upgrading other parts of your home, Easy Home Service offers you a convenient way to interact with highly trained professionals who stock quality, reliable results within your time and budget constraints.
         '
 ],
 [
@@ -589,7 +589,7 @@ return [
 ],
 [
         'q' => 'What services do bathroom remodeling professionals provide?',
-        'a' => 'A qualified bathroom remodeling expert can handle demolition, plumbing, and electrical work, installing tiles, replacing showers or <strong><a href="https://easyhomeservice.com/bathtub">bathtubs</a></strong>, adding new vanities, <strong><a href="https://easyhomeservice.com/flooring">laying flooring</a></strong>, and installing lighting, or doing full bath renovations.'
+        'a' => 'A qualified bathroom remodeling expert can handle demolition, plumbing, and electrical work, installing tiles, replacing showers or <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathtub">bathtubs</a></strong>, adding new vanities, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">laying flooring</a></strong>, and installing lighting, or doing full bath renovations.'
 ],
 [
         'q' => 'How long does a bathroom renovation take?',
@@ -597,7 +597,7 @@ return [
 ],
 [
         'q' => 'Are permits required for bathroom renovations?',
-        'a' => 'Generally, permits are necessary if you are making plumbing or <strong><a href="https://easyhomeservice.com/electrical">electrical changes</a></strong>. An experienced bathroom renovation specialist will take care of all local compliance requirements.'
+        'a' => 'Generally, permits are necessary if you are making plumbing or <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical changes</a></strong>. An experienced bathroom renovation specialist will take care of all local compliance requirements.'
 ],
 [
         'q' => 'How can I make a small bathroom feel larger?',
@@ -610,16 +610,16 @@ return [
 [
         'q' => 'What other home services do you offer besides bathroom remodeling?',
         'a' => 'In addition to professional bathroom remodeling, Easy Home Service connects homeowners with trusted experts for a wide range of home improvement and repair services, including:
-        <ul><li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Full kitchen remodels, cabinet upgrades, and countertop installation.</li>
-<li><strong><a href="https://easyhomeservice.com/roofing">Roofing Services:</a></strong> Roof repair, replacement, and inspections.</li>
-<li><strong><a href="https://easyhomeservice.com/hvac">HVAC Services:</a></strong> Heating and air conditioning installation, repair, and maintenance.</li>
-<li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services:</a></strong> Leak repairs, pipe replacement, and fixture installation.</li>
-<li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services:</a></strong> Lighting upgrades, wiring, and panel improvements.</li>
-<li><strong><a href="https://easyhomeservice.com/flooring">Flooring Installation:</a></strong> Tile, vinyl, hardwood, and refinishing solutions.</li>
-<li><strong><a href="https://easyhomeservice.com/painting">Painting Services:</a></strong> Interior and exterior residential painting.</li>
-<li><strong><a href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Cleanup and repairs after leaks or flooding.</li>
-<li><strong><a href="https://easyhomeservice.com/homeinspection">Home Inspection Services:</a></strong> Detailed property inspections for buyers and homeowners.</li>
-<li><strong><a href="https://easyhomeservice.com/homewarranty">Home Warranty Plans:</a></strong> Coverage options to protect major home systems and appliances.</li>
+        <ul><li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Full kitchen remodels, cabinet upgrades, and countertop installation.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing Services:</a></strong> Roof repair, replacement, and inspections.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC Services:</a></strong> Heating and air conditioning installation, repair, and maintenance.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services:</a></strong> Leak repairs, pipe replacement, and fixture installation.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services:</a></strong> Lighting upgrades, wiring, and panel improvements.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring Installation:</a></strong> Tile, vinyl, hardwood, and refinishing solutions.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services:</a></strong> Interior and exterior residential painting.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">Water Damage Restoration:</a></strong> Cleanup and repairs after leaks or flooding.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">Home Inspection Services:</a></strong> Detailed property inspections for buyers and homeowners.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">Home Warranty Plans:</a></strong> Coverage options to protect major home systems and appliances.</li>
 </ul>Whether you are planning a luxury bathroom upgrade, a walk-in shower conversion, or improvements elsewhere in your home, Easy Home Service helps you connect with experienced professionals who deliver quality workmanship and dependable results.
         '
 ],
@@ -681,15 +681,15 @@ return [
         'q' => 'What types of home services do you offer?',
         'a' => 'Easy Home Service helps homeowners find reliable and pre-screened professionals to take care of various home improvement and repair needs. Here are some examples of the services we provide:
         <ul>
-        <li><strong><a href="https://easyhomeservice.com/roofing">Roofing:</a></strong> Roof repairs, full replacements, inspections, and ongoing maintenance for all roof types.</li>
-        <li><strong><a href="https://easyhomeservice.com/solar">Solar:</a></strong> Installing solar panels and providing energy-efficient solar solutions to save on electricity bills. </li>
-        <li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Everything from minor upgrades to complete bathroom renovations.</li>
-        <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services:</a></strong> Doing minor repairs, setting up new fixtures, or generally improving the house. </li>
-        <li><strong><a href="https://easyhomeservice.com/flooring">Flooring:</a></strong> Professional installation, refinishing, and upgrading of floors.</li>
-        <li><strong><a href="https://easyhomeservice.com/window">Windows:</a></strong> Window repair, replacement, and energy-efficient window solutions.</li>
-        <li><strong><a href="https://easyhomeservice.com/hvac">HVAC:</a></strong> Besides these, we offer heating, ventilation, and air conditioning, repair, maintenance, and installation of a new system.</li>
-        <li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Full kitchen remodeling or targeted upgrades to enhance functionality and value.</li>
-        <li><strong><a href="https://easyhomeservice.com/walktub">Walk-In Tubs:</a></strong> Safe and comfortable walk-in tub installation for improved accessibility.</li></ul>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing:</a></strong> Roof repairs, full replacements, inspections, and ongoing maintenance for all roof types.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar:</a></strong> Installing solar panels and providing energy-efficient solar solutions to save on electricity bills. </li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling:</a></strong> Everything from minor upgrades to complete bathroom renovations.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services:</a></strong> Doing minor repairs, setting up new fixtures, or generally improving the house. </li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring:</a></strong> Professional installation, refinishing, and upgrading of floors.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows:</a></strong> Window repair, replacement, and energy-efficient window solutions.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC:</a></strong> Besides these, we offer heating, ventilation, and air conditioning, repair, maintenance, and installation of a new system.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation:</a></strong> Full kitchen remodeling or targeted upgrades to enhance functionality and value.</li>
+        <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">Walk-In Tubs:</a></strong> Safe and comfortable walk-in tub installation for improved accessibility.</li></ul>
         Whether it is water damage that you need fixing or a house upgrading project, Easy Home Service connects you with experienced professionals who do the job quickly and reliably.'
 ],
 [
@@ -710,7 +710,7 @@ return [
 'a' => 'The cost of door installation depends on the type of door and the materials of the door. Interior doors are less costly when compared to exterior and garage doors, as the latter require more security features.'
 ],
 ['q' => 'Can you replace doorknobs, handles, and other door hardware?',
-'a' => 'Absolutely. Many door repairing companies also replace <strong><a href="https://easyhomeservice.com/locksmith">locking devices</a></strong>, knobs, handles, hinges, and other parts as their door repair package.'
+'a' => 'Absolutely. Many door repairing companies also replace <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/locksmith">locking devices</a></strong>, knobs, handles, hinges, and other parts as their door repair package.'
 ],
 ['q' => 'Do you offer weatherstripping and insulation services for exterior doors?',
 'a' => 'Definitely yes. There are a lot of experts who specialize in door sealing, weatherstripping, and door insulation, especially for exterior door installation service.'
@@ -719,16 +719,16 @@ return [
 'a' => 'Minor damages, like loose door hinges or handles, can be repaired. However, if the door is severely damaged, it is best to replace it to ensure optimal security.'
 ],
 ['q' => 'Which type of door is best for the main entrance?',
-'a' => 'Steel, fiberglass, or solid wood doors are generally the top choices for main entry doors because they offer <strong><a href="https://easyhomeservice.com/homesecurity">home security</a></strong>, are long-lasting, and provide good insulation.'
+'a' => 'Steel, fiberglass, or solid wood doors are generally the top choices for main entry doors because they offer <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security</a></strong>, are long-lasting, and provide good insulation.'
 ],
 ['q' => 'Which door material is best for durability and low maintenance?',
 'a' => 'Fiberglass doors are popular because they resist weather damage, require minimal maintenance, and provide strong insulation.'
 ],
 ['q' => 'Do you provide door repair services in multiple states across the U.S.?',
-'a' => 'Yes. <a href="https://easyhomeservice.com/">Easy Home Service</a> assists homeowners in connecting with door repair companies and door specialists in various states within the U.S. Whether you need door repair service, door installation service, or house door repair near you, we help you find the right door specialists near your location.'
+'a' => 'Yes. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">Easy Home Service</a> assists homeowners in connecting with door repair companies and door specialists in various states within the U.S. Whether you need door repair service, door installation service, or house door repair near you, we help you find the right door specialists near your location.'
 ],
 ['q' => 'Do you offer other home improvement services besides door repair?',
-'a' => 'Yes. <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> is not only a platform for door repair and door installation services but also assists homeowners in connecting with door specialists for various home improvement projects, such as <strong><a href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong> repairs, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a href="https://easyhomeservice.com/solar">solar panels</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> services, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, and many more.'
+'a' => 'Yes. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> is not only a platform for door repair and door installation services but also assists homeowners in connecting with door specialists for various home improvement projects, such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong> repairs, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar panels</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> services, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, and many more.'
 ],
 ['q' => 'What types of doors can you install and repair?',
 'a' => 'Experts provide door servicing, door installation services and door repairs for various types of doors. Whether you need repairs for interior doors, door specialists for your garage door repairs, or a storm door expert, or door installation for your storm door, we help you find the right door expert near your location.'
@@ -770,7 +770,7 @@ return [
 ],
 [
 'q' => 'Are there any other home improvement services that you provide, apart from home security services?',
-'a' => 'Yes. Easy Home Service, apart from providing home security services, also offers a wide range of <strong><a href="https://easyhomeservice.com">residential home services</a></strong>, such as <strong><a href="https://easyhomeservice.com/hvac">HVAC installation and repair</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a href="https://easyhomeservice.com/door">door</a></strong> and <strong><a href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/solar">solar</a></strong> panel, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a href="https://easyhomeservice.com/bathroom">bathroom</a></strong> and <strong><a href="https://easyhomeservice.com/kitchen">kitchen</a></strong> remodel and <strong><a href="https://easyhomeservice.com/handymanappliance">appliance repair</a></strong> services, through professionals in our network in United States of America.'
+'a' => 'Yes. Easy Home Service, apart from providing home security services, also offers a wide range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">residential home services</a></strong>, such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC installation and repair</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar</a></strong> panel, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathroom</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen</a></strong> remodel and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handymanappliance">appliance repair</a></strong> services, through professionals in our network in United States of America.'
 ],
 [
 'q' => 'What areas do you serve for home security services?',
@@ -815,14 +815,14 @@ return [
 'q' => 'What types of home services do you offer?',
 'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:  
                     <ul class="f-ul">
-                      <li><strong><a href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs. </li>
-                      <li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
-                      <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements. </li>
-                      <li><strong><a href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades. </li>
-                      <li><strong><a href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions. </li>
-                      <li><strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation. </li>
-                      <li><strong><a href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
-                      <li><strong><a href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing</a></strong> - Repairs, replacement, and maintenance for all types of roofs. </li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> - From upgrades to full remodels</li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements. </li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades. </li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions. </li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> - Heating, ventilation, and air conditioning maintenance or installation. </li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">Kitchen Renovation</a></strong> - Complete remodeling or minor upgrades.</li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">Walk-In Tubs</a></strong> -Installation of safe and comfortable walk-in tubs.</li>
                     </ul>
                    No matter the project, we help you find skilled experts to get it done efficiently and reliably.'],
                          [
@@ -833,7 +833,7 @@ return [
     'plumbing' =>[
 [
 'q' => 'Does Easy Home Service help with emergency plumbing issues?',
-'a' => 'Yes. Whether it\'s a burst pipe, severe leak, or overflowing drain, we help you find emergency <strong><a href="https://easyhomeservice.com/blog/winter-plumbing-issues-homeowners">winter plumbing</a></strong> support quickly.'
+'a' => 'Yes. Whether it\'s a burst pipe, severe leak, or overflowing drain, we help you find emergency <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/winter-plumbing-issues-homeowners">winter plumbing</a></strong> support quickly.'
 ],
 
 [
@@ -858,7 +858,7 @@ return [
 
 [
 'q' => 'Why is there a sewage smell in my bathroom or kitchen?',
-'a' => 'This may happen due to dried traps, vent pipe issues, <strong><a href="https://easyhomeservice.com/drainage">drain blockage</a></strong>, or a sewer line problem. It\'s best to get it checked quickly as it can be unsafe.'
+'a' => 'This may happen due to dried traps, vent pipe issues, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drainage">drain blockage</a></strong>, or a sewer line problem. It\'s best to get it checked quickly as it can be unsafe.'
 ],
 
 [
@@ -875,21 +875,21 @@ return [
 'q' => 'What types of home services do you offer?',
 'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
 <ul class="f-ul">
-<li><strong><a href="https://easyhomeservice.com/bathtub">Bathtub</a></strong>- Installation, repair, refinishing, and full bathtub replacement services.</li>
-<li><strong><a href="https://easyhomeservice.com/cabinet">Cabinet</a></strong>- Cabinet installation, repairs, refacing, and hardware upgrades for kitchens and bathrooms.</li>
-<li><strong><a href="https://easyhomeservice.com/glassrepair">Glass Repair</a></strong>- Window, door, and shower glass repair, replacement, and custom glass solutions.</li>
-<li><strong><a href="https://easyhomeservice.com/handyman">Handyman</a></strong>- General home repairs, maintenance, installations, and small project work.</li>
-<li><strong><a href="https://easyhomeservice.com/flooring">Flooring</a></strong>- Installation, refinishing, and flooring upgrades.</li>
-<li><strong><a href="https://easyhomeservice.com/electrical">Electrical</a></strong>- Wiring, lighting, panel upgrades, repairs, and complete electrical troubleshooting.</li>
-<li><strong><a href="https://easyhomeservice.com/furniture">Furniture Services</a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
-<li><strong><a href="https://easyhomeservice.com/painting">Painting</a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathtub">Bathtub</a></strong>- Installation, repair, refinishing, and full bathtub replacement services.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">Cabinet</a></strong>- Cabinet installation, repairs, refacing, and hardware upgrades for kitchens and bathrooms.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/glassrepair">Glass Repair</a></strong>- Window, door, and shower glass repair, replacement, and custom glass solutions.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman</a></strong>- General home repairs, maintenance, installations, and small project work.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong>- Installation, refinishing, and flooring upgrades.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical</a></strong>- Wiring, lighting, panel upgrades, repairs, and complete electrical troubleshooting.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">Furniture Services</a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
+<li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting</a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
 </ul>
 No matter the project, we help you find skilled experts to get it done efficiently and reliably.'
 ],
 
 [
 'q' => 'In which areas do you provide plumbing services?',
-'a' => 'We proudly offer plumbing service across <strong><a href="https://easyhomeservice.com/arizona/plumbing-experts-in-arizona">Arizona</a></strong>, <strong><a href="https://easyhomeservice.com/california/plumbing-experts-in-california">California</a></strong>, <strong><a href="https://easyhomeservice.com/florida/plumbing-experts-in-florida">Florida</a></strong>, <strong><a href="https://easyhomeservice.com/maryland/plumbing-experts-in-maryland">Maryland</a></strong>, <strong><a href="https://easyhomeservice.com/illinois/plumbing-experts-in-illinois">Illinois</a></strong>, <strong><a href="https://easyhomeservice.com/ohio/plumbing-experts-in-ohio">Ohio</a></strong>, <strong><a href="https://easyhomeservice.com/north-carolina/plumbing-experts-in-north-carolina">North Carolina</a></strong>, <strong><a href="https://easyhomeservice.com/texas/plumbing-experts-in-texas">Texas</a></strong>, and <strong><a href="https://easyhomeservice.com/new-york/plumbing-experts-in-new-york">New York</a></strong>. Our network of skilled professionals provides complete plumbing services.'
+'a' => 'We proudly offer plumbing service across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/plumbing-experts-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/plumbing-experts-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/plumbing-experts-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/plumbing-experts-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/plumbing-experts-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/plumbing-experts-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/plumbing-experts-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/plumbing-experts-in-texas">Texas</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-york/plumbing-experts-in-new-york">New York</a></strong>. Our network of skilled professionals provides complete plumbing services.'
 ],
 ],
 
@@ -915,7 +915,7 @@ No matter the project, we help you find skilled experts to get it done efficient
         'a' => 'Flickering lights often indicate loose wiring, overloaded circuits, or a failing switch. A professional electrical services expert can inspect the issue and prevent potential hazards.'
     ], 
         [
-        'q' => 'How can I reduce my monthly <strong><a href="https://easyhomeservice.com/blog/solar-panel-problems">electricity bill</a></strong>?',
+        'q' => 'How can I reduce my monthly <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/solar-panel-problems">electricity bill</a></strong>?',
         'a' => 'Upgrading to LED lighting, fixing faulty wiring, and installing energy-efficient panels with help from Electrical Experts can significantly lower energy consumption at home.'
     ], 
         [
@@ -930,14 +930,14 @@ No matter the project, we help you find skilled experts to get it done efficient
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
                     <ul class="f-ul">
-                      <li><strong><a href="https://easyhomeservice.com/solar">Solar </a></strong>- Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
-                    <li><strong><a href="https://easyhomeservice.com/door">Door Services </a></strong>- Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
-                    <li><strong><a href="https://easyhomeservice.com/homesecurity">Home Security </a></strong>- Smart security systems, camera setups, and complete home protection solutions.</li>
-                    <li><strong><a href="https://easyhomeservice.com/atticwholehousefan">Ventilation </a></strong>- Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
-                    <li><strong><a href="https://easyhomeservice.com/countertops">Countertops </a></strong>- Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
-                    <li><strong><a href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock </a></strong>- Installation, patching, finishing, and wall restoration services.</li>
-                    <li><strong><a href="https://easyhomeservice.com/furniture">Furniture Services </a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
-                    <li><strong><a href="https://easyhomeservice.com/painting">Painting </a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar </a></strong>- Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">Door Services </a></strong>- Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">Home Security </a></strong>- Smart security systems, camera setups, and complete home protection solutions.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/atticwholehousefan">Ventilation </a></strong>- Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/countertops">Countertops </a></strong>- Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock </a></strong>- Installation, patching, finishing, and wall restoration services.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">Furniture Services </a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting </a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
                     </ul>
                    No matter the project, we help you find skilled experts to get it done efficiently and reliably.'
     ], 
@@ -972,7 +972,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
         [
         'q' => 'How can I prevent future infestations after treatment?',
-        'a' => 'By sealing gaps, storing food safely, removing standing water, and <strong><a href="https://easyhomeservice.com/">maintaining your home </a></strong>clean, you can keep pests out of your home. Follow this with advice from professional exterminators, bee removal pest control specialists, ant pest control specialists in the area, and mosquito control specialists. Follow-ups with a single pest treatment can further lower hazards.'
+        'a' => 'By sealing gaps, storing food safely, removing standing water, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">maintaining your home </a></strong>clean, you can keep pests out of your home. Follow this with advice from professional exterminators, bee removal pest control specialists, ant pest control specialists in the area, and mosquito control specialists. Follow-ups with a single pest treatment can further lower hazards.'
     ], 
         [
         'q' => 'How long will it take to see results after pest control treatment?',
@@ -982,14 +982,14 @@ No matter the project, we help you find skilled experts to get it done efficient
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
                     <ul class="f-ul">
-                      <li><strong><a href="https://easyhomeservice.com/solar">Solar </a></strong>- Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
-                    <li><strong><a href="https://easyhomeservice.com/door">Door Services </a></strong>- Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
-                    <li><strong><a href="https://easyhomeservice.com/homesecurity">Home Security </a></strong>- Smart security systems, camera setups, and complete home protection solutions.</li>
-                    <li><strong><a href="https://easyhomeservice.com/atticwholehousefan">Ventilation </a></strong>- Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
-                    <li><strong><a href="https://easyhomeservice.com/countertops">Countertops </a></strong>- Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
-                    <li><strong><a href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock </a></strong>- Installation, patching, finishing, and wall restoration services.</li>
-                    <li><strong><a href="https://easyhomeservice.com/furniture">Furniture Services </a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
-                    <li><strong><a href="https://easyhomeservice.com/painting">Painting </a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
+                      <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar </a></strong>- Installation, maintenance, and energy-efficient solar panel solutions for homes.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">Door Services </a></strong>- Installation, repair, and replacement for interior, exterior, and sliding doors.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">Home Security </a></strong>- Smart security systems, camera setups, and complete home protection solutions.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/atticwholehousefan">Ventilation </a></strong>- Attic ventilation, exhaust systems, and whole-home airflow improvements.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/countertops">Countertops </a></strong>- Installation, repair, and upgrades for granite, quartz, marble, and custom surfaces.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drywallsheetrock">Drywall & Sheetrock </a></strong>- Installation, patching, finishing, and wall restoration services.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">Furniture Services </a></strong>- Assembly, repairs, installations, and custom furniture solutions.</li>
+                    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting </a></strong>- Interior and exterior painting, wall preparation, and full-home repainting.</li>
                     </ul>
                    No matter the project, we help you find skilled experts to get it done efficiently and reliably.'
     ], 
@@ -1020,7 +1020,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
         [
         'q' => 'Can a locksmith open a door without damaging the lock?',
-        'a' => 'Yes. A locksmith can unlock a <a href="https://easyhomeservice.com/door">door</a> without damaging the lock or the door.'
+        'a' => 'Yes. A locksmith can unlock a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door</a> without damaging the lock or the door.'
     ], 
         [
         'q' => 'Is it better to rekey a lock or replace it completely?',
@@ -1040,7 +1040,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
      [
         'q' => 'Do you offer other home improvement services besides locksmith services?',
-        'a' => 'Yes. Besides offering reliable locksmith service solutions, we connect homeowners with experts offering a variety of <strong><a href="https://easyhomeservice.com">home improvement and repair services</a></strong> such as <strong><a href="https://easyhomeservice.com/hvac">HVAC repair and installation</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a href="https://easyhomeservice.com/window">window</a></strong> and door installation, <strong><a href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/handymanappliance">appliance repair</a></strong>, and more.'
+        'a' => 'Yes. Besides offering reliable locksmith service solutions, we connect homeowners with experts offering a variety of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">home improvement and repair services</a></strong> such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC repair and installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window</a></strong> and door installation, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handymanappliance">appliance repair</a></strong>, and more.'
     ],
     ],
 
@@ -1084,7 +1084,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
      [
         'q' => 'Do you offer other home improvement services besides skylights?',
-        'a' => 'Yes, besides skylight installation and repair, Easy Home Service offers a wide range of home improvement services, which include <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/window">window</a></strong> and <strong><a href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/patiocovers">patio cover installation</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunroom installation</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security</a></strong>, and many more.'
+        'a' => 'Yes, besides skylight installation and repair, Easy Home Service offers a wide range of home improvement services, which include <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/patiocovers">patio cover installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunroom installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security</a></strong>, and many more.'
     ], 
     ],
 
@@ -1099,7 +1099,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
     [
         'q' => 'How much does it cost to install outdoor patio covers in the U.S.?',
-        'a' => 'The cost of outdoor patio covers varies from $2,000 to $10,000+, depending on your requirements and needs. Getting in <strong><a href="patiocovers-steps">touch with local patio cover installers</a></strong> is the best way to get the most accurate quotes and the best patio covers.'
+        'a' => 'The cost of outdoor patio covers varies from $2,000 to $10,000+, depending on your requirements and needs. Getting in <strong><a class="ehs-hvac-internal-link" href="patiocovers-steps">touch with local patio cover installers</a></strong> is the best way to get the most accurate quotes and the best patio covers.'
     ], 
     [
         'q' => 'Can patio covers handle extreme weather?',
@@ -1134,7 +1134,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
     [
         'q' => 'Do you offer other home improvement services besides patio installation?',
-        'a' => 'Yes. In addition to patio cover installation, Easy Home Service connects homeowners with professionals for a wide range of <strong><a href="https://easyhomeservice.com">home improvement services</a></strong>, including <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a href="https://easyhomeservice.com/locksmith">locksmith</a></strong>, <strong><a href="https://easyhomeservice.com/awnings">awnings</a></strong>, <strong><a href="https://easyhomeservice.com/skylight">skylight</a></strong>, <strong><a href="https://easyhomeservice.com/window">window</a></strong> and <strong><a href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and more. Our platform makes it easy to find trusted experts for all your home service needs in one place.'
+        'a' => 'Yes. In addition to patio cover installation, Easy Home Service connects homeowners with professionals for a wide range of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">home improvement services</a></strong>, including <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">home warranty</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/locksmith">locksmith</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/awnings">awnings</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylight</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and more. Our platform makes it easy to find trusted experts for all your home service needs in one place.'
     ],  
     ],
     
@@ -1177,7 +1177,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
     [
         'q' => 'Do you offer other home improvement services besides awnings?',
-        'a' => 'Yes. Besides offering awning installation and repair services, Easy Home Service can connect you with experts offering various other <strong><a href="https://easyhomeservice.com">home improvement services</a></strong> such as <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a href="https://easyhomeservice.com/pest-control">pest control</a></strong>, <strong><a href="https://easyhomeservice.com/locksmith">locksmith</a></strong>, <strong><a href="https://easyhomeservice.com/skylight">skylight</a></strong>, <strong><a href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a href="https://easyhomeservice.com/kitchen">kitchen</a></strong> and<strong><a href="https://easyhomeservice.com/bathroom"> bathroom remodel</a></strong>, <strong><a href="https://easyhomeservice.com/door">door</a></strong> and <strong><a href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and more. Just submit your request and relax, professional vendors compete for your requirements.'
+        'a' => 'Yes. Besides offering awning installation and repair services, Easy Home Service can connect you with experts offering various other <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">home improvement services</a></strong> such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">water damage</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pest-control">pest control</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/locksmith">locksmith</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylight</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen</a></strong> and<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom"> bathroom remodel</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and more. Just submit your request and relax, professional vendors compete for your requirements.'
     ],
     ],
     
@@ -1220,7 +1220,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ], 
     [
         'q' => 'Do you offer other home improvement services besides deck services?',
-        'a' => 'Yes. We are renowned for helping you find a professional to handle a number of different home services, including <strong><a href="https://easyhomeservice.com/patiocovers">patio construction</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">heating and cooling</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/window">windows</a></strong> and <strong><a href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a href="https://easyhomeservice.com/skylight">skylights</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and many other services.'
+        'a' => 'Yes. We are renowned for helping you find a professional to handle a number of different home services, including <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/patiocovers">patio construction</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">heating and cooling</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylights</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security systems</a></strong>, and many other services.'
     ], 
     ],
     
@@ -1263,7 +1263,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'Do you offer other home improvement services besides power washing?',
-        'a' => 'Yes. Besides providing connections to professionals who provide window cleaning and power washing services, Easy Home Service will assist you in finding professionals who provide other services, such as <strong><a href="https://easyhomeservice.com/patiocovers">patio</a></strong>/<strong><a href="https://easyhomeservice.com/deck">deck construction</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">heating/cooling</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/window">windows</a></strong>/<strong><a href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a href="https://easyhomeservice.com/skylight">skylights</a></strong>, and <strong><a href="https://easyhomeservice.com/homesecurity">home security</a></strong>.'
+        'a' => 'Yes. Besides providing connections to professionals who provide window cleaning and power washing services, Easy Home Service will assist you in finding professionals who provide other services, such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/patiocovers">patio</a></strong>/<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/deck">deck construction</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">heating/cooling</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong>/<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylights</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security</a></strong>.'
     ],
     ],
 
@@ -1306,7 +1306,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
         [
         'q' => 'Do you offer other home improvement services other than mold removal?',
-        'a' => 'Yes. Easy Home Service not only provides top-notch mold removal services, but it can also help homeowners find reliable experts who provide other home improvement services, such as <strong><a href="https://easyhomeservice.com/waterdamage">water damage repair services</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">HVAC services</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a href="https://easyhomeservice.com/window">window</a></strong> and <strong><a href="https://easyhomeservice.com/door">door services</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting services</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring services</a></strong>, <strong><a href="https://easyhomeservice.com/powerwashing">power washing services</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security services</a></strong>, and many more.'
+        'a' => 'Yes. Easy Home Service not only provides top-notch mold removal services, but it can also help homeowners find reliable experts who provide other home improvement services, such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">water damage repair services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/powerwashing">power washing services</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security services</a></strong>, and many more.'
     ],  
 
     ],
@@ -1322,7 +1322,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
         [
         'q' => 'What is included in a sunroom installation?',
-        'a' => 'A typical sunroom installation includes <strong><a href="https://easyhomeservice.com/framing">framing</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, sunroom <strong><a href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, the construction of the sunroom, and sometimes <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong> or finishing work, depending on your needs.'
+        'a' => 'A typical sunroom installation includes <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/framing">framing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, sunroom <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, the construction of the sunroom, and sometimes <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong> or finishing work, depending on your needs.'
     ], 
         [
         'q' => 'How long does it take to build a sunroom?',
@@ -1338,7 +1338,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
         [
         'q' => 'What factors affect the additional cost?',
-        'a' => 'Factors affecting the additional cost include size, materials, type of glass, and insulation, as well as any additional features. like <strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> or custom finishes.'
+        'a' => 'Factors affecting the additional cost include size, materials, type of glass, and insulation, as well as any additional features. like <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> or custom finishes.'
     ],
         [
         'q' => 'What materials are your sunrooms made of?',
@@ -1350,7 +1350,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
        [
         'q' => 'Do you offer other home improvement services besides sunrooms?',
-        'a' => 'Yes, we do! In addition to sunroom installation, we help homeowners find the best professionals in the following services: HVAC, roofing, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/window">window</a></strong> and <strong><a href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security</a></strong>, and many other home improvement services that you may need.'
+        'a' => 'Yes, we do! In addition to sunroom installation, we help homeowners find the best professionals in the following services: HVAC, roofing, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">window</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door installation</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security</a></strong>, and many other home improvement services that you may need.'
     ],
     
     ],
@@ -1394,14 +1394,14 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'What are some Other Home Improvement Services We Offer?',
-        'a' => 'In addition to the above-mentioned services, we also provide many other <strong><a href="https://easyhomeservice.com">home improvement and maintenance services</a></strong> to cater to all your needs. <br> Some of the services we provide include <strong><a href="https://easyhomeservice.com/hvac">HVAC repair, installation, and maintenance</a></strong>; <strong><a href="https://easyhomeservice.com/plumbing">plumbing services</a></strong> such as leak repair and pipe installation; <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong> work such as wiring and electrical panel installation; <strong><a href="https://easyhomeservice.com/gutter">gutter cleaning and maintenance</a></strong>; <strong><a href="https://easyhomeservice.com/mold">mold removal and remediation</a></strong>; <strong><a href="https://easyhomeservice.com/powerwashing">power washing</a></strong>; <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>; <strong><a href="https://easyhomeservice.com/skylight">skylight installation</a></strong>; <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>; <strong><a href="https://easyhomeservice.com/bathroom">bathroom remodeling</a></strong>; <strong><a href="https://easyhomeservice.com/kitchen">kitchen remodeling</a></strong>; <strong><a href="https://easyhomeservice.com/walktub">walk-in tub installation</a></strong>; home repair; <strong><a href="https://easyhomeservice.com/remodeling">home renovation</a></strong>; and many more.'
+        'a' => 'In addition to the above-mentioned services, we also provide many other <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">home improvement and maintenance services</a></strong> to cater to all your needs. <br> Some of the services we provide include <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC repair, installation, and maintenance</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing services</a></strong> such as leak repair and pipe installation; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong> work such as wiring and electrical panel installation; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">gutter cleaning and maintenance</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/mold">mold removal and remediation</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/powerwashing">power washing</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylight installation</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathroom remodeling</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen remodeling</a></strong>; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">walk-in tub installation</a></strong>; home repair; <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/remodeling">home renovation</a></strong>; and many more.'
     ],
     ],
     
     'walktub' => [
     [
         'q' => 'What are walk in tubs and how do they work?',
-        'a' => 'Walk in tubs are specially designed <strong><a href="https://easyhomeservice.com/bathtub">bathtubs</a></strong> that have low entry doors, seating, and other safety features. They allow users to enter the bath easily without having to step up high. This makes them more comfortable for seniors or people with mobility issues.'
+        'a' => 'Walk in tubs are specially designed <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathtub">bathtubs</a></strong> that have low entry doors, seating, and other safety features. They allow users to enter the bath easily without having to step up high. This makes them more comfortable for seniors or people with mobility issues.'
     ],
     [
         'q' => 'What is the average walk in tub cost in the USA?',
@@ -1437,7 +1437,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'What other home improvement services do you offer besides walk-in tubs?',
-        'a' => 'Besides offering walk-in tub installations, We simplify it for homeowners to get in touch with professionals who specialize in other <strong><a href="https://easyhomeservice.com">home improvements services</a></strong> and home remodeling. These include <strong><a href="https://easyhomeservice.com/bathroom">bathroom renovations</a></strong>, <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/hvac">heating and air conditioning</a></strong>, <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/window">windows</a></strong> and <strong><a href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong>, <strong><a href="https://easyhomeservice.com/homesecurity">home security</a></strong>, <strong><a href="https://easyhomeservice.com/mold">mold removal</a></strong>, <strong><a href="https://easyhomeservice.com/powerwashing">power washing</a></strong>, <strong><a href="https://easyhomeservice.com/patiocovers">patio</a></strong> and <strong><a href="https://easyhomeservice.com/deck">deck construction</a></strong>, <strong><a href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a href="https://easyhomeservice.com/skylight">skylights</a></strong>, <strong><a href="https://easyhomeservice.com/awnings">awnings</a></strong>, <strong><a href="https://easyhomeservice.com/locksmith">locksmithing</a></strong>, and more.'
+        'a' => 'Besides offering walk-in tub installations, We simplify it for homeowners to get in touch with professionals who specialize in other <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">home improvements services</a></strong> and home remodeling. These include <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathroom renovations</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">heating and air conditioning</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">painting</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homesecurity">home security</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/mold">mold removal</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/powerwashing">power washing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/patiocovers">patio</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/deck">deck construction</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/sunroom">sunrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/skylight">skylights</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/awnings">awnings</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/locksmith">locksmithing</a></strong>, and more.'
     ],
 
 
@@ -1467,11 +1467,11 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
         [
         'q' => 'Why should I use Easy Home Service for home remodeling?',
-        'a' => 'We connect you with trusted professionals offering reliable home remodel services, helping you save time and find the right solution for your home and budget. <strong><a href="https://easyhomeservice.com/remodeling-steps">Just fill in a quick form and submit your request to get matched with professionals</a></strong>.'
+        'a' => 'We connect you with trusted professionals offering reliable home remodel services, helping you save time and find the right solution for your home and budget. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/remodeling-steps">Just fill in a quick form and submit your request to get matched with professionals</a></strong>.'
     ],
         [
         'q' => 'What is the most expensive part of a house to remodel?',
-        'a' => 'The most expensive areas to renovate in a house are either the <strong><a href="https://easyhomeservice.com/kitchen">kitchen</a></strong> or <strong><a href="https://easyhomeservice.com/bathroom">bathroom</a></strong>, which demand complex work. It requires <strong><a href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">electrical</a></strong> work, <strong><a href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a href="https://easyhomeservice.com/"countertops>countertops</a></strong>, and <strong><a href="https://easyhomeservice.com/handymanappliance">high-end appliances or fixtures</a></strong>. Renovation of a kitchen is likely to be the most expensive, while renovation of a bathroom can also be costly, especially where there are plumbing changes.'
+        'a' => 'The most expensive areas to renovate in a house are either the <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen</a></strong> or <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathroom</a></strong>, which demand complex work. It requires <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical</a></strong> work, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/"countertops>countertops</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handymanappliance">high-end appliances or fixtures</a></strong>. Renovation of a kitchen is likely to be the most expensive, while renovation of a bathroom can also be costly, especially where there are plumbing changes.'
     ],
         [
         'q' => 'How much does it cost to renovate a house in the USA?',
@@ -1484,7 +1484,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],    
     [
         'q' => 'What other Home Improvement Services are offered?',
-        'a' => 'A wide variety of home improvement and maintenance services are provided, other than home remodeling. Some of the other services we offer include <strong><a href="https://easyhomeservice.com/hvac">HVAC repair</a></strong>, installation, and maintenance, <strong><a href="https://easyhomeservice.com/plumbing">plumbing services</a></strong> like leak detection and pipe repair, and <strong><a href="https://easyhomeservice.com/electrical">electrical services</a></strong> like wiring, panel repair, and troubleshooting. <br> Additionally, we offer <strong><a href="https://easyhomeservice.com/gutter">gutter cleaning and maintenance</a></strong>, <strong><a href="https://easyhomeservice.com/mold">mold removal and remediation</a></strong>, and <strong><a href="https://easyhomeservice.com/powerwashing">power washing services</a></strong> to ensure that your house remains clean and in proper condition.<br> We also offer services like <strong><a href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a href="https://easyhomeservice.com/">skylight</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a href="https://easyhomeservice.com/bathroom">bathroom remodeling</a></strong>, <strong><a href="https://easyhomeservice.com/kitchen">kitchen remodeling</a></strong>, <strong><a href="https://easyhomeservice.com/walktub">walk-in tub</a></strong>, and home repair and renovation. Our objective remains to provide quality, reliable, and affordable services to ensure that your house remains in proper condition and increases in value.'
+        'a' => 'A wide variety of home improvement and maintenance services are provided, other than home remodeling. Some of the other services we offer include <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC repair</a></strong>, installation, and maintenance, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">plumbing services</a></strong> like leak detection and pipe repair, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">electrical services</a></strong> like wiring, panel repair, and troubleshooting. <br> Additionally, we offer <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">gutter cleaning and maintenance</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/mold">mold removal and remediation</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/powerwashing">power washing services</a></strong> to ensure that your house remains clean and in proper condition.<br> We also offer services like <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">roofing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/">skylight</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathroom remodeling</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen remodeling</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/walktub">walk-in tub</a></strong>, and home repair and renovation. Our objective remains to provide quality, reliable, and affordable services to ensure that your house remains in proper condition and increases in value.'
     ],
     ],    
 
@@ -1520,11 +1520,11 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'How do I find a reliable fencing contractor near me?',
-        'a' => '<strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with trusted, pre-screened local professionals. You can compare options, review services, and choose the right provider without the hassle of searching on your own.'
+        'a' => '<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with trusted, pre-screened local professionals. You can compare options, review services, and choose the right provider without the hassle of searching on your own.'
     ],
     [
         'q' => 'How much do fencers charge per hour?',
-        'a' => 'The cost of hiring the fencing professionals in the U.S. usually ranges from $30 to $70 per hour. However, the cost might vary depending on the size and requirements of the project. For instance, a larger fence might be priced on a per-project basis. Quotes from different fencing and <strong><a href="https://easyhomeservice.com/landscaping">landscaping professionals</a></strong> will enable you to find the best value.'
+        'a' => 'The cost of hiring the fencing professionals in the U.S. usually ranges from $30 to $70 per hour. However, the cost might vary depending on the size and requirements of the project. For instance, a larger fence might be priced on a per-project basis. Quotes from different fencing and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">landscaping professionals</a></strong> will enable you to find the best value.'
     ],
     [
         'q' => 'What is the cheapest type of fence?',
@@ -1535,7 +1535,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     'carpentry' => [
     [
         'q' => 'What types of carpentry services do you offer?',
-        'a' => 'We can provide homeowners with access to experienced carpenters for various types of carpentry services near them, ranging from custom furniture, installation of <strong><a href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a href="https://easyhomeservice.com/flooring">flooring</a></strong>, trim work, <strong><a href="https://easyhomeservice.com/mold">molding</a></strong>, and outdoor carpentry work, like <strong><a href="https://easyhomeservice.com/deck">building decks</a></strong> and pergolas.'
+        'a' => 'We can provide homeowners with access to experienced carpenters for various types of carpentry services near them, ranging from custom furniture, installation of <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/cabinet">cabinets</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">doors</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">flooring</a></strong>, trim work, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/mold">molding</a></strong>, and outdoor carpentry work, like <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/deck">building decks</a></strong> and pergolas.'
     ],
     [
         'q' => 'How much does a carpentry service cost in the U.S.?',
@@ -1571,7 +1571,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'Is a carpenter the same as a handyman?',
-        'a' => 'No, a carpenter and a handyman are not the same. A carpenter is a professional whose main work involves woodwork. This includes activities such as building, repairing, and installing structures such as cabinets, doors, windows, and furniture. <br> On the other hand, a handyman can perform a wide range of activities compared to a carpenter. This means that a <strong><a href="https://easyhomeservice.com/handyman">handyman</a></strong> can perform activities such as <strong><a href="https://easyhomeservice.com/blog/handyman-charge-to-paint-a-room">painting</a></strong>, repairing a leaking faucet, or fixing an electric socket.'
+        'a' => 'No, a carpenter and a handyman are not the same. A carpenter is a professional whose main work involves woodwork. This includes activities such as building, repairing, and installing structures such as cabinets, doors, windows, and furniture. <br> On the other hand, a handyman can perform a wide range of activities compared to a carpenter. This means that a <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">handyman</a></strong> can perform activities such as <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/handyman-charge-to-paint-a-room">painting</a></strong>, repairing a leaking faucet, or fixing an electric socket.'
     ],
    
         
@@ -1584,7 +1584,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'How do I find a reliable wallpaper expert near me?',
-        'a' => 'We recommend finding professionals with expertise in different types of wallpaper, neat finishing, and customer testimonials. At Easy Home Service, we help you find reliable wallpaper experts in your area. <strong><a href="https://easyhomeservice.com/wallpaper-steps">Just submit your request</a></strong> and be matched with professionals.'
+        'a' => 'We recommend finding professionals with expertise in different types of wallpaper, neat finishing, and customer testimonials. At Easy Home Service, we help you find reliable wallpaper experts in your area. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/wallpaper-steps">Just submit your request</a></strong> and be matched with professionals.'
     ],
     [
         'q' => 'What types of wallpaper work best for different rooms?',
@@ -1670,7 +1670,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     'garage' => [
     [
         'q' => 'How does Easy Home Service help with garage services?',
-        'a' => '<strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> will provide you with access to reliable professionals who offer quality garage services. Our network offers garage solutions across the USA. Just <strong><a href="https://easyhomeservice.com/garage-steps">submit your request</a></strong>, and we will get you matched with professionals.'
+        'a' => '<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> will provide you with access to reliable professionals who offer quality garage services. Our network offers garage solutions across the USA. Just <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/garage-steps">submit your request</a></strong>, and we will get you matched with professionals.'
     ],
         [
         'q' => 'What are the common signs that I need garage services?',
@@ -1726,7 +1726,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'Why choose Easy Home Service for Christmas light services?',
-        'a' => '<strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with dependable local professionals offering Christmas light installation, ensuring high-quality results at competitive prices prices. From custom designs to installation, maintenance, and removal, you get a complete, hassle-free experience with reliable support throughout the holiday season.'
+        'a' => '<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with dependable local professionals offering Christmas light installation, ensuring high-quality results at competitive prices prices. From custom designs to installation, maintenance, and removal, you get a complete, hassle-free experience with reliable support throughout the holiday season.'
     ],        
     ],  
     
@@ -1737,7 +1737,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'What items do junk removal companies take?',
-        'a' => 'The junk removal services company deals with all sorts of items, including furniture, appliances, construction waste, yard waste, construction debris, and general household clutter. Some providers may have restrictions on hazardous and <strong><a href="https://easyhomeservice.com/toxicmaterial">toxic materials</a></strong>, so it’s best to confirm with the junk removal company in advance.'
+        'a' => 'The junk removal services company deals with all sorts of items, including furniture, appliances, construction waste, yard waste, construction debris, and general household clutter. Some providers may have restrictions on hazardous and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/toxicmaterial">toxic materials</a></strong>, so it’s best to confirm with the junk removal company in advance.'
     ],
     [
         'q' => 'Do I need to move items outside before pickup?',
@@ -1745,7 +1745,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'How quickly can I schedule junk removal?',
-        'a' => 'Many providers offer same-day junk removal services or next-day appointments, depending on availability in your area. With us, you can just <strong><a href="https://easyhomeservice.com/junkremoval-steps">fill the form with a service request</a></strong>, and you can get matched with the professionals that you can choose from easily.'
+        'a' => 'Many providers offer same-day junk removal services or next-day appointments, depending on availability in your area. With us, you can just <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/junkremoval-steps">fill the form with a service request</a></strong>, and you can get matched with the professionals that you can choose from easily.'
     ],
     [
         'q' => 'Do junk removal companies recycle or donate items?',
@@ -1874,15 +1874,15 @@ No matter the project, we help you find skilled experts to get it done efficient
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -1949,7 +1949,7 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
 'waterheater' => [
     [
         'q' => 'How much does water heater repair cost in the US?',
-        'a' => 'The cost of water heater repair depends on the issue, system type (tank or tankless) and parts required. <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with professionals who provide transparent estimates upfront.'
+        'a' => 'The cost of water heater repair depends on the issue, system type (tank or tankless) and parts required. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with professionals who provide transparent estimates upfront.'
     ],
     [
         'q' => 'When should I call for emergency water heater repair?',
@@ -1957,7 +1957,7 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
     ],
     [
         'q' => 'Which water heater is the most energy-efficient?',
-        'a' => 'Hybrid heat pumps and <strong><a href="https://easyhomeservice.com/solar">solar</a></strong> heaters are among the most energy-efficient options. Tankless water heater systems also reduce energy waste by heating water on demand. Our network of experts can recommend the best energy-saving solution for your home.'
+        'a' => 'Hybrid heat pumps and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">solar</a></strong> heaters are among the most energy-efficient options. Tankless water heater systems also reduce energy waste by heating water on demand. Our network of experts can recommend the best energy-saving solution for your home.'
     ],
     [
         'q' => 'What are the signs my water tank needs repair?',
@@ -1984,11 +1984,11 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
 'landscaping' => [
     [
         'q' => 'How much do residential landscaping services cost in the U.S.?',
-        'a' => 'The cost of residential landscaping services typically ranges from $1,000 to $10,000+. The landscaping services cost depends on the size of your garden, the level of complexity and the services offered by the company you hire. The cost of lawn installation and maintenance services is lower compared to other services like hardscaping and <strong><a href="https://easyhomeservice.com/drainage">drainage services</a></strong>. Smaller projects cost less, while full landscape makeovers are higher.'
+        'a' => 'The cost of residential landscaping services typically ranges from $1,000 to $10,000+. The landscaping services cost depends on the size of your garden, the level of complexity and the services offered by the company you hire. The cost of lawn installation and maintenance services is lower compared to other services like hardscaping and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/drainage">drainage services</a></strong>. Smaller projects cost less, while full landscape makeovers are higher.'
     ],
      [
         'q' => 'How often should I schedule landscaping maintenance?',
-        'a' => 'Most homeowners schedule lawn care weekly or bi-weekly during the growing season, along with seasonal cleanups and periodic treatments. With <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong>, you can find professionals who offer flexible maintenance plans based on your yard’s needs.'
+        'a' => 'Most homeowners schedule lawn care weekly or bi-weekly during the growing season, along with seasonal cleanups and periodic treatments. With <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong>, you can find professionals who offer flexible maintenance plans based on your yard’s needs.'
     ],
      [
         'q' => 'When is the best time to start a landscaping project?',
@@ -2000,7 +2000,7 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
     ],
      [
         'q' => 'Why is my lawn patchy even after regular mowing?',
-        'a' => 'Patchy lawns are often caused by soil issues, poor drainage, <strong><a href="https://easyhomeservice.com/pest-control">pests</a></strong> and improper irrigation. Residential landscaping services professionals can diagnose and rectify these problems with solutions like soil correction, aeration and lawn restoration.'
+        'a' => 'Patchy lawns are often caused by soil issues, poor drainage, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pest-control">pests</a></strong> and improper irrigation. Residential landscaping services professionals can diagnose and rectify these problems with solutions like soil correction, aeration and lawn restoration.'
     ],
      [
         'q' => 'How long does sod installation take to establish?',
@@ -2065,11 +2065,11 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
     ],
     [
         'q' => 'How long do security cameras store footage?',
-        'a' => 'Storage depends on the system. Cloud-based cameras may store footage for 7–30 days (or longer with subscriptions), while CCTV systems store recordings locally on a DVR/NVR until storage is full. It all depends on the type of system used for <strong><a href="https://easyhomeservice.com/homeinspection">security home inspections</a></strong>.'
+        'a' => 'Storage depends on the system. Cloud-based cameras may store footage for 7–30 days (or longer with subscriptions), while CCTV systems store recordings locally on a DVR/NVR until storage is full. It all depends on the type of system used for <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">security home inspections</a></strong>.'
     ],
 [
         'q' => 'What areas of my home should have security cameras?',
-        'a' => 'The most important areas include: <ul><li><strong><a href="https://easyhomeservice.com/door">Front door</a></strong></li><li>Back door</li><li>Driveway</li><li><strong><a href="https://easyhomeservice.com/garage">Garage</a></strong></li><li>Backyard</li><li>Main indoor entry points</li></ul>These locations provide maximum visibility and security coverage with hidden security cameras for the home.'
+        'a' => 'The most important areas include: <ul><li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">Front door</a></strong></li><li>Back door</li><li>Driveway</li><li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/garage">Garage</a></strong></li><li>Backyard</li><li>Main indoor entry points</li></ul>These locations provide maximum visibility and security coverage with hidden security cameras for the home.'
     ],
     [
         'q' => 'How quickly can I get security cameras installed?',
@@ -2222,7 +2222,7 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
     ],
         [
         'q' => 'How do I know if I have dry rot in my house?',
-        'a' => 'Common signs include soft or crumbling wood, musty smells and cracks in wood and weakened structures in <a href="https://easyhomeservice.com/deck"><strong>decks</strong></a>, <a href="https://easyhomeservice.com/siding"><strong>siding</strong></a> or <a href="https://easyhomeservice.com/flooring"><strong>flooring</strong></a>.'
+        'a' => 'Common signs include soft or crumbling wood, musty smells and cracks in wood and weakened structures in <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/deck"><strong>decks</strong></a>, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding"><strong>siding</strong></a> or <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring"><strong>flooring</strong></a>.'
     ],
         [
         'q' => 'What causes dry rot in homes?',
@@ -2409,15 +2409,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -2497,15 +2497,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -2551,15 +2551,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -2606,15 +2606,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -2660,15 +2660,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],
@@ -2714,15 +2714,15 @@ No matter what your home needs, we make it easy to find skilled, trusted profess
         'q' => 'What types of home services do you offer?',
         'a' => 'We connect homeowners with trusted professionals for a wide range of home services, including:
         <ul>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-    <li><strong><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-    <li><strong><a href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
-    <li><strong><a href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
-    <li><strong><a href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
-    <li><strong><a href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services -</a></strong>Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services -</a></strong>Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care -</a></strong>Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation -</a></strong>Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services -</a></strong>Interior and exterior painting, wall repairs, and color customization.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service -</a></strong>Customized solutions for stylish homes and recurring maintenance.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services -</a></strong>Small repairs, installations, and home improvements.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring -</a></strong>Installation, refinishing, and flooring upgrades.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows -</a></strong>Replacement, repair, and energy-efficient solutions.</li>
 </ul>
 No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.'
     ],

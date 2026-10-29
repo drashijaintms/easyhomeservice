@@ -58,67 +58,67 @@ include 'header.php';
     <p>No matter the size of the Job, our pros are up for it. We cover a broad range of services tailored to your home's unique needs.</p>
     <div class="s1_help_box">
       <div class="s1_help_box_col">
-        <a href="/roofing" class="hlp_img_box">
+        <a href="/roofing" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon1.webp" width="200" height="200" alt="Roofing">
           <p>Roofing</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/window" class="hlp_img_box">
+        <a href="/window" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon2.webp" width="200" height="200" alt="Windows">
           <p>Windows</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/solar" class="hlp_img_box">
+        <a href="/solar" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon3.webp" width="200" height="200" alt="Solar">
           <p>Solar</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/hvac" class="hlp_img_box">
+        <a href="/hvac" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon4.webp" width="200" height="200" alt="HVAC">
           <p>HVAC</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/bathroom" class="hlp_img_box">
+        <a href="/bathroom" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon5.webp" width="200" height="200" alt="Bathroom">
           <p>Bathroom</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/handyman" class="hlp_img_box">
+        <a href="/handyman" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/iconhandyman.svg" width="200" height="200" alt="Handyman">
           <p>Handyman</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/homewarranty" class="hlp_img_box">
+        <a href="/homewarranty" class="hlp_img_box ehs-hvac-internal-link">
           <img src="https://easyhomeservice.com/images/iconhomewarranty.svg" width="200" height="200" alt="Home Warranty">
           <p>Home Warranty</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/kitchen" class="hlp_img_box">
+        <a href="/kitchen" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon6.webp" width="200" height="200" alt="Kitchen">
           <p>Kitchen</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/gutter" class="hlp_img_box">
+        <a href="/gutter" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon7.webp" width="200" height="200" alt="Gutter">
           <p>Gutter</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/walktub" class="hlp_img_box">
+        <a href="/walktub" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/s1_help_icon10.webp" width="200" height="200" alt="Walk-In Tubs">
           <p>Walk-In Tubs</p>
         </a>
       </div>
       <div class="s1_help_box_col">
-        <a href="/allservices" class="hlp_img_box">
+        <a href="/allservices" class="hlp_img_box ehs-hvac-internal-link">
           <img src="images/viewallicon.svg" width="200" height="200" alt="View More">
           <p>And Much More</p>
         </a>
@@ -166,7 +166,7 @@ include 'header.php';
     <div class="row pt-5 py-4 d-flex justify-content-center">
       <div class="col-lg-6 pp text-left">
         <p class="common_text">Finding <span class="fw-500">construction home remodeling experts near you</span> shouldn’t be that much stressful or expensive. At <span class="fw-500"> Easy Home Service</span>, we make it easy for homeowners. We connect you with trusted general contractors and top home remodeling experts near you. They provide high-quality services that you deserve, all without high costs. </p>
-        <p class="common_text">If you are planning a <a href="https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact" target="_blank">kitchen remodel</a>, <a href="https://easyhomeservice.com/bathroom" target="_blank">bathroom renovation</a>, <a href=""> Window Replacement</a>, or a <a href="https://easyhomeservice.com/blog/2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home" target="_blank">full home upgrade</a>, our platform can help. We connect you with trusted home improvement experts near you. Many customers <span class="fw-500">highly recommend </span> them.</p>
+        <p class="common_text">If you are planning a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/the-art-of-sustainable-kitchen-design-balancing-style-and-environmental-impact" target="_blank">kitchen remodel</a>, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom" target="_blank">bathroom renovation</a>, <a class="ehs-hvac-internal-link" href="/window"> Window Replacement</a>, or a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/2025-Home-Improvement-Trends-Upgrades-for-a-Stylish-Home" target="_blank">full home upgrade</a>, our platform can help. We connect you with trusted home improvement experts near you. Many customers <span class="fw-500">highly recommend </span> them.</p>
         <p class="common_text">They offer <span class="fw-500">quality work</span> and clear pricing-all in just a few clicks. No more guesswork or stress-just <span class="fw-500">seamless, affordable home improvements</span> backed by skilled professionals. </p>
         <p class="common_text">Start your project today and experience a <span class="fw-500">better way to remodel your home!</span>
         </p>
@@ -322,7 +322,7 @@ include 'header.php';
               <i class="fas fa-layer-group"></i>
             </div>
             <h3 class="custom-card__title">All Services, One Platform</h3>
-            <p class="custom-card__text"> From <a href="https://easyhomeservice.com/plumbing" class="link-new"> plumbing </a> to <a href="https://easyhomeservice.com/roofing" class="link-new">roofing</a>, we’ve got every job covered - all in one place. </p>
+            <p class="custom-card__text"> From <a href="https://easyhomeservice.com/plumbing" class="link-new ehs-hvac-internal-link"> plumbing </a> to <a href="https://easyhomeservice.com/roofing" class="link-new ehs-hvac-internal-link">roofing</a>, we’ve got every job covered - all in one place. </p>
           </div>
         </div>
       </div>
@@ -371,15 +371,15 @@ include 'header.php';
           <p class="acdn-para">We cover a wide range of affordable home services with our network of home improvement experts, including:</p>
           <ul class="lst-disc">
             <li>
-              <a href="https://easyhomeservice.com/plumbing" class="link-new">Plumbing</a> and <a href="https://easyhomeservice.com/electrical" class="link-new">electrical</a> easy home repair
+              <a href="https://easyhomeservice.com/plumbing" class="link-new ehs-hvac-internal-link">Plumbing</a> and <a href="https://easyhomeservice.com/electrical" class="link-new ehs-hvac-internal-link">electrical</a> easy home repair
             </li>
             <li>
-              <a href="https://easyhomeservice.com/roofing" class="link-new">Roofing</a>, <a href="https://easyhomeservice.com/hvac" class="link-new">HVAC Maintenance </a>, <a href="https://easyhomeservice.com/flooring" class="link-new">Flooring</a> & <a href="https://easyhomeservice.com/window" class="link-new">Window Installation/Repair</a>
+              <a href="https://easyhomeservice.com/roofing" class="link-new ehs-hvac-internal-link">Roofing</a>, <a href="https://easyhomeservice.com/hvac" class="link-new ehs-hvac-internal-link">HVAC Maintenance </a>, <a href="https://easyhomeservice.com/flooring" class="link-new ehs-hvac-internal-link">Flooring</a> & <a href="https://easyhomeservice.com/window" class="link-new ehs-hvac-internal-link">Window Installation/Repair</a>
             </li>
-            <li>Landscaping and <a href="https://easyhomeservice.com/pestcontrol" class="link-new">pest control</a>
+            <li>Landscaping and <a href="https://easyhomeservice.com/pestcontrol" class="link-new ehs-hvac-internal-link">pest control</a>
             </li>
             <li>
-              <a href="https://easyhomeservice.com/kitchen" class="link-new">Kitchen</a> and <a href="https://easyhomeservice.com/bathroom" class="link-new">Bathroom remodeling</a>
+              <a href="https://easyhomeservice.com/kitchen" class="link-new ehs-hvac-internal-link">Kitchen</a> and <a href="https://easyhomeservice.com/bathroom" class="link-new ehs-hvac-internal-link">Bathroom remodeling</a>
             </li>
             <li>General home improvements</li>
           </ul>

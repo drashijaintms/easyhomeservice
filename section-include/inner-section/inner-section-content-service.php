@@ -255,7 +255,7 @@ return [
 
             [
                 "type" => "paragraph",
-                "text" => "At Easy Home Service, we connect homeowners with expert HVAC services for system maintenance, repairs, installations, and a wide range of <strong><a href=\"https://easyhomeservice.com/blog/heating-and-cooling-columbus-ohio\">heating and cooling solutions</a></strong>."
+                "text" => "At Easy Home Service, we connect homeowners with expert HVAC services for system maintenance, repairs, installations, and a wide range of <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/heating-and-cooling-columbus-ohio\">heating and cooling solutions</a></strong>."
             ],
 
             [
@@ -313,7 +313,7 @@ return [
 
         "top_description" => [
 
-            "An outdated bathroom can affect both comfort and resale value. <strong><a href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> helps you find local bathroom remodeling experts who are well-known and can provide the most cost-effective solutions for any project, whether large or small. From small repairs to full upgrades, our expert bathroom remodeling network helps you improve your home while staying within budget. Get affordable and comprehensive renovation solutions from a qualified bathroom renovation expert focused on comfort, efficiency, and durability."
+            "An outdated bathroom can affect both comfort and resale value. <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> helps you find local bathroom remodeling experts who are well-known and can provide the most cost-effective solutions for any project, whether large or small. From small repairs to full upgrades, our expert bathroom remodeling network helps you improve your home while staying within budget. Get affordable and comprehensive renovation solutions from a qualified bathroom renovation expert focused on comfort, efficiency, and durability."
 
         ],
 
@@ -342,7 +342,7 @@ return [
 
                     [
                         "title" => "Complete Bathroom Upgrades:",
-                        "description" => "From showers, tubs, and vanity to tiles, lighting, and <strong><a href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation</a></strong>, our expert bathroom remodel services include every home element."
+                        "description" => "From showers, tubs, and vanity to tiles, lighting, and <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/atticwholehousefan\">ventilation</a></strong>, our expert bathroom remodel services include every home element."
                     ],
 
                     [
@@ -425,7 +425,7 @@ return [
 
                     [
                         "title" => "Complete Kitchen Solutions:",
-                        "description" => "Our kitchen remodeling services cover <strong><a href=\"https://easyhomeservice.com/cabinet\">cabinets</a></strong>, flooring, lighting, layout redesign, appliances, and finishes."
+                        "description" => "Our kitchen remodeling services cover <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/cabinet\">cabinets</a></strong>, flooring, lighting, layout redesign, appliances, and finishes."
                     ],
 
                     [
@@ -649,7 +649,7 @@ return [
 
                 [
                     "title" => "Complete System & Appliance Protection:",
-                    "description" => "Explore warranty for household appliances plans that include a refrigerator, a washer, and an oven. It also covers <strong><a href=\"https://easyhomeservice.com/hvac\">heating, cooling</a></strong>, <strong><a href=\"https://easyhomeservice.com/plumbing\">plumbing</a></strong>, <strong><a href=\"https://easyhomeservice.com/electrical\">electrical</a></strong>, and more."
+                    "description" => "Explore warranty for household appliances plans that include a refrigerator, a washer, and an oven. It also covers <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">heating, cooling</a></strong>, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/plumbing\">plumbing</a></strong>, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/electrical\">electrical</a></strong>, and more."
                 ],
 
                 [
@@ -1143,7 +1143,7 @@ return [
 
     "top_description" => [
 
-        "Don’t let unexpected leaks or flooding overwhelm your budget. Easy Home Service connects you with reliable 24/7 water damage restoration services experts, offering cost-effective and efficient solutions. Easy Home Service can help you find trusted residential water damage restoration companies that offer both budget-friendly and efficient solutions. From urgent repairs handled by emergency water damage restoration to complete property recovery, our specialists restore the condition of your <strong><a href=\"https://easyhomeservice.com/wall\">walls</a></strong>, ceilings, <strong><a href=\"https://easyhomeservice.com/flooring\">floors</a></strong>, basements, and attics back to normal while also helping you to keep your overall expenses under control."
+        "Don’t let unexpected leaks or flooding overwhelm your budget. Easy Home Service connects you with reliable 24/7 water damage restoration services experts, offering cost-effective and efficient solutions. Easy Home Service can help you find trusted residential water damage restoration companies that offer both budget-friendly and efficient solutions. From urgent repairs handled by emergency water damage restoration to complete property recovery, our specialists restore the condition of your <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/wall\">walls</a></strong>, ceilings, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/flooring\">floors</a></strong>, basements, and attics back to normal while also helping you to keep your overall expenses under control."
 
     ],
 
@@ -2031,7 +2031,7 @@ return [
 
         [
             "type" => "paragraph",
-            "text" => "From expert installations to <strong><a href=\"https://easyhomeservice.com/bathroom\">bathroom renovations and upgrades</a></strong>, our specialists provide safe and comfortable bathing experiences for elderly homeowners while delivering cost effective and quality results. They are long-lasting and suited to provide long term independence and peace of mind."
+            "text" => "From expert installations to <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/bathroom\">bathroom renovations and upgrades</a></strong>, our specialists provide safe and comfortable bathing experiences for elderly homeowners while delivering cost effective and quality results. They are long-lasting and suited to provide long term independence and peace of mind."
         ],
 
         [
@@ -2426,7 +2426,7 @@ return [
 
         [
             "type" => "paragraph",
-            "text" => "Whether you need garage cleaning service or garage <strong><a href=\"https://easyhomeservice.com/flooring\">floor experts</a></strong> or to revamp the whole area, we will help you enhance safety, functionality, and long-term value while staying within your budget."
+            "text" => "Whether you need garage cleaning service or garage <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/flooring\">floor experts</a></strong> or to revamp the whole area, we will help you enhance safety, functionality, and long-term value while staying within your budget."
         ],
 
         [
@@ -2509,7 +2509,7 @@ return [
 
         [
             "type" => "paragraph",
-            "text" => "With us, you can <strong><a href=\"https://easyhomeservice.com/christmaslights-steps\">submit your request</a></strong>. It's a quick form with hassle-free submission, and we will get you matched with the service professional nationwide for holiday lights and other home improvement services, too."
+            "text" => "With us, you can <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/christmaslights-steps\">submit your request</a></strong>. It's a quick form with hassle-free submission, and we will get you matched with the service professional nationwide for holiday lights and other home improvement services, too."
         ],
 
         [
@@ -2567,7 +2567,7 @@ return [
 
     "top_description" => [
 
-        "Don’t let stairs limit your independence or safety. <strong><a href=\"https://easyhomeservice.com/\">Easy Home Service</a></strong> connects American residents with competent professionals who provide dependable and economical stairlift installation services. Experience quick, budget-friendly, and professional stairlift service and repair by local experts, be it in Michigan, Detroit, or Oakland County. They aim to increase your comfort, safety, and well-being."
+        "Don’t let stairs limit your independence or safety. <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/\">Easy Home Service</a></strong> connects American residents with competent professionals who provide dependable and economical stairlift installation services. Experience quick, budget-friendly, and professional stairlift service and repair by local experts, be it in Michigan, Detroit, or Oakland County. They aim to increase your comfort, safety, and well-being."
 
     ],
 
@@ -2801,7 +2801,7 @@ return [
 
     "top_description" => [
 
-        "Trust <strong><a href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> to connect you with American foundation service experts for cost-effective foundation repair services, from inspecting, stabilizing, to rebuilding and more. Our network of specialists ensures that your foundation is in great condition. You can avail of services throughout the States."
+        "Trust <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> to connect you with American foundation service experts for cost-effective foundation repair services, from inspecting, stabilizing, to rebuilding and more. Our network of specialists ensures that your foundation is in great condition. You can avail of services throughout the States."
 
     ],
 
@@ -2816,7 +2816,7 @@ return [
 
         [
             "type" => "paragraph",
-            "text" => "The specialists help improve structural strength, durability, and overall stability while keeping costs low. You may rest assured knowing your home’s structure is well-taken care of without spending too much. <strong><a href=\"https://easyhomeservice.com/foundation-steps\">Book hassle-free</a></strong> foundation underpinning service, waterproofing, leveling & crack repair services in just three simple steps."
+            "text" => "The specialists help improve structural strength, durability, and overall stability while keeping costs low. You may rest assured knowing your home’s structure is well-taken care of without spending too much. <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/foundation-steps\">Book hassle-free</a></strong> foundation underpinning service, waterproofing, leveling & crack repair services in just three simple steps."
         ],
 
         [
@@ -2884,7 +2884,7 @@ return [
 
     "top_description" => [
 
-        "Don’t let clutter take over your space or your budget. <strong><a href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> helps connect American homeowners with experienced residential junk hauling services that provide dependable and affordable solutions for all types of junk removal needs."
+        "Don’t let clutter take over your space or your budget. <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com\">Easy Home Service</a></strong> helps connect American homeowners with experienced residential junk hauling services that provide dependable and affordable solutions for all types of junk removal needs."
 
     ],
 
@@ -3118,7 +3118,7 @@ return [
 
     "top_description" => [
 
-        "Hidden hazards like asbestos, lead, <strong><a href=\"https://easyhomeservice.com/mold\">mold</a></strong>, or radon can lead to serious health issues risks and expensive repairs if ignored. It can result in huge losses and costs when they are not handled correctly. With Easy Home Service, you can rely on the expertise of reliable specialists who deliver reasonably priced and compliant solutions for material removal. helping you address issues early and avoid bigger expenses later."
+        "Hidden hazards like asbestos, lead, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/mold\">mold</a></strong>, or radon can lead to serious health issues risks and expensive repairs if ignored. It can result in huge losses and costs when they are not handled correctly. With Easy Home Service, you can rely on the expertise of reliable specialists who deliver reasonably priced and compliant solutions for material removal. helping you address issues early and avoid bigger expenses later."
 
     ],
 
@@ -3845,7 +3845,7 @@ return [
 
     "top_description" => [
 
-        "Hidden wood damage, soft spots or crumbling structures can quickly turn into serious repair costs if left untreated. <a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects U.S. homeowners with experienced and affordable dry rot services experts offering professional solutions. Get wood rot repair services that restore damaged areas and help protect your home from further decay while keeping the fixes cost-effective."
+        "Hidden wood damage, soft spots or crumbling structures can quickly turn into serious repair costs if left untreated. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects U.S. homeowners with experienced and affordable dry rot services experts offering professional solutions. Get wood rot repair services that restore damaged areas and help protect your home from further decay while keeping the fixes cost-effective."
 
     ],
 

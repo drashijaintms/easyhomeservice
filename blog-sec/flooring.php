@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/the-ultimate-flooring-guide" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/the-ultimate-flooring-guide" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/The%20Ultimate%20Flooring%20Guide%20Types,%20Trends,%20Tips%20&%20Expert%20Advice%20for%20Your%20Home%202-min-5731.jpg" class="card-img-top mb-3" alt="Flooring">
         <div class="card-body blog-card-body">

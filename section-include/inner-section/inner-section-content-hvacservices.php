@@ -18,7 +18,7 @@ return [
             ],
             [
                 "type" => "paragraph",
-                "text" => "Airflow problems rarely announce themselves loudly. They show up as a musty hallway closet, a bathroom mirror that won't clear, or an attic that bakes every August. Left alone, poor ventilation traps humidity, raises energy bills, and can lead to costly mold. That's why Easy Home Service connects you with trusted, experienced ventilation professionals who look at the whole picture, from airflow and exhaust systems to whole-home ventilation options such as <strong><a href=\"https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation\">ERV and HRV systems</a></strong>."
+                "text" => "Airflow problems rarely announce themselves loudly. They show up as a musty hallway closet, a bathroom mirror that won't clear, or an attic that bakes every August. Left alone, poor ventilation traps humidity, raises energy bills, and can lead to costly mold. That's why Easy Home Service connects you with trusted, experienced ventilation professionals who look at the whole picture, from airflow and exhaust systems to whole-home ventilation options such as <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation\">ERV and HRV systems</a></strong>."
             ],
             [
                 "type" => "list",
@@ -106,7 +106,7 @@ return [
             ],
 			            [
                 "type" => "paragraph",
-                "text" => "We help homeowners connect with <strong><a href=\"https://easyhomeservice.com/hvac\">local HVAC professionals</a></strong> who provide residential air conditioning services and dependable, efficient cooling solutions for their homes."
+                "text" => "We help homeowners connect with <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac\">local HVAC professionals</a></strong> who provide residential air conditioning services and dependable, efficient cooling solutions for their homes."
             ],
 			            [
                 "type" => "paragraph",

@@ -8,7 +8,7 @@
             	<!--<p class="step_num">01</p>-->
             	<p class="step_num1">Step-1</p>
                 <p class="step_head">Tell us about your home improvement needs</p>
-                <p class="common_text">Whether it's upgrading a <a href="https://easyhomeservice.com/kitchen">kitchen</a>, refinishing <a href="https://easyhomeservice.com/flooring">floors</a>, or enhancing outdoor spaces.</p>
+                <p class="common_text">Whether it's upgrading a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchen</a>, refinishing <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">floors</a>, or enhancing outdoor spaces.</p>
                 <div class="col-12 text-center"><div style="display: inline-block;justify-content: center;align-items: center;width: 86%;margin-bottom: 12%;"><div>
     <div class="text-center text-white p-4" style="background: #14147e;border-radius: 20px;">
         <h4 style="

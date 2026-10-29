@@ -4,7 +4,7 @@ return [
   'ventilation' => [
 [
 	'q' => 'What ventilation services does Easy Home Service help homeowners find?',
-	'a' => 'We connect you with local professionals for whole house ventilation systems, attic ventilation solutions, crawl space ventilation, bathroom and kitchen exhaust fan installation, <strong><a href="https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation">ERV and HRV installation</a></strong>, and general ventilation repair and maintenance.'
+	'a' => 'We connect you with local professionals for whole house ventilation systems, attic ventilation solutions, crawl space ventilation, bathroom and kitchen exhaust fan installation, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/erv-vs-hrv-home-ventilation">ERV and HRV installation</a></strong>, and general ventilation repair and maintenance.'
 ],
 [
 	'q' => 'How do I know if my home needs better ventilation?',
@@ -20,7 +20,7 @@ return [
 ],
 [
 	'q' => 'Can ventilation help reduce indoor humidity?',
-	'a' => 'Yes, that\'s actually one of its biggest jobs. Proper ventilation pulls out the damp, stale air sitting in <strong><a href="https://easyhomeservice.com/bathroom">bathrooms</a></strong>, <strong><a href="https://easyhomeservice.com/kitchen">kitchens</a></strong>, and <strong><a href="https://easyhomeservice.com/basement">basements</a></strong> and replaces it with drier outdoor air, which keeps humidity from building up in the first place.'
+	'a' => 'Yes, that\'s actually one of its biggest jobs. Proper ventilation pulls out the damp, stale air sitting in <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">bathrooms</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/kitchen">kitchens</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/basement">basements</a></strong> and replaces it with drier outdoor air, which keeps humidity from building up in the first place.'
 ],
 [
 	'q' => 'Can poor ventilation really increase my energy bills?',
@@ -40,17 +40,17 @@ return [
 [
     'q' => 'What types of home services do you offer?',
     'a' => 'We connect homeowners with service professionals for a wide range of home services, including:<ul>
-    <li><strong><a href="https://easyhomeservice.com/roofing">Roofing</a></strong> – Repairs, replacements, and inspections for leaks, storm damage, and aging roofs.</li>
-    <li><strong><a href="https://easyhomeservice.com/window">Windows</a></strong> – Energy-efficient replacements and repairs for comfort and lower utility bills.</li>
-    <li><strong><a href="https://easyhomeservice.com/solar">Solar</a></strong> – Solar panel installation and consultations to help homeowners cut energy costs.</li>
-    <li><strong><a href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> – Full and partial bathroom renovations, from fixtures to full redesigns.</li>
-    <li><strong><a href="https://easyhomeservice.com/gutter">Gutters</a></strong> – Gutter installation, repair, and cleaning to protect your home from water damage.</li>
-    <li><strong><a href="https://easyhomeservice.com/homewarranty">Home Warranty</a></strong> – Coverage plans that help homeowners manage repair and replacement costs.</li>
-    <li><strong><a href="http://easyhomeservice.com/homesecurity">Home Security</a></strong> – Alarm systems, cameras, and smart security installations for peace of mind.</li>
-    <li><strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> – Heating, cooling, and ventilation services for year-round indoor comfort.</li>
-    <li><strong><a href="https://easyhomeservice.com/plumbing">Plumbing</a></strong> – Leak repairs, pipe replacements, water heater fixes, and full installations.</li>
-    <li><strong><a href="https://easyhomeservice.com/pest-control">Pest Control</a></strong> – Inspection and treatment services to keep homes free of unwanted pests.</li>
-    <li><strong><a href="https://easyhomeservice.com/waterdamage">Water Damage Restoration</a></strong> – Cleanup and repair services for flooding, leaks, and moisture damage.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/roofing">Roofing</a></strong> – Repairs, replacements, and inspections for leaks, storm damage, and aging roofs.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> – Energy-efficient replacements and repairs for comfort and lower utility bills.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/solar">Solar</a></strong> – Solar panel installation and consultations to help homeowners cut energy costs.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/bathroom">Bathroom Remodeling</a></strong> – Full and partial bathroom renovations, from fixtures to full redesigns.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutters</a></strong> – Gutter installation, repair, and cleaning to protect your home from water damage.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">Home Warranty</a></strong> – Coverage plans that help homeowners manage repair and replacement costs.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="http://easyhomeservice.com/homesecurity">Home Security</a></strong> – Alarm systems, cameras, and smart security installations for peace of mind.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> – Heating, cooling, and ventilation services for year-round indoor comfort.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing</a></strong> – Leak repairs, pipe replacements, water heater fixes, and full installations.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pest-control">Pest Control</a></strong> – Inspection and treatment services to keep homes free of unwanted pests.</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/waterdamage">Water Damage Restoration</a></strong> – Cleanup and repair services for flooding, leaks, and moisture damage.</li>
 </ul>
 No matter the project, we help you find skilled experts to get it done efficiently and reliably.
     '
@@ -89,11 +89,11 @@ No matter the project, we help you find skilled experts to get it done efficient
     ],
     [
         'q' => 'What can I do to prepare my heating system for winter?',
-        'a' => 'Scheduling a fall maintenance visit, <strong><a href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">replacing air filters</a></strong>, testing your thermostat, clearing vents and registers, and checking for unusual noises are all smart steps. A quick inspection now is far less disruptive than an emergency heating repair call in January.'
+        'a' => 'Scheduling a fall maintenance visit, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-air-filter-replacement-newark-nj">replacing air filters</a></strong>, testing your thermostat, clearing vents and registers, and checking for unusual noises are all smart steps. A quick inspection now is far less disruptive than an emergency heating repair call in January.'
     ],
     [
         'q' => 'Which is better for a home: a furnace, boiler, or heat pump?',
-        'a' => 'Choosing between a furnace, boiler, or heat pump depends on your home\'s size, existing infrastructure, climate, energy costs, comfort preferences, and budget. When comparing <strong><a href="https://easyhomeservice.com/blog/heat-pump-vs-furnace-in-ohio">heat pump vs furnace</a></strong> options, furnaces provide fast forced-air heating, while heat pumps transfer heat without combustion and can provide both heating and cooling. Boilers use hot water or steam for radiant heat. A qualified professional can evaluate your home and help determine which heating system best fits your needs.'
+        'a' => 'Choosing between a furnace, boiler, or heat pump depends on your home\'s size, existing infrastructure, climate, energy costs, comfort preferences, and budget. When comparing <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-vs-furnace-in-ohio">heat pump vs furnace</a></strong> options, furnaces provide fast forced-air heating, while heat pumps transfer heat without combustion and can provide both heating and cooling. Boilers use hot water or steam for radiant heat. A qualified professional can evaluate your home and help determine which heating system best fits your needs.'
     ],
     [
         'q' => 'What types of home services do you offer?',
@@ -105,7 +105,7 @@ No matter the project, we help you find skilled experts to get it done efficient
     <li><strong>Gutters</strong> – Gutter installation, repair, and cleaning to protect your home from water damage</li>
     <li><strong>Home Warranty</strong> – Coverage plans that help homeowners manage repair and replacement costs</li>
     <li><strong>Home Security</strong> – Alarm systems, cameras, and smart security installations for peace of mind</li>
-    <li><strong><a href="https://easyhomeservice.com/hvac">HVAC</a></strong> – Heating, cooling, and ventilation services for year-round indoor comfort</li>
+    <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC</a></strong> – Heating, cooling, and ventilation services for year-round indoor comfort</li>
     <li><strong>Plumbing</strong> – Leak repairs, pipe replacements, water heater fixes, and full installations</li>
     <li><strong>Pest Control</strong> – Inspection and treatment services to keep homes free of unwanted pests</li>
     <li><strong>Water Damage Restoration</strong> – Cleanup and repair services for flooding, leaks, and moisture damage</li>
@@ -120,7 +120,7 @@ No matter the project, we help you find skilled experts to get it done efficient
    'air-conditioning' => [
 [
 	'q' => 'What air conditioning services does Easy Home Service offer?',
-	'a' => 'Easy Home Service connects you with local professionals for AC installation, repair, replacement, preventive maintenance, and <strong><a href="https://easyhomeservice.com/blog/central-ac-vs-ductless-mini-split">central and ductless mini split systems</a></strong>, so you can find the right help for your home.'
+	'a' => 'Easy Home Service connects you with local professionals for AC installation, repair, replacement, preventive maintenance, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/central-ac-vs-ductless-mini-split">central and ductless mini split systems</a></strong>, so you can find the right help for your home.'
 ],
 [
 	'q' => 'When should I replace my AC instead of repairing it?',
@@ -144,7 +144,7 @@ No matter the project, we help you find skilled experts to get it done efficient
 ],
 [
 	'q' => 'Why did my energy bill suddenly go up?',
-	'a' => 'A struggling AC system often works harder than it should, leading to <strong><a href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">high energy bills</a></strong>. A tune-up can identify airflow or efficiency issues that may be driving up your costs.'
+	'a' => 'A struggling AC system often works harder than it should, leading to <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/high-energy-bills-hidden-hvac-problems">high energy bills</a></strong>. A tune-up can identify airflow or efficiency issues that may be driving up your costs.'
 ],
 [
 	'q' => 'What\'s the average lifespan of a central air conditioning system?',
@@ -152,7 +152,7 @@ No matter the project, we help you find skilled experts to get it done efficient
 ],
 [
     'q' => 'What other home services do you help with?',
-    'a' => 'Beyond air conditioning, we connect homeowners with local professionals for  <strong><a href="https://easyhomeservice.com/plumbing">Plumbing</a></strong>, <strong><a href="https://easyhomeservice.com/electrical">Electrical</a></strong> , <strong><a href="https://easyhomeservice.com/homewarranty">Home Warranty</a></strong>, <strong><a href="https://easyhomeservice.com/window">Windows</a></strong>  and other essential home services. 
+    'a' => 'Beyond air conditioning, we connect homeowners with local professionals for  <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical</a></strong> , <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homewarranty">Home Warranty</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong>  and other essential home services. 
    '
 ],
 [

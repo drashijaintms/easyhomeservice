@@ -980,15 +980,15 @@ a.hvac-btn{
                   <div class="acdn-para">
                    We connect homeowners with trusted professionals for a wide range of home services, including:
                     <ul class="f-ul">
-                     <li><a href="https://easyhomeservice.com/plumbing">Plumbing Services </a>– Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
-                    <li><a href="https://easyhomeservice.com/electrical">Electrical Services </a>– Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
-                    <li><a href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care </a>– Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
-                    <li><a href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation </a>– Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
-                    <li><a href="https://easyhomeservice.com/painting">Painting Services </a>– Interior and exterior painting, wall repairs, and color customization.</li>
-                    <li><a href="https://easyhomeservice.com/customhomes">Home Service </a>– Customized Solutions for a Stylish Custom Home and recurring home maintenance.</li>
-                    <li><a href="https://easyhomeservice.com/handyman">Handyman Services </a>– Small repairs, installations, and home improvements.</li>
-                    <li><a href="https://easyhomeservice.com/flooring">Flooring </a>– Installation, refinishing, and flooring upgrades.</li>
-                    <li><a href="https://easyhomeservice.com/window">Windows </a>– Replacement, repair, and energy-efficient solutions.</li>
+                     <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services </a>– Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services </a>– Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping & Lawn Care </a>– Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning & Installation </a>– Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services </a>– Interior and exterior painting, wall repairs, and color customization.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service </a>– Customized Solutions for a Stylish Custom Home and recurring home maintenance.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services </a>– Small repairs, installations, and home improvements.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring </a>– Installation, refinishing, and flooring upgrades.</li>
+                    <li><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows </a>– Replacement, repair, and energy-efficient solutions.</li>
                     </ul>
                    No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
                   </div>

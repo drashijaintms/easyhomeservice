@@ -299,7 +299,7 @@ try {
 
                                 <a
                                     href="/blog/<?= htmlspecialchars($slug) ?>"
-                                    class="text-decoration-none text-dark"
+                                    class="text-decoration-none text-dark ehs-hvac-internal-link"
                                 >
 
                                     <div class="card blog-card h-100 shadow-sm border-0">

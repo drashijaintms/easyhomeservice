@@ -55,7 +55,7 @@ return [
     "hvac-services-in-alaska" => [
         "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
         "top_description" => [
-            "Easy Home Service delivers HVAC services in Alaska, connecting homeowners with trusted experts for fast repairs, maintenance, and climate-ready installations. Our specialists handle extreme cold, heavy snow, and long winters with efficient, reliable heating, <strong><a href=\"https://easyhomeservice.com/hvac/ventilation\">ventilation</a></strong>, and energy-saving solutions year-round."
+            "Easy Home Service delivers HVAC services in Alaska, connecting homeowners with trusted experts for fast repairs, maintenance, and climate-ready installations. Our specialists handle extreme cold, heavy snow, and long winters with efficient, reliable heating, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/hvac/ventilation\">ventilation</a></strong>, and energy-saving solutions year-round."
         ],
         "image" => [
             "src" => "/images/states/hvac/side-img-alaska.webp",
@@ -72,7 +72,7 @@ return [
             ],
             [
                 "type" => "paragraph",
-                "text" => "At Easy Home Service, we link homeowners with top HVAC professionals for <strong><a href=\"https://easyhomeservice.com/blog/emergency-heating-repair-guide\">emergency heating repairs</a></strong>, furnace maintenance, heat pump installations, boiler services, and complete cold-climate comfort solutions. Every job is handled by experts committed to reliability, efficiency, and hassle-free service which is perfect for Alaska’s frigid, snow-heavy weather."
+                "text" => "At Easy Home Service, we link homeowners with top HVAC professionals for <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/emergency-heating-repair-guide\">emergency heating repairs</a></strong>, furnace maintenance, heat pump installations, boiler services, and complete cold-climate comfort solutions. Every job is handled by experts committed to reliability, efficiency, and hassle-free service which is perfect for Alaska’s frigid, snow-heavy weather."
             ],
             [
                 "type" => "paragraph",
@@ -118,7 +118,7 @@ return [
     "content" => [
         [
             "type" => "paragraph",
-            "text" => "We proudly serve homeowners across Arizona, including Phoenix, Tucson, Mesa, Chandler, Scottsdale, Glendale, Gilbert, Tempe, Peoria, and Surprise, ensuring fast, <a href='https://easyhomeservice.com/hvac'><strong>reliable HVAC solutions</strong></a> wherever you live."
+            "text" => "We proudly serve homeowners across Arizona, including Phoenix, Tucson, Mesa, Chandler, Scottsdale, Glendale, Gilbert, Tempe, Peoria, and Surprise, ensuring fast, <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>reliable HVAC solutions</strong></a> wherever you live."
         ],
         [
             "type" => "heading",
@@ -126,7 +126,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "At Easy Home Service, we link homeowners with top HVAC professionals for AC repairs, furnace maintenance, heat pump installations, <strong><a href=\"https://easyhomeservice.com/blog/air-duct-cleaning-columbus-cincinnati-ohio\">air duct cleaning</a></strong>, and complete climate-control solutions. Every job is handled by experts committed to reliability, efficiency, and hassle-free service, perfect for Arizona’s extreme heat, dry conditions, and long summer season.Whether you're searching for the Best HVAC Installer near me or comparing the Best HVAC Companies in your area, we help you connect with trusted technicians who deliver durable, affordable results built for Arizona’s challenging climate."
+            "text" => "At Easy Home Service, we link homeowners with top HVAC professionals for AC repairs, furnace maintenance, heat pump installations, <strong><a class=\"ehs-hvac-internal-link\" href=\"https://easyhomeservice.com/blog/air-duct-cleaning-columbus-cincinnati-ohio\">air duct cleaning</a></strong>, and complete climate-control solutions. Every job is handled by experts committed to reliability, efficiency, and hassle-free service, perfect for Arizona’s extreme heat, dry conditions, and long summer season.Whether you're searching for the Best HVAC Installer near me or comparing the Best HVAC Companies in your area, we help you connect with trusted technicians who deliver durable, affordable results built for Arizona’s challenging climate."
         ],
         [
             "type" => "paragraph",
@@ -217,7 +217,7 @@ return [
     "hvac-services-in-california" => [
     "heading" => "HVAC Experts You Can Trust for Efficient California Home Comfort",
     "top_description" => [
-        "California’s extreme heatwaves and wildfire smoke make dependable cooling essential. Easy Home Service connects you with Residential HVAC Services in California that understand these climate challenges and provide expert installation, smart repairs, and energy-efficient upgrades. Similar to <a href='https://easyhomeservice.com/new-york/hvac-services-in-new-york'><strong>New York’s</strong></a> unpredictable seasons, California faces intense heat, sudden temperature shifts, coastal humidity, and poor air quality. These conditions can cause leaks, clogged vents, damaged coils, motor issues, and weakened airflow if not serviced regularly."
+        "California’s extreme heatwaves and wildfire smoke make dependable cooling essential. Easy Home Service connects you with Residential HVAC Services in California that understand these climate challenges and provide expert installation, smart repairs, and energy-efficient upgrades. Similar to <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/new-york/hvac-services-in-new-york'><strong>New York’s</strong></a> unpredictable seasons, California faces intense heat, sudden temperature shifts, coastal humidity, and poor air quality. These conditions can cause leaks, clogged vents, damaged coils, motor issues, and weakened airflow if not serviced regularly."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-california.webp",
@@ -375,7 +375,7 @@ return [
     "hvac-services-in-delaware" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Delaware homeowners rely on reliable HVAC systems year-round for year-round comfort. Easy Home Service connects Delaware residents with trusted <a href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who provide heating and cooling services, including emergency HVAC repairs, regular maintenance visits, energy-efficient system installations and indoor air quality solutions customised specifically for their coastal and seasonal climate."
+        "Delaware homeowners rely on reliable HVAC systems year-round for year-round comfort. Easy Home Service connects Delaware residents with trusted <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who provide heating and cooling services, including emergency HVAC repairs, regular maintenance visits, energy-efficient system installations and indoor air quality solutions customised specifically for their coastal and seasonal climate."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-delaware.webp",
@@ -429,7 +429,7 @@ return [
     "hvac-services-in-florida" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Florida residents need reliable HVAC systems year-round for year-round comfort. Easy Home Service connects Florida homeowners with trusted local HVAC experts who offer <a href='https://easyhomeservice.com/hvac'><strong>cooling and heating services</strong></a>, including emergency HVAC repair, regular maintenance checks, installations and indoor air quality solutions focused specifically for Florida's humid environment."
+        "Florida residents need reliable HVAC systems year-round for year-round comfort. Easy Home Service connects Florida homeowners with trusted local HVAC experts who offer <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>cooling and heating services</strong></a>, including emergency HVAC repair, regular maintenance checks, installations and indoor air quality solutions focused specifically for Florida's humid environment."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-florida.webp",
@@ -546,7 +546,7 @@ return [
     "content" => [
         [
             "type" => "paragraph",
-            "text" => "Honolulu, Hilo, Kailua, Kaneohe, Waipahu, Pearl City, Kahului, Lahaina, and Kihei are just some of the areas we service across Hawaii and surrounding states like <a href='https://easyhomeservice.com/california/hvac-services-in-california'><strong>California</strong></a> and <a href='https://easyhomeservice.com/alaska/hvac-services-in-alaska'><strong>Alaska</strong></a> with fast, reliable HVAC services. We look forward to providing you with the best experience."
+            "text" => "Honolulu, Hilo, Kailua, Kaneohe, Waipahu, Pearl City, Kahului, Lahaina, and Kihei are just some of the areas we service across Hawaii and surrounding states like <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/california/hvac-services-in-california'><strong>California</strong></a> and <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/alaska/hvac-services-in-alaska'><strong>Alaska</strong></a> with fast, reliable HVAC services. We look forward to providing you with the best experience."
         ],
         [
             "type" => "heading",
@@ -591,7 +591,7 @@ return [
     "hvac-services-in-idaho" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Idaho has snowy, cold winters, hot summers, high humidity, and various desert and mountain climates, which is why reliable <a href='https://easyhomeservice.com/hvac'><strong>HVAC systems</strong></a> are essential for all-year-round comfort. <a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects Idaho homeowners with dependable local HVAC experts that provide reliable heating and cooling solutions, as well as emergency HVAC repairs, regular maintenance, energy-efficient installation of HVAC systems, as well as the best indoor air-quality solutions that are tailored to Idaho's varied climate."
+        "Idaho has snowy, cold winters, hot summers, high humidity, and various desert and mountain climates, which is why reliable <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC systems</strong></a> are essential for all-year-round comfort. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects Idaho homeowners with dependable local HVAC experts that provide reliable heating and cooling solutions, as well as emergency HVAC repairs, regular maintenance, energy-efficient installation of HVAC systems, as well as the best indoor air-quality solutions that are tailored to Idaho's varied climate."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-idaho.webp",
@@ -645,7 +645,7 @@ return [
     "hvac-services-in-illinois" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "An effective HVAC system is essential for year-round comfort in Illinois due to the state's harsh, long winters, hot, humid summers, strong winds, and frequent temperature fluctuations. <a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects Illinois homeowners with nearby HVAC professionals who offer top-notch heating and cooling services for emergency HVAC repairs, energy-efficient system installations, preventive maintenance, and enhanced indoor air quality. These services are designed to address the climate issues that Illinois faces, such as high humidity, sudden storms that put a lot of strain on HVAC systems, winter wind chills, and summer heat waves."
+        "An effective HVAC system is essential for year-round comfort in Illinois due to the state's harsh, long winters, hot, humid summers, strong winds, and frequent temperature fluctuations. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects Illinois homeowners with nearby HVAC professionals who offer top-notch heating and cooling services for emergency HVAC repairs, energy-efficient system installations, preventive maintenance, and enhanced indoor air quality. These services are designed to address the climate issues that Illinois faces, such as high humidity, sudden storms that put a lot of strain on HVAC systems, winter wind chills, and summer heat waves."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-illinois.webp",
@@ -749,7 +749,7 @@ return [
     "hvac-services-in-iowa" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "The residents of Iowa experience long, hot, cold winters as well as humid summers, fierce storms, prairie winds and rapid seasonal temperature variations. It is crucial to have effective HVACs in your home or office. Homeowners in Iowa can connect with local HVAC professionals through Easy Home Service to get efficient HVAC solutions for <a href='https://easyhomeservice.com/hvac'><strong>emergency HVAC repairs</strong></a>, energy-efficient HVAC installation, and regular maintenance, as well as Indoor Air Quality Improvement. These services are specifically designed to meet the unique climate conditions in Iowa, such as sub-zero winter wind chills, summer heat waves that have high humidity, as well as sudden storms that put a lot of stress on HVAC systems in homes."
+        "The residents of Iowa experience long, hot, cold winters as well as humid summers, fierce storms, prairie winds and rapid seasonal temperature variations. It is crucial to have effective HVACs in your home or office. Homeowners in Iowa can connect with local HVAC professionals through Easy Home Service to get efficient HVAC solutions for <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>emergency HVAC repairs</strong></a>, energy-efficient HVAC installation, and regular maintenance, as well as Indoor Air Quality Improvement. These services are specifically designed to meet the unique climate conditions in Iowa, such as sub-zero winter wind chills, summer heat waves that have high humidity, as well as sudden storms that put a lot of stress on HVAC systems in homes."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-iowa.webp",
@@ -849,7 +849,7 @@ return [
     "hvac-services-in-kentucky" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "The winters are very cold, while summers are warm and humid with many thunderstorms, and temperatures change very fast. Therefore, having a quality HVAC system that works well all year long is critical for keeping your home comfortable. Easy Home Service matches you with a <a href='https://easyhomeservice.com/hvac'><strong>local HVAC specialist</strong></a> to deliver you a heating and cooling system that meets your needs. Our HVAC experts provide services such as emergency HVAC repairs, energy-efficient heating and air conditioning system installation, preventative maintenance, and indoor air quality improvements that are geared toward the challenges of the climate. Common problems such as high summer humidity, cold winter extreme weather, and indoor air quality issues caused by excessive moisture pose an increased burden on HVAC systems."
+        "The winters are very cold, while summers are warm and humid with many thunderstorms, and temperatures change very fast. Therefore, having a quality HVAC system that works well all year long is critical for keeping your home comfortable. Easy Home Service matches you with a <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC specialist</strong></a> to deliver you a heating and cooling system that meets your needs. Our HVAC experts provide services such as emergency HVAC repairs, energy-efficient heating and air conditioning system installation, preventative maintenance, and indoor air quality improvements that are geared toward the challenges of the climate. Common problems such as high summer humidity, cold winter extreme weather, and indoor air quality issues caused by excessive moisture pose an increased burden on HVAC systems."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-kentucky.webp",
@@ -899,7 +899,7 @@ return [
     "hvac-services-in-louisiana" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Louisiana residents experience long, hot, humid summers characterized by thunderstorms, heavy rainfall, and occasional cold snaps, making dependable HVAC systems essential to year-round comfort. Easy Home Service connects Louisiana homeowners with trusted <a href='https://easyhomeservice.com/hvac'><strong>local HVAC specialists</strong></a> who offer cooling solutions such as emergency repairs, installation of energy-efficient systems, and routine maintenance, along with indoor air quality enhancement. Louisiana presents unique climate challenges, from extreme humidity and mold prevention, moisture control, and hurricane-related system strain. Our services are customized specifically for the Louisiana climate conditions."
+        "Louisiana residents experience long, hot, humid summers characterized by thunderstorms, heavy rainfall, and occasional cold snaps, making dependable HVAC systems essential to year-round comfort. Easy Home Service connects Louisiana homeowners with trusted <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC specialists</strong></a> who offer cooling solutions such as emergency repairs, installation of energy-efficient systems, and routine maintenance, along with indoor air quality enhancement. Louisiana presents unique climate challenges, from extreme humidity and mold prevention, moisture control, and hurricane-related system strain. Our services are customized specifically for the Louisiana climate conditions."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-louisiana.webp",
@@ -949,7 +949,7 @@ return [
     "hvac-services-in-maine" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Maine is known for its long and cold winters; it often gets hit by heavy snowstorms, the wind can be icy, and the coast is usually humid. Therefore, it is a must to have a reliable HVAC system to keep comfortable all year round. Easy Home Service helps Maine homeowners to access the <a href='https://easyhomeservice.com/hvac'><strong>best local HVAC professionals</strong></a> who are capable of delivering heating and cooling solutions that are reliable, emergency HVAC repairs, installation of energy-efficient systems, routine maintenance, and improvement of indoor air quality. These services have been developed considering the challenging environment of the Maine climate, such as very low temperatures, heavy snow, salt, air near the coast, and old heating systems of homes, which are common in the whole state."
+        "Maine is known for its long and cold winters; it often gets hit by heavy snowstorms, the wind can be icy, and the coast is usually humid. Therefore, it is a must to have a reliable HVAC system to keep comfortable all year round. Easy Home Service helps Maine homeowners to access the <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>best local HVAC professionals</strong></a> who are capable of delivering heating and cooling solutions that are reliable, emergency HVAC repairs, installation of energy-efficient systems, routine maintenance, and improvement of indoor air quality. These services have been developed considering the challenging environment of the Maine climate, such as very low temperatures, heavy snow, salt, air near the coast, and old heating systems of homes, which are common in the whole state."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-maine.webp",
@@ -1103,7 +1103,7 @@ return [
     "hvac-services-in-michigan" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Michigan residents experience long, cold winters characterized by snowstorms and icy winds. Lake-effect weather and hot, humid summers are also well-known to be experienced in southern regions. <a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects homeowners to reliable local HVAC experts who offer heating and cooling solutions such as emergency repairs, energy-efficient installations, routine maintenance checks and indoor air quality improvements for heating, and indoor air quality improvements."
+        "Michigan residents experience long, cold winters characterized by snowstorms and icy winds. Lake-effect weather and hot, humid summers are also well-known to be experienced in southern regions. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects homeowners to reliable local HVAC experts who offer heating and cooling solutions such as emergency repairs, energy-efficient installations, routine maintenance checks and indoor air quality improvements for heating, and indoor air quality improvements."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-michigan.webp",
@@ -1112,7 +1112,7 @@ return [
     "content" => [
         [
             "type" => "paragraph",
-            "text" => "We provide <a href='https://easyhomeservice.com/hvac'><strong>HVAC services</strong></a> throughout Michigan, including Detroit, Grand Rapids, Lansing, Ann Arbor, Flint, Warren, Sterling Heights, Kalamazoo, Traverse City, and Muskegon, ensuring rapid and reliable service across the state."
+            "text" => "We provide <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC services</strong></a> throughout Michigan, including Detroit, Grand Rapids, Lansing, Ann Arbor, Flint, Warren, Sterling Heights, Kalamazoo, Traverse City, and Muskegon, ensuring rapid and reliable service across the state."
         ],
         [
             "type" => "heading",
@@ -1153,7 +1153,7 @@ return [
     "hvac-services-in-minnesota" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Minnesota is undoubtedly a challenging place to live throughout the winter season, as well as during the summer days. Long and frigid winters, icy winds, and heavy snowfalls are the norm for Minnesota, but on some days, it is still hot and humid. This is making reliable HVAC systems a necessity. As Easy Home Service, we help homeowners to find <a href='https://easyhomeservice.com/hvac'><strong>skilled local HVAC technicians</strong></a> who are always ready for their emergencies, energy efficiency installations, periodic maintenance, and indoor air quality improvements."
+        "Minnesota is undoubtedly a challenging place to live throughout the winter season, as well as during the summer days. Long and frigid winters, icy winds, and heavy snowfalls are the norm for Minnesota, but on some days, it is still hot and humid. This is making reliable HVAC systems a necessity. As Easy Home Service, we help homeowners to find <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>skilled local HVAC technicians</strong></a> who are always ready for their emergencies, energy efficiency installations, periodic maintenance, and indoor air quality improvements."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-minnesota.webp",
@@ -1170,7 +1170,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service simplifies connecting with professional HVAC professionals for all <a href='https://easyhomeservice.com/waterheater'><strong>heating</strong></a> and cooling needs. Every request is handled by experts who are focused on efficiency, safety, and long-term performance, which is perfect for Minnesota’s extreme seasonal climate."
+            "text" => "Easy Home Service simplifies connecting with professional HVAC professionals for all <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/waterheater'><strong>heating</strong></a> and cooling needs. Every request is handled by experts who are focused on efficiency, safety, and long-term performance, which is perfect for Minnesota’s extreme seasonal climate."
         ],
         [
             "type" => "list",
@@ -1249,7 +1249,7 @@ return [
     "hvac-services-in-missouri" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Missouri is a state that has summers with hot and humid weather. The winters are cold and tornado-prone weather is common during the spring season. Thus, it becomes necessary for people to have dependable HVAC systems. Easy Home Service is a platform that helps homeowners to find <a href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who are always ready to respond to their call and provide them with emergency repairs, energy efficiency installations, seasonal maintenance, and indoor air quality improvements."
+        "Missouri is a state that has summers with hot and humid weather. The winters are cold and tornado-prone weather is common during the spring season. Thus, it becomes necessary for people to have dependable HVAC systems. Easy Home Service is a platform that helps homeowners to find <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who are always ready to respond to their call and provide them with emergency repairs, energy efficiency installations, seasonal maintenance, and indoor air quality improvements."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-missouri.webp",
@@ -1316,7 +1316,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service makes connecting with professional <a href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for all heating and cooling needs simple. The service request is handled by experts focused on efficiency, safety, and long-term performance, which makes it perfectly suited for Montana's extreme seasonal climate."
+            "text" => "Easy Home Service makes connecting with professional <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for all heating and cooling needs simple. The service request is handled by experts focused on efficiency, safety, and long-term performance, which makes it perfectly suited for Montana's extreme seasonal climate."
         ],
         [
             "type" => "list",
@@ -1349,7 +1349,7 @@ return [
     "hvac-services-in-nebraska" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Nebraska has snowy, cold winters as well as warm and humid, powerful Prairie winds and sometimes severe storms. This makes efficient HVAC systems vital to ensure comfort throughout the year. Easy Home Service connects Nebraska homeowners with dependable <a href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who offer reliable heating and cooling solutions, as well as emergency HVAC repairs, routine maintenance, energy-efficient installation of HVAC systems, as well as indoor air quality solutions that are tailored to Nebraska's specific climate challenges, which include rapid temperature fluctuations and high humidity during summer, and cold winter wind chill."
+        "Nebraska has snowy, cold winters as well as warm and humid, powerful Prairie winds and sometimes severe storms. This makes efficient HVAC systems vital to ensure comfort throughout the year. Easy Home Service connects Nebraska homeowners with dependable <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> who offer reliable heating and cooling solutions, as well as emergency HVAC repairs, routine maintenance, energy-efficient installation of HVAC systems, as well as indoor air quality solutions that are tailored to Nebraska's specific climate challenges, which include rapid temperature fluctuations and high humidity during summer, and cold winter wind chill."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-nebraska.webp",
@@ -1545,7 +1545,7 @@ return [
     "hvac-services-in-new-mexico" => [
     "heading" => "HVAC Experts You Can Trust for Reliable Home Comfort",
     "top_description" => [
-        "Because of its hot and dry summers, mild winters, and occasional high desert winds, New Mexico ought to have reliable HVAC systems. <a href='https://easyhomeservice.com'><strong>Easy Home Service</strong></a> helps homeowners find local HVAC professionals who are willing to do quick repairs, install energy-efficient appliances, perform regular maintenance, and improve indoor air quality."
+        "Because of its hot and dry summers, mild winters, and occasional high desert winds, New Mexico ought to have reliable HVAC systems. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com'><strong>Easy Home Service</strong></a> helps homeowners find local HVAC professionals who are willing to do quick repairs, install energy-efficient appliances, perform regular maintenance, and improve indoor air quality."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-new-mexico.webp",
@@ -1762,7 +1762,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service simplifies connecting with <a href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for all heating and cooling needs. Every service request is handled by experts focused on efficiency, safety, and long-term performance, perfect for Ohio’s variable climate."
+            "text" => "Easy Home Service simplifies connecting with <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for all heating and cooling needs. Every service request is handled by experts focused on efficiency, safety, and long-term performance, perfect for Ohio’s variable climate."
         ],
         [
             "type" => "list",
@@ -1804,7 +1804,7 @@ return [
     "content" => [
         [
             "type" => "paragraph",
-            "text" => "We provide <a href='https://easyhomeservice.com/hvac'><strong>HVAC services</strong></a> throughout Oklahoma, including Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond, Lawton, Moore, Midwest City, Stillwater, and Enid, ensuring fast and dependable service wherever you live."
+            "text" => "We provide <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC services</strong></a> throughout Oklahoma, including Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond, Lawton, Moore, Midwest City, Stillwater, and Enid, ensuring fast and dependable service wherever you live."
         ],
         [
             "type" => "heading",
@@ -1995,7 +1995,7 @@ return [
     "hvac-services-in-south-carolina" => [
     "heading" => "HVAC Experts You Can Trust for Year-Round Home Comfort",
     "top_description" => [
-        "South Carolina residents need reliable HVAC systems during its long, hot, humid summers and mild winters with occasional coastal storms, to stay comfortable throughout their home's lifespan. <a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects homeowners to trusted <a href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> for fast repairs, energy-efficient installations, seasonal maintenance checks, and indoor air quality enhancement."
+        "South Carolina residents need reliable HVAC systems during its long, hot, humid summers and mild winters with occasional coastal storms, to stay comfortable throughout their home's lifespan. <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> connects homeowners to trusted <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>local HVAC experts</strong></a> for fast repairs, energy-efficient installations, seasonal maintenance checks, and indoor air quality enhancement."
     ],
     "image" => [
         "src" => "/images/states/hvac/side-img-south-carolina.webp",
@@ -2116,7 +2116,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "<a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> makes it simple to connect with renowned HVAC professionals for complete heating and cooling solutions. Every service request is handled by experts focused on efficiency, safety, and long-term performance, perfect for Tennessee’s humid and unpredictable climate.."
+            "text" => "<a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> makes it simple to connect with renowned HVAC professionals for complete heating and cooling solutions. Every service request is handled by experts focused on efficiency, safety, and long-term performance, perfect for Tennessee’s humid and unpredictable climate.."
         ],
         [
             "type" => "list",
@@ -2266,7 +2266,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "<a href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> simplifies the process of connecting with HVAC professionals for complete heating and cooling solutions. Every service request is handled by experts focused on safety, efficiency, and durability ideal for Vermont’s demanding winter climate."
+            "text" => "<a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/'><strong>Easy Home Service</strong></a> simplifies the process of connecting with HVAC professionals for complete heating and cooling solutions. Every service request is handled by experts focused on safety, efficiency, and durability ideal for Vermont’s demanding winter climate."
         ],
         [
             "type" => "list",
@@ -2316,7 +2316,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service simplifies finding reliable <a href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for complete heating and cooling solutions. Every service request is handled by trained experts focused on performance, safety, and long-term reliability, perfect for Virginia’s humid summers and cold winters."
+            "text" => "Easy Home Service simplifies finding reliable <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>HVAC professionals</strong></a> for complete heating and cooling solutions. Every service request is handled by trained experts focused on performance, safety, and long-term reliability, perfect for Virginia’s humid summers and cold winters."
         ],
         [
             "type" => "list",
@@ -2366,7 +2366,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service makes it easy to find <a href='https://easyhomeservice.com/hvac'><strong>trusted HVAC professionals</strong></a> for complete home comfort solutions. Every service request is handled by skilled experts focused on efficiency, moisture control, and long-term reliability perfect for Washington’s damp and variable climate."
+            "text" => "Easy Home Service makes it easy to find <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>trusted HVAC professionals</strong></a> for complete home comfort solutions. Every service request is handled by skilled experts focused on efficiency, moisture control, and long-term reliability perfect for Washington’s damp and variable climate."
         ],
         [
             "type" => "list",
@@ -2416,7 +2416,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Home Service simplifies finding skilled <a href='https://easyhomeservice.com/hvac'><strong>trusted HVAC professionals</strong></a> ls for complete home comfort solutions. Every service request is handled by experts focused on durability, efficiency, and safety perfect for West Virginia’s demanding climate"
+            "text" => "Home Service simplifies finding skilled <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>trusted HVAC professionals</strong></a> ls for complete home comfort solutions. Every service request is handled by experts focused on durability, efficiency, and safety perfect for West Virginia’s demanding climate"
         ],
         [
             "type" => "list",
@@ -2466,7 +2466,7 @@ return [
         ],
         [
             "type" => "paragraph",
-            "text" => "Easy Home Service helps Wisconsin homeowners connect with trusted HVAC professionals for reliable heating, cooling, and ventilation solutions. From <a href='https://easyhomeservice.com/hvac'><strong>emergency repairs</strong></a> to routine maintenance and full system installations, our experts ensure safe, efficient, and long-lasting performance tailored to Wisconsin’s challenging seasonal weather."
+            "text" => "Easy Home Service helps Wisconsin homeowners connect with trusted HVAC professionals for reliable heating, cooling, and ventilation solutions. From <a class='ehs-hvac-internal-link' href='https://easyhomeservice.com/hvac'><strong>emergency repairs</strong></a> to routine maintenance and full system installations, our experts ensure safe, efficient, and long-lasting performance tailored to Wisconsin’s challenging seasonal weather."
         ],
         [
             "type" => "list",

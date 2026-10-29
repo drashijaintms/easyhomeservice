@@ -10,7 +10,7 @@
 
   <!-- Blog 1 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/residential-hydronic-heating-systems" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/residential-hydronic-heating-systems" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Residential%20Hydronic%20Heating%20Systems-7392.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -29,7 +29,7 @@
 
   <!-- Blog 2 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/winter-hvac-maintenance" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/winter-hvac-maintenance" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Top%20Winter%20HVAC%20Maintenance%20Tips%20for%20Homeowner%20in%20New%20York%201-3011.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -48,7 +48,7 @@
 
   <!-- Blog 3 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/winter-hvac-maintenance" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/winter-hvac-maintenance" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/5f9d42090d7c4dfaa34e9c3d2f63b669.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -67,7 +67,7 @@
 
   <!-- Blog 4 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/florida-homeowners-renewable-heating-systems" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/florida-homeowners-renewable-heating-systems" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Florida%20Homeowners%20Renewable%20Heating%20Systems-1716.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -85,7 +85,7 @@
   </div>
     <!-- Blog 5 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/heating-oil-in-maine-homes" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/heating-oil-in-maine-homes" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Heating%20Oil%20in%20Maine%20Homes%20How%20History%20and%20Infrastructure%20Influenced%20HVAC%20Choices-1028.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -103,7 +103,7 @@
   </div>
       <!-- Blog 6 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/inverter-ac-vs-non-inverter-which-one-is-actually-good" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/inverter-ac-vs-non-inverter-which-one-is-actually-good" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Inverter-Driven vs Single-Speed AC-7084.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -121,7 +121,7 @@
   </div>
       <!-- Blog 7 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/high-efficiency-heat-pumps-save-energy-and-lower-bills" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/high-efficiency-heat-pumps-save-energy-and-lower-bills" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/High Efficiency Heat Pumps Save Energy & Lower Bills at Home-5986.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -139,7 +139,7 @@
   </div>
   <!-- Blog 8 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/oil-furnace-heating-in-alaska" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/oil-furnace-heating-in-alaska" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Life Below Zero How Alaskas Climate Shaped Its Dependence on Oil Furnaces-3500.webp" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -157,7 +157,7 @@
   </div>
   <!-- Blog 9 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/what-s-the-best-hvac-system-for-homes-in-usa" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/what-s-the-best-hvac-system-for-homes-in-usa" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Whats the Best HVAC System for Homes in USA  Guide 2026-1782.jpg" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">
@@ -176,7 +176,7 @@
 
     <!-- Blog 10 -->
   <div class="swiper-slide">
-    <a href="https://easyhomeservice.com/blog/why-residentialheating-systems-fail-in-february-in-chicago" class="text-decoration-none text-dark">
+    <a href="https://easyhomeservice.com/blog/why-residentialheating-systems-fail-in-february-in-chicago" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="/images/blog-img/Why Residential Heating Systems Fail More Often in February in Chicago Homes.jpg" loading="lazy"
              class="card-img-top mb-3" alt="HVAC">

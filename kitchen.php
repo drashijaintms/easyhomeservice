@@ -29,7 +29,7 @@
   <div class="container">
     <h2 class="common_heading">Transform Your Dream Kitchen into Reality with Local Kitchen Renovation Service</h2>
     <p class="common_text">Your kitchen plays a key role in your home’s comfort, functionality, and overall value. Through <strong>
-        <a href="https://easyhomeservice.com">Easy Home Service</a>
+        <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a>
       </strong>, local homeowners are connected with skilled contractors who offer kitchen renovation services, custom design, and professional solutions nationwide in the USA. You need reliable kitchen repair services, a complete kitchen remodeling service, or you want to understand your small kitchen renovation cost. We make it easy to find the right solution within your budget. From minor upgrades to full kitchen renovation service projects, our kitchen repair specialists are here to help. We can give you the best kitchen remodeling services for any type of house, old or new, that perfectly fit your requirements. </p> <?php include 'gallery.php';?>
   </div>
 </div> 

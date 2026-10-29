@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/why-new-york-gutters-fail-in-fall-and-winter" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/why-new-york-gutters-fail-in-fall-and-winter" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/f1937c8f38ce28df56dffd231406cc01.png" class="card-img-top mb-3" alt="Gutter">
         <div class="card-body blog-card-body">

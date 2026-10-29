@@ -46,7 +46,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Find Local Junk Removal Services for a Cleaner and Organized Home</h2>
-    <p class="common_text">Find trusted local junk removal services for complete cleanouts and clutter removal in your home, from quick pickups to full property clean-outs. Our local junk removal services experts ensure everything from <strong><a href="https://easyhomeservice.com/furniture">furniture</a></strong> and <strong><a href="https://easyhomeservice.com/handymanappliance">appliances</a></strong> to all unwanted items is handled efficiently, leaving your space clean, organized, and stress-free.</p> 
+    <p class="common_text">Find trusted local junk removal services for complete cleanouts and clutter removal in your home, from quick pickups to full property clean-outs. Our local junk removal services experts ensure everything from <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/furniture">furniture</a></strong> and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handymanappliance">appliances</a></strong> to all unwanted items is handled efficiently, leaving your space clean, organized, and stress-free.</p> 
     <?php include 'gallery.php';?>
   </div>
 </div>

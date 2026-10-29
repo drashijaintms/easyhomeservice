@@ -29,7 +29,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Protect Your Home with Trusted Home Security Experts</h2>
-    <p class="common_text">With Easy Home Service, you can explore top-rated home security systems, including wireless home security alarm systems and complete home <strong><a href="https://easyhomeservice.com/securitycameras">security camera systems</a></strong>.
+    <p class="common_text">With Easy Home Service, you can explore top-rated home security systems, including wireless home security alarm systems and complete home <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/securitycameras">security camera systems</a></strong>.
 A good security system plays a vital role in protecting your property, family, and assets. If you are looking for the best home security systems or want to upgrade your existing ones, Easy Home Service helps you find the most reliable professionals.
 
 </p>

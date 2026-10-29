@@ -53,7 +53,7 @@
 <div class="section_2">
   <div class="container">
     <h2 class="common_heading">Explore Professional Tennis Court Services</h2>
-    <p class="common_text">Quality tennis court services enhance playability, appearance, and long-term value. <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with trusted professionals across the USA for tennis court repair and cleaning service & tennis stringing services. Covering everything from quick fixes to routine maintenance and upgrades.</p> 
+    <p class="common_text">Quality tennis court services enhance playability, appearance, and long-term value. <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects you with trusted professionals across the USA for tennis court repair and cleaning service & tennis stringing services. Covering everything from quick fixes to routine maintenance and upgrades.</p> 
     <?php include 'gallery.php';?>
   </div>
 </div>

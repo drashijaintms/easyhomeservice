@@ -7,7 +7,7 @@
     <div class="inner__banner__left">
       <img src="images/garage-mob-banner.webp" class="inner_banner_mob showMob" width="600" height="400" alt="bnr mob inner">
       <h1 class="banner_heading">Connect with Trusted Garage Experts Near You</h1>
-      <p class="inner__banner__text">We connect homeowners across the U.S. with top-rated garage experts in their area, offering a range of services from garage <strong><a href="https://easyhomeservice.com/door">door repair</a></strong> to total garage construction and remodeling upgrades.</p>
+      <p class="inner__banner__text">We connect homeowners across the U.S. with top-rated garage experts in their area, offering a range of services from garage <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">door repair</a></strong> to total garage construction and remodeling upgrades.</p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">

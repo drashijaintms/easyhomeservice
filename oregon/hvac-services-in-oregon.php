@@ -6,7 +6,7 @@
     <div class="inner__banner__left">
       <img src="/images/hvac_bnr_mob.webp" class="inner_banner_mob showMob" width="600" height="400" alt="hvac services experts, hvac services, commercial hvac repair near me">
       <h1 class="banner_heading">Connect With HVAC Services in Oregon </h1>
-      <p class="inner__banner__text">Stay comfortable through Oregon’s changing weather with Easy Home Service. We connect you with trusted residential HVAC services in Oregon experts for HVAC professionals for AC repair, furnace service, boiler support, heat pump maintenance, duct cleaning, indoor air quality solution, and complete <a href="https://easyhomeservice.com/hvac">HVAC installation</a>. </p>
+      <p class="inner__banner__text">Stay comfortable through Oregon’s changing weather with Easy Home Service. We connect you with trusted residential HVAC services in Oregon experts for HVAC professionals for AC repair, furnace service, boiler support, heat pump maintenance, duct cleaning, indoor air quality solution, and complete <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC installation</a>. </p>
       <div class="banner_quote_box inner__banner__quote-box">
         <div class="error-message"></div>
         <div class="banner_quote_box_inner">

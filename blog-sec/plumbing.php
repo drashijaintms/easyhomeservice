@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/winter-plumbing-issues-homeowners" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/winter-plumbing-issues-homeowners" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/Thumbnail%202%203%20(1)-7506.jpg"
              class="card-img-top mb-3" alt="Plumbing">
@@ -22,7 +22,7 @@
 
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-            <a href="https://easyhomeservice.com/blog/plumber-for-running-toilet-phoenix" class="text-decoration-none text-dark">
+            <a href="https://easyhomeservice.com/blog/plumber-for-running-toilet-phoenix" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/Plumber%20for%20Running%20Toilet%20in%20Phoenix%202026%20%20Repair,%20Fixes%20&%20Cost-4668.jpg"
              class="card-img-top mb-3" alt="HVAC">

@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/residential-black-metal-roofing" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/residential-black-metal-roofing" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/Residential%20Black%20Metal%20Roofing-8347.jpg"
              class="card-img-top mb-3" alt="Roofing">
@@ -19,7 +19,7 @@
       </div>
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/the-ultimate-guide-to-know-when-you-call-a-roofing-expert" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/20adb42c06fb1e8d539c4f8ae455cb4b.jpg"
              class="card-img-top mb-3" alt="Roofing">

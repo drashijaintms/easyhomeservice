@@ -44,7 +44,7 @@
             </h2>
 
             <p class="common_text">
-Beyond traditional residential painting, <strong><a href="https://easyhomeservice.com">Easy Home Service</a></strong> connects homeowners with trusted local professionals specializing in protective coatings and advanced surface finishes. These solutions help extend the life of your home’s surfaces, improve durability, and protect against moisture, heavy wear, and harsh weather conditions.
+Beyond traditional residential painting, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com">Easy Home Service</a></strong> connects homeowners with trusted local professionals specializing in protective coatings and advanced surface finishes. These solutions help extend the life of your home’s surfaces, improve durability, and protect against moisture, heavy wear, and harsh weather conditions.
             </p>
 
             <div class="row people team-boxed pt-5">
@@ -71,7 +71,7 @@ finished look.
                         <h3 class="name">Waterproofing Services</h3>
                         <p class="description">
 Professional waterproof coatings that help prevent moisture intrusion, exterior 
-<strong><a href="https://easyhomeservice.com/wall">wall damage</a></strong>, and long-term structural issues. It is used and widely applied by exterior painting experts.
+<strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/wall">wall damage</a></strong>, and long-term structural issues. It is used and widely applied by exterior painting experts.
                         </p>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ Professional waterproof coatings that help prevent moisture intrusion, exterior
                         </div>
                         <h3 class="name">Caulking & Sealant Application</h3>
                         <p class="description">
-A good seal around your <strong><a href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a href="https://easyhomeservice.com/siding">siding</a></strong>, and <strong><a href="https://easyhomeservice.com/door">doors</a></strong> saves you money on heating and cooling, but it will also help prevent water leaks. It is recommended by both interior paint experts and outdoor painting professionals.
+A good seal around your <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">windows</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/siding">siding</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/door">doors</a></strong> saves you money on heating and cooling, but it will also help prevent water leaks. It is recommended by both interior paint experts and outdoor painting professionals.
                         </p>
                     </div>
                 </div>

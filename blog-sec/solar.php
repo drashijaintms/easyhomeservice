@@ -1,7 +1,7 @@
     <div class="row g-4">
       <!-- Blog Card 1 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/can-solar-panels-handles-permanent-outdoor-christmas-lights" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/can-solar-panels-handles-permanent-outdoor-christmas-lights" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/Can%20Solar%20Panels%20manage%20Christmas%20Lights%20Without%20Damaging%20Roof-8444.png"
              class="card-img-top mb-3" alt="Solar">
@@ -19,7 +19,7 @@
       </div>
       <!-- Blog Card 2 -->
       <div class="col-md-6 col-lg-4">
-        <a href="https://easyhomeservice.com/blog/solar-panel-problems" class="text-decoration-none text-dark">
+        <a href="https://easyhomeservice.com/blog/solar-panel-problems" class="text-decoration-none text-dark ehs-hvac-internal-link">
       <div class="card blog-card h-100 shadow-sm border-0">
         <img src="https://easyhomeservice.com/blog/admin/postimages/2788f097063ad4cbe328221b2cbbfbbd.png"
              class="card-img-top mb-3" alt="Solar">
