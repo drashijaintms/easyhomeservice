@@ -52,16 +52,31 @@ main *,
 /* ==========================================================================
    INTERNAL CONTENT LINKS (Used across all article pages & services)
    ========================================================================== */
-.ehs-hvac-internal-link {
-    font-weight: 700;
-    color: var(--ehs-text-heading);
-    text-decoration: none;
+.ehs-hvac-internal-link,
+.ehs-internal-link {
+    font-weight: 700 !important;
+    color: var(--ehs-text-heading, #0e225a) !important;
+    text-decoration: none !important;
     transition: color 0.2s ease-in-out;
 }
 
+.ehs-hvac-internal-link strong,
+.ehs-internal-link strong {
+    color: inherit !important;
+}
+
 .ehs-hvac-internal-link:hover,
-.ehs-hvac-internal-link:focus {
-    color: var(--ehs-primary-green);
+.ehs-hvac-internal-link:focus,
+.ehs-internal-link:hover,
+.ehs-internal-link:focus {
+    color: var(--ehs-primary-green, #04d36f) !important;
+}
+
+.ehs-hvac-internal-link:hover strong,
+.ehs-hvac-internal-link:focus strong,
+.ehs-internal-link:hover strong,
+.ehs-internal-link:focus strong {
+    color: var(--ehs-primary-green, #04d36f) !important;
 }
 
 /* --------------------------------------------------------------------------
