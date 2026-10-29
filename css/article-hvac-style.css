@@ -70,6 +70,7 @@ main *,
 .ehs-internal-link:hover,
 .ehs-internal-link:focus {
     color: var(--ehs-primary-green, #04d36f) !important;
+    text-decoration: none !important;
 }
 
 .ehs-hvac-internal-link:hover strong,
@@ -291,7 +292,7 @@ footer .ehs-internal-link:focus,
 .ehs-internal-link.link-green:hover,
 .ehs-internal-link.link-green:focus {
     color: #ffffff !important;
-    text-decoration: underline !important;
+    text-decoration: none !important;
 }
 
 .ehs-hvac-hero-section .ehs-hvac-internal-link:hover strong,
@@ -414,7 +415,7 @@ footer .ehs-internal-link:focus strong,
 .ehs-internal-link.link-white:hover,
 .ehs-internal-link.link-white:focus {
     color: var(--ehs-primary-green, #04d36f) !important;
-    text-decoration: underline !important;
+    text-decoration: none !important;
 }
 
 .ehs-hvac-internal-link.link-white:hover strong,
