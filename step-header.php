@@ -403,10 +403,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!---------Header--------->
 <div class="step-header">
 	<div class="container">
-    	<!--<p class="btn-back"><img src="images/back-arw.png" width="19" height="12" alt="arrow">Back</p>-->
-    	<a href="https://easyhomeservice.com"><img src="images/easyhomeservice.svg" width="126" height="47" class="step-logo"  alt="Easyhomeservice"></a>
+		<div class="d-flex justify-content-between">
+        	<a href="https://easyhomeservice.com"><img src="images/easyhomeservice.svg" width="126" height="47" class="step-logo"  alt="Easyhomeservice"></a>
+		</div>
     </div>
-</div>	
+</div>
 
 
 
