@@ -993,7 +993,104 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && (isset($_POST['ehs_quote_submit']) 
 </section>
 <!-- SECTION 8: WHAT MAKES OUR LEADS BETTER END -->
 
+<!-- SECTION 9: MORE OPPORTUNITIES, MORE CONNECTIONS, MORE GROWTH START -->
+<section class="ehs-contractor-solutions" id="lead-solutions">
+    <!-- Decorative concentric ring bottom-left -->
+    <div class="ehs-solutions-decor-ring"></div>
+    
+    <!-- Background flowing wave lines SVG -->
+    <svg class="ehs-solutions-wave-bg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 700" preserveAspectRatio="none">
+        <path d="M-100,200 C300,100 600,450 1540,150" fill="none" stroke="rgba(22, 41, 71, 0.04)" stroke-width="1.5" />
+        <path d="M-100,240 C320,140 620,480 1540,190" fill="none" stroke="rgba(56, 183, 99, 0.05)" stroke-width="1.5" />
+        <path d="M-100,280 C340,180 640,510 1540,230" fill="none" stroke="rgba(22, 41, 71, 0.04)" stroke-width="1.5" />
+        <path d="M-100,320 C360,220 660,540 1540,270" fill="none" stroke="rgba(56, 183, 99, 0.05)" stroke-width="1.5" />
+        <path d="M-100,360 C380,260 680,570 1540,310" fill="none" stroke="rgba(22, 41, 71, 0.04)" stroke-width="1.5" />
+        <path d="M-100,400 C400,300 700,600 1540,350" fill="none" stroke="rgba(56, 183, 99, 0.04)" stroke-width="1.5" />
+        <path d="M-100,440 C420,340 720,630 1540,390" fill="none" stroke="rgba(22, 41, 71, 0.03)" stroke-width="1.5" />
+    </svg>
 
+    <div class="container position-relative" style="z-index: 2;">
+        
+        <!-- Header -->
+        <div class="ehs-solutions-header text-center">
+            <h2 class="ehs-solutions-title">
+                More Opportunities. More Connections. <span class="ehs-highlight-green">More Growth.</span>
+            </h2>
+            <p class="ehs-solutions-desc">
+                Discover flexible lead generation solutions designed to connect your business with homeowners looking for home improvement and repair services.
+            </p>
+        </div>
+
+        <!-- 3 Solution Cards Grid -->
+        <div class="row g-4 justify-content-center">
+            
+            <!-- Card 1: Web Leads -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="ehs-solution-card">
+                    <div class="ehs-solution-img-wrap">
+                        <img src="images/solutions/web-leads.jpg" alt="Web Leads" class="ehs-solution-img">
+                        <div class="ehs-solution-badge ehs-badge-green">
+                            <img src="images/solutions/icon-web-leads.png" alt="Web Leads Icon" class="ehs-solution-icon">
+                        </div>
+                    </div>
+                    <div class="ehs-solution-content">
+                        <h3 class="ehs-solution-card-title">Web Leads</h3>
+                        <h4 class="ehs-solution-card-subtitle">Connect With Homeowners Ready to Start</h4>
+                        <p class="ehs-solution-card-desc">
+                            Receive qualified homeowner inquiries from people actively looking for home improvement, repair, and installation services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 2: Inbound Calls -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="ehs-solution-card">
+                    <div class="ehs-solution-img-wrap">
+                        <img src="images/solutions/inbound-calls.jpg" alt="Inbound Calls" class="ehs-solution-img">
+                        <div class="ehs-solution-badge ehs-badge-blue">
+                            <img src="images/solutions/icon-inbound-calls.png" alt="Inbound Calls Icon" class="ehs-solution-icon">
+                        </div>
+                    </div>
+                    <div class="ehs-solution-content">
+                        <h3 class="ehs-solution-card-title">Inbound Calls</h3>
+                        <h4 class="ehs-solution-card-subtitle">Connect Through Real-Time Conversations</h4>
+                        <p class="ehs-solution-card-desc">
+                            Connect directly with homeowners calling about their home service needs.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3: Scheduled Appointments -->
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="ehs-solution-card">
+                    <div class="ehs-solution-img-wrap">
+                        <img src="images/solutions/scheduled-appointments.jpg" alt="Scheduled Appointments" class="ehs-solution-img">
+                        <div class="ehs-solution-badge ehs-badge-teal">
+                            <img src="images/solutions/icon-scheduled-appointments.png" alt="Scheduled Appointments Icon" class="ehs-solution-icon">
+                        </div>
+                    </div>
+                    <div class="ehs-solution-content">
+                        <h3 class="ehs-solution-card-title">Scheduled Appointments</h3>
+                        <h4 class="ehs-solution-card-subtitle">Turn Homeowner Interest Into Opportunities</h4>
+                        <p class="ehs-solution-card-desc">
+                            Connect with homeowners through scheduled appointments for their upcoming home improvement projects.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- CTA Button -->
+        <div class="ehs-solutions-btn-wrap text-center">
+            <a href="#get-quote" class="ehs-btn-solutions-quote">Get A Quote</a>
+        </div>
+
+    </div>
+</section>
+<!-- SECTION 9: MORE OPPORTUNITIES, MORE CONNECTIONS, MORE GROWTH END -->
 
 <!-- SECTION 10: OUR LATEST BLOG POSTS START -->
 <section class="ehs-contractor-blogs">
