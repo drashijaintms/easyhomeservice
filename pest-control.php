@@ -48,10 +48,7 @@
 
 
 <?php include'testimonials.php' ?>
-<div class="section_4">
-    <?php include 'service.php';?>
-    
-</div>  
+<?php include 'state-cities.php';?>  
 
 
 

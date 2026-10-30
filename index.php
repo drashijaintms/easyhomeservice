@@ -347,7 +347,7 @@ include 'header.php';
   </div>
 </div>
 <div class="section_4"> <?php include $_SERVER['DOCUMENT_ROOT'] . '/calculator/calculator.php'; ?> </div>
-<div class="section_4"> <?php include 'service.php';?> </div>
+<?php include 'state-cities.php';?>
 <!--section_6-->
 <div class="section_6">
   <div class="container">

@@ -73,7 +73,7 @@ Easy Home Service helps homeowners find trustworthy professionals who provide co
 <?php include '../section-include/benefits/benefits.php'; ?>
 <?php include'../testimonials.php' ?> 
 <?php include '../section-include/cities/cities-section.php'; ?> 
-<div class="section_4"> <?php include '../service.php';?> </div> 
+<?php include '../state-cities.php';?> 
 <?php include '../section-include/faq/faq.php';?>
 <?php include'../footer.php' ?> 
 <?php include '../scripts/common-scripts.php';?> 

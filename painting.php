@@ -105,9 +105,7 @@ A good seal around your <strong><a class="ehs-hvac-internal-link" href="https://
 
 <?php include'testimonials.php' ?>
 
-<div class="section_4"> 
-    <?php include 'service.php';?> 
-</div> 
+<?php include 'state-cities.php';?> 
 <?php include 'section-include/faq/faq.php';?>
 
 

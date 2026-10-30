@@ -37,9 +37,7 @@
 <?php include 'section-include/blog-section/blog-slider.php'; ?>
 <!-- Custom CSS --> 
 <?php include'testimonials.php' ?> 
-<div class="section_4"> 
-<?php include 'service.php';?> 
-</div> 
+<?php include 'state-cities.php';?> 
 <?php include 'section-include/faq/faq.php';?>
 <!--promise--> 
 <?php include'promise.php' ?> 

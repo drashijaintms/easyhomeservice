@@ -52,9 +52,7 @@ masonry services across the U.S. by making use of Easy Home Service. Get precise
 <?php include 'section-include/inner-section/inner-section.php';?>
 <?php include 'section-include/benefits/benefits.php'; ?> 
 <?php include'testimonials.php' ?> 
-<div class="section_4"> 
-<?php include 'service.php';?> 
-</div> 
+<?php include 'state-cities.php';?> 
 <?php include 'section-include/faq/faq.php';?> 
 
 

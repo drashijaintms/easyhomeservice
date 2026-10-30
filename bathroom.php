@@ -37,9 +37,7 @@
 <?php include 'section-include/inner-section/inner-section.php';?>
 <?php include 'section-include/blog-section/blog-slider.php'; ?>
 <?php include 'section-include/benefits/benefits.php'; ?>
-<div class="section_4"> 
-<?php include 'service.php';?> 
-</div> 
+<?php include 'state-cities.php';?> 
 <?php include 'section-include/faq/faq.php';?> 
 <?php include'testimonials.php' ?> 
 <?php include'promise.php' ?> 

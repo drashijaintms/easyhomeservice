@@ -825,10 +825,7 @@ Get A Quote</h4>
 }
 </style>
 
-<div class="section_4">
-    <?php include 'service.php';?>
-    
-</div> 
+<?php include 'state-cities.php';?> 
 <style>
 .sticky-img {
   position: sticky;

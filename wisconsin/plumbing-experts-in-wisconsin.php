@@ -126,10 +126,7 @@ Standing moisture and sewer gases can affect indoor air quality. Quick repairs h
 
 <?php include '../section-include/cities/cities-section.php'; ?>
 
-<div class="section_4">
-    <?php include '../service.php';?>
-    
-</div>  
+<?php include '../state-cities.php';?>  
 
 <?php include '../section-include/faq/faq.php';?>
 <!--promise-->

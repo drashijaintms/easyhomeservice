@@ -1869,38 +1869,14 @@
 
 .ehs-contractor-solutions {
     position: relative;
-    padding: 85px 0 95px;
+    padding: 70px 0;
     background-color: #ffffff;
+    background-image: url('/images/new-index-page/line-background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     overflow: hidden;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-/* Concentric ring decoration on bottom-left */
-.ehs-solutions-decor-ring {
-    position: absolute;
-    left: -130px;
-    bottom: -60px;
-    width: 440px;
-    height: 440px;
-    background-image: url('../images/blog-circle-bg.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    pointer-events: none;
-    z-index: 1;
-    opacity: 0.85;
-}
-
-/* Background wavy contour lines */
-.ehs-solutions-wave-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    z-index: 1;
-    opacity: 0.8;
 }
 
 /* Section Header */
@@ -1955,7 +1931,7 @@
 .ehs-solution-img-wrap {
     position: relative;
     width: 100%;
-    height: 210px;
+    height: 195px;
     background: #edf2f7;
     border-top-left-radius: 16px;
     border-top-right-radius: 16px;
@@ -1984,22 +1960,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 3.5px solid #ffffff;
     box-shadow: 0 4px 14px rgba(16, 32, 72, 0.08);
     z-index: 3;
+    background:#E8F0FB;
 }
 
-.ehs-badge-green {
-    background-color: #d1fae5;
-}
-
-.ehs-badge-blue {
-    background-color: #e0f2fe;
-}
-
-.ehs-badge-teal {
-    background-color: #d1fae5;
-}
 
 .ehs-solution-icon {
     width: 26px;
@@ -2010,7 +1975,7 @@
 
 /* Card Body Content */
 .ehs-solution-content {
-    padding: 42px 26px 30px;
+    padding: 35px 20px 25px;
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -2042,7 +2007,7 @@
 
 /* CTA Button Below Cards */
 .ehs-solutions-btn-wrap {
-    margin-top: 50px;
+    margin-top: 45px;
     position: relative;
     z-index: 2;
 }
@@ -3303,4 +3268,9 @@
         padding: 40px 15px 25px;
         min-height: auto;
     }
+}
+
+
+.footer-section {
+    margin-bottom: 25px !important;
 }

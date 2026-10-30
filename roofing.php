@@ -660,9 +660,7 @@ One of the most common questions homeowners ask is: "How much does a new roof co
 <?php include 'section-include/benefits/benefits.php'; ?>
 <?php include'testimonials.php' ?> 
 
-<div class="section_4"> 
-<?php include 'service.php';?> 
-</div> 
+<?php include 'state-cities.php';?> 
 <?php include 'section-include/faq/faq.php';?> 
 <?php include'promise.php' ?> 
 <?php include'footer.php' ?> 

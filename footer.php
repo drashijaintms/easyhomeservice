@@ -1411,14 +1411,14 @@ jQuery(document).ready(function($) {
 <!--footer-->
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="<?php echo $base_url; ?>css/footer-style.css">
+<link rel="stylesheet" href="/css/footer-style.css">
 <footer class="footer">
     <div class="floating-shapes">
         <div class="shape shape1"></div>
         <div class="shape shape2"></div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row d-flex justify-content-center"><div class="col-lg-11"><div class="row">
             <!-- Contact Details -->
             <div class="col-lg-3 col-md-6 footer-section">
                 <h5>Contact Details</h5>
@@ -1526,11 +1526,13 @@ jQuery(document).ready(function($) {
                 </div>
                 <div id="newsletterMsg"></div>
             </div>
-        </div>
+        </div></div></div>
+        
+        
         <!-- Footer Bottom -->
         <div class="footer-bottom">
-            <div class="row">
-                <div class="col-12">
+            <div class="row d-flex justify-content-center">
+                <div class="col-11">
                     <p>
                         Easyhomeservice.com is a free service to assist homeowners in connecting with local service providers.
                         All service provider/providers are independent and Easy Home Service does not warrant or guarantee any work performed.

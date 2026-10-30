@@ -795,3 +795,7 @@ footer .ehs-internal-link:focus strong,
 .ehs-internal-link.link-white:focus strong {
   color: var(--ehs-primary-green, #04d36f) !important;
 }
+
+.footer-section {
+    margin-bottom: 25px !important;
+}
