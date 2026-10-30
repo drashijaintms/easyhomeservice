@@ -76,6 +76,9 @@ h3.common_text {
 
 .blog-section .card-text {
   font-size: 0.95rem;
+  font-weight: 400;
+  color: #4b5563;
+  line-height: 1.5;
 }
 .bx {
   font-weight: 500;
