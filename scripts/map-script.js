@@ -1,9 +1,9 @@
-
 /* =====================================
    HARD BASE DOMAIN (NOT USED FOR BUILDING)
 ===================================== */
 
-const domain = "https://easyhomeservice.com";
+const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+const domain = isLocal ? window.location.origin : "https://easyhomeservice.com";
 
 
 /* =====================================
@@ -68,108 +68,107 @@ WY: domain + "/wyoming/hvac-services-in-wyoming"
    PLUMBING LINKS ARRAY (WHITELIST ONLY)
 ===================================== */
 
-const plumbingLinks = {
-    AL: domain + "/alabama/plumbing-experts-in-alabama",
-AK: domain + "/alaska/plumbing-experts-in-alaska",
-AZ: domain + "/arizona/plumbing-experts-in-arizona",
-AR: domain + "/arkansas/plumbing-experts-in-arkansas",
-CA: domain + "/california/plumbing-experts-in-california",
-CO: domain + "/colorado/plumbing-experts-in-colorado",
-CT: domain + "/connecticut/plumbing-experts-in-connecticut",
-DE: domain + "/delaware/plumbing-experts-in-delaware",
-FL: domain + "/florida/plumbing-experts-in-florida",
-GA: domain + "/georgia/plumbing-experts-in-georgia",
-HI: domain + "/hawaii/plumbing-experts-in-hawaii",
-ID: domain + "/idaho/plumbing-experts-in-idaho",
-IL: domain + "/illinois/plumbing-experts-in-illinois",
-IN: domain + "/indiana/plumbing-experts-in-indiana",
-IA: domain + "/iowa/plumbing-experts-in-iowa",
-KS: domain + "/kansas/plumbing-experts-in-kansas",
-KY: domain + "/kentucky/plumbing-experts-in-kentucky",
-LA: domain + "/louisiana/plumbing-experts-in-louisiana",
-ME: domain + "/maine/plumbing-experts-in-maine",
-MD: domain + "/maryland/plumbing-experts-in-maryland",
-MA: domain + "/massachusetts/plumbing-experts-in-massachusetts",
-MI: domain + "/michigan/plumbing-experts-in-michigan",
-MN: domain + "/minnesota/plumbing-experts-in-minnesota",
-MS: domain + "/mississippi/plumbing-experts-in-mississippi",
-MO: domain + "/missouri/plumbing-experts-in-missouri",
-MT: domain + "/montana/plumbing-experts-in-montana",
-NE: domain + "/nebraska/plumbing-experts-in-nebraska",
-NV: domain + "/nevada/plumbing-experts-in-nevada",
-NH: domain + "/new-hampshire/plumbing-experts-in-new-hampshire",
-NJ: domain + "/new-jersey/plumbing-experts-in-new-jersey",
-NM: domain + "/new-mexico/plumbing-experts-in-new-mexico",
-NY: domain + "/new-york/plumbing-experts-in-new-york",
-NC: domain + "/north-carolina/plumbing-experts-in-north-carolina",
-ND: domain + "/north-dakota/plumbing-experts-in-north-dakota",
-OH: domain + "/ohio/plumbing-experts-in-ohio",
-OK: domain + "/oklahoma/plumbing-experts-in-oklahoma",
-OR: domain + "/oregon/plumbing-experts-in-oregon",
-PA: domain + "/pennsylvania/plumbing-experts-in-pennsylvania",
-RI: domain + "/rhode-island/plumbing-experts-in-rhode-island",
-SC: domain + "/south-carolina/plumbing-experts-in-south-carolina",
-SD: domain + "/south-dakota/plumbing-experts-in-south-dakota",
-TN: domain + "/tennessee/plumbing-experts-in-tennessee",
-TX: domain + "/texas/plumbing-experts-in-texas",
-UT: domain + "/utah/plumbing-experts-in-utah",
-VT: domain + "/vermont/plumbing-experts-in-vermont",
-VA: domain + "/virginia/plumbing-experts-in-virginia",
-WA: domain + "/washington/plumbing-experts-in-washington",
-WV: domain + "/west-virginia/plumbing-experts-in-west-virginia",
-WI: domain + "/wisconsin/plumbing-experts-in-wisconsin",
-WY: domain + "/wyoming/plumbing-experts-in-wyoming"
-};
+const plumbingLinks = {};
 
 Object.keys(hvacLinks).forEach(code => {
 plumbingLinks[code] = hvacLinks[code]
 .replace("hvac-services-in", "plumbing-experts-in");
 });
 
+const stateNameToCode = {
+    "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA",
+    "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE", "Florida": "FL", "Georgia": "GA",
+    "Hawaii": "HI", "Idaho": "ID", "Illinois": "IL", "Indiana": "IN", "Iowa": "IA",
+    "Kansas": "KS", "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD",
+    "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS", "Missouri": "MO",
+    "Montana": "MT", "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ",
+    "New Mexico": "NM", "New York": "NY", "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH",
+    "Oklahoma": "OK", "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI", "South Carolina": "SC",
+    "South Dakota": "SD", "Tennessee": "TN", "Texas": "TX", "Utah": "UT", "Vermont": "VT",
+    "Virginia": "VA", "Washington": "WA", "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY"
+};
+
 
 /* =====================================
    HOVER EFFECT (ALWAYS WORKS)
 ===================================== */
 
-$(document).on("mouseenter", "li.ccc", function () {
-$("li.ccc").removeClass("active");
-$(this).addClass("active");
-});
+if (typeof $ !== "undefined" || typeof jQuery !== "undefined") {
+    const $jq = window.jQuery || window.$;
+    $jq(document).on("mouseenter", "li.ccc", function () {
+        $jq("li.ccc").removeClass("active");
+        $jq(this).addClass("active");
+    });
+    $jq(document).on("mouseenter", ".ehs-states-wrapper .ehs-state-item", function () {
+        $jq(".ehs-states-wrapper .ehs-state-item").removeClass("active");
+        $jq(this).addClass("active");
+    });
+}
 
 
 /* =====================================
    LINK INSERTION (STRICT MATCH ONLY)
 ===================================== */
 
-$(document).ready(function () {
+function initMapLinks() {
+    const path = window.location.pathname.toLowerCase();
 
-const path = window.location.pathname.toLowerCase();
+    let linkSet = null;
 
-let linkSet = null;
+    if (path.includes("hvac")) linkSet = hvacLinks;
+    if (path.includes("plumbing")) linkSet = plumbingLinks;
 
-if (path.includes("hvac")) linkSet = hvacLinks;
-if (path.includes("plumbing")) linkSet = plumbingLinks;
+    /* If not HVAC or Plumbing -> stop. */
+    if (!linkSet) return;
 
-/* If not HVAC or Plumbing → stop.
-   Hover still works because it's separate */
-if (!linkSet) return;
+    // 1. Support legacy li.ccc list
+    if (typeof $ !== "undefined" || typeof jQuery !== "undefined") {
+        const $jq = window.jQuery || window.$;
+        $jq("li.ccc").each(function () {
+            const code = $jq(this).attr("class")
+                .split(" ")
+                .find(c => c !== "ccc");
 
+            if (!code || !linkSet[code]) return; // STRICT MATCH ONLY
 
-$("li.ccc").each(function () {
+            const url = linkSet[code];
 
-const code = $(this).attr("class")
-.split(" ")
-.find(c => c !== "ccc");
+            if (!$jq(this).find("a").length) {
+                $jq(this).wrapInner(`<a href="${url}"></a>`);
+            }
+        });
+    }
 
-if (!linkSet[code]) return;   // STRICT MATCH ONLY
+    // 2. Support state-cities.php new map States section
+    const stateItems = document.querySelectorAll(".ehs-states-wrapper .ehs-state-item");
+    stateItems.forEach(function (item) {
+        const nameEl = item.querySelector(".ehs-state-name");
+        const stateName = nameEl ? nameEl.textContent.trim() : "";
+        const classCode = item.className ? item.className.split(" ").find(function (c) {
+            return c !== "ehs-state-item" && c !== "active";
+        }) : null;
+        const code = item.getAttribute("data-code") || classCode || stateNameToCode[stateName];
 
-const url = linkSet[code];
+        if (!code || !linkSet[code]) return; // STRICT MATCH ONLY
 
-if (!$(this).find("a").length) {
-$(this).wrapInner(`<a href="${url}"></a>`);
+        const url = linkSet[code];
+
+        if (!item.querySelector("a")) {
+            const a = document.createElement("a");
+            a.href = url;
+            a.className = "ehs-state-link";
+            while (item.firstChild) {
+                a.appendChild(item.firstChild);
+            }
+            item.appendChild(a);
+        }
+    });
 }
 
-});
-
-});
-
+if (typeof jQuery !== "undefined") {
+    jQuery(document).ready(initMapLinks);
+} else if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initMapLinks);
+} else {
+    initMapLinks();
+}
