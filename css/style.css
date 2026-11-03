@@ -799,3 +799,6 @@ footer .ehs-internal-link:focus strong,
 .footer-section {
     margin-bottom: 25px !important;
 }
+.custom-content-column {
+    text-align: left;
+}
