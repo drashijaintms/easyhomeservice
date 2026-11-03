@@ -201,7 +201,7 @@
     <!-- ========================================== -->
     <!-- SECTION 12: STATES WE SERVE START         -->
     <!-- ========================================== -->
-    <section class="ehs-contractor-states-served">
+    <section class="ehs-contractor-states-served roofing_section_2">
         <div class="container">
             <h2 class="ehs-states-title">States We Serve</h2>
             <p class="ehs-states-desc">
@@ -454,7 +454,7 @@
     <!-- ========================================== -->
     <!-- SECTION 13: CITIES WE SERVE START         -->
     <!-- ========================================== -->
-    <section class="ehs-contractor-cities-served">
+    <section class="ehs-contractor-cities-served roofing_section_2">
         <div class="container">
             <h2 class="ehs-cities-title">We work in 500+ Cities</h2>
             
