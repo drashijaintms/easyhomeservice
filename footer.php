@@ -1709,7 +1709,7 @@ document.querySelectorAll('.custom-tab-btn').forEach(function(button) {
 });
 </script>
 
-<script>
+<!-- <script>
 (function () {
     "use strict";
 
@@ -1769,7 +1769,7 @@ document.querySelectorAll('.custom-tab-btn').forEach(function(button) {
     window.location.replace(newUrl.toString());
 
 })();
-</script>
+</script> -->
 <script>
 (function () {
     "use strict";
