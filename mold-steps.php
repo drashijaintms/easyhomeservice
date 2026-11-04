@@ -11,7 +11,7 @@
           <p class="step-hdng2">This will help us match you to the specialized <br class="hide-mob">contractors in your area. </p>
           <div class="info-bx">
             <div class="frmElemts">
-              <input type="text" class="inp-fld" placeholder="Enter Zip Code" id="zipcode" pattern="[0-9]{5}" required="" maxlength="5" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" name="zipcode" inputmode="numeric" value="<?php echo $_GET['zip']; ?>">
+              <input type="text" class="inp-fld" placeholder="Enter Zip Code" id="zipcode" pattern="[0-9]{5}" required="" maxlength="5" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" name="zipcode" inputmode="numeric" value="<?php echo htmlspecialchars($_GET['zip'] ?? $_GET['zipcode'] ?? '', ENT_QUOTES, 'UTF-8'); ?>">
             </div>
             <div class="error-msg" id="zipcode-error"></div>
             <div class="clearall"></div>
