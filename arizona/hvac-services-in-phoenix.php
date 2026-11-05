@@ -499,6 +499,99 @@
         </div>
     </section>
     <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
+    <section class="ehs-hvac-faq-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <div class="ehs-hvac-faq-container text-center">
+
+                        <h2 class="ehs-hvac-section-title">
+                            Frequently Asked Question
+                        </h2>
+                        <div class="ehs-hvac-faq-list text-start">
+                            <!-- FAQ 1 (Active by default) -->
+                            <div class="ehs-hvac-faq-item active">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
+                                    <span class="ehs-hvac-faq-question">What HVAC services are available in Phoenix, Arizona?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Phoenix homeowners can connect with professionals for emergency AC repair, new AC replacement and installation, heat pump service, duct repair and sealing, condenser coil cleaning, thermostat upgrades, and pre-summer tune-ups.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How does extreme Phoenix heat impact AC systems?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        With summer temperatures routinely exceeding 110°F, AC units run almost continuously under high thermal stress. This accelerates wear on capacitors, contactors, fan motors, and compressors, making regular spring maintenance essential to prevent mid-summer breakdowns.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How often should AC filters be replaced in Phoenix?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Due to desert dust, pollen, and monsoon haboobs, air filters should be checked every 30 days during peak summer months and replaced or cleaned as needed to maintain adequate airflow and protect evaporator coils.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">When should I replace my Phoenix air conditioner?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        In the Valley of the Sun, air conditioning systems typically last 10 to 12 years due to the relentless summer operating hours. If your unit requires frequent refrigerant recharges, struggles to keep up, or uses phased-out R-22, replacement with a high-efficiency system is strongly recommended.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Are rebates available for new HVAC installations in Phoenix?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes. Major Arizona electric utilities including APS and SRP offer equipment rebates for energy-efficient heat pumps and cooling systems, and federal Inflation Reduction Act tax credits provide additional savings on qualifying installations.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How can I find a trusted HVAC professional in Phoenix?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Enter your service requirements and Phoenix area ZIP code on Easy Home Service to get matched with licensed Arizona contractors ready to diagnose, repair, or replace your HVAC system.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ehs-hvac-faq-action">
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Phoenix</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>

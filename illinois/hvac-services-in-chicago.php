@@ -424,6 +424,99 @@
         </div>
     </section>
     <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
+    <section class="ehs-hvac-faq-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <div class="ehs-hvac-faq-container text-center">
+
+                        <h2 class="ehs-hvac-section-title">
+                            Frequently Asked Question
+                        </h2>
+                        <div class="ehs-hvac-faq-list text-start">
+                            <!-- FAQ 1 (Active by default) -->
+                            <div class="ehs-hvac-faq-item active">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
+                                    <span class="ehs-hvac-faq-question">What heating and cooling services are available in Chicago?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Chicago homeowners can access furnace repair and replacement, boiler services, central AC repair and installation, heat pump maintenance, ductless mini-split installation, radiator repair, and indoor air quality solutions.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How do harsh Chicago winters impact residential heating systems?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Sub-zero temperatures and strong lake-effect winds put heavy strain on furnaces and boilers. Routine fall maintenance prevents cracked heat exchangers, frozen condensate pipes, and unexpected heating failures during freezing winter storms.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">When should I replace my furnace or boiler in Chicago?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Furnaces over 15 years old or boilers over 20 years old often suffer from declining efficiency and frequent mechanical breakdowns. Upgrading to a high-efficiency (96%+ AFUE) heating system can save substantial money on monthly natural gas heating bills.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Why do older Chicago homes (bungalows and two-flats) have uneven temperatures?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Many historic Chicago brick homes have uninsulated attic spaces, older gravity ductwork, or converted living areas. An HVAC professional can recommend air sealing, ductwork balancing, or installing supplemental ductless mini-splits for hard-to-condition second floors.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Are there energy efficiency rebates available for Illinois homeowners?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes. ComEd and Peoples Gas / Nicor Gas provide generous energy efficiency rebates on qualifying heat pumps, smart thermostats, and high-efficiency furnaces and AC units, in addition to federal tax credits.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How do I connect with local licensed HVAC technicians in Chicago?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Tell us about your heating or cooling needs and provide your Chicago ZIP code on Easy Home Service to get matched with licensed local contractors ready to inspect your system and provide clear estimates.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ehs-hvac-faq-action">
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Chicago</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>

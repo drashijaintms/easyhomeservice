@@ -424,6 +424,99 @@
         </div>
     </section>
     <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
+    <section class="ehs-hvac-faq-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <div class="ehs-hvac-faq-container text-center">
+
+                        <h2 class="ehs-hvac-section-title">
+                            Frequently Asked Question
+                        </h2>
+                        <div class="ehs-hvac-faq-list text-start">
+                            <!-- FAQ 1 (Active by default) -->
+                            <div class="ehs-hvac-faq-item active">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
+                                    <span class="ehs-hvac-faq-question">What residential HVAC services are available in Houston?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Houston homeowners can access emergency AC repair, complete AC installation and replacement, heat pump services, furnace maintenance, whole-home dehumidification, duct cleaning and repair, and smart thermostat installation.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Why is humidity control so important for Houston HVAC systems?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Houston’s subtropical climate has high humidity levels year-round. An oversized or improperly cycling AC system cools the air without removing enough moisture, leading to a clammy indoor feel and mold risk. Whole-house dehumidifiers and variable-speed systems solve this effectively.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">When should I schedule AC maintenance in Houston?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        It is best to schedule AC maintenance in early spring before intense Gulf Coast summer heat arrives. Annual tune-ups help clear condensate drain lines, check refrigerant levels, and ensure electrical components operate reliably.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Should I repair or replace my Houston air conditioning unit?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Because Houston cooling systems run heavily for up to 9 months a year, units over 10 to 12 years old often lose significant efficiency. If repairs are frequent or costly, replacing with a higher SEER2 energy-efficient unit will drastically reduce electric bills.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Do Houston homes need furnace and heating service?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes. Winter cold fronts and sudden freezes can drop temperatures below freezing in Houston. Having your heating system or heat pump inspected in late fall ensures your home stays warm and safe during sudden cold snaps.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How can I find trusted, licensed HVAC contractors in Houston?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        You can submit your service request and Houston ZIP code on Easy Home Service to be matched with vetted, licensed local HVAC specialists ready to assist with written quotes and reliable service.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ehs-hvac-faq-action">
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Houston</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>

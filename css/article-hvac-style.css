@@ -1122,6 +1122,8 @@ footer .ehs-internal-link:focus strong,
     background-size: 100% auto;
     padding: 50px 0;
     overflow: hidden;
+    clear: both;
+    width: 100%;
 }
 
 .ehs-hvac-faq-container {
@@ -1182,6 +1184,10 @@ footer .ehs-internal-link:focus strong,
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.ehs-hvac-faq-item.active .ehs-hvac-faq-body {
+    max-height: 1000px;
 }
 
 .ehs-hvac-faq-content {

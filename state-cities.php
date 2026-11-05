@@ -7,6 +7,9 @@
             background-color: #ffffff;
             font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             text-align: center;
+            clear: both;
+            float: left;
+            width: 100%;
         }
 
         .ehs-states-title {
@@ -106,6 +109,9 @@
             background-color: #edf5fc;
             font-family: 'Inter', 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             text-align: center;
+            clear: both;
+            float: left;
+            width: 100%;
         }
 
         .ehs-cities-title {
@@ -572,6 +578,7 @@
         </div>
     </section>
     <!-- SECTION 13: CITIES WE SERVE END -->
+    <div class="clearall" style="clear:both;line-height:1px;height:1px;"></div>
 
     <script>
     (function () {

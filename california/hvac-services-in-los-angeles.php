@@ -468,6 +468,123 @@
         </div>
     </section>
     <?php include '../state-cities.php';?>
+
+    <!-- 10. FAQ ACCORDION SECTION -->
+    <section class="ehs-hvac-faq-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <div class="ehs-hvac-faq-container text-center">
+
+                        <h2 class="ehs-hvac-section-title">
+                            Frequently Asked Question
+                        </h2>
+                        <div class="ehs-hvac-faq-list text-start">
+                            <!-- FAQ 1 (Active by default) -->
+                            <div class="ehs-hvac-faq-item active">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
+                                    <span class="ehs-hvac-faq-question">What residential HVAC services are available in Los Angeles?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Residential HVAC services in Los Angeles include AC repair, new air conditioning installation, heating repair, heat pump maintenance, ductwork repair and replacement, ductless mini-split installation, thermostat upgrades, and indoor air quality solutions.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">When should I schedule AC repair in Los Angeles?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        You should schedule service if your air conditioner is blowing warm air, making grinding or clicking noises, producing unusual odors, cycling frequently, or failing to reach the temperature set on your thermostat.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How does Los Angeles climate affect HVAC system performance?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Los Angeles experiences hot, dry summers and mild winters, with inland areas like the San Fernando Valley reaching high temperatures. This puts significant demand on cooling systems, making regular filter changes and annual seasonal tune-ups essential for peak efficiency.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Should I repair or replace my existing HVAC system?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        If your HVAC system is more than 10 to 15 years old, breaks down frequently, uses phased-out R-22 refrigerant, or if repair costs approach 50% of the replacement value, upgrading to a modern energy-efficient heat pump or AC system is usually more cost-effective.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How often should I have my heating and cooling system serviced?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        It is best to service your cooling system in the spring before summer heat sets in and have your heating system inspected in the autumn. Regular maintenance helps prevent sudden breakdowns, extends system lifespan, and lowers utility bills.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Can an HVAC professional fix uneven temperatures across different rooms?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes. Uneven room temperatures are often caused by leaking or poorly sized ductwork, inadequate insulation, or improper airflow balancing. An HVAC technician can inspect your ductwork and suggest zoning, duct sealing, or airflow adjustments.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 7 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Are there energy efficiency rebates available for Los Angeles homeowners?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes, many local utilities such as LADWP and SoCalGas, along with California TECH Clean California and federal tax credits, offer rebates for installing high-efficiency heat pumps and energy-saving HVAC systems.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 8 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How do I connect with a qualified HVAC contractor in Los Angeles?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Simply enter your project details and Los Angeles ZIP code on Easy Home Service to be matched with vetted, licensed local HVAC professionals ready to provide written estimates.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ehs-hvac-faq-action">
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Los Angeles</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
