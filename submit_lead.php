@@ -11,7 +11,7 @@ mysqli_report(MYSQLI_REPORT_OFF);
 $conn = @new mysqli(
     "localhost",
     "qqoophoh_easyhomeservi_contactform",
-    "easyhomeservi_contactform",
+    "qqoophoh_easyhomeservi_contactform",
     "qqoophoh_easyhomeservi_contactform"
 );
 

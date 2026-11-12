@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "qqoophoh_easyhomeservi_contactform";
-$password = "easyhomeservi_contactform";
+$password = "qqoophoh_easyhomeservi_contactform";
 $dbname = "qqoophoh_easyhomeservi_contactform";
 
 // Create connection

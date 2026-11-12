@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db = 'qqoophoh_easyhomeservi_contactform';
 $user = 'qqoophoh_easyhomeservi_contactform';
-$pass = 'easyhomeservi_contactform';
+$pass = 'qqoophoh_easyhomeservi_contactform';
 
 mysqli_report(MYSQLI_REPORT_OFF);
 $conn = @new mysqli($host, $user, $pass, $db);

@@ -1803,7 +1803,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['newsemail'])) {
 
     $servername = "localhost";
     $username = "qqoophoh_easyhomeservi_contactform";
-    $password = "easyhomeservi_contactform";
+    $password = "qqoophoh_easyhomeservi_contactform";
     $dbname = "qqoophoh_easyhomeservi_contactform";
 
     mysqli_report(MYSQLI_REPORT_OFF);
