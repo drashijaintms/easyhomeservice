@@ -1,11 +1,12 @@
 <?php
 $servername = "localhost";
-$username = "easyhomeservi_contactform";
+$username = "qqoophoh_easyhomeservi_contactform";
 $password = "easyhomeservi_contactform";
-$dbname = "easyhomeservi_contactform";
+$dbname = "qqoophoh_easyhomeservi_contactform";
 
 // Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
+mysqli_report(MYSQLI_REPORT_OFF);
+$conn = @new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
 if ($conn->connect_error) {

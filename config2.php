@@ -3,11 +3,12 @@ header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 
 $servername = "localhost";
-$username   = "easyhomeservi_contactform";
+$username   = "qqoophoh_easyhomeservi_contactform";
 $password   = "easyhomeservi_contactform";
-$dbname     = "easyhomeservi_contactform";
+$dbname     = "qqoophoh_easyhomeservi_contactform";
 
-$conn = new mysqli($servername, $username, $password, $dbname);
+mysqli_report(MYSQLI_REPORT_OFF);
+$conn = @new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     http_response_code(500);
     echo json_encode(["error" => "DB connection failed"]);

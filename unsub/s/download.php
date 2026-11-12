@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$db   = 'easyhomeservi_contactform';
-$user = 'easyhomeservi_contactform';
+$db   = 'qqoophoh_easyhomeservi_contactform';
+$user = 'qqoophoh_easyhomeservi_contactform';
 $pass = 'easyhomeservi_contactform';
 $secret_key = '098f6bcd4621d373cade4e832627b4f6'; // must match export.php
 
@@ -15,7 +15,8 @@ if (!isset($_GET['key']) || $_GET['key'] !== $secret_key) {
 $category = isset($_GET['c']) ? trim($_GET['c']) : 'general';
 
 // Database connection
-$conn = new mysqli($host, $user, $pass, $db);
+mysqli_report(MYSQLI_REPORT_OFF);
+$conn = @new mysqli($host, $user, $pass, $db);
 if ($conn->connect_error) {
     http_response_code(500);
     exit('Database connection failed.');

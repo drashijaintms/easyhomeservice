@@ -5,10 +5,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
 
     // --- Database config ---
     $host = 'localhost';
-    $db   = 'easyhomeservi_contactform';
-    $user = 'easyhomeservi_contactform';
+    $db   = 'qqoophoh_easyhomeservi_contactform';
+    $user = 'qqoophoh_easyhomeservi_contactform';
     $pass = 'easyhomeservi_contactform';
 
+    mysqli_report(MYSQLI_REPORT_OFF);
     $conn = @new mysqli($host, $user, $pass, $db);
     if ($conn->connect_error) {
         http_response_code(500);

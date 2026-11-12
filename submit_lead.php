@@ -7,11 +7,12 @@ ini_set('display_errors', 1);
 $data = $_GET;
 
 // DB Connection
-$conn = new mysqli(
+mysqli_report(MYSQLI_REPORT_OFF);
+$conn = @new mysqli(
     "localhost",
+    "qqoophoh_easyhomeservi_contactform",
     "easyhomeservi_contactform",
-    "easyhomeservi_contactform",
-    "easyhomeservi_contactform"
+    "qqoophoh_easyhomeservi_contactform"
 );
 
 if ($conn->connect_error) {

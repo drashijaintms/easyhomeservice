@@ -1603,10 +1603,11 @@ $(document).ready(function () {
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['newsemail'])) {
     $servername = "localhost";
-    $username = "easyhomeservi_contactform";
+    $username = "qqoophoh_easyhomeservi_contactform";
     $password = "easyhomeservi_contactform";
-    $dbname = "easyhomeservi_contactform";
-    $conn = new mysqli($servername, $username, $password, $dbname);
+    $dbname = "qqoophoh_easyhomeservi_contactform";
+    mysqli_report(MYSQLI_REPORT_OFF);
+    $conn = @new mysqli($servername, $username, $password, $dbname);
     if ($conn->connect_error) {
         echo "db_error";
         exit;
