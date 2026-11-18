@@ -753,131 +753,360 @@ SCHEMA
     ],
 
     'schema' => <<<SCHEMA
-<script type="application/ld+json" class="rank-math-schema">
+<script type="application/ld+json">
+
+
 {
+
+
   "@context": "https://schema.org",
+
+
   "@graph": [
-    {
-      "@type": "Place",
-      "@id": "https://easyhomeservice.com#place",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1309 Coffeen Avenue Ste 1200",
-        "addressLocality": "Sheridan",
-        "addressRegion": "WY",
-        "postalCode": "82801",
-        "addressCountry": "USA"
-      }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://easyhomeservice.com#organization",
-      "name": "Easy Home Service",
-      "url": "https://easyhomeservice.com",
-      "email": "service@easyhomeservice.com",
-      "telephone": "+18338010863",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1309 Coffeen Avenue Ste 1200",
-        "addressLocality": "Sheridan",
-        "addressRegion": "WY",
-        "postalCode": "82801",
-        "addressCountry": "USA"
-      },
-      "logo": {
-        "@type": "ImageObject",
-        "@id": "https://easyhomeservice.com#logo",
-        "url": "https://easyhomeservice.com/images/easyhomeservice.svg",
-        "contentUrl": "https://easyhomeservice.com/images/easyhomeservice.svg",
-        "caption": "Easy Home Service",
-        "inLanguage": "en-US"
-      },
-      "contactPoint": [
-        {
-          "@type": "ContactPoint",
-          "telephone": "+18338010863",
-          "contactType": "customer support",
-          "areaServed": "US"
-        }
-      ],
-      "location": {
-        "@id": "https://easyhomeservice.com#place"
-      }
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://easyhomeservice.com#website",
-      "url": "https://easyhomeservice.com",
-      "name": "Easy Home Service",
-      "publisher": {
-        "@id": "https://easyhomeservice.com#organization"
-      },
-      "inLanguage": "en-US"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://easyhomeservice.com/images/inr-s1-img1-hvac.jpg",
-      "url": "https://easyhomeservice.com/images/inr-s1-img1-hvac.jpg",
-      "width": "1200",
-      "height": "628",
-      "caption": "HVAC Experts by Easy Home Service",
-      "inLanguage": "en-US"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://easyhomeservice.com/hvac#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "item": {
-            "@id": "https://easyhomeservice.com",
-            "name": "Home"
-          }
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "item": {
-            "@id": "https://easyhomeservice.com/hvac",
-            "name": "HVAC"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://easyhomeservice.com/hvac#webpage",
-      "url": "https://easyhomeservice.com/hvac",
-      "name": "Residential HVAC Services USA | 24 hour emergency HVAC Experts",
-      "datePublished": "2023-06-29T19:29:37+00:00",
-      "dateModified": "2025-08-21T12:00:00+00:00",
-      "isPartOf": {
-        "@id": "https://easyhomeservice.com#website"
-      },
-      "primaryImageOfPage": {
-        "@id": "https://easyhomeservice.com/images/hvac-side-mob.jpg"
-      },
-      "inLanguage": "en-US",
-      "breadcrumb": {
-        "@id": "https://easyhomeservice.com/hvac#breadcrumb"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://easyhomeservice.com/hvac#author",
-      "name": "Easy Home Service Editorial Team",
-      "image": {
-        "@type": "ImageObject",
-        "url": "https://easyhomeservice.com/images/easyhomeservice.svg",
-        "caption": "Easy Home Service Team",
-        "inLanguage": "en-US"
-      },
-      "worksFor": {
-        "@id": "https://easyhomeservice.com#organization"
-      }
-    }
+
+
+	{
+
+
+  	"@type": "Organization",
+
+
+  	"@id": "https://easyhomeservice.com/#organization",
+
+
+  	"name": "Easy Home Service",
+
+
+  	"url": "https://easyhomeservice.com/",
+
+
+  	"email": "service@easyhomeservice.com",
+
+
+  	"telephone": "+18333809800",
+
+
+  	"address": {
+
+
+    	"@type": "PostalAddress",
+
+
+    	"streetAddress": "1309 Coffeen Avenue Ste 1200",
+
+
+    	"addressLocality": "Sheridan",
+
+
+    	"addressRegion": "WY",
+
+
+    	"postalCode": "82801",
+
+
+    	"addressCountry": "US"
+
+
+  	},
+
+
+  	"logo": {
+
+
+    	"@type": "ImageObject",
+
+
+    	"@id": "https://easyhomeservice.com/#logo",
+
+
+    	"url": "https://easyhomeservice.com/images/easyhomeservice.svg",
+
+
+    	"contentUrl": "https://easyhomeservice.com/images/easyhomeservice.svg",
+
+
+    	"caption": "Easy Home Service"
+
+
+  	},
+
+
+  	"image": { "@id": "https://easyhomeservice.com/#logo" },
+
+
+  	"contactPoint": [
+
+
+    	{
+
+
+      	"@type": "ContactPoint",
+
+
+      	"telephone": "+18333809800",
+
+
+      	"contactType": "customer support",
+
+
+      	"email": "service@easyhomeservice.com",
+
+
+      	"areaServed": "US",
+
+
+      	"availableLanguage": "en"
+
+
+    	}
+
+
+  	],
+
+
+  	"sameAs": [
+
+
+    	"https://www.facebook.com/profile.php?id=61565981943953",
+
+
+    	"https://www.linkedin.com/company/easy-home-service-llc",
+
+
+    	"https://www.instagram.com/easy_home__service/",
+
+
+    	"https://x.com/Easy_Home_",
+
+
+    	"https://www.youtube.com/@EasyHomeService-US",
+
+
+    	"https://www.pinterest.com/easyhomeservicee/"
+
+
+  	]
+
+
+	},
+
+
+	{
+
+
+  	"@type": "WebSite",
+
+
+  	"@id": "https://easyhomeservice.com/#website",
+
+
+  	"url": "https://easyhomeservice.com/",
+
+
+  	"name": "Easy Home Service",
+
+
+  	"publisher": { "@id": "https://easyhomeservice.com/#organization" },
+
+
+  	"inLanguage": "en-US"
+
+
+	},
+
+
+	{
+
+
+  	"@type": "WebPage",
+
+
+  	"@id": "https://easyhomeservice.com/hvac#webpage",
+
+
+  	"url": "https://easyhomeservice.com/hvac",
+
+
+  	"name": "Residential HVAC Services USA | 24 hour emergency HVAC Experts",
+
+
+  	"description": "Get 24-hour emergency HVAC services in the USA for fast repairs, maintenance & installations. Connect with local HVAC professionals.",
+
+
+  	"datePublished": "2023-06-29T19:29:37+00:00",
+
+
+  	"dateModified": "2026-11-18T12:00:00+00:00",
+
+
+  	"inLanguage": "en-US",
+
+
+  	"isPartOf": { "@id": "https://easyhomeservice.com/#website" },
+
+
+  	"about": { "@id": "https://easyhomeservice.com/hvac#service" },
+
+
+  	"primaryImageOfPage": { "@id": "https://easyhomeservice.com/hvac#primaryimage" },
+
+
+  	"breadcrumb": { "@id": "https://easyhomeservice.com/hvac#breadcrumb" }
+
+
+	},
+
+
+	{
+
+
+  	"@type": "ImageObject",
+
+
+  	"@id": "https://easyhomeservice.com/hvac#primaryimage",
+
+
+  	"url": "https://easyhomeservice.com/images/inr-s1-img1-hvac.jpg",
+
+
+  	"contentUrl": "https://easyhomeservice.com/images/inr-s1-img1-hvac.jpg",
+
+
+  	"width": 1200,
+
+
+  	"height": 628,
+
+
+  	"caption": "Residential HVAC services matched through Easy Home Service"
+
+
+	},
+
+
+	{
+
+
+  	"@type": "BreadcrumbList",
+
+
+  	"@id": "https://easyhomeservice.com/hvac#breadcrumb",
+
+
+  	"itemListElement": [
+
+
+    	{
+
+
+      	"@type": "ListItem",
+
+
+      	"position": 1,
+
+
+      	"name": "Home",
+
+
+      	"item": "https://easyhomeservice.com/"
+
+
+    	},
+
+
+    	{
+
+
+      	"@type": "ListItem",
+
+
+      	"position": 2,
+
+
+      	"name": "HVAC",
+
+
+      	"item": "https://easyhomeservice.com/hvac"
+
+
+    	}
+
+
+  	]
+
+
+	},
+
+
+	{
+
+
+  	"@type": "Service",
+
+
+  	"@id": "https://easyhomeservice.com/hvac#service",
+
+
+  	"name": "Residential HVAC Services Matching",
+
+
+  	"serviceType": "HVAC repair, installation and maintenance referral",
+
+
+  	"description": "Easy Home Service connects homeowners with independent HVAC professionals for AC, heating, ventilation, heat pump, furnace, boiler, duct and indoor air quality services.",
+
+
+  	"url": "https://easyhomeservice.com/hvac",
+
+
+  	"provider": { "@id": "https://easyhomeservice.com/#organization" },
+
+
+  	"areaServed": { "@type": "Country", "name": "United States" },
+
+
+  	"hasOfferCatalog": {
+
+
+    	"@type": "OfferCatalog",
+
+
+    	"name": "HVAC Services",
+
+
+    	"itemListElement": [
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Heat Pump Services" } },
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Furnace Installation & Repair" } },
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Air Duct Cleaning & Repair" } },
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AC Installation & Repair" } },
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Boiler Installation & Repair" } },
+
+
+      	{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Indoor Air Quality Services" } }
+
+
+    	]
+
+
+  	}
+
+
+	}
+
+
   ]
+
+
 }
 </script>
 SCHEMA

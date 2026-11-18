@@ -58,25 +58,222 @@ return [
 
 'hvac-services-in-new-york-city' => [
     'meta' => [
-        'title'       => 'HVAC services in New York City, NY | Easy Home Services',
-        'description' => 'HVAC services New York City residents rely on. For AC repair, heating, installation, replacement, maintenance, and more, get in touch with local professionals.',
+        'title'       => 'HVAC Services in New York City, NY | Heating & AC Repair',
+        'description' => 'Looking for HVAC services in NYC? Connect with local professionals for AC repair, heating, boiler services, installation, and maintenance.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in New York City, NY'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city#webpage",
+      "url": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city",
+      "name": "HVAC Services in New York City, NY | Heating & AC Repair",
+      "description": "Looking for HVAC services in NYC? Connect with local professionals for AC repair, heating, boiler services, installation, and maintenance.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city#breadcrumb"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "caption": "HVAC technician providing HVAC services in Brooklyn NY"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city#service",
+      "name": "HVAC Services in New York City, NY",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "Boiler Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential HVAC services in New York City, including air conditioning repair, heating repair, boiler services, system installation, replacement, maintenance, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "New York City",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "New York"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in New York City, NY",
+          "item": "https://easyhomeservice.com/new-york/hvac-services-in-new-york-city"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-los-angeles' => [
     'meta' => [
         'title'       => 'HVAC Services in Los Angeles, CA | AC & Heating Repair',
-        'description' => 'Do you require HVAC services in Los Angeles, California? For AC repair, heating, installation, maintenance, ductwork, and more, get in touch with local experts.',
+        'description' => 'Find reputable HVAC services in Los Angeles for heating and air conditioning repairs, installation, and maintenance. get in touch with local experts.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Los Angeles, CA'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-los-angeles#webpage",
+      "url": "https://easyhomeservice.com/california/hvac-services-in-los-angeles",
+      "name": "HVAC Services in Los Angeles, CA | AC & Heating Repair",
+      "description": "Find reputable HVAC services in Los Angeles for heating and air conditioning repairs, installation, and maintenance. Get in touch with local experts.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-los-angeles#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-los-angeles#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-los-angeles#service",
+      "name": "HVAC Services in Los Angeles, California",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential heating, air conditioning, HVAC repair, installation, replacement, maintenance, and indoor air quality service options in Los Angeles, California. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Los Angeles",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "California"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-los-angeles#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Los Angeles, CA",
+          "item": "https://easyhomeservice.com/california/hvac-services-in-los-angeles"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
