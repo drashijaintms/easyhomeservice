@@ -279,32 +279,229 @@ SCHEMA
 
 'hvac-services-in-chicago' => [
     'meta' => [
-        'title'       => 'HVAC Services in Chicago, IL | AC & Heating Repair',
-        'description' => 'Get in touch with professionals for HVAC Services in Chicago, including ductwork, heating, furnace maintenance, installation, replacement, and AC repair.',
+        'title'       => 'Top HVAC Services in Chicago for Year-Round Comfort',
+        'description' => 'Top-notch HVAC services in Chicago to keep your home comfortable year-round. Trust our experts for efficient repairs and installations. get in touch!',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Chicago, IL'
     ],
     'schema' => <<<SCHEMA
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/illinois/hvac-services-in-chicago#webpage",
+      "url": "https://easyhomeservice.com/illinois/hvac-services-in-chicago",
+      "name": "Top HVAC Services in Chicago for Year-Round Comfort",
+      "description": "Top-notch HVAC services in Chicago to keep your home comfortable year-round. Trust our experts for efficient repairs and installations. Get in touch!",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/illinois/hvac-services-in-chicago#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/illinois/hvac-services-in-chicago#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/illinois/hvac-services-in-chicago#service",
+      "name": "HVAC Services in Chicago, IL",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential HVAC services in Chicago, including air conditioning repair, heating repair, system installation, replacement, maintenance, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Chicago",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Illinois"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/illinois/hvac-services-in-chicago#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Chicago, IL",
+          "item": "https://easyhomeservice.com/illinois/hvac-services-in-chicago"
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 SCHEMA
 ],
 
 'hvac-services-in-houston' => [
     'meta' => [
-        'title'       => 'HVAC Services in Houston, TX | AC & Heating Services',
-        'description' => ' Looking for HVAC services in Houston, Texas? For heating, air conditioning, repairs, installation, replacement, and maintenance, locate home HVAC experts.',
+        'title'       => 'HVAC Services in Houston, TX | Reliable Home Comfort',
+        'description' => 'Stay cool with expert HVAC Services in Houston, TX, including maintenance, emergency repairs, and advanced systems built for Texas heat and humidity.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Houston, TX'
     ],
     'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-houston#webpage",
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-houston",
+      "name": "HVAC Services in Houston, TX | Reliable Home Comfort",
+      "description": "Stay cool with expert HVAC Services in Houston, TX, including maintenance, emergency repairs, and advanced systems built for Texas heat and humidity.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-houston#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-houston#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-houston#service",
+      "name": "HVAC Services in Houston, TX",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Emergency HVAC Services"
+      ],
+      "description": "Explore residential HVAC services in Houston, TX, and connect with local professionals for air conditioning and heating repairs, system installation, replacement, and maintenance.",
+      "broker": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Houston",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Texas"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-houston#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Houston, TX",
+          "item": "https://easyhomeservice.com/texas/hvac-services-in-houston"
+        }
+      ]
+    }
+  ]
+}
+
+</script>
 
 SCHEMA
 ],
 
 'hvac-services-in-phoenix' => [
     'meta' => [
-        'title'       => 'HVAC Services in Phoenix, AZ | Easy Home Services',
-        'description' => 'Do you need HVAC services in Phoenix, Arizona? For AC repair, heating, installation, replacement, maintenance, and ductwork, get in touch with local professionals.',
+        'title'       => 'HVAC Services in Phoenix, AZ | Repair & Replacement',
+        'description' => 'Expert HVAC services in Phoenix, AZ, to keep your home comfortable year-round. Trust our skilled team for fast, reliable installations and repairs!',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Phoenix, AZ'
     ],
@@ -315,8 +512,8 @@ SCHEMA
 
 'hvac-services-in-philadelphia' => [
     'meta' => [
-        'title'       => 'HVAC Services in Philadelphia, PA | AC & Heating Repair',
-        'description' => 'Get reliable HVAC services in Philadelphia for your home, including ductwork, HVAC installation and replacement, furnace and boiler maintenance, and AC repair.',
+        'title'       => 'HVAC Services in Philadelphia, PA | Heating & AC',
+        'description' => 'Get reliable HVAC Services in Philadelphia, PA, including expert repairs, professional installations, and preventative maintenance for homes and businesses.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Philadelphia, PA'
     ],

@@ -10,7 +10,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in Houston
+                            Expert HVAC Services in Houston, TX for Homeowners
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
                             Tell us what your home needs, and Easy Home Service helps Houston homeowners connect with HVAC professionals for cooling, heating, repairs, and installation.
@@ -31,14 +31,14 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Services in Houston
+                           Houston HVAC Help for Hot, Humid Days and Cooler Nights
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            In Houston, air conditioning is rarely a luxury. Long, humid stretches put heavy demand on cooling equipment, and a system that struggles can affect comfort, airflow, and how the whole house feels. HVAC Services in Houston can help homeowners address these concerns with professional support for repairs, new system installation, routine maintenance, and ductwork. Easy Home Service makes that search simpler by helping homeowners find and connect with HVAC professionals who match the work they need done.</p>
+                            In Houston, a working air conditioner is a daily necessity. Long, humid summers push cooling equipment hard, and a struggling system can mean weak airflow, uneven rooms, and rising energy bills. HVAC services in Houston cover repairs, new system installation, routine maintenance, and ductwork, and Easy Home Service helps homeowners find and connect with <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC professionals</a> who match the work they need done.</p>
                         <p class="ehs-hvac-intro-description">
-                            Every Houston home is different. Older houses may have aging equipment and original duct runs, while newer construction can bring different layout, insulation, and airflow considerations. Layout, window exposure, and ductwork can all affect how evenly a home cools down. The right professional for one household may not suit another, which is why choosing suitable HVAC services in Houston for your specific home is important.</p>
+                            No two homes cool the same way. Square footage, window exposure, insulation, attic setup, and ductwork all affect how evenly a house stays comfortable. The right contractor for one household may not suit another, so choosing a professional who understands your specific home matters.</p>
                         <p class="ehs-hvac-intro-description">
-                            Start by describing your situation: the symptoms you notice, the equipment you have, and what you hope to fix or improve. Easy Home Service uses that information to help you reach residential HVAC contractors suited to your request. You stay in control, compare your options, and decide who to hire for your HVAC Services in Houston needs.</p>
+                            Start by describing what you’re noticing, the equipment you have, and what you want to fix or improve. Easy Home Service uses those details to help you reach residential HVAC contractors suited to your request. You compare your options and decide who to hire.</p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
                         </div>
@@ -55,7 +55,8 @@
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">Service Value</h2>
+                            <h2 class="ehs-hvac-section-title">HVAC Installation, Ductwork & Maintenance</h2>
+                            <p>From installing a new HVAC system to repairing ductwork or scheduling routine maintenance, connect with professionals who can help keep your Houston home comfortable and your system running efficiently.</p>
                         </div>
                     </div>
                 </div>
@@ -89,8 +90,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Installation & Ductwork</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Whether you need a new HVAC system, ductwork service, or changes to your existing setup, describe your project and connect with a suitable professional. Repair, installation, ductwork, and maintenance call for different expertise. Your request helps point you toward contractors suited to the job.
-
+                                Whether you need a new HVAC system, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork service</a>, or changes to your existing setup, describe your project and connect with a suitable professional.
                             </p>
                         </div>
                     </div>
@@ -112,17 +112,41 @@
                             Signs Your Home May Need HVAC Service
                         </h2>
 
-                        <p class="ehs-hvac-signs-intro">
-                            Houston summers reward a cooling system that keeps pace, so changes in performance are worth noticing. Watch for rooms that stay warmer or stickier than others, airflow from vents that feels weak or uneven, or an air conditioner that runs constantly without settling the house into a comfortable range. Unexpected shutdowns, short cycling, and water pooling near indoor equipment or drain lines deserve attention.
-                        </p>
-                        <p class="ehs-hvac-signs-intro">
-                            Sounds and smells matter. Grinding, rattling, or buzzing, along with musty or burning odors, can point to problems a technician should inspect. Heating deserves the same awareness when temperatures dip; a heater that fails to start or blows weak air is best checked before the next cold snap.
+                        <h3 class="ehs-hvac-challenges-subtitle">Comfort and airflow</h3>
+                        <ul class="ehs-hvac-signs-list">
 
-                        </p>
-                        <p class="ehs-hvac-signs-intro">
-                            Aging equipment and rising discomfort often go together, but not every symptom means replacement. Many issues are resolved with a targeted repair, which is why an accurate diagnosis comes first.
+                            <li class="ehs-hvac-signs-item">Rooms that stay warmer or stickier than the rest of the house</li>
 
-                        </p>
+                            <li class="ehs-hvac-signs-item">Weak airflow from vents may be associated with clogged filters, ductwork restrictions, or a faulty <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-blower-motor-repair">blower motor</a></li>
+
+                            <li class="ehs-hvac-signs-item">An air conditioner that runs constantly without reaching a comfortable temperature</li>
+                        </ul>
+
+                        <h3 class="ehs-hvac-challenges-subtitle">Operation and moisture</h3>
+                        <ul class="ehs-hvac-signs-list">
+
+                            <li class="ehs-hvac-signs-item">Unexpected shutdowns or short cycling (turning on and off too often)</li>
+
+                            <li class="ehs-hvac-signs-item">Water pooling near indoor equipment or drain lines</li>
+                        </ul>
+
+                        <h3 class="ehs-hvac-challenges-subtitle">Sounds and smells</h3>
+                        <ul class="ehs-hvac-signs-list">
+                            <li class="ehs-hvac-signs-item">Grinding, rattling, or buzzing from the system</li>
+                            <li class="ehs-hvac-signs-item">Musty or burning odors coming from vents or equipment</li>
+                        </ul>
+                        <h3 class="ehs-hvac-challenges-subtitle">Heating concerns</h3>
+                        <ul class="ehs-hvac-signs-list">
+
+                            <li class="ehs-hvac-signs-item">A furnace that fails to start or produces insufficient heat may have underlying <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">furnace problems</a></li>
+                        </ul>
+                        <h3 class="ehs-hvac-challenges-subtitle">Repair or replacement?</h3>
+                        <ul class="ehs-hvac-signs-list">
+
+                            <li class="ehs-hvac-signs-item">Aging equipment and rising discomfort often go together, but not every symptom means replacement</li>
+
+                            <li class="ehs-hvac-signs-item">Many issues can be fixed with a targeted repair, so an accurate diagnosis should come first</li>
+                        </ul>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
@@ -139,7 +163,7 @@
                     <div class="ehs-hvac-challenges-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            Repair, Replacement, and Installation: Making the Right Call
+                            Repair vs. Replacement: How to Decide for Your Houston Home
                         </h2>
 
                         <p class="ehs-hvac-challenges-intro">
@@ -147,15 +171,15 @@
                         </p>
 
                         <p class="ehs-hvac-challenges-intro">
-                            In Houston, cooling demand and humidity make that evaluation especially important. Home size, insulation, window exposure, and the condition of the ductwork all influence how hard a system has to work. Equipment that was appropriate when it was installed may no longer match the house after renovations, additions, or changes in how rooms are used.
+                            In Houston, high cooling demand and humidity make this evaluation particularly important. Factors such as home size, insulation, window exposure, and ductwork condition can affect how efficiently an HVAC system operates. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/homeinspection">Renovations</a>, home additions, or changes in room usage may also create new heating and cooling requirements. 
                         </p>
 
                         <p class="ehs-hvac-challenges-intro">
-                            If replacement does make sense, installation should be treated as a project, not a swap. A thoughtful contractor considers the existing infrastructure, including duct layout, drain routing, and equipment placement, and explains how the new system is sized and configured for your home. Ask what was measured, what was assumed, and what work is included.
+                            If <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">HVAC replacement</a> does make sense, installation should be treated as a project, not a swap. A thoughtful contractor considers the existing infrastructure, including duct layout, drain routing, and equipment placement, and explains the system sizing and configuration for your home. Ask what was measured, what was assumed, and what work is included.
                         </p>
 
                         <p class="ehs-hvac-challenges-intro">
-                            Neither path is automatically better, and the right answer depends on your home. A repair can be the sensible choice when the system is otherwise sound, while replacement may deserve consideration when problems keep returning. Easy Home Service helps you reach professionals who can assess your situation and explain your options clearly.
+                            Neither path is automatically better, and the right answer depends on your home. A targeted HVAC repair can be the sensible choice when the system is otherwise sound, while replacement may deserve consideration when problems keep returning. Easy Home Service helps you reach professionals who can assess your situation and explain your options clearly.
                         </p>
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">

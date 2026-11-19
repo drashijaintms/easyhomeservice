@@ -35,7 +35,7 @@
 <div class="roofing_section_2">
   <div class="container">
     <h2 class="common_heading">Specialized HVAC Repair Services</h2>
-    <p class="common_text">A heating or cooling failure seldom occurs at a convenient time. Whether an <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">air conditioner</a></strong>fails during a summer heatwave or a furnace stops working on a cold night, having access to 24 hour heating and cooling support can help homeowners discover the right professionals to restore home comfort.</p>
+    <p class="common_text">A heating or cooling failure seldom occurs at a convenient time. Whether an <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">air conditioner</a></strong> fails during a summer heatwave or a furnace stops working on a cold night, having access to 24 hour heating and cooling support can help homeowners discover the right professionals to restore home comfort.</p>
     <div class="row">
       <div class="col-lg-12">
         <!-- Rounded Tab Buttons -->
