@@ -10,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in San Antonio
+                            Professional HVAC Services in San Antonio, TX
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Find dependable HVAC Services in San Antonio for heating, cooling, repairs, installation, maintenance, and replacement tailored to your home’s comfort needs year-round.
+                            Find dependable HVAC services in San Antonio for AC repair, heating, installation, maintenance, and replacement. Easy Home Service connects you with local professionals who keep homes comfortable through long, hot summers and cooler winter mornings.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -31,12 +31,15 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Services for San Antonio Homeowners
+                            Residential HVAC Help for San Antonio Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            San Antonio homeowners rely on dependable heating and cooling throughout changing seasons, from intense summer heat to cooler winter mornings. HVAC Services in San Antonio can help address comfort problems before they become larger system concerns. Homeowners may need air conditioning repair, furnace service, heat pump support, ductwork solutions, thermostat work, or complete HVAC replacement depending on the equipment and symptoms involved.</p>
+                            San Antonio homeowners rely on dependable heating and cooling throughout changing seasons, from intense summer heat to cooler winter mornings. HVAC Services in San Antonio can help address comfort problems before they become larger system concerns. Homeowners may need <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/local-air-conditioning-repair">air conditioning repair</a>, furnace service, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump</a> support, ductwork solutions, thermostat work, or complete HVAC replacement depending on the equipment and symptoms involved.</p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service helps homeowners find and connect with HVAC professionals who can discuss the right service for their residential property. Whether an AC is struggling to cool, airflow feels weak, rooms stay uneven, or a heating system is not performing as expected, a professional can assess the equipment and explain available options. Regular HVAC maintenance can also help homeowners identify worn components, airflow restrictions, dirty filters, or other issues that may affect everyday comfort. For older systems, professional evaluation can help clarify whether repair, continued maintenance, or replacement makes sense. Describe your needs and connect with an HVAC professional for residential service in San Antonio. Start with clear symptoms and equipment details.
+                            Easy Home Service helps homeowners find and connect with HVAC professionals who can discuss the right service for their residential property. Whether an AC is struggling to cool, airflow feels weak, rooms stay uneven, or a heating system is not performing as expected, a professional can assess the equipment and explain available options.
+                        </p>
+                        <p class="ehs-hvac-intro-description">
+                            Regular HVAC maintenance can also help homeowners identify worn components, airflow restrictions, dirty filters, or other issues that may affect everyday comfort. For older systems, professional evaluation can help clarify whether repair, continued maintenance, or replacement makes sense. Describe your needs and connect with an HVAC professional for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">residential service in Texas</a>. Start with clear symptoms and equipment details.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -54,7 +57,8 @@
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">HVAC Services Homeowners May Need</h2>
+                            <h2 class="ehs-hvac-section-title">Heating, Cooling, and HVAC Solutions for San Antonio Homes</h2>
+                            <p>Keep your San Antonio home comfortable all year with cooling, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">heating</a>, and HVAC services built for intense summer heat and occasional winter chill.
                         </div>
                     </div>
                 </div>
@@ -66,7 +70,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">AC Repair & Cooling Support</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Get help addressing warm air, weak airflow, unusual noises, water concerns, short cycling, or other air conditioning problems affecting comfort during San Antonio’s hot weather.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">Warm air</a>, weak airflow, strange noises, water leaks, or short cycling? Get connected with local pros who can diagnose the problem and restore cooling during San Antonio’s hottest months.
                             </p>
                         </div>
                     </div>
@@ -77,7 +81,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Heating Repair & System Service</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Connect with professionals who can inspect furnaces, heat pumps, thermostats, and other residential heating equipment when your home needs reliable warmth during cooler periods.
+                                Find professionals who can inspect furnaces, heat pumps, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/thermostat-replacement-cost-repair-vs-replace">thermostats</a>, and other heating equipment so your home stays warm when temperatures drop.
                             </p>
                         </div>
                     </div>
@@ -88,7 +92,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Installation & Replacement</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                When equipment is aging, repeatedly needs repairs, or no longer suits the home, discuss replacement and installation options based on system condition, home requirements, and budget.
+                                If your equipment is aging, needs repeated repairs, or no longer suits your home, connect with professionals who can discuss replacement and installation options based on system condition, home requirements, and budget.
                             </p>
                         </div>
                     </div>
@@ -107,7 +111,7 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                            Signs Your San Antonio HVAC System May Need Attention
+                           When Warm Air, Weak Airflow, or Rising Bills Point to HVAC Problems
                         </h2>
 
                         <p class="ehs-hvac-signs-intro">
@@ -116,21 +120,19 @@
                         </p>
                         <ul class="ehs-hvac-signs-list">
 
-                            <li class="ehs-hvac-signs-item">An air conditioner blows warm or inconsistent air despite a normal thermostat setting.</li>
+                           <li class="ehs-hvac-signs-item"><strong>Warm or inconsistent air:</strong> An AC that blows warm air despite a normal thermostat setting may need professional attention.</li>
+<li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Rooms that stay hotter or colder than others may point to airflow or ductwork problems.</li>
+<li class="ehs-hvac-signs-item"><strong>Frequent cycling:</strong> A system that turns on and off often, or runs far longer than usual, can signal an issue.</li>
+<li class="ehs-hvac-signs-item"><strong>Weak airflow:</strong> Reduced airflow from vents may result from clogged filters, duct restrictions, or <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-blower-motor-repair">blower-related issues</a>.</li>
+<li class="ehs-hvac-signs-item"><strong>Unusual sounds or odors:</strong> New noises or persistent smells from HVAC equipment shouldn’t be ignored.</li>
+<li class="ehs-hvac-signs-item"><strong>Moisture or water leaks:</strong> Water around your indoor or outdoor unit can indicate a drainage or refrigerant-related problem.</li>
+<li class="ehs-hvac-signs-item"><strong>Rising energy bills:</strong> A sudden jump in cooling costs without a change in usage can mean your system is losing efficiency.</li>
+<li class="ehs-hvac-signs-item"><strong>Older equipment:</strong> Aging systems raise the question of whether continued repairs or replacement makes more sense.</li>
 
-                            <li class="ehs-hvac-signs-item">Some rooms feel hotter or colder than others, suggesting airflow or distribution concerns.</li>
-
-                            <li class="ehs-hvac-signs-item">The HVAC system cycles on and off frequently or runs noticeably longer than usual.</li>
-
-                            <li class="ehs-hvac-signs-item">Airflow from supply vents feels weak, restricted, or different between rooms.</li>
-
-                            <li class="ehs-hvac-signs-item">Unusual sounds, odors, moisture, or visible water around HVAC equipment appear.</li>
-
-                            <li class="ehs-hvac-signs-item">Heating or cooling performance declines after years of use, making repair or replacement worth discussing.</li>
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
-                            These signs do not always point to the same repair, so an inspection can help identify whether the issue involves equipment, controls, airflow, drainage, or another part of the home’s HVAC system. Overall.
+                            These signs don’t always point to the same repair, so an inspection can help identify whether the issue involves equipment, controls, airflow, drainage, or the home’s ductwork.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
@@ -159,13 +161,13 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating When Temperatures Drop</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Although cooling is a major concern for San Antonio homes, heating still matters during colder periods. Furnace, heat pump, thermostat, and other heating problems can affect comfort quickly, particularly when equipment has not been serviced regularly. Heating equipment should receive the same practical attention, especially when unfamiliar sounds, inconsistent warmth, or repeated cycling appear during colder weather.
+                                Although cooling is a major concern for San Antonio homes, heating still matters during colder periods. Furnace, heat pump, thermostat, and other <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/common-hvac-problems-in-winter">heating problems</a> can affect comfort quickly, particularly when equipment has not been serviced regularly. Heating equipment should receive the same practical attention, especially when unfamiliar sounds, inconsistent warmth, or repeated cycling appear during colder weather.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Airflow and Indoor Comfort</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Uneven temperatures may involve more than the HVAC unit itself. Ductwork condition, blocked vents, filtration, equipment sizing, and thermostat placement can influence how conditioned air moves through a home.
+                                Uneven temperatures may involve more than the HVAC unit itself. Ductwork condition, blocked vents, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-air-filtration-system-cost">filtration</a>, equipment sizing, and thermostat placement can influence how conditioned air moves through a home.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -307,7 +309,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-12 col-lg-12">
                             <div class="ehs-hvac-grid-header">
-                                <h2 class="ehs-hvac-section-title">Residential HVAC Service Options</h2>
+                                <h2 class="ehs-hvac-section-title">More Residential HVAC Services</h2>
                             </div>
                         </div>
                     </div>
@@ -329,7 +331,7 @@
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heat Pump Service</h3>
-                                <p class="ehs-hvac-grid-card-text">Keep year-round comfort equipment running efficiently with inspection, repair, and installation support.</p>
+                                <p class="ehs-hvac-grid-card-text">Keep year-round comfort equipment running efficiently with <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-inspection-service-for-homeowners">inspection</a>, repair, and installation support.</p>
                             </div>
                         </div>
                         <!-- 3. Ductwork Services -->
@@ -339,7 +341,7 @@
                                     <i class="fa-solid fa-filter"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ductwork Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Duct installation, repair, sealing, and cleaning to help air reach every room more effectively.</p>
+                                <p class="ehs-hvac-grid-card-text"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/residential-hvac-ductwork-installation-benefits-costs-installation-guide">Ductwork installation</a>, repair, sealing, and cleaning to help air reach every room.</p>
                             </div>
                         </div>
                         <!-- 4. Indoor Air Quality -->
@@ -349,7 +351,7 @@
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Indoor Air Quality</h3>
-                                <p class="ehs-hvac-grid-card-text">Air filtration, purification, humidifiers, and dehumidifiers to support a cleaner, more balanced living space.</p>
+                                <p class="ehs-hvac-grid-card-text"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-air-filtration-system-cost">Air filtration</a>, purification, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-humidifier-benefits-new-york">humidifiers</a>, and dehumidifiers for a cleaner, more balanced home. Helpful during high-pollen seasons like cedar season.</p>
                             </div>
                         </div>
                         <!-- 5. Thermostat Installation -->
@@ -359,7 +361,7 @@
                                     <i class="fa-solid fa-droplet"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Thermostat Installation</h3>
-                                <p class="ehs-hvac-grid-card-text">Improve temperature control and consistency with a properly installed and calibrated thermostat.</p>
+                                <p class="ehs-hvac-grid-card-text">Better temperature control and consistency with a properly installed, calibrated thermostat.</p>
                             </div>
                         </div>
                         <!-- 6. Emergency HVAC Repair -->
@@ -368,8 +370,18 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
+                                <h3 class="ehs-hvac-grid-card-title">Maintenance & Seasonal Tune-Ups</h3>
+                                <p class="ehs-hvac-grid-card-text">Catch small issues before they become breakdowns with seasonal inspections, cleaning, and preventive care.</p>
+                            </div>
+                        </div>
+                                                <!-- 6. Emergency HVAC Repair -->
+                        <div class="col-12 col-md-6 col-lg-4">
+                            <div class="ehs-hvac-grid-card">
+                                <div class="ehs-hvac-grid-icon-wrap">
+                                    <i class="fa-solid fa-broom"></i>
+                                </div>
                                 <h3 class="ehs-hvac-grid-card-title">Emergency HVAC Repair</h3>
-                                <p class="ehs-hvac-grid-card-text">Request urgent help when heating or cooling stops working unexpectedly.</p>
+                                <p class="ehs-hvac-grid-card-text">Request urgent help when heating or cooling stops unexpectedly.</p>
                             </div>
                         </div>
                     </div>
@@ -403,17 +415,17 @@
                     <div class="ehs-hvac-situations-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Service for San Antonio Homes
+                           What to Look for When Choosing an HVAC Expert in San Antonio
                         </h2>
 
                         <p class="ehs-hvac-situations-intro">
-                            Every home has different comfort requirements, equipment, layout, and maintenance history. HVAC Services in San Antonio can cover targeted repair, installation, or replacement. Homeowners can explain symptoms, identify equipment, and discuss service needs with a professional. This approach can help when cooling stops working properly, heating becomes inconsistent, or recurring issues make comfortable temperatures difficult to maintain.
+                            Finding HVAC help in San Antonio doesn’t require knowing exactly what’s wrong. You may only know the AC is struggling, the airflow feels weak, or the system seems less dependable than before. That’s enough to start a service request.
                         </p>
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">AC and Heating Solutions</h3>
                             <p class="ehs-hvac-situations-text">
-                                San Antonio’s long cooling season makes air conditioning important for comfort, while heating equipment remains useful during colder weather. Professional HVAC service may include AC repair, furnace repair, heat pump service, thermostat troubleshooting, component replacement, and installation. Maintenance can provide an opportunity to inspect equipment, replace filters, review airflow, and identify concerns.
+                                Easy Home Service helps homeowners connect with HVAC professionals who can evaluate the situation and explain their options. San Antonio homes range from older properties near downtown to newer suburban builds, and each may use different equipment. Ask whether the professional has worked on your type of system, whether that’s central air, a heat pump, a <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-replacement-cost-new-york">furnace</a>, or a ductless mini-split.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Find AC and Heating Solutions &rarr;
@@ -423,7 +435,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Ductwork, Ventilation, and Airflow</h3>
                             <p class="ehs-hvac-situations-text">
-                                Comfort issues are not always caused by the HVAC equipment. Leaky or damaged ducts, blocked vents, inadequate airflow, and filtration concerns can affect how conditioned air reaches rooms. Professionals can assess these areas and recommend service based on the home’s configuration.
+                                For larger repairs or replacements, discuss warranties, installation responsibilities, maintenance recommendations, and what happens if additional issues turn up. When you submit a request, include your home’s age, system type, symptoms, and any recent repairs. This gives the contractor useful context before the visit.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Explore Ductwork, Ventilation, and Airflow &rarr;
@@ -433,26 +445,16 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Choosing a Service Based on the Problem</h3>
                             <p class="ehs-hvac-situations-text">
-                                The right HVAC service depends on equipment, symptoms, age, condition, and priorities. A repair may suit a manageable component issue, while an older system with recurring problems may warrant replacement discussion. Professional evaluation can help homeowners understand choices before deciding how to proceed.
+                                A trustworthy pro explains why a repair or replacement makes sense instead of pushing the biggest option. If you’re unsure, ask them to walk you through the alternatives. Easy Home Service helps you connect with local San Antonio HVAC professionals who can assess your situation, so describing the problem and your home’s setup upfront helps them arrive prepared and move toward a solution faster.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Choosing a Service Based on the Problem &rarr;
                             </a>
                         </div>
-                        <!-- Situation 4 -->
-                        <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Connect With an HVAC Professional</h3>
-                            <p class="ehs-hvac-situations-text">
-                                Easy Home Service provides a way for homeowners to describe HVAC needs and connect with professionals for the service they seek. Whether you need cooling repair, heating service, maintenance, ductwork assistance, installation, or replacement, start by identifying the problem and equipment. Then discuss the work, condition, and available options with the professional.
-                            </p>
-                            <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Connect With an HVAC Professional &rarr;
-                            </a>
-                        </div>
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Whatever is happening in your New York City home, you can take the next step with Easy Home Service.
+                                Whatever is happening in your San Antonio home, you can take the next step with Easy Home Service.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
@@ -477,78 +479,138 @@
                             <!-- FAQ 1 (Active by default) -->
                             <div class="ehs-hvac-faq-item active">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="true">
-                                    <span class="ehs-hvac-faq-question">What HVAC services are available for San Antonio homeowners?</span>
+                                    <span class="ehs-hvac-faq-question">What should I do if my AC stops cooling during a San Antonio summer?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-xmark"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Residential HVAC services can include AC repair, heating repair, installation, replacement, maintenance, heat pump service, thermostat work, ductwork, and airflow-related services.
+                                        Start with the basics: confirm the thermostat is set to cool, check that the unit has power and the breaker has not tripped, and replace a clogged air filter. If you see ice on the unit or water leaking, turn the system off. If it still will not cool, contact a local HVAC professional right away, since a no-cooling situation during extreme heat can be urgent.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 2 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">When should I schedule AC repair in San Antonio?</span>
+                                    <span class="ehs-hvac-faq-question">When is the best time to schedule an AC tune-up in San Antonio?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider professional service when your AC produces warm air, has weak airflow, cycles unusually, makes unfamiliar sounds, leaks, or struggles to maintain the thermostat setting.
+                                        Spring, before the peak summer heat, is usually the best time. Booking early gives a technician time to catch worn parts, airflow problems, or refrigerant concerns before demand peaks and appointments fill up.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does HVAC maintenance matter for residential systems?</span>
+                                    <span class="ehs-hvac-faq-question">How often should I replace my air conditioner in San Antonio?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Routine maintenance can help identify issues involving filters, airflow, system components, thermostat operation, and other equipment conditions before they become larger comfort concerns.
+                                        Most central AC systems last roughly 10 to 15 years, though long cooling seasons, maintenance, and installation quality all affect that. Frequent repairs, rising energy bills, uneven cooling, or an AC that cannot keep up in summer heat are signs it may be time to compare repair and replacement options.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Should I repair or replace my HVAC system?</span>
+                                    <span class="ehs-hvac-faq-question">Why is one room in my San Antonio home always too hot or too cold?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        The appropriate option depends on equipment age, condition, recurring problems, repair scope, performance, and your home’s requirements. A professional evaluation can help you understand both options.
+                                        Uneven temperatures often come from airflow restrictions, leaky or poorly insulated attic ductwork, blocked vents, or equipment that is not sized for the home. Upper floors, sun-facing rooms, additions, and rooms far from the air handler are common trouble spots. A professional can inspect the system and identify where to start.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can HVAC professionals help with uneven temperatures between rooms?</span>
+                                    <span class="ehs-hvac-faq-question">Do heat pumps work well in San Antonio?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Uneven comfort can involve ductwork, airflow, blocked vents, filtration, equipment sizing, thermostat placement, or other factors. A professional can evaluate the system and home conditions.
+                                        Often, yes. San Antonio's mild winters suit heat pumps well, since one system can provide both cooling and heating. Performance depends on the model, the home's insulation, and sizing, and a local professional can assess whether it suits your property.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can Easy Home Service help with HVAC needs?</span>
+                                    <span class="ehs-hvac-faq-question">Do I need a permit to replace or install an HVAC system in San Antonio?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service gives homeowners a way to describe their residential HVAC needs and connect with HVAC professionals who can discuss the requested service and available options.
+                                        Many HVAC installations and replacements require a permit, and requirements can vary by project. Ask your contractor whether they will handle permitting, and confirm current rules with the City of San Antonio Development Services Department before work begins.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 7 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Can HVAC service help with dust and seasonal allergens?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Yes. A clean or upgraded air filter, sealed ductwork, and added air purification can reduce the dust and pollen circulating indoors, which can help during high-pollen seasons like cedar season. A professional can recommend options that fit your system.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 8 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How do I find a reliable HVAC professional near me in San Antonio?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Describe your issue and your home's setup on Easy Home Service to get connected with local HVAC professionals. When comparing options, ask about experience with your system type, insurance, written estimates, warranty coverage, TDLR licensing, and availability for urgent calls.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 9 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We connect homeowners with trusted professionals for a wide range of home services, including:
+                                        <ul>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping &amp; Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning &amp; Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                                        </ul>
+                                        No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 10 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We proudly offer HVAC repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">Texas</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/georgia/hvac-services-in-georgia">Georgia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-york/hvac-services-in-new-york">New York</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pennsylvania/hvac-services-in-pennsylvania">Pennsylvania</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-jersey/hvac-services-in-new-jersey">New Jersey</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/virginia/hvac-services-in-virginia">Virginia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/washington/hvac-services-in-washington">Washington</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/colorado/hvac-services-in-colorado">Colorado</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/nevada/hvac-services-in-nevada">Nevada</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/tennessee/hvac-services-in-tennessee">Tennessee</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/michigan/hvac-services-in-michigan">Michigan</a></strong>. Our network of skilled professionals provides complete HVAC services, including HVAC repair, installation, and HVAC Guard setup.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in San Antonio</a>
                         </div>
                     </div>
                 </div>
@@ -556,6 +618,95 @@
         </div>
     </section>
 </main>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my AC stops cooling during a San Antonio summer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the basics: confirm the thermostat is set to cool, check that the unit has power and the breaker has not tripped, and replace a clogged air filter. If you see ice on the unit or water leaking, turn the system off. If it still will not cool, contact a local HVAC professional right away, since a no-cooling situation during extreme heat can be urgent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the best time to schedule an AC tune-up in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spring, before the peak summer heat, is usually the best time. Booking early gives a technician time to catch worn parts, airflow problems, or refrigerant concerns before demand peaks and appointments fill up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I replace my air conditioner in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most central AC systems last roughly 10 to 15 years, though long cooling seasons, maintenance, and installation quality all affect that. Frequent repairs, rising energy bills, uneven cooling, or an AC that cannot keep up in summer heat are signs it may be time to compare repair and replacement options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is one room in my San Antonio home always too hot or too cold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uneven temperatures often come from airflow restrictions, leaky or poorly insulated attic ductwork, blocked vents, or equipment that is not sized for the home. Upper floors, sun-facing rooms, additions, and rooms far from the air handler are common trouble spots. A professional can inspect the system and identify where to start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do heat pumps work well in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often, yes. San Antonio's mild winters suit heat pumps well, since one system can provide both cooling and heating. Performance depends on the model, the home's insulation, and sizing, and a local professional can assess whether it suits your property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to replace or install an HVAC system in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many HVAC installations and replacements require a permit, and requirements can vary by project. Ask your contractor whether they will handle permitting, and confirm current rules with the City of San Antonio Development Services Department before work begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can HVAC service help with dust and seasonal allergens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A clean or upgraded air filter, sealed ductwork, and added air purification can reduce the dust and pollen circulating indoors, which can help during high-pollen seasons like cedar season. A professional can recommend options that fit your system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I find a reliable HVAC professional near me in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Describe your issue and your home's setup on Easy Home Service to get connected with local HVAC professionals. When comparing options, ask about experience with your system type, insurance, written estimates, warranty coverage, TDLR licensing, and availability for urgent calls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of home services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We connect homeowners with professionals for a wide range of home services, including plumbing services for leak repairs, pipe replacements, water heater fixes, and installations; electrical services for wiring upgrades, panel repairs, and lighting installation; landscaping and lawn care; gutter cleaning and installation; interior and exterior painting; custom home solutions; handyman services; flooring installation and refinishing; and window replacement and repair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which areas do you provide HVAC repair and replacement services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer HVAC repair and replacement solutions across Arizona, California, Florida, Maryland, Illinois, Ohio, North Carolina, Texas, Georgia, New York, Pennsylvania, New Jersey, Virginia, Washington, Colorado, Nevada, Tennessee, and Michigan. Our network of professionals provides HVAC services, including repair, installation, and HVAC Guard setup."
+      }
+    }
+  ]
+}
+</script>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {

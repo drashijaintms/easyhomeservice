@@ -10,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in San Diego, CA
+                           HVAC Services in San Diego, CA
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Connect with HVAC professionals in San Diego for cooling, heating, repairs, installation, maintenance, airflow, and replacement services tailored to your home every season.
+                            Connect with local HVAC professionals in San Diego for AC repair, heating, installation, maintenance, ductwork, and replacement services. Explore residential HVAC solutions to address your home's comfort and airflow needs throughout the year.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -31,12 +31,15 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Services for San Diego Homeowners
+                            Residential HVAC Services for San Diego Homes
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            San Diego homes can experience very different comfort needs depending on coastal exposure, inland temperatures, home age, insulation, and HVAC equipment. HVAC Services in San Diego can help homeowners address cooling, heating, airflow, and equipment concerns with service suited to their property. Air conditioning repair may be needed when a system struggles during warmer weather, while heating service can help when cooler nights expose weak performance. Homeowners may also need thermostat troubleshooting, ductwork repairs, heat pump service, installation, replacement, or seasonal maintenance.</p>
+                            San Diego homes experience different heating and cooling demands depending on coastal exposure, inland temperatures, property age, insulation, and existing HVAC equipment. When an air conditioner struggles during warmer weather or a heating system fails to provide consistent warmth on cooler evenings, homeowners may need professional assistance.</p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service helps homeowners find and connect with HVAC professionals who can discuss the work their residential system requires. If certain rooms stay uncomfortable, airflow feels weak, equipment cycles unexpectedly, or energy use changes alongside declining performance, professional evaluation can help identify possible causes. Older systems may also require a closer look when repairs become recurring or replacement becomes a consideration. By describing your symptoms, equipment, and service needs, you can connect with a professional and discuss practical HVAC options for your San Diego home. That context matters when choosing HVAC service.
+                            Easy Home Service helps homeowners find and connect with <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC professionals</a> who can discuss the work their residential system requires. If certain rooms stay uncomfortable, airflow feels weak, equipment cycles unexpectedly, or energy use changes alongside declining performance, professional evaluation can help identify possible causes.
+                        </p>
+                                                <p class="ehs-hvac-intro-description">
+                            Older systems may also require a closer look when repairs become recurring or replacement becomes a consideration. By describing your symptoms, equipment, and service needs, you can connect with a professional and discuss practical HVAC options for your San Diego home. That context matters when choosing HVAC service.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -54,7 +57,8 @@
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">HVAC Services for Different Home Comfort Needs</h2>
+                            <h2 class="ehs-hvac-section-title">Heating, Cooling, and HVAC Solutions for San Diego Homes</h2>
+                            <p>San Diego's coastal and inland communities can have different indoor comfort requirements. Explore residential HVAC services that address common <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">heating</a>, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">cooling</a>, and system performance concerns.</p>
                         </div>
                     </div>
                 </div>
@@ -66,7 +70,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Air Conditioning Repair & Cooling</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Address warm air, inconsistent temperatures, weak airflow, unusual cycling, drainage concerns, and other cooling problems with residential AC service suited to your equipment.
+                               Address warm air, inconsistent temperatures, weak airflow, unusual cycling, drainage concerns, and other cooling problems with <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">residential AC service</a> suited to your equipment.
                             </p>
                         </div>
                     </div>
@@ -77,7 +81,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Heating & Heat Pump Service</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Get professional assistance with furnaces, heat pumps, thermostats, and heating concerns when cooler San Diego evenings reveal inconsistent performance or equipment problems.
+                               Get professional assistance with furnaces, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pumps</a>, thermostats, and heating concerns when cooler San Diego evenings reveal inconsistent performance or equipment problems.
                             </p>
                         </div>
                     </div>
@@ -107,30 +111,27 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                            Common Signs Your HVAC System Needs Attention
+                            Warning Signs That Your San Diego Home May Need HVAC Repair
                         </h2>
 
                         <p class="ehs-hvac-signs-intro">
-                            HVAC problems can appear gradually or become obvious when your system is working harder than usual. San Diego homeowners may want professional attention when they notice:
-
+                            HVAC problems can develop gradually or become noticeable when your heating and cooling equipment is working harder than usual. Recognizing early warning signs can help homeowners determine when to seek professional assistance.
                         </p>
                         <ul class="ehs-hvac-signs-list">
 
-                            <li class="ehs-hvac-signs-item">Air conditioning struggles to maintain the thermostat setting during warmer days.</li>
-
-                            <li class="ehs-hvac-signs-item">Certain bedrooms or living spaces remain warmer or cooler than nearby rooms.</li>
-
-                            <li class="ehs-hvac-signs-item">Vents produce noticeably weaker airflow than they previously did.</li>
-
-                            <li class="ehs-hvac-signs-item">The system starts and stops repeatedly, runs for unusually long periods, or behaves differently.</li>
-
-                            <li class="ehs-hvac-signs-item">Unusual sounds, odors, moisture, or visible water appear around HVAC equipment.</li>
-
-                            <li class="ehs-hvac-signs-item">An older unit needs increasingly frequent repairs or no longer provides consistent comfort.</li>
+                           <li class="ehs-hvac-signs-item"><strong>AC Blowing Warm Air: If your <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC is blowing warm air</a> instead of cool, it may indicate an issue with the refrigerant, thermostat, electrical components, or other system parts.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Uneven Indoor Temperatures: Rooms that remain warmer or cooler than others may indicate airflow restrictions, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">ductwork problems</a>, insulation gaps, or equipment concerns.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Weak Airflow: Reduced airflow from vents can be associated with clogged filters, blocked ducts, or <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-blower-motor-repair">blower motor problems</a>.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Frequent System Cycling: Repeated starting and stopping may indicate thermostat issues, airflow restrictions, or equipment problems.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Unusual Sounds: Grinding, rattling, buzzing, or other unfamiliar noises from your HVAC equipment may require professional inspection.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Water Leaks or Moisture: Water around an air conditioning unit may indicate a drainage problem or another issue that needs attention.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Unusual Odors: Persistent or unfamiliar smells coming from your heating or cooling equipment can be a reason to arrange an inspection.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Rising Energy Bills: An unexpected increase in energy use alongside declining HVAC performance may indicate that the system needs attention.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Frequent Repairs: When an older HVAC system repeatedly develops problems, homeowners may want to compare repair and replacement options.</li>
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
-                            These symptoms can have different causes, including airflow restrictions, dirty filters, ductwork concerns, thermostat problems, drainage issues, electrical components, or equipment wear. A professional inspection can help determine what requires attention rather than assuming every symptom has the same solution.
+                            A professional can inspect the equipment, controls, airflow, filters, and ductwork to determine which components or system conditions need attention.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
@@ -148,35 +149,36 @@
                     <div class="ehs-hvac-challenges-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            HVAC Considerations for San Diego Homes
+                           Choosing the Right HVAC Solution for San Diego's Climate
                         </h2>
+                        <p>San Diego's coastal neighborhoods and warmer inland communities can experience different temperature conditions. HVAC requirements may depend on where a home is located, its construction, insulation, windows, and existing equipment.</p>
                         <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Cooling That Fits San Diego Conditions</h3>
+                            <h3 class="ehs-hvac-challenges-subtitle">Cooling Requirements in Coastal and Inland Areas</h3>
                             <p class="ehs-hvac-challenges-text">
-                                San Diego’s climate can vary between coastal neighborhoods and warmer inland communities. Air conditioning systems may face different operating demands depending on the home’s location, insulation, windows, and daily occupancy. A professional can inspect cooling performance, airflow, drainage, electrical components, and other relevant parts when comfort changes.
+                                Homes in warmer inland communities may experience greater cooling demands during hot periods, while coastal properties can have different temperature and humidity conditions. An HVAC professional can assess cooling performance, airflow, drainage, and equipment condition to identify possible concerns.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
-                            <h3 class="ehs-hvac-challenges-subtitle">Heating for Cooler Periods</h3>
+                            <h3 class="ehs-hvac-challenges-subtitle">Heating for Cooler San Diego Evenings</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Heating may receive less attention than cooling, but San Diego homes still need dependable warmth during colder nights. Furnace, heat pump, and thermostat issues can affect comfort when equipment shows signs of wear. Professional heating service can help identify the source of inconsistent operation.
+                               Although San Diego generally experiences milder winters than many other regions, residential heating is still necessary during cooler periods. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-replacement-cost-new-york">Furnace</a>, heat pump, and <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/thermostat-replacement-cost-repair-vs-replace">thermostat</a> problems can affect indoor comfort. Professional <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">heating service</a> can help identify inconsistent operation and determine whether repair or maintenance is needed.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Airflow and Indoor Comfort</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Uneven temperatures do not always mean the HVAC equipment itself has failed. Restricted vents, damaged ductwork, poor sealing, dirty filters, or thermostat placement can influence how conditioned air moves through the home. An HVAC professional can assess these factors and explain practical service options.
+                                Uneven temperatures do not always mean that the main HVAC unit has failed. Restricted vents, damaged ductwork, poor duct connections, clogged filters, and thermostat placement can affect how conditioned air moves through a home. An assessment can help identify whether <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork repair or airflow improvements</a> are needed.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Repair, Maintenance, or Replacement</h3>
                             <p class="ehs-hvac-challenges-text">
-                                A component problem may be addressed through repair, while an aging system with recurring issues may prompt a replacement discussion. Maintenance can provide an opportunity to review equipment condition, airflow, filters, controls, and other components before seasonal demand increases significantly. Homeowners can compare available options based on system condition, comfort requirements, and property needs.
+                                The right HVAC solution depends on equipment condition, recurring problems, system performance, and household requirements. A repair may address an isolated component issue, while an aging system with repeated problems may warrant a replacement discussion.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
                             <p class="ehs-hvac-challenges-callout-text">
-                                You don't need to know exactly what's wrong. Just tell us what you've noticed, poor cooling, weak airflow, strange sounds, or rising energy bills, and we'll help match you with the right professional.
+                                Routine <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-preventative-maintenance">HVAC maintenance</a> can provide an opportunity to review filters, controls, airflow, drainage, and equipment condition before periods of increased use.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-challenges-btn">Get A Quote Now</a>
                         </div>
@@ -328,8 +330,8 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">Air Conditioning Installation</h3>
-                                <p class="ehs-hvac-grid-card-text">Explore AC installation options when building a new system, upgrading older equipment, or considering a replacement based on your home’s cooling requirements.</p>
+                                <h3 class="ehs-hvac-grid-card-title">Indoor Air Quality & Ventilation Services</h3>
+                                <p class="ehs-hvac-grid-card-text">Improve indoor air circulation and address concerns such as stale air, excess indoor humidity, poor ventilation, and airborne particles. Explore ventilation and <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/indoor-air-quality-services">indoor air quality solutions</a> that support a fresher and more comfortable home environment.</p>
                             </div>
                         </div>
                         <!-- 3. Furnace & Heating Repair -->
@@ -349,7 +351,7 @@
                                     <i class="fa-solid fa-sun"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heat Pump Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Connect with HVAC professionals for heat pump installation, maintenance, troubleshooting, repair, and replacement based on residential heating and cooling needs.</p>
+                                <p class="ehs-hvac-grid-card-text">Connect with HVAC professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-repair">heat pump repair</a>, installation, maintenance, troubleshooting, repair, and replacement based on residential heating and cooling needs.</p>
                             </div>
                         </div>
                         <!-- 5. Ductwork & Airflow Services -->
@@ -403,13 +405,14 @@
                     <div class="ehs-hvac-situations-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Solutions for San Diego Homeowners
+                             What to Look for When Choosing an HVAC Contractor in San Diego
                         </h2>
+                        <p>Finding the right HVAC professional starts with understanding your home's requirements and the type of service needed. Whether you need AC repair, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heating-system-maintenance-checklist">heating maintenance</a>, or a new HVAC installation, consider a few important points before moving forward.</p>
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Residential HVAC Help Across San Diego</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Relevant Equipment Experience</h3>
                             <p class="ehs-hvac-situations-text">
-                                San Diego homes can have different HVAC requirements based on location, construction, equipment age, and temperatures. HVAC Services in San Diego may involve cooling repairs, heating support, maintenance, installation, replacement, ductwork, or thermostat service. Describing the problem helps homeowners discuss service.
+                                Ask whether the professional works with your existing heating and cooling equipment, including furnaces, heat pumps, and central air conditioning systems.  
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Find AC and Heating Solutions &rarr;
@@ -417,9 +420,9 @@
                         </div>
                         <!-- Situation 2 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Air Conditioning Service for Local Homes</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Clear Service Recommendations</h3>
                             <p class="ehs-hvac-situations-text">
-                                Cooling performance matters during warmer periods. AC repair can address warm air, weak airflow, unusual cycling, drainage problems, or inconsistent temperatures. When an existing system is aging or repeatedly needs repairs, homeowners can discuss replacement options. Installation should consider the home’s requirements.
+                                A professional should explain the identified problem, recommended work, and available repair or replacement options.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Explore Ductwork, Ventilation, and Airflow &rarr;
@@ -427,9 +430,9 @@
                         </div>
                         <!-- Situation 3 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Heating and Heat Pump Support</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Written Estimates</h3>
                             <p class="ehs-hvac-situations-text">
-                                San Diego’s milder climate does not eliminate residential heating needs. Furnaces, heat pumps, and thermostats can develop performance issues that become noticeable on colder evenings. Professional service can include inspection, maintenance, repair, and installation.
+                                Request a clear breakdown of the proposed work, equipment, labor, and additional charges before approving a project.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Choosing a Service Based on the Problem &rarr;
@@ -437,9 +440,9 @@
                         </div>
                         <!-- Situation 4 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Ductwork and Airflow Considerations</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Warranty Information</h3>
                             <p class="ehs-hvac-situations-text">
-                                Comfort problems may originate beyond the main HVAC unit. Leaky ducts, restricted vents, damaged connections, inadequate filtration, or airflow imbalances can affect how conditioned air reaches rooms. An assessment can identify whether ductwork needs attention.
+                                For repairs and installations, ask what parts, equipment, or workmanship coverage may apply.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Connect With an HVAC Professional &rarr;
@@ -447,19 +450,9 @@
                         </div>
                         <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Maintenance and Replacement Decisions</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Maintenance Recommendations</h3>
                             <p class="ehs-hvac-situations-text">
-                                Routine maintenance can help homeowners review filters, airflow, controls, drainage, and equipment condition before heavier use. Repair or replacement decisions depend on equipment age, condition, repair needs, performance, and household priorities. A professional can explain the issue and available approaches.
-                            </p>
-                            <a href="#get-quote" class="ehs-hvac-situations-link">
-                            Connect With an HVAC Professional &rarr;
-                            </a>
-                        </div>
-                        <!-- Situation 6 -->
-                        <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Connect Through Easy Home Service</h3>
-                            <p class="ehs-hvac-situations-text">
-                                Easy Home Service gives homeowners a way to describe HVAC needs and connect with HVAC professionals for residential service. Whether you need AC repair, heating support, maintenance, ductwork assistance, installation, or replacement, start with the symptoms and equipment details. Then discuss options directly with the professional.
+                                Discuss any recommended maintenance requirements to help you understand how to care for the system after service.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Connect With an HVAC Professional &rarr;
@@ -468,7 +461,7 @@
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Whatever is happening in your San Diego home, you can take the next step with Easy Home Service.
+                               Easy Home Service helps San Diego homeowners connect with HVAC professionals for residential heating, cooling, maintenance, installation, and replacement needs. Describe your situation and discuss the available options directly with a professional.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
@@ -498,7 +491,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Residential HVAC services can include AC repair, air conditioning installation, heating repair, furnace service, heat pump work, maintenance, ductwork, thermostat service, and HVAC replacement.
+                                        Residential HVAC services in San Diego include AC repair, air conditioning installation, furnace repair, heating services, heat pump maintenance, HVAC replacement, ductwork repair, and preventive maintenance. The appropriate service depends on your equipment, property, and comfort requirements.
                                     </div>
                                 </div>
                             </div>
@@ -510,31 +503,31 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider contacting an HVAC professional when your AC blows warm air, struggles to maintain the thermostat setting, has weak airflow, cycles unusually, leaks, or produces unfamiliar sounds.
+                                        Consider scheduling AC repair when your system blows warm air, produces weak airflow, struggles to maintain the thermostat setting, cycles frequently, or develops unusual noises or water leaks. A professional can inspect the equipment and identify the cause.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does San Diego weather affect HVAC needs?</span>
+                                    <span class="ehs-hvac-faq-question">Does San Diego's climate affect residential HVAC requirements?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Coastal and inland areas can experience different temperature patterns, while warmer periods can increase cooling demand. Home construction, insulation, equipment condition, and system sizing can also influence comfort.
+                                        Yes. Coastal neighborhoods and inland communities can experience different temperature conditions. Cooling requirements, insulation, property layout, and equipment condition can all influence indoor comfort and HVAC performance.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How often should residential HVAC systems receive maintenance?</span>
+                                    <span class="ehs-hvac-faq-question">How often should I schedule HVAC maintenance?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Maintenance timing depends on the equipment, manufacturer guidance, system condition, and household usage. Seasonal inspections can provide an opportunity to review filters, airflow, controls, drainage, and other components.
+                                        Maintenance frequency depends on the equipment type, manufacturer recommendations, system condition, and household usage. Regular inspections can help review filters, airflow, controls, drainage, and other important components.
                                     </div>
                                 </div>
                             </div>
@@ -546,19 +539,19 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        The appropriate option depends on factors such as equipment age, condition, recurring repairs, performance, and the scope of the current problem. A professional can explain the available choices.
+                                        The decision depends on equipment age, condition, repair frequency, operating performance, and the cost and scope of the required work. A professional can assess the system and explain whether repair or replacement is worth considering.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Can HVAC professionals fix uneven temperatures between rooms?</span>
+                                    <span class="ehs-hvac-faq-question">Why does my San Diego home have uneven temperatures between rooms?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Uneven temperatures can involve ductwork, airflow restrictions, vents, filtration, thermostat placement, equipment sizing, or other factors. An HVAC professional can evaluate the system and identify areas that may require attention.
+                                        Uneven indoor temperatures can result from restricted airflow, leaky ductwork, blocked vents, insulation gaps, thermostat placement, or equipment sizing concerns. An HVAC professional can inspect the system and determine what may be affecting temperature distribution.
                                     </div>
                                 </div>
                             </div>
@@ -570,25 +563,61 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Homeowners seeking HVAC installation in San Diego or replacement can discuss equipment requirements, property conditions, and available system options with an HVAC professional.
+                                        Yes. Homeowners looking for HVAC installation in San Diego or replacement can connect with HVAC professionals to discuss equipment options, property requirements, system compatibility, and installation scope.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 8 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How does Easy Home Service help homeowners?</span>
+                                    <span class="ehs-hvac-faq-question">How can I find HVAC contractors in San Diego?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service provides a way for homeowners to describe their residential HVAC needs and connect with HVAC professionals who can discuss the requested service and potential options.
+                                        Easy Home Service helps homeowners connect with HVAC professionals for residential heating, cooling, repair, installation, and maintenance requirements. Describe your HVAC concern and share relevant equipment details to start discussing service options.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 9 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We connect homeowners with trusted professionals for a wide range of home services, including:
+                                        <ul>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping &amp; Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning &amp; Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                                        </ul>
+                                        No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 10 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        We proudly offer HVAC repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">Texas</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/georgia/hvac-services-in-georgia">Georgia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-york/hvac-services-in-new-york">New York</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pennsylvania/hvac-services-in-pennsylvania">Pennsylvania</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-jersey/hvac-services-in-new-jersey">New Jersey</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/virginia/hvac-services-in-virginia">Virginia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/washington/hvac-services-in-washington">Washington</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/colorado/hvac-services-in-colorado">Colorado</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/nevada/hvac-services-in-nevada">Nevada</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/tennessee/hvac-services-in-tennessee">Tennessee</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/michigan/hvac-services-in-michigan">Michigan</a></strong>. Our network of skilled professionals provides complete HVAC services, including HVAC repair, installation, and HVAC Guard setup.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in San Diego</a>
                         </div>
                     </div>
                 </div>
@@ -596,6 +625,94 @@
         </div>
     </section>
 </main>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What HVAC services are available in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Residential HVAC services in San Diego include AC repair, air conditioning installation, furnace repair, heating services, heat pump maintenance, HVAC replacement, ductwork repair, and preventive maintenance. The appropriate service depends on your equipment, property, and comfort requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I schedule AC repair in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider scheduling AC repair when your system blows warm air, produces weak airflow, struggles to maintain the thermostat setting, cycles frequently, or develops unusual noises or water leaks. A professional can inspect the equipment and identify the cause."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does San Diego's climate affect residential HVAC requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Coastal neighborhoods and inland communities can experience different temperature conditions. Cooling requirements, insulation, property layout, and equipment condition can all influence indoor comfort and HVAC performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I schedule HVAC maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance frequency depends on the equipment type, manufacturer recommendations, system condition, and household usage. Regular inspections can help review filters, airflow, controls, drainage, and other important components."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I repair or replace my HVAC system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision depends on equipment age, condition, repair frequency, operating performance, and the cost and scope of the required work. A professional can assess the system and explain whether repair or replacement is worth considering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does my San Diego home have uneven temperatures between rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uneven indoor temperatures can result from restricted airflow, leaky ductwork, blocked vents, insulation gaps, thermostat placement, or equipment sizing concerns. An HVAC professional can inspect the system and determine what may be affecting temperature distribution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I find HVAC installation and replacement services in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Homeowners looking for HVAC installation in San Diego or replacement can connect with HVAC professionals to discuss equipment options, property requirements, system compatibility, and installation scope."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find HVAC contractors in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Easy Home Service helps homeowners connect with HVAC professionals for residential heating, cooling, repair, installation, and maintenance requirements. Describe your HVAC concern and share relevant equipment details to start discussing service options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of home services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We connect homeowners with trusted professionals for a wide range of home services, including Plumbing Services for leak repairs, pipe replacements, water heater fixes, and full plumbing installations; Electrical Services for wiring upgrades, panel repairs, lighting installation, and safety inspections; Landscaping & Lawn Care for yard maintenance, garden design, tree trimming, and outdoor enhancements; Gutter Cleaning & Installation for gutter repairs, new installations, seasonal cleaning, and drainage solutions; Painting Services for interior and exterior painting, wall repairs, and color customization; Home Service for customized solutions for stylish homes and recurring maintenance; Handyman Services for small repairs, installations, and home improvements; Flooring for installation, refinishing, and flooring upgrades; and Windows for replacement, repair, and energy-efficient solutions. No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which areas do you provide HVAC repair and replacement services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We proudly offer HVAC repair and replacement solutions across Arizona, California, Florida, Maryland, Illinois, Ohio, North Carolina, Texas, Georgia, New York, Pennsylvania, New Jersey, Virginia, Washington, Colorado, Nevada, Tennessee, and Michigan. Our network of skilled professionals provides complete HVAC services, including HVAC repair, installation, and HVAC Guard setup."
+      }
+    }
+  ]
+}
+</script>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {

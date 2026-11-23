@@ -506,6 +506,103 @@ SCHEMA
         'image_alt'   => 'HVAC technician providing HVAC services in Phoenix, AZ'
     ],
     'schema' => <<<SCHEMA
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix#webpage",
+      "url": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix",
+      "name": "HVAC Services in Phoenix, AZ | Repair & Replacement",
+      "description": "Expert HVAC services in Phoenix, AZ, to keep your home comfortable year-round. Trust our skilled team for fast, reliable installations and repairs!",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix#service",
+      "name": "HVAC Services in Phoenix, AZ",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance"
+      ],
+      "description": "Explore residential HVAC services in Phoenix, AZ, and connect with local professionals for air conditioning and heating repairs, system installation, replacement, and maintenance.",
+      "broker": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Phoenix",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Arizona"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Phoenix, AZ",
+          "item": "https://easyhomeservice.com/arizona/hvac-services-in-phoenix"
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 SCHEMA
 ],
@@ -524,37 +621,436 @@ SCHEMA
 
 'hvac-services-in-san-antonio' => [
     'meta' => [
-        'title'       => 'HVAC Services in San Antonio, TX | AC & Heating Repair',
-        'description' => 'For reliable heating, cooling, AC repair, installation, replacement, maintenance, and year-round home comfort, choose HVAC services in San Antonio.',
+        'title'       => 'HVAC Services in San Antonio, TX | Repairs & Installations',
+        'description' => 'Looking for HVAC services in San Antonio, TX? We provide 24/7 emergency support, precise installations, and smart temperature control solutions for any season.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in San Antonio, TX'
     ],
     'schema' => <<<SCHEMA
-
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#webpage",
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio",
+      "name": "HVAC Services in San Antonio, TX | AC Repair & Installation",
+      "description": "Reliable HVAC services in San Antonio for AC repair, heating, installation, and maintenance. Get connected with local pros for year-round comfort.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#service",
+      "name": "HVAC Services in San Antonio, TX",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Heat Pump Service",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential HVAC services in San Antonio, including air conditioning repair, heating repair, system installation, replacement, maintenance, heat pump service, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "San Antonio",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Texas"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in San Antonio, TX",
+          "item": "https://easyhomeservice.com/texas/hvac-services-in-san-antonio"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-san-diego' => [
     'meta' => [
-        'title'       => 'HVAC Services in San Diego, CA',
-        'description' => 'Locate reliable HVAC services in San Diego for ductwork, heating, AC repair, installation, replacement, maintenance, and year-round home comfort.',
+        'title'       => 'HVAC Services in San Diego, CA | Complete HVAC Care',
+        'description' => 'Stay comfortable with expert including professional installations, repairs, tune-ups, and indoor air quality upgrades.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in San Diego, CA'
     ],
     'schema' => <<<SCHEMA
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#webpage",
+      "url": "https://easyhomeservice.com/california/hvac-services-in-san-diego",
+      "name": "HVAC Services in San Diego, CA | Complete HVAC Care",
+      "description": "Stay comfortable with professional HVAC installations, repairs, tune-ups, and indoor air quality upgrades in San Diego, CA.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#service"
+      },
+      "mainEntity": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#service"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "California",
+          "item": "https://easyhomeservice.com/california/hvac-services-in-california"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in San Diego",
+          "item": "https://easyhomeservice.com/california/hvac-services-in-san-diego"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-diego#service",
+      "name": "Residential HVAC Services in San Diego",
+      "serviceType": [
+        "AC Repair",
+        "Air Conditioning Installation",
+        "Furnace and Heating Repair",
+        "Heat Pump Services",
+        "Ductwork and Airflow Services",
+        "Indoor Air Quality and Ventilation Services",
+        "HVAC Maintenance",
+        "HVAC Replacement"
+      ],
+      "description": "Residential HVAC services in San Diego, including air conditioning repair and installation, heating repair, heat pump services, ductwork and airflow solutions, indoor air quality and ventilation services, HVAC maintenance, and system replacement.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "San Diego",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "California"
+        }
+      },
+      "url": "https://easyhomeservice.com/california/hvac-services-in-san-diego"
+    },
+</script>
 
 SCHEMA
 ],
 
+
+'hvac-services-in-fort-worth' => [
+    'meta' => [
+        'title'       => 'HVAC Services in Fort Worth, TX | Heating & Cooling',
+        'description' => 'Top-rated HVAC services in Fort Worth, TX, delivering AC repairs, heating maintenance, system replacements, and professional HVAC installations.',
+        'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
+        'image_alt'   => 'HVAC technician providing HVAC services in Fort Worth, TX'
+    ],
+    'schema' => <<<SCHEMA
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth#webpage",
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth",
+      "name": "HVAC Services in Fort Worth, TX | Easy Home Service",
+      "description": "Find local HVAC services in Fort Worth for AC repair, furnace service, installation, and tune-ups. Connect with trusted pros today.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth#service",
+      "name": "HVAC Services in Fort Worth, TX",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Ductwork Repair",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential HVAC services in Fort Worth, including AC repair, furnace and heating repair, system installation, replacement, seasonal maintenance, ductwork, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Fort Worth",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Texas"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Fort Worth, TX",
+          "item": "https://easyhomeservice.com/texas/hvac-services-in-fort-worth"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+SCHEMA
+],
+
+
 'hvac-services-in-dallas' => [
     'meta' => [
-        'title'       => 'HVAC Services in Dallas, TX | Repair & Installation',
-        'description' => 'For dependable heating, cooling, repairs, installation, maintenance, ductwork, and system replacement tailored to local households all year round, get trustworthy HVAC services in Dallas.',
+        'title'       => 'HVAC Services in Dallas, TX | Expert HVAC Solutions',
+        'description' => 'From AC repairs to furnace installations, find dependable HVAC services in Dallas, TX, designed to improve comfort and efficiency in every season.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Dallas, TX'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service connects homeowners with local home service professionals for reliable home improvement, repair, installation, and maintenance solutions."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#webpage",
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-dallas",
+      "name": "HVAC Services in Dallas, TX | Expert HVAC Solutions",
+      "description": "From AC repairs to furnace installations, find dependable HVAC services in Dallas, TX, designed to improve comfort and efficiency in every season.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#service"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#service"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Texas",
+          "item": "https://easyhomeservice.com/texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Dallas",
+          "item": "https://easyhomeservice.com/texas/hvac-services-in-dallas"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-dallas#service",
+      "name": "Residential HVAC Services in Dallas, TX",
+      "serviceType": [
+        "Residential HVAC Services",
+        "Air Conditioning Repair",
+        "HVAC Installation",
+        "Heating Repair",
+        "Furnace Installation",
+        "HVAC Maintenance",
+        "Emergency HVAC Services"
+      ],
+      "description": "Find residential HVAC services in Dallas, TX, including air conditioning repairs, heating system repairs, HVAC installation, furnace installation, and routine maintenance. Connect with local HVAC professionals to maintain indoor comfort and energy efficiency throughout the year.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Dallas",
+        "containedInPlace": {
+          "@type": "AdministrativeArea",
+          "name": "Texas"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential Homeowners"
+      },
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-dallas"
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
