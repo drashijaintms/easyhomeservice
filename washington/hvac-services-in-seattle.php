@@ -10,10 +10,10 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in Seattle
+                            HVAC Services in Seattle WA for Pacific Northwest Home Comfort
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Reliable HVAC Services in Seattle for homes, from rainy-season heating needs to summer cooling, with practical repairs, maintenance, installation, and replacement options designed to support year-round indoor comfort confidently.
+                            Find HVAC services in Seattle for every season. Easy Home Service connects homeowners with local professionals for repair, installation, replacement, maintenance, heat pump service, and ductwork. From damp winters to summer heat waves, get the right help for your home.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -31,15 +31,15 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-intro-container">
                         <h2 class="ehs-hvac-section-title">
-                            HVAC Services Designed for Seattle Homeowners
+                            HVAC Services in Seattle Built Around Your Home
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            Seattle homeowners often need an HVAC system that can handle long stretches of cool, wet weather while remaining ready for warmer summer days. HVAC Services in Seattle from Easy Home Service are designed around those everyday residential needs, whether your furnace is struggling to keep rooms comfortable, your heat pump needs attention, or your air conditioner is no longer keeping up.</p>
+                            Seattle’s long, cool, wet season keeps furnaces and heat pumps running for months, while recent summer heat waves have shown how many homes were built without cooling in mind. A good HVAC plan has to handle both.</p>
                         <p class="ehs-hvac-intro-description">
-                            Homes across Seattle vary widely, from older houses with aging equipment and ductwork to updated residences with newer high-efficiency systems. That means the right service starts with the home, equipment, airflow, and comfort problem not a one-size-fits-all recommendation. Our service options cover HVAC repair, heating and cooling maintenance, system installation, replacement, and ductwork support.
+                            Seattle <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC services</a> from Easy Home Service start with your property, not a one-size-fits-all recommendation. Homes range from craftsman houses with older equipment and ductwork to remodeled bungalows, townhomes, and newer high-efficiency builds, and each calls for a different approach.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            For homeowners considering an upgrade, heat pump systems can provide both heating and cooling from one system and are a relevant option in Seattle. Local energy requirements also make proper equipment selection, sizing, controls, and installation important during qualifying projects. Easy Home Service helps homeowners identify practical service options based on their property's needs and the condition of the existing system.
+                            If you are upgrading, heat pumps deserve a look: one system provides both heating and cooling, and Seattle’s mild climate suits the technology well. Whether you need a quick repair or are comparing systems, describing your equipment, symptoms, and comfort goals upfront helps the professional arrive prepared.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -69,7 +69,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Repair</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                When heating or cooling equipment starts behaving differently, timely troubleshooting can help identify the underlying issue. From inconsistent temperatures and weak airflow to unusual sounds and system cycling, repair services focus on restoring dependable operation where practical.
+                                When heating or cooling equipment starts behaving differently, timely troubleshooting can help identify the underlying issue. From inconsistent temperatures and weak airflow to unusual sounds and system cycling, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair">HVAC repair services</a> focus on restoring dependable operation where practical.
                             </p>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Maintenance</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Routine maintenance can help homeowners monitor equipment condition between major repairs or replacement decisions. Inspections, airflow checks, filter attention, and system performance reviews can help identify developing concerns before they become larger problems.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/home-hvac-system-maintenance-calendar">Routine maintenance</a> can help homeowners monitor equipment condition between major repairs or replacement decisions. Inspections, airflow checks, filter attention, and system performance reviews can help identify developing concerns before they become larger problems.
                             </p>
                         </div>
                     </div>
@@ -110,30 +110,47 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                            HVAC Problems Seattle Homeowners Commonly Notice
+                            Signs Your Seattle HVAC System Needs Attention
                         </h2>
                         <p class="ehs-hvac-signs-intro">
-                            Seattle homes can experience HVAC problems tied to wet weather, aging equipment, airflow, and changing seasonal demand. Common signs include:
+                            Seattle’s damp climate and shifting seasonal demand can expose equipment and airflow problems. Watch for these signs:
                         </p>
                         <ul class="ehs-hvac-signs-list">
 
-                            <li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Bedrooms or upper floors may stay cooler or warmer than the home.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Slow heating:</strong> A furnace or heat pump that runs continuously without reaching the thermostat setting deserves inspection.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Weak airflow:</strong> Low air volume can result from a dirty filter, duct restriction, blower problem, or equipment issue.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Damp or stale air:</strong> Lingering moisture or poor ventilation can affect indoor comfort.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Summer cooling problems:</strong> Rooms with afternoon sun or upper-floor spaces can become uncomfortable.</li>
-
+                            <li class="ehs-hvac-signs-item"><strong>Uneven temperatures:</strong> Bedrooms or upper floors stay noticeably warmer or cooler than the rest of the home.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Slow heating:</strong> A <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/heat-pump-vs-furnace-in-ohio">furnace or heat pump</a> runs continuously without reaching the thermostat setting.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Weak airflow:</strong> Low air volume can come from a dirty filter, duct restriction, blower problem, or equipment issue.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Damp or stale air:</strong> Lingering moisture, condensation, or poor ventilation affects comfort and indoor air.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Weak summer cooling:</strong> Sun-facing and upper-floor rooms never cool down, even with the system running.</li>
                             <li class="ehs-hvac-signs-item"><strong>Frequent cycling or unusual sounds:</strong> Repeated starts, rattling, buzzing, or grinding should not be ignored.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Aging equipment:</strong> Older systems may need frequent repairs.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Higher energy use:</strong> Changes in utility costs can justify checking equipment condition, airflow, controls, and efficiency.</li>
-
+                            <li class="ehs-hvac-signs-item"><strong>Higher energy bills:</strong> A rise in utility costs can signal declining efficiency, airflow trouble, or control problems.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Aging equipment:</strong> Older systems with frequent repairs may be nearing replacement.</li>
                         </ul>
+                        <div>
+                            <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    <!-- 4. SIGNS YOU NEED AN HVAC PRO -->
+    <section class="ehs-hvac-signs-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <div class="ehs-hvac-signs-container">
+                        <h2 class="ehs-hvac-section-title">
+                            Repair, Replacement, or Heat Pump Upgrade?
+                        </h2>
+                        <p class="ehs-hvac-signs-intro">
+                            Not every HVAC issue calls for a new system. Repair usually makes sense when the problem is limited and the equipment is otherwise sound. HVAC replacement in Seattle is worth evaluating when an older system has recurring breakdowns, declining performance, or repair costs approaching the price of new equipment.
+                        </p>
+                        <p class="ehs-hvac-signs-intro">
+                            Before choosing a system, ask the professional to explain how they sized it, what condition your ductwork is in, whether your electrical panel can support it, and what the installation includes. Heat pumps in particular may need electrical upgrades, so confirm this early.
+                        </p>
+                        <p class="ehs-hvac-signs-intro">
+                            Homes without ducts, including many older houses with radiators or baseboard heat, may suit ductless heat pumps. Ask for a clear written scope so you can compare recommendations on the same terms.
+                        </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
@@ -155,19 +172,19 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heating and Heat Pump Service</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Seattle’s cool seasons make heating important. Service includes diagnosing furnace problems, checking heat pump performance, addressing thermostat issues, and evaluating airflow. For those replacing an aging system, equipment selection should consider the home's size, layout, insulation, ductwork, electrical capacity, and comfort goals.
+                                Seattle’s cool seasons make heating important. Service includes diagnosing furnace problems, checking heat pump performance, addressing thermostat issues, and evaluating airflow. For those replacing an aging system, equipment selection should consider the home's size, layout, insulation, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a>, electrical capacity, and comfort goals.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Cooling When Seattle Warms Up</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Warmer periods can make bedrooms, upper floors, and sun-facing rooms uncomfortable. Air conditioning service can address poor cooling, airflow problems, drainage issues, and equipment performance. A matched system should be selected for the home rather than simply choosing the largest available unit.
+                                Warmer periods can make bedrooms, upper floors, and sun-facing rooms uncomfortable. <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">Air conditioning service</a> can address poor cooling, airflow problems, drainage issues, and equipment performance. A matched system should be selected for the home rather than simply choosing the largest available unit.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Ductwork and Airflow</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Ductwork affects how effectively conditioned air reaches rooms. Leaks, restrictions, disconnected sections, or poor sizing can contribute to uneven comfort and reduced performance. Inspection and repair can determine whether the ducts are contributing to a problem.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">Ductwork</a> affects how effectively conditioned air reaches rooms. Leaks, restrictions, disconnected sections, or poor sizing can contribute to uneven comfort and reduced performance. Inspection and repair can determine whether the ducts are contributing to a problem.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -490,7 +507,7 @@
                     <div class="ehs-hvac-faq-container text-center">
 
                         <h2 class="ehs-hvac-section-title">
-                            Frequently Asked Question
+                            Frequently Asked Questions About HVAC Services in Seattle
                         </h2>
                         <div class="ehs-hvac-faq-list text-start">
                             <!-- FAQ 1 (Active by default) -->
@@ -501,7 +518,7 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Seattle homeowners may need heating repair, heat pump service, air conditioning repair, HVAC maintenance, ductwork support, installation, or system replacement. The appropriate service depends on the equipment, home's condition, comfort concerns, and whether the issue is repairable.
+                                        Seattle homeowners most often need HVAC repair, heating services, heat pump service, air conditioning repair, seasonal maintenance, ductwork repair, new system installation, or full replacement. The right service depends on your equipment, the age and condition of the home, and whether the problem is repairable.
                                     </div>
                                 </div>
                             </div>
@@ -513,47 +530,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Heat pumps can be an option for Seattle homeowners because they provide both heating and cooling. Suitability depends on factors such as home layout, insulation, existing ductwork, electrical requirements, equipment sizing, and installation conditions.
+                                        Often, yes. A heat pump heats and cools with one system, and Seattle’s mild climate suits the technology well. Whether it fits your home depends on insulation, existing ductwork, electrical capacity, sizing, and installation conditions, so have a local professional assess your property first.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 3 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How often should I schedule HVAC maintenance?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Many homeowners schedule professional HVAC maintenance before periods of heavier use. The appropriate frequency depends on the system, equipment age, manufacturer recommendations, operating conditions, and the property's needs. Regular attention can help identify developing performance issues.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 4 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Why is one room colder than the rest of my Seattle home?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Uneven temperatures can have several causes, including restricted airflow, ductwork problems, equipment performance, thermostat location, insulation, windows, or the home's layout. An HVAC evaluation can help determine whether the issue originates with the system or another part of the property.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 5 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Should I repair or replace my old HVAC system?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        Consider the system's age, repair history, operating performance, component condition, comfort problems, and replacement cost. If repairs are becoming frequent or the equipment no longer meets the home's needs, comparing replacement options may make sense.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Do Seattle homes need air conditioning?</span>
@@ -561,61 +542,109 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Not every Seattle home has the same cooling requirements. However, warmer periods can make upper floors, sun-facing rooms, and poorly ventilated spaces uncomfortable. Homeowners can evaluate their home's layout, cooling demand, existing equipment, and comfort preferences when considering air conditioning.
+                                        Not every Seattle home needs it, but summer heat waves can make upper floors, sun-facing rooms, and poorly ventilated spaces uncomfortable. If you want cooling, options include central AC, ductless mini-splits, and heat pumps, which provide both heating and cooling.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 4 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What should I do if my furnace stops working?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Confirm the thermostat is set to heat, check that the furnace has power, and replace a clogged air filter. If it still will not start, contact a local HVAC professional. If you smell gas or a carbon monoxide alarm sounds, leave the home immediately and call emergency services.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 5 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">How often should I schedule HVAC maintenance?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Most systems benefit from a professional inspection at least once a year, ideally before the heating or cooling season begins. Heat pumps run year-round, so some homeowners schedule two visits. Follow your manufacturer’s recommendations and check filters regularly between visits.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 6 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">Why is one room colder than the rest of my Seattle home?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Uneven temperatures usually trace back to restricted airflow, leaky or disconnected ductwork, an unbalanced system, poor insulation, or equipment that is not sized for the home. Upper floors, additions, and rooms far from the equipment are common trouble spots. An HVAC evaluation can show whether the cause is the system or the building.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 7 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question"> Can ductwork affect HVAC performance?</span>
+                                    <span class="ehs-hvac-faq-question">Why does my HVAC system keep turning on and off?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Yes. Restricted, disconnected, poorly sized, or leaking ductwork can affect airflow and room-to-room comfort. Before replacing otherwise suitable HVAC equipment, homeowners may want to determine whether ductwork is contributing to the problem.
+                                        Frequent cycling can come from a thermostat issue, restricted airflow, an oversized system, control problems, or a developing mechanical fault. A professional inspection can find the cause so you do not replace equipment that may only need a repair.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 8 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question"> What should I consider before installing a new HVAC system in Seattle?</span>
+                                    <span class="ehs-hvac-faq-question">Should I repair or replace my old HVAC system?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Consider system type, heating and cooling capacity, home size, insulation, ductwork, electrical requirements, controls, equipment efficiency, installation conditions, and applicable local requirements. Proper sizing and installation are important for achieving the intended system performance.
+                                        Consider the system’s age, repair history, efficiency, and comfort problems. A common rule of thumb is to explore replacement when a system is more than 10 to 15 years old and a repair costs close to half the price of new equipment. Ask for both options so you can compare.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 9 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question"> Why does my HVAC system keep turning on and off?</span>
+                                    <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Frequent cycling can have several causes, including thermostat issues, restricted airflow, equipment sizing, control problems, or a developing mechanical fault. A professional inspection can help determine the cause instead of assuming the system needs replacement.
+                                        We connect homeowners with trusted professionals for a wide range of home services, including:
+                                        <ul>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping &amp; Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning &amp; Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                                        </ul>
+                                        No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 10 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question"> How can Easy Home Service help with HVAC needs in Seattle?</span>
+                                    <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service connects homeowners with options for residential HVAC repair, maintenance, installation, replacement, heating, cooling, heat pump, and ductwork needs. Homeowners can evaluate service based on their property's existing equipment, comfort concerns, and project requirements.
+                                        We proudly offer HVAC repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">Texas</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/georgia/hvac-services-in-georgia">Georgia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-york/hvac-services-in-new-york">New York</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pennsylvania/hvac-services-in-pennsylvania">Pennsylvania</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-jersey/hvac-services-in-new-jersey">New Jersey</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/virginia/hvac-services-in-virginia">Virginia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/washington/hvac-services-in-washington">Washington</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/colorado/hvac-services-in-colorado">Colorado</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/nevada/hvac-services-in-nevada">Nevada</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/tennessee/hvac-services-in-tennessee">Tennessee</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/michigan/hvac-services-in-michigan">Michigan</a></strong>. Our network of skilled professionals provides complete HVAC services, including HVAC repair, installation, and HVAC Guard setup.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Seattle</a>
                         </div>
                     </div>
                 </div>

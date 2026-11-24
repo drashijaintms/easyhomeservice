@@ -1057,24 +1057,184 @@ SCHEMA
 'hvac-services-in-jacksonville' => [
     'meta' => [
         'title'       => 'HVAC Services in Jacksonville, FL | AC Repair & Installation',
-        'description' => 'For residential heating and cooling, AC repair, system installation, replacement, maintenance, and indoor air quality, explore HVAC Services in Jacksonville, FL',
+        'description' => 'Explore HVAC services in Jacksonville, FL, including AC repair, heating, installation, replacement, maintenance, and indoor air quality. Connect with local professionals.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Jacksonville, FL'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/florida/hvac-services-in-jacksonville#webpage",
+      "url": "https://easyhomeservice.com/florida/hvac-services-in-jacksonville",
+      "name": "HVAC Services in Jacksonville, FL | AC Repair & Installation",
+      "description": "Explore HVAC services in Jacksonville, FL, including AC repair, heating, installation, replacement, maintenance, and indoor air quality. Connect with local professionals.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/florida/hvac-services-in-jacksonville#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/florida/hvac-services-in-jacksonville#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Jacksonville, FL",
+          "item": "https://easyhomeservice.com/florida/hvac-services-in-jacksonville"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-austin' => [
     'meta' => [
         'title'       => 'HVAC Services in Austin, TX | Residential Heating & Cooling',
-        'description' => 'For HVAC services in Austin, including as AC repair, heating, installation, replacement, maintenance, and airflow services, get in touch with nearby experts.',
+        'description' => 'For HVAC services in Austin TX, including AC repair, heating, installation, replacement, maintenance, and airflow services, get in touch.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Austin, TX'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-austin#webpage",
+      "url": "https://easyhomeservice.com/texas/hvac-services-in-austin",
+      "name": "HVAC Services in Austin, TX | Residential Heating & Cooling",
+      "description": "For HVAC services in Austin TX, including AC repair, heating, installation, replacement, maintenance, and airflow services, get in touch.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-austin#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/texas/hvac-services-in-austin#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-austin#service",
+      "name": "HVAC Services in Austin, TX",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Airflow Services"
+      ],
+      "description": "Residential HVAC services in Austin, TX, helping homeowners connect with local professionals for AC repair, heating, system installation, replacement, maintenance, and airflow-related needs.",
+      "broker": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Austin",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Texas"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/texas/hvac-services-in-austin#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Austin, TX",
+          "item": "https://easyhomeservice.com/texas/hvac-services-in-austin"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
@@ -1086,7 +1246,107 @@ SCHEMA
         'image_alt'   => 'HVAC technician providing HVAC services in San Jose, CA'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-jose#webpage",
+      "url": "https://easyhomeservice.com/california/hvac-services-in-san-jose",
+      "name": "HVAC Services in San Jose, CA | Repair & Installation",
+      "description": "Find HVAC services in San Jose, CA for AC repair, heating, installation, replacement, maintenance, ductwork, and indoor air quality.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-jose#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-jose#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-jose#service",
+      "name": "Residential HVAC Services in San Jose, CA",
+      "serviceType": [
+        "HVAC Repair",
+        "AC Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Heat Pump Services",
+        "Ductless Mini-Split Services",
+        "Ductwork Services",
+        "Indoor Air Quality Services",
+        "Ventilation Services"
+      ],
+      "description": "Explore residential HVAC services in San Jose, including air conditioning repair, heating repair, HVAC installation, replacement, maintenance, heat pump services, ductwork, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "San Jose",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "California"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-jose#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in San Jose, CA",
+          "item": "https://easyhomeservice.com/california/hvac-services-in-san-jose"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
@@ -1098,14 +1358,112 @@ SCHEMA
         'image_alt'   => 'HVAC technician providing HVAC services in Charlotte, NC'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte#webpage",
+      "url": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte",
+      "name": "Top HVAC Services in Charlotte, NC for Year-Round Comfort",
+      "description": "Find trusted HVAC services in Charlotte, NC for AC, heating, heat pump, and ductwork repair, installation, and maintenance. Get connected today!",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte#service",
+      "name": "HVAC Services in Charlotte, NC",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "Heat Pump Services",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Ductwork Services",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Explore residential HVAC services in Charlotte, including air conditioning repair, heating repair, heat pump services, system installation, replacement, maintenance, ductwork, and indoor air quality solutions. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Charlotte",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "North Carolina"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "HVAC Services",
+          "item": "https://easyhomeservice.com/hvac"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Charlotte, NC",
+          "item": "https://easyhomeservice.com/north-carolina/hvac-services-in-charlotte"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-columbus' => [
     'meta' => [
         'title'       => 'HVAC Services in Columbus, OH | Heating & AC Repair',
-        'description' => 'For AC repair, furnace repairs, heating, installation, maintenance, and replacement, HVAC services in Columbus, OH put homeowners in touch with experts.',
+        'description' => 'Find HVAC services in Columbus, OH for furnace and AC repair, installation, maintenance, and replacement. Connect with local HVAC professionals.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Columbus, OH'
     ],
@@ -1116,44 +1474,348 @@ SCHEMA
 
 'hvac-services-in-indianapolis' => [
     'meta' => [
-        'title'       => 'HVAC Services in Indianapolis, IN | Heating & AC Repair',
-        'description' => 'For reliable heating and cooling, including furnace repair, AC replacement, heat pump maintenance, and installation, check out HVAC services in Indianapolis, IN.',
+        'title'       => 'HVAC Services in Indianapolis, IN | Heating & AC',
+        'description' => 'Residential HVAC Services in Indianapolis, IN keep heating and cooling systems ready with routine tune-ups, repairs, and new installs. Book a home visit today.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Indianapolis, IN'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis#webpage",
+      "url": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis",
+      "name": "HVAC Services in Indianapolis, IN | Heating & AC Repair",
+      "description": "Residential HVAC Services in Indianapolis, IN keep heating and cooling systems ready with routine tune-ups, repairs, and new installs. Book a home visit today.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis#service",
+      "name": "Residential HVAC Services in Indianapolis, IN",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Ductwork Services"
+      ],
+      "description": "Residential heating, air conditioning, HVAC repair, installation, replacement, maintenance, and ductwork services for homeowners in Indianapolis, Indiana.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Indianapolis",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Indiana",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "IN",
+            "addressCountry": "US"
+          }
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      },
+      "url": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indiana",
+          "item": "https://easyhomeservice.com/indiana/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Indianapolis",
+          "item": "https://easyhomeservice.com/indiana/hvac-services-in-indianapolis"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-san-francisco' => [
     'meta' => [
         'title'       => 'HVAC Services in San Francisco, CA | Heating & Cooling',
-        'description' => 'For heating, cooling, ductwork, ventilation, maintenance, repairs, installation, and interior comfort, get trustworthy HVAC services in San Francisco, CA.',
+        'description' => 'Get reliable HVAC services in San Francisco, CA for heating, cooling, repairs, installation, ductwork, and maintenance. Keep your home comfortable year-round.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in San Francisco, CA'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-francisco#webpage",
+      "url": "https://easyhomeservice.com/california/hvac-services-in-san-francisco",
+      "name": "HVAC Services in San Francisco, CA | Heating & Cooling",
+      "description": "Get reliable HVAC services in San Francisco, CA for heating, cooling, repairs, installation, ductwork, and maintenance. Keep your home comfortable year-round.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-francisco#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/california/hvac-services-in-san-francisco#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-francisco#service",
+      "name": "Residential HVAC Services in San Francisco, CA",
+      "serviceType": [
+        "HVAC Repair",
+        "Heating Repair",
+        "Air Conditioning Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Ductwork Services"
+      ],
+      "description": "Residential HVAC services in San Francisco, California, including heating and cooling repairs, system installation, replacement, ductwork, and seasonal maintenance.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "San Francisco",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "California",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+          }
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      },
+      "url": "https://easyhomeservice.com/california/hvac-services-in-san-francisco"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/california/hvac-services-in-san-francisco#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "California",
+          "item": "https://easyhomeservice.com/california/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in San Francisco",
+          "item": "https://easyhomeservice.com/california/hvac-services-in-san-francisco"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-denver' => [
     'meta' => [
-        'title'       => 'HVAC Services in Denver, CO | Easy Home Services',
-        'description' => 'In need of HVAC services in Denver, CO? Get assistance with ductwork, HVAC replacement, installation, maintenance, heating, AC repair, and furnace maintenance.',
+        'title'       => 'HVAC Services in Denver, CO for Year-Round Home Comfort',
+        'description' => 'Denver\'s changing weather calls for reliable heating and cooling. HVAC Services in Denver, CO include furnace repair, AC installation, and maintenance.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Denver, CO'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/colorado/hvac-services-in-denver#webpage",
+      "url": "https://easyhomeservice.com/colorado/hvac-services-in-denver",
+      "name": "HVAC Services in Denver, CO for Year-Round Home Comfort",
+      "description": "Denver's changing weather calls for reliable heating and cooling. HVAC Services in Denver, CO include furnace repair, AC installation, and maintenance.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/colorado/hvac-services-in-denver#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/colorado/hvac-services-in-denver#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/colorado/hvac-services-in-denver#service",
+      "name": "Residential HVAC Services in Denver, CO",
+      "serviceType": [
+        "HVAC Repair",
+        "Furnace Repair",
+        "Air Conditioning Repair",
+        "AC Installation",
+        "Heating System Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Ductwork Services"
+      ],
+      "description": "Residential HVAC services in Denver, Colorado, including furnace repair, air conditioning repair and installation, heating system installation, HVAC replacement, ductwork, and routine maintenance.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Denver",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Colorado",
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "CO",
+            "addressCountry": "US"
+          }
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      },
+      "url": "https://easyhomeservice.com/colorado/hvac-services-in-denver"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/colorado/hvac-services-in-denver#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Colorado",
+          "item": "https://easyhomeservice.com/colorado/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Denver",
+          "item": "https://easyhomeservice.com/colorado/hvac-services-in-denver"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 
 'hvac-services-in-seattle' => [
     'meta' => [
-        'title'       => 'HVAC Services in Seattle, WA | Heating & AC Repair',
-        'description' => 'For heating and cooling AC service, installation, upkeep, ductwork, and replacement, look for home HVAC services in Seattle, Washington.',
+        'title'       => 'HVAC Services in Seattle, WA for Year-Round Home Comfort',
+        'description' => 'Seattle\'s damp winters and mild summers create unique indoor comfort needs. HVAC Services in Seattle, WA include heat pump repair, furnace service, AC installation, and maintenance.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Seattle, WA'
     ],
@@ -1164,13 +1826,112 @@ SCHEMA
 
 'hvac-services-in-nashville' => [
     'meta' => [
-        'title'       => 'HVAC Services in Nashville, TN | HVAC Repair',
-        'description' => 'For year-round comfort, look for reliable HVAC services in Nashville, TN. These services include AC repair, heating, furnace, heat pump, installation, and maintenance.',
+        'title'       => 'HVAC Services in Nashville, TN | HVAC Solutions',
+        'description' => 'HVAC Services in Nashville, TN cover AC, heat pumps, furnaces, and system installs. Compare home comfort options and get help choosing the right fix.',
         'image'       => 'https://easyhomeservice.com/images/banner-heating-services.jpg',
         'image_alt'   => 'HVAC technician providing HVAC services in Nashville, TN'
     ],
     'schema' => <<<SCHEMA
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://easyhomeservice.com/#organization",
+      "name": "Easy Home Service",
+      "url": "https://easyhomeservice.com/",
+      "description": "Easy Home Service helps homeowners connect with local professionals for HVAC and other home improvement services."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://easyhomeservice.com/#website",
+      "url": "https://easyhomeservice.com/",
+      "name": "Easy Home Service",
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville#webpage",
+      "url": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville",
+      "name": "HVAC Services in Nashville, TN | AC & Heating Repair",
+      "description": "Get HVAC services in Nashville, TN for AC repair, heating, installation, maintenance, and replacement. Find residential HVAC professionals.",
+      "isPartOf": {
+        "@id": "https://easyhomeservice.com/#website"
+      },
+      "about": {
+        "@id": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville#service"
+      },
+      "publisher": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville#breadcrumb"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville#service",
+      "name": "Residential HVAC Services in Nashville, TN",
+      "serviceType": [
+        "HVAC Repair",
+        "Air Conditioning Repair",
+        "Heating Repair",
+        "Furnace Repair",
+        "HVAC Installation",
+        "HVAC Replacement",
+        "HVAC Maintenance",
+        "Heat Pump Services",
+        "Ductwork Services",
+        "Indoor Air Quality Services"
+      ],
+      "description": "Residential HVAC services in Nashville, Tennessee, including air conditioning repair, heating repair, furnace services, HVAC installation, replacement, maintenance, heat pump services, and ductwork. Easy Home Service helps homeowners connect with local HVAC professionals.",
+      "provider": {
+        "@id": "https://easyhomeservice.com/#organization"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Nashville",
+        "containedInPlace": {
+          "@type": "State",
+          "name": "Tennessee"
+        }
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Residential homeowners"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Home",
+          "item": "https://easyhomeservice.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HVAC Services in Nashville, TN",
+          "item": "https://easyhomeservice.com/tennessee/hvac-services-in-nashville"
+        }
+      ]
+    }
+  ]
+}
+</script>
 SCHEMA
 ],
 

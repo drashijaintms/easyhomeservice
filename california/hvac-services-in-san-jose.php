@@ -13,7 +13,7 @@
                             Connect With Trusted HVAC Professionals in San Jose
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
-                            Get connected with trusted professionals offering HVAC Services in San Jose, CA for heating, cooling, repairs, installation, maintenance, ductwork, and replacement needs in your home today.
+                            Looking for HVAC services in San Jose, CA? Get connected with local professionals for heating, cooling, repairs, installation, maintenance, ductwork, and replacement for your home.
                         </p>
                         <div>
                             <a href="#get-quote" class="ehs-hvac-hero-btn">Get A Quote Now</a>
@@ -34,12 +34,12 @@
                             Local HVAC Solutions for San Jose Homeowners
                         </h2>
                         <p class="ehs-hvac-intro-description">
-                            San Jose homeowners need HVAC systems that can handle warm, dry periods, cooler winter nights, and changing indoor comfort demands. Easy Home Service helps homeowners find professionals for HVAC services in San Jose, whether a system needs immediate repair, routine maintenance, or full replacement. Local homes vary from older properties with aging furnaces and ductwork to newer residences designed around efficient electric equipment. That makes proper diagnosis and system selection important.</p>
+                            San Jose’s warm, dry summers and cool winter nights keep heating and cooling systems working through much of the year. When an AC stops cooling evenly or a furnace becomes unreliable, finding the right help quickly matters.</p>
                         <p class="ehs-hvac-intro-description">
-                            Homeowners may need air conditioning repair after rooms stop cooling evenly, furnace service when heating becomes unreliable, or heat pump support when a newer system needs adjustment. Ductless mini-splits can also be useful for targeted comfort in additions or rooms with different temperature needs. California’s current energy standards place greater emphasis on efficient HVAC equipment, and San Jose requires permits for many heating and cooling installations and replacements.
+                            Easy Home Service connects San Jose homeowners with local professionals for HVAC services in San Jose, including AC repair, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/heating-services">furnace service</a>, heat pump support, ductless mini-splits, maintenance, and replacement. Homes here range from older properties with aging furnaces and ductwork to newer builds designed around efficient electric equipment, so the right solution depends on the specific home.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service connects you with HVAC professionals who can evaluate your home and explain service options. This can be useful when comparing repair needs, replacement timing, and equipment options for each property.
+                            Rules matter too. San Jose requires permits for many heating and cooling installations and replacements, and <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California’s</a> current energy standards put more emphasis on efficient equipment, including heat pumps. A qualified professional can explain what applies to your project and who will handle permitting before work begins.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -57,7 +57,7 @@
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">Core HVAC Services</h2>
+                            <h2 class="ehs-hvac-section-title">HVAC Repair, Installation, and Replacement in San Jose</h2>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Repair</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Get help diagnosing heating and cooling problems such as weak airflow, inconsistent temperatures, unusual system noises, frequent cycling, or equipment that stops working.
+                                Get help diagnosing weak airflow, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/uneven-heating-cooling-florida-homes">uneven temperatures</a>, unusual noises, frequent cycling, or equipment that has stopped working.
                             </p>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Installation</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Connect with professionals for new HVAC equipment, including central air conditioning, furnaces, heat pumps, and ductless mini-split systems.
+                                Connect with professionals for <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-installing-central-air-conditioning-system">central air conditioning</a>, furnaces, heat pumps, and ductless mini-split systems sized for your home.
                             </p>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">HVAC Replacement</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                When an older system becomes unreliable or costly to maintain, compare replacement options based on your home's comfort needs, equipment condition, and installation requirements.
+                                When an older system becomes unreliable or costly to keep repairing, compare <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/cost-of-hvac-replacement">HVAC replacement</a> options based on your home’s comfort needs, equipment condition, and installation requirements.
                             </p>
                         </div>
                     </div>
@@ -110,25 +110,21 @@
                 <div class="col-12 col-lg-8">
                     <div class="ehs-hvac-signs-container">
                         <h2 class="ehs-hvac-section-title">
-                            Why San Jose Homeowners Need Local HVAC Support
+                           What Makes HVAC Different for San Jose Homes
                         </h2>
                         <ul class="ehs-hvac-signs-list">
 
-                            <li class="ehs-hvac-signs-item"><strong>Climate-ready comfort:</strong> San Jose’s Mediterranean climate brings warm summers and cooler nights, so homeowners rely on cooling and heating across the year. Service helps prepare equipment for changes.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Older-home considerations:</strong> Aging homes can have worn ductwork, older furnaces, outdated thermostats, or inefficient cooling equipment. A professional can assess the system and identify repair or replacement paths.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Heat pump planning:</strong> San Jose promotes building electrification, including heat pump HVAC systems. Homeowners considering electrification can discuss sizing, electrical needs, comfort goals, and installation requirements with a professional.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Permit awareness:</strong> San Jose requires permits for many HVAC projects, including air conditioners, furnaces, heat pumps, duct installations, and ductless mini-splits. A professional can account for permitting.</li>
-
-                            <li class="ehs-hvac-signs-item"><strong>Indoor air concerns:</strong> HVAC performance affects airflow and filtration. During wildfire-smoke or poor-air-quality periods, homeowners may review filtration and ventilation options.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Climate-ready comfort:</strong> Warm summers and cooler nights mean both cooling and heating get used across the year. Servicing equipment before seasonal swings helps it keep up.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Older-home considerations:</strong> Older homes can have worn <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ductwork">ductwork</a>, aging furnaces, outdated thermostats, or inefficient cooling equipment. A professional can assess the system and outline repair or replacement paths.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Heat pump planning:</strong> The City of San José promotes building electrification, including <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/high-efficiency-heat-pumps-save-energy-and-lower-bills">heat pump HVAC systems</a>. Homeowners considering a switch can discuss sizing, electrical capacity, comfort goals, and installation needs.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Permit awareness:</strong> San Jose requires permits for many HVAC projects, such as air conditioners, furnace replacements, heat pumps, and duct alterations. Ask your contractor how permitting will be handled.</li>
+                            <li class="ehs-hvac-signs-item"><strong>Indoor air concerns:</strong> <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/wildfire-smoke-washington-hvac-filtration-merv-filters">Wildfire smoke</a> and poor air-quality days make filtration and ventilation worth reviewing with a professional.</li>
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
                             These symptoms can have different causes, including airflow restrictions, dirty filters, ductwork concerns, thermostat problems, drainage issues, electrical components, or equipment wear. A professional inspection can help determine what requires attention rather than assuming every symptom has the same solution.
                         </p>
-                        <div>
+                        <div class="ehs-hvac-signs-action">
                             <a href="#get-quote" class="ehs-hvac-signs-btn">Get A Quote Now</a>
                         </div>
                     </div>
@@ -144,7 +140,7 @@
                     <div class="ehs-hvac-challenges-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            HVAC Services Designed Around Your Home
+                            Repair, Replacement, or a New HVAC System in San Jose?
                         </h2>
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">HVAC Repair for Everyday Comfort Problems</h3>
@@ -155,7 +151,7 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Installation and System Replacement</h3>
                             <p class="ehs-hvac-challenges-text">
-                                Replacing an aging HVAC system is not simply about choosing a unit with the right capacity. Home layout, ductwork, electrical requirements, efficiency, comfort preferences, and applicable California and San Jose requirements should all be considered. San Jose notes that many heating and cooling installations require permits, including heat pumps, furnaces, air conditioning systems, and ductwork.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-system-lifespan-repair-replacement-guide">Replacing an aging system</a> is not just about choosing a unit with the right capacity. Layout, ductwork, electrical requirements, efficiency, and comfort preferences all play a part, along with California and San Jose requirements. Many installations and replacements, including furnaces, air conditioners, heat pumps, and ductwork changes, need a city permit, so ask early who will handle it.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-block">
@@ -167,7 +163,7 @@
                         <div class="ehs-hvac-challenges-block">
                             <h3 class="ehs-hvac-challenges-subtitle">Heat Pumps and Modernization</h3>
                             <p class="ehs-hvac-challenges-text">
-                                For homeowners exploring electrification, heat pumps can provide both heating and cooling from one system. San Jose identifies heat pump HVAC technology as part of its building-electrification strategy, while California’s 2025 Energy Code expands heat-pump use in applicable new residential construction.
+                                A heat pump can provide both heating and cooling through one system, making it an option for San José homeowners considering an HVAC upgrade. The City of San José supports heat-pump HVAC adoption through its building-electrification strategy. California’s 2025 Energy Code, effective January 1, 2026, also encourages heat-pump technology in applicable new residential construction.
                             </p>
                         </div>
                         <div class="ehs-hvac-challenges-callout">
@@ -303,7 +299,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-12 col-lg-12">
                             <div class="ehs-hvac-grid-header">
-                                <h2 class="ehs-hvac-section-title">HVAC Services Available in San Jose</h2>
+                                <h2 class="ehs-hvac-section-title">Residential HVAC Services in San Jose, From Quick Repairs to Tune-Ups</h2>
                             </div>
                         </div>
                     </div>
@@ -314,8 +310,8 @@
                                 <div class="ehs-hvac-grid-icon-wrap">
                                     <i class="fa-solid fa-microscope"></i>
                                 </div>
-                                <h3 class="ehs-hvac-grid-card-title">Air Conditioning Repair</h3>
-                                <p class="ehs-hvac-grid-card-text">Get help with AC systems that are blowing warm air, running longer than expected, leaking water, making unusual noises, or struggling to maintain the thermostat setting.</p>
+                                <h3 class="ehs-hvac-grid-card-title">AC Repair & Air Conditioning Services</h3>
+                                <p class="ehs-hvac-grid-card-text"><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/why-is-my-ac-blowing-warm-air">AC blowing warm air</a>, running longer than it should, leaking water, or making unusual noises? Find professionals for AC repair in San Jose and routine <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">air conditioning service</a>.</p>
                             </div>
                         </div>
                         <!-- 2. Heating Repair & Installation -->
@@ -325,7 +321,7 @@
                                     <i class="fa-solid fa-wind"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Heating Repair & Installation</h3>
-                                <p class="ehs-hvac-grid-card-text">Find professionals for furnace and heat pump service, heating repairs, equipment installation, thermostat issues, and replacement planning.</p>
+                                <p class="ehs-hvac-grid-card-text">Connect with professionals for furnace and heat pump service, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/emergency-heating-repair-guide">heating repairs</a>, thermostat issues, equipment installation, and replacement planning.</p>
                             </div>
                         </div>
                         <!-- 3. Heat Pump Services -->
@@ -355,7 +351,7 @@
                                     <i class="fa-solid fa-droplet"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">Ductwork & Airflow Services</h3>
-                                <p class="ehs-hvac-grid-card-text">Professionals can inspect damaged, disconnected, restricted, or poorly sealed ductwork and evaluate airflow concerns affecting different areas of the home.</p>
+                                <p class="ehs-hvac-grid-card-text">Professionals can inspect damaged, disconnected, restricted, or poorly sealed ductwork and evaluate airflow concerns in different areas of the home.</p>
                             </div>
                         </div>
                         <!-- 6. HVAC Maintenance & Tune-Ups -->
@@ -365,7 +361,7 @@
                                     <i class="fa-solid fa-broom"></i>
                                 </div>
                                 <h3 class="ehs-hvac-grid-card-title">HVAC Maintenance & Tune-Ups</h3>
-                                <p class="ehs-hvac-grid-card-text">Schedule inspections and preventive maintenance to identify filters, airflow, drainage, electrical, and equipment issues before they develop into larger service concerns.</p>
+                                <p class="ehs-hvac-grid-card-text">Schedule <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/home-hvac-system-maintenance-calendar">HVAC maintenance</a> in San Jose to catch filter, airflow, drainage, electrical, and equipment issues before they turn into breakdowns.</p>
                             </div>
                         </div>
                     </div>
@@ -399,13 +395,13 @@
                     <div class="ehs-hvac-situations-container">
 
                         <h2 class="ehs-hvac-section-title">
-                            Residential HVAC Solutions for San Jose Homes
+                            Heating and Cooling Solutions for San Jose Homes
                         </h2>
                         <!-- Situation 1 -->
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Air Conditioning Repair and Installation</h3>
                             <p class="ehs-hvac-situations-text">
-                                San Jose’s warmer periods can expose problems such as weak cooling, long run times, unusual noises, poor airflow, or inconsistent room temperatures. HVAC professionals can inspect central AC systems, identify performance issues, and handle repairs or replacement planning. Ductless mini-split installation may also suit homes needing room-specific control.
+                               San Jose’s warmer stretches can expose weak cooling, long run times, unusual noises, poor airflow, or uneven room temperatures. Local professionals can inspect central AC systems, find the cause, and handle repairs or replacement planning. Homeowners looking for air conditioning services in San Jose can also ask about ductless mini-splits for additions or rooms that need their own temperature control.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Find AC and Heating Solutions &rarr;
@@ -415,7 +411,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Furnace and Heating Service</h3>
                             <p class="ehs-hvac-situations-text">
-                                Even in a generally mild climate, winter nights can make dependable heating important. Professionals can service furnaces, thermostats, heat pumps, and other residential heating equipment. If a furnace is aging or repeatedly requires repair, a professional assessment can help compare repair with replacement.
+                                Even in a mild climate, winter nights make dependable heating important. Professionals can service furnaces, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/thermostat-replacement-cost-repair-vs-replace">thermostats</a>, heat pumps, and other residential heating equipment. If a furnace is aging or keeps needing repairs, an assessment can help you compare repair with replacement.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Explore Ductwork, Ventilation, and Airflow &rarr;
@@ -435,7 +431,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">Indoor Air Quality and Ventilation</h3>
                             <p class="ehs-hvac-situations-text">
-                                Homeowners may ask about filtration, air purification, ventilation, humidification, or dehumidification when indoor air feels stale or dusty. San Jose has identified wildfire smoke and poor air quality among climate-related concerns, making filtration discussions relevant for local homes.
+                                Homeowners may ask about filtration, air purification, ventilation, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-humidifier-benefits-new-york">humidification</a>, or dehumidification when indoor air feels stale or dusty. Wildfire smoke and poor air-quality days make filtration a reasonable question for San Jose homes.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Connect With an HVAC Professional &rarr;
@@ -443,9 +439,9 @@
                         </div>
                         <!-- Situation 5 -->
                         <div class="ehs-hvac-situations-block">
-                            <h3 class="ehs-hvac-situations-subtitle">Preventive HVAC Maintenance</h3>
+                            <h3 class="ehs-hvac-situations-subtitle">Regular HVAC Maintenance</h3>
                             <p class="ehs-hvac-situations-text">
-                                Regular inspections can help identify dirty filters, drainage issues, electrical concerns, airflow restrictions, and component wear. Scheduling service before peak demand can help address developing problems before system failure.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/hvac-preventative-maintenance">Preventive HVAC maintenance</a> in San Jose can help identify dirty filters, drainage issues, electrical concerns, airflow restrictions, and component wear. Booking service before peak heating or cooling demand helps catch problems before a system fails.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Connect With an HVAC Professional &rarr;
@@ -455,7 +451,7 @@
                         <div class="ehs-hvac-situations-block">
                             <h3 class="ehs-hvac-situations-subtitle">HVAC Replacement and Heat Pump Options</h3>
                             <p class="ehs-hvac-situations-text">
-                                When equipment reaches the end of its useful life, replacement decisions should account for home size, load, ductwork, electrical capacity, comfort needs, equipment efficiency, and local requirements. San Jose requires permits for many HVAC installations and replacements, while California’s 2025 Energy Code emphasizes heat-pump technology in applicable residential projects.
+                                When equipment reaches the end of its useful life, replacement decisions should weigh home size, load, ductwork, electrical capacity, comfort needs, efficiency, and local requirements. Heat pumps are a common option in San Jose, and a professional can explain how permits and California’s energy rules apply to your project.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-link">
                             Connect With an HVAC Professional &rarr;
@@ -464,7 +460,7 @@
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Whatever is happening in your San Diego home, you can take the next step with Easy Home Service.
+                                Whatever is happening in your San Jose home, you can take the next step with Easy Home Service.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
@@ -494,11 +490,23 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Homeowners can seek HVAC repair, installation, replacement, maintenance, air conditioning service, heating service, heat pump support, ductwork, ductless mini-splits, thermostat service, and indoor air quality solutions.
+                                        Homeowners can find HVAC repair, installation, replacement, maintenance, air conditioning service, heating service, heat pump support, ductwork, ductless mini-splits, thermostat service, and indoor air quality solutions through Easy Home Service.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 2 -->
+                            <div class="ehs-hvac-faq-item">
+                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
+                                    <span class="ehs-hvac-faq-question">What should I do if my AC stops cooling during a San Jose heat wave?</span>
+                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
+                                </button>
+                                <div class="ehs-hvac-faq-body">
+                                    <div class="ehs-hvac-faq-content">
+                                        Check that the thermostat is set to cool, the breaker has not tripped, and the air filter is not clogged. If the AC still blows warm air, freezes up, or leaks water, turn it off and contact a local professional for AC repair, since running it can cause more damage. Call early during extreme heat, when service demand rises.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ 3 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Do San Jose HVAC installations require permits?</span>
@@ -506,11 +514,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Many HVAC projects require permits in San Jose. The city specifically lists air conditioning systems, furnaces, heat pumps, duct installations and replacements, and ductless mini-split systems among projects requiring permits.
+                                        Many HVAC projects in San Jose require permits, including air conditioning systems, furnace replacements, heat pumps, and duct alterations. Ask your contractor to confirm the requirements for your project, including ductless mini-splits, and check with the City of San José before work begins.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ 3 -->
+                            <!-- FAQ 4 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Are heat pumps suitable for San Jose homes?</span>
@@ -518,11 +526,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Heat pumps can provide both heating and cooling and are part of San Jose’s building-electrification strategy. A professional can evaluate whether a heat pump is appropriate based on the home's layout, existing system, electrical capacity, and comfort requirements.
+                                        Heat pumps provide both heating and cooling and are part of San Jose’s building-electrification strategy. A professional can evaluate whether one suits your home based on layout, existing system, electrical capacity, and comfort needs.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ 4 -->
+                            <!-- FAQ 5 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">When should I replace my HVAC system instead of repairing it?</span>
@@ -530,11 +538,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Replacement may be worth considering when an HVAC system is aging, has recurring problems, struggles to maintain comfort, or requires increasingly significant repairs. A professional inspection can help compare the condition of the existing equipment with available replacement options.
+                                        Replacement is worth considering when a system is aging, has recurring problems, struggles to maintain comfort, or needs increasingly significant repairs. A professional inspection can compare the condition of your equipment with the available replacement options.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ 5 -->
+                            <!-- FAQ 6 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">How often should San Jose homeowners schedule HVAC maintenance?</span>
@@ -542,11 +550,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Many homeowners schedule HVAC maintenance seasonally or according to the equipment manufacturer's recommendations. A professional can suggest an appropriate maintenance interval based on system type, age, operating conditions, and household needs.
+                                        Many homeowners schedule HVAC maintenance seasonally or as the manufacturer recommends. A professional can suggest an interval based on system type, age, operating conditions, and household needs.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ 6 -->
+                            <!-- FAQ 7 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Why is one room hotter or colder than the rest of the house?</span>
@@ -554,11 +562,11 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Uneven temperatures can result from ductwork problems, restricted airflow, insulation conditions, thermostat placement, equipment performance, or differences between rooms. An HVAC professional can inspect the system and determine where the imbalance originates.
+                                        Uneven temperatures can come from ductwork problems, restricted airflow, insulation, thermostat placement, equipment performance, or differences between rooms. An HVAC professional can inspect the system and find where the imbalance starts.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ 7 -->
+                            <!-- FAQ 8 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
                                     <span class="ehs-hvac-faq-question">Can HVAC professionals improve indoor air quality?</span>
@@ -566,49 +574,49 @@
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Depending on the home and existing system, professionals may recommend filtration, air purification, ventilation, humidification, or dehumidification solutions. The appropriate option depends on the homeowner's indoor air concerns and HVAC configuration.
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ 8 -->
-                            <div class="ehs-hvac-faq-item">
-                                <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">Does California's 2025 Energy Code affect HVAC installation?</span>
-                                    <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
-                                </button>
-                                <div class="ehs-hvac-faq-body">
-                                    <div class="ehs-hvac-faq-content">
-                                        California's 2025 Energy Code applies to newly constructed buildings and certain additions and alterations, with HVAC requirements covering applicable residential projects. The updated standards also expand the use of heat pumps in applicable new residential construction.
+                                        Depending on the home and existing system, professionals may recommend filtration, air purification, ventilation, humidification, or dehumidification. San Jose homeowners concerned about wildfire smoke often start with a filtration review. The right option depends on your air quality concerns and HVAC setup.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 9 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">How can Easy Home Service help me find HVAC services in San Jose?</span>
+                                    <span class="ehs-hvac-faq-question">What types of home services do you offer?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Easy Home Service helps homeowners connect with home service professionals. You can use the platform to explore HVAC service options for repairs, installation, maintenance, replacement, heating, cooling, and related residential HVAC needs.
+                                        We connect homeowners with trusted professionals for a wide range of home services, including:
+                                        <ul>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/plumbing">Plumbing Services</a></strong> - Leak repairs, pipe replacements, water heater fixes, and full plumbing installations.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/electrical">Electrical Services</a></strong> - Wiring upgrades, panel repairs, lighting installation, and safety inspections.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/landscaping">Landscaping &amp; Lawn Care</a></strong> - Yard maintenance, garden design, tree trimming, and outdoor enhancements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/gutter">Gutter Cleaning &amp; Installation</a></strong> - Gutter repairs, new installations, seasonal cleaning, and drainage solutions.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/painting">Painting Services</a></strong> - Interior and exterior painting, wall repairs, and color customization.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/customhomes">Home Service</a></strong> - Customized solutions for stylish homes and recurring maintenance.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/handyman">Handyman Services</a></strong> - Small repairs, installations, and home improvements.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/flooring">Flooring</a></strong> - Installation, refinishing, and flooring upgrades.</li>
+                                            <li><strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/window">Windows</a></strong> - Replacement, repair, and energy-efficient solutions.</li>
+                                        </ul>
+                                        No matter what your home needs, we make it easy to find skilled, trusted professionals who deliver fast, dependable, and high-quality service every time.
                                     </div>
                                 </div>
                             </div>
                             <!-- FAQ 10 -->
                             <div class="ehs-hvac-faq-item">
                                 <button class="ehs-hvac-faq-header" type="button" aria-expanded="false">
-                                    <span class="ehs-hvac-faq-question">What should I check before hiring an HVAC professional?</span>
+                                    <span class="ehs-hvac-faq-question">In which areas do you provide HVAC repair and replacement services?</span>
                                     <span class="ehs-hvac-faq-icon"><i class="fa-solid fa-plus"></i></span>
                                 </button>
                                 <div class="ehs-hvac-faq-body">
                                     <div class="ehs-hvac-faq-content">
-                                        Ask about the proposed work, equipment specifications, installation requirements, applicable permits, warranties, maintenance needs, and total project scope. For major installations, confirm that the professional is appropriately qualified for the work and follows applicable local and California requirements.
+                                        We proudly offer HVAC repair and replacement solutions across <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/arizona/hvac-services-in-arizona">Arizona</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/california/hvac-services-in-california">California</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/florida/hvac-services-in-florida">Florida</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/maryland/hvac-services-in-maryland">Maryland</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/illinois/hvac-services-in-illinois">Illinois</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/ohio/hvac-services-in-ohio">Ohio</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/north-carolina/hvac-services-in-north-carolina">North Carolina</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/texas/hvac-services-in-texas">Texas</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/georgia/hvac-services-in-georgia">Georgia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-york/hvac-services-in-new-york">New York</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/pennsylvania/hvac-services-in-pennsylvania">Pennsylvania</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/new-jersey/hvac-services-in-new-jersey">New Jersey</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/virginia/hvac-services-in-virginia">Virginia</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/washington/hvac-services-in-washington">Washington</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/colorado/hvac-services-in-colorado">Colorado</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/nevada/hvac-services-in-nevada">Nevada</a></strong>, <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/tennessee/hvac-services-in-tennessee">Tennessee</a></strong>, and <strong><a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/michigan/hvac-services-in-michigan">Michigan</a></strong>. Our network of skilled professionals provides complete HVAC services, including HVAC repair, installation, and HVAC Guard setup.
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in San Jose</a>
                         </div>
                     </div>
                 </div>
@@ -616,6 +624,94 @@
         </div>
     </section>
 </main>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What HVAC services are available in San Jose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners can find HVAC repair, installation, replacement, maintenance, air conditioning service, heating service, heat pump support, ductwork, ductless mini-splits, thermostat service, and indoor air quality solutions through Easy Home Service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my AC stops cooling during a San Jose heat wave?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check that the thermostat is set to cool, the breaker has not tripped, and the air filter is not clogged. If the AC still blows warm air, freezes up, or leaks water, turn it off and contact a local professional for AC repair, since running it can cause more damage. Call early during extreme heat, when service demand rises."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do San Jose HVAC installations require permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many HVAC projects in San Jose require permits, including air conditioning systems, furnace replacements, heat pumps, and duct alterations. Ask your contractor to confirm the requirements for your project, including ductless mini-splits, and check with the City of San José before work begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are heat pumps suitable for San Jose homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heat pumps provide both heating and cooling and are part of San Jose’s building-electrification strategy. A professional can evaluate whether one suits your home based on layout, existing system, electrical capacity, and comfort needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I replace my HVAC system instead of repairing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacement is worth considering when a system is aging, has recurring problems, struggles to maintain comfort, or needs increasingly significant repairs. A professional inspection can compare the condition of your equipment with the available replacement options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should San Jose homeowners schedule HVAC maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many homeowners schedule HVAC maintenance seasonally or as the manufacturer recommends. A professional can suggest an interval based on system type, age, operating conditions, and household needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is one room hotter or colder than the rest of the house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uneven temperatures can come from ductwork problems, restricted airflow, insulation, thermostat placement, equipment performance, or differences between rooms. An HVAC professional can inspect the system and find where the imbalance starts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can HVAC professionals improve indoor air quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depending on the home and existing system, professionals may recommend filtration, air purification, ventilation, humidification, or dehumidification. San Jose homeowners concerned about wildfire smoke often start with a filtration review. The right option depends on your air quality concerns and HVAC setup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of home services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Easy Home Service helps homeowners connect with local professionals for a wide range of home services, including plumbing, electrical work, landscaping and lawn care, gutter cleaning and installation, painting, custom home services, handyman services, flooring, and window repair or replacement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which areas do you provide HVAC repair and replacement services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Easy Home Service helps homeowners connect with professionals for HVAC repair and replacement across Arizona, California, Florida, Maryland, Illinois, Ohio, North Carolina, Texas, Georgia, New York, Pennsylvania, New Jersey, Virginia, Washington, Colorado, Nevada, Tennessee, and Michigan. Available services may include HVAC repair, installation, and HVAC Guard setup, depending on the location."
+      }
+    }
+  ]
+}
+</script>
 <!-- FAQ Accordion Toggle JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {

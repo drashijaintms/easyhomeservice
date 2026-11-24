@@ -10,7 +10,7 @@
                 <div class="col-12 col-lg-7">
                     <div class="ehs-hvac-hero-container">
                         <h1 class="ehs-hvac-hero-title">
-                            HVAC Services in Columbus, OH
+                            Residential HVAC Services in Columbus, OH
                         </h1>
                         <p class="ehs-hvac-hero-subtitle">
                             Find reliable HVAC Services in Columbus, OH for heating, cooling, repairs, installation, maintenance, and system replacement tailored to Ohio’s changing seasons.
@@ -36,13 +36,13 @@
                         <p class="ehs-hvac-intro-description">
                             Columbus homeowners need HVAC systems that can handle humid summers, freezing winter temperatures, and rapid seasonal changes. Easy Home Service helps homeowners connect with local HVAC professionals for heating and cooling needs, whether a system requires immediate repair, routine maintenance, installation, or replacement.</p>
                         <p class="ehs-hvac-intro-description">
-                            From furnaces and heat pumps to central air conditioners and ductwork, professional HVAC support can help address comfort problems before they become larger concerns. Older homes may also require careful attention to airflow, insulation, duct performance, and equipment sizing when improving heating or cooling.
+                            From furnaces and heat pumps to central air conditioners and ductwork, professional <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac">HVAC support</a> can help address comfort problems before they become larger concerns. Older homes may also require careful attention to airflow, insulation, duct performance, and equipment sizing when improving heating or cooling.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            When searching for HVAC Services in Columbus, homeowners can compare service options based on the work their property actually needs. Whether your furnace struggles during a January cold spell or your AC cannot keep up with summer humidity, the right professional can assess the system and recommend appropriate solutions.
+                           When searching for HVAC Services in Columbus, homeowners can compare service options based on the work their property actually needs. Whether your furnace struggles during a January cold spell or your AC cannot keep up with summer humidity, the right professional can assess the system and recommend appropriate solutions.
                         </p>
                         <p class="ehs-hvac-intro-description">
-                            Easy Home Service makes it easier to find professionals for residential HVAC repair, installation, maintenance, and replacement projects throughout Columbus and surrounding communities.
+                            Easy Home Service makes it easier to find professionals for residential <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/routine-vs-emergency-hvac-repair">HVAC repair</a>, installation, maintenance, and replacement projects throughout Columbus and surrounding communities.
                         </p>
                         <div class="ehs-hvac-intro-action">
                             <a href="#get-quote" class="ehs-hvac-intro-btn">Get A Quote Now</a>
@@ -60,7 +60,8 @@
                 <div class="col-lg-8">
                     <div class="row justify-content-center text-center">
                         <div class="ehs-hvac-solutions-header">
-                            <h2 class="ehs-hvac-section-title">HVAC Services Available for Columbus Homes</h2>
+                            <h2 class="ehs-hvac-section-title">Heating, Cooling, and HVAC Services Available in Columbus</h2>
+                            <p>Explore residential HVAC services to address common heating, cooling, and indoor comfort concerns</p>
                         </div>
                     </div>
                 </div>
@@ -72,7 +73,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Heating Services</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Furnace repair, installation, replacement, heat pump service, boilers, radiators, baseboard heating, and thermostat support help Columbus homeowners stay comfortable through cold Ohio winters.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/furnace-not-heating-ohio-common-causes">Furnace repair</a>, installation, replacement, heat pump service, boilers, radiators, baseboard heating, and thermostat support help Columbus homeowners stay comfortable through cold Ohio winters.
                             </p>
                         </div>
                     </div>
@@ -83,7 +84,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Cooling Services</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Central AC repair, installation, replacement, ductless mini-splits, refrigerant service, and seasonal tune-ups address cooling concerns during Columbus summers.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/air-conditioning">Central AC repair</a>, installation, replacement, ductless mini-splits, refrigerant service, and seasonal tune-ups address cooling concerns during Columbus summers.
                             </p>
                         </div>
                     </div>
@@ -94,7 +95,7 @@
                             </div>
                             <h3 class="ehs-hvac-solutions-card-title">Airflow & Indoor Air Quality</h3>
                             <p class="ehs-hvac-solutions-card-text">
-                                Ductwork repair, sealing, cleaning, ventilation, filtration, humidification, and dehumidification can help improve airflow and overall indoor comfort.
+                                <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/signs-you-need-hvac-ductwork-repair">Ductwork repair</a>, sealing, cleaning, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/hvac/ventilation">ventilation</a>, <a class="ehs-hvac-internal-link" href="https://easyhomeservice.com/blog/whole-house-air-filtration-system-cost">filtration</a>, humidification, and dehumidification can help improve airflow and overall indoor comfort.
                             </p>
                         </div>
                     </div>
@@ -117,26 +118,19 @@
                         </h2>
 
                         <p class="ehs-hvac-signs-intro">
-                            HVAC problems can appear gradually or become obvious when your system is working harder than usual. San Diego homeowners may want professional attention when they notice:
-
+                           HVAC problems can appear gradually or become obvious when your system is working harder than usual. Columbus homeowners may want professional attention when they notice:
                         </p>
                         <ul class="ehs-hvac-signs-list">
 
                             <li class="ehs-hvac-signs-item"><strong>Cold winter temperatures:</strong> A dependable heating system matters when Columbus temperatures drop and furnaces operate for extended periods.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Hot, humid summers:</strong> Air conditioners may work harder during humid weather, making cooling performance and maintenance important.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Older housing:</strong> Many Columbus homes have older heating and cooling equipment that may need repairs, upgrades, or replacement planning.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Uneven room temperatures:</strong> Weak airflow, duct problems, insulation issues, or equipment limitations can leave some rooms warmer or colder than others.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Seasonal system strain:</strong> Switching between heating and cooling can reveal problems that were not noticeable during milder weather.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Rising energy use:</strong> Unexpected increases in heating or cooling costs may indicate restricted airflow, aging equipment, thermostat problems, or inefficient operation.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Emergency breakdowns:</strong> A failed furnace during winter or non-functioning AC during summer can require prompt professional attention.</li>
-
                             <li class="ehs-hvac-signs-item"><strong>Replacement decisions:</strong> When repair costs become frequent, a professional assessment can help homeowners compare continued repairs with replacement options.</li>
+
 
                         </ul>
                         <p class="ehs-hvac-signs-intro">
@@ -490,7 +484,7 @@
                         <!-- Bottom Bar Callout -->
                         <div class="ehs-hvac-situations-bar">
                             <p class="ehs-hvac-situations-bar-text">
-                                Whatever is happening in your San Diego home, you can take the next step with Easy Home Service.
+                                Whatever is happening in your Columbus home, you can take the next step with Easy Home Service.
                             </p>
                             <a href="#get-quote" class="ehs-hvac-situations-btn">Get A Quote Now</a>
                         </div>
@@ -634,7 +628,7 @@
                             </div>
                         </div>
                         <div class="ehs-hvac-faq-action">
-                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in New York City</a>
+                            <a href="#get-quote" class="ehs-hvac-faq-btn">Find a Local HVAC Professional in Columbus</a>
                         </div>
                     </div>
                 </div>
